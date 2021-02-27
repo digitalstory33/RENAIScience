@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="ss.css">
+  <title>just testing</title>
+</head>
+
+<body>
+  <div class="container">
+    <div id="picture"></div>
+    <ul>
+      <li rel="one"><a href="#" data-text="Team">Team</a></li>
+      <li rel="two"><a href="#" data-text="Visualization">Visualization</a></li>
+      <li rel="three"><a href="#" data-text="History">History</a></li>
+      <li rel="four"><a href="#" data-text="Home">Home</a></li>
+    </ul>
+  </div>
+  <div class="hero-text">
+    <h1 class="font"><span>R</span>ENAISSANCE</h1>
+  </div>
+  <div class="hero">
+    <p class="texth"> This project will represent interesting data about arthistorian from Renaissance period.The Renaissance was a period in European history marking the transition from the Middle Ages to modernity and covering the 15th and 16th
+      centuries. It occurred after the Crisis of the Late Middle Ages and was associated with great social change</p>
+    <div class="button_container">
+      <button class="btn"><span>Start</span></button>
+    </div>
+  </div>
+  </div>
+
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script type="text/javascript">
+    $("ul li").hover(function() {
+      $("#picture").removeClass().addClass($(this).attr("rel"));
+      $(this).addClass("active").siblings().removeClass("active");
+    });
+  </script>
+
+
+</body>
+
+</html>
