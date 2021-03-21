@@ -3,21 +3,41 @@ body {
   padding: 0;
   font-family: consolas;
 }
+#backimage{
+  background-image: url(./image/history.jpg);
+  filter:blur(100px);
+  background-size: 1500px 1200px;
+  background-repeat: no-repeat;
+  opacity: 1;
+}
 
 .hero-text h1 span {
   color: #c70039;
   font-size: 80px;
+  font-family: old;
+}
 
+@font-face {
+  font-family: old;
+  font-family: mord;
+  src: url(old.otf);
+  src: url(mord.ttf);
+}
+
+@font-face {
+  font-family: old;
+  src: url(old.otf);
 }
 
 .texth {
   padding-left: 180px;
   padding-right: 200px
-  text-justify: inter-word;
-  font-size: 20px;
+  text-align: justify;
+ text-justify: inter-word;
+  font-size: 26px;
   margin-top: 100px;
   margin-right: 100px;
-  font-family: helvetica;
+  font-family: mord;
 }
 
 .hero-text {
@@ -117,6 +137,35 @@ a {
   float: left;
 }
 
+.container ul li {
+  position: relative;
+}
+
+.container ul li ul {
+  display:none;
+  position: absolute;
+  background-color:#c70039;
+}
+
+.container ul li:hover ul {
+  display:block;
+
+}
+
+.container ul li ul li {
+width: 150px;
+}
+
+.container ul li ul li a:hover {
+padding-left: 50px 10px;
+background-color:#4d3e3e;
+}
+
+.container ul li ul li a {
+  padding: 8px 8px;
+
+
+}
 .container li {
   display: inline;
   float: right;
