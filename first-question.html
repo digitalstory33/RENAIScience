@@ -14,7 +14,7 @@
     google.charts.load('current', { packages: ['line'] });
     google.charts.setOnLoadCallback(drawLineChart);
     function drawLineChart() {
-      $.getJSON("https://github.com/digitalstory33/Renaissance/blob/main/data.json", function(data) {
+      $.getJSON("https://raw.githubusercontent.com/digitalstory33/Renaissance/main/data.json", function(data) {
         console.log(data);
         var arrYear = [['year','count']];    // Define an array and assign columns for the chart.
 
