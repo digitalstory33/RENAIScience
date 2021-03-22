@@ -49,50 +49,7 @@
       });
     };
 
-    // function drawLineChart() {
-    //     $.ajax({
-    //         'async': false,
-    //         'global': false,
-    //         url: "https://raw.githubusercontent.com/marilenadaquino/epds/main/data.json",
-    //         dataType: "text",
-    //         type: "GET",
-    //         contentType: "application/json; charset=utf-8",
-    //         success: function (data) {
-    //             var data = JSON.parse(data);
-    //             var arrYear = [['year','count']];    // Define an array and assign columns for the chart.
-    //
-    //             // Loop through each data and populate the array.
-    //             $.each(data, function (index, value) {
-    //                 arrYear.push([value.year, value.count_coll]);
-    //             });
-    //
-    //             // Set chart Options.
-    //             var options = {
-    //                 chart: {
-    //                     title: 'lineplot year',
-    //                     subtitle: '-- arthistorian'
-    //                 },
-    //                 axes: {
-    //                     x: {
-    //                         0: { side: 'top'}   // Use "top" or "bottom".
-    //                     }
-    //                 }
-    //             };
-    //
-    //             // Create DataTable and add the array to it.
-    //             var figures = google.visualization.arrayToDataTable(arrYear)
-    //
-    //             // Define the chart type (LineChart) and the container (a DIV in our case).
-    //             var chart = new google.charts.Line(document.getElementById('chart'))
-    //
-    //             // Draw the chart with Options.
-    //             chart.draw(figures, google.charts.Line.convertOptions(options));
-    //         },
-    //         error: function (XMLHttpRequest, textStatus, errorThrown) {
-    //             alert('Got an Error');
-    //         }
-    //     });
-    // }
+    
 </script>
 
 
