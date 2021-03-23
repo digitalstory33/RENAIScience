@@ -1,0 +1,107 @@
+[
+  {
+    "decade": "1880s",
+    "tot_sum": 3,
+    "year_count": 3,
+    "period_label": "Renaissance",
+    "avg": 1
+  },
+  {
+    "decade": "1890s",
+    "tot_sum": 14,
+    "year_count": 10,
+    "period_label": "Renaissance",
+    "avg": 1.4
+  },
+  {
+    "decade": "1900s",
+    "tot_sum": 25,
+    "year_count": 10,
+    "period_label": "Renaissance",
+    "avg": 2.5
+  },
+  {
+    "decade": "1910s",
+    "tot_sum": 20,
+    "year_count": 10,
+    "period_label": "Renaissance",
+    "avg": 2
+  },
+  {
+    "decade": "1920s",
+    "tot_sum": 29,
+    "year_count": 10,
+    "period_label": "Renaissance",
+    "avg": 2.9
+  },
+  {
+    "decade": "1930s",
+    "tot_sum": 54,
+    "year_count": 10,
+    "period_label": "Renaissance",
+    "avg": 5.4
+  },
+  {
+    "decade": "1940s",
+    "tot_sum": 76,
+    "year_count": 10,
+    "period_label": "Renaissance",
+    "avg": 7.6
+  },
+  {
+    "decade": "1950s",
+    "tot_sum": 97,
+    "year_count": 10,
+    "period_label": "Renaissance",
+    "avg": 9.7
+  },
+  {
+    "decade": "1960s",
+    "tot_sum": 96,
+    "year_count": 10,
+    "period_label": "Renaissance",
+    "avg": 9.6
+  },
+  {
+    "decade": "1970s",
+    "tot_sum": 94,
+    "year_count": 10,
+    "period_label": "Renaissance",
+    "avg": 9.4
+  },
+  {
+    "decade": "1980s",
+    "tot_sum": 91,
+    "year_count": 10,
+    "period_label": "Renaissance",
+    "avg": 9.1
+  },
+  {
+    "decade": "1990s",
+    "tot_sum": 76,
+    "year_count": 10,
+    "period_label": "Renaissance",
+    "avg": 7.6
+  },
+  {
+    "decade": "2000s",
+    "tot_sum": 45,
+    "year_count": 10,
+    "period_label": "Renaissance",
+    "avg": 4.5
+  },
+  {
+    "decade": "2010s",
+    "tot_sum": 28,
+    "year_count": 10,
+    "period_label": "Renaissance",
+    "avg": 2.8
+  },
+  {
+    "decade": "2020s",
+    "tot_sum": 1,
+    "year_count": 1,
+    "period_label": "Renaissance",
+    "avg": 1
+  }
+]
