@@ -1,64 +1,52 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>first question</title>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-   <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<!DOCTYPE HTML>
+<html>
+<head>  
+<script>
+window.onload = function () {
 
-   </script>
-  </head>
-  <body>
-    <div id="chart" style="width:auto; height:300px;"></div>
+var chart = new CanvasJS.Chart("chartContainer", {
+	animationEnabled: true,
+	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	title:{
+		text: "Average number of arthistorian"
+	},
+	axisY: {
+		title: "average number"
+	},
+  axisX: {
+		title: "year"
+	},
+	data: [{        
+		type: "column",  
+		showInLegend: true, 
+		legendMarkerColor: "grey",
+		legendText: "",
+		dataPoints: [      
+				{ label: "1880s", y: 1 },
+			{ label: "1890s", y: 1.4 },
+			{ label: "1900s", y: 2.5 },
+			{ label: "1910s", y: 2 },
+			{ label: "1920s", y: 2.9 },
+			{ label: "1930s", y: 5.4 },
+      { label: "1940s", y: 7.6 },
+      { label: "1950s", y: 9.7},
+      { label: "1960s", y: 9.6 },
+      { label: "1970s", y: 9.4 },
+      { label: "1980s", y: 9.1 },
+      { label: "1990s", y: 7.6 },
+      { label: "2000s", y: 4.5 },
+      { label: "2010s", y: 2.8 },
+      { label: "2020s", y: 1 }
+		]
+	}]
+});
+chart.render();
 
-    <script>
-    // Visualization API with the Line chart package.
-    google.charts.load('current', { packages: ['line'] });
-    google.charts.setOnLoadCallback(drawLineChart);
-    function drawLineChart() {
-      $.getJSON("https://raw.githubusercontent.com/digitalstory33/Renaissance/main/data.json", function(data) {
-        console.log(data);
-        var arrYear = [['year','count']];    // Define an array and assign columns for the chart.
-
-        // Loop through each data and populate the array.
-        $.each(data, function (index, value) {
-            arrYear.push([value.year, value.count_coll]);
-        });
-
-        // Set chart Options.
-        var options = {
-            chart: {
-                title: 'lineplot year',
-                subtitle: '-- arthistorian'
-            },
-            axes: {
-                x: {
-                    0: { side: 'top'}   // Use "top" or "bottom".
-                }
-            }
-        };
-
-        // Create DataTable and add the array to it.
-        var figures = google.visualization.arrayToDataTable(arrYear)
-
-        // Define the chart type (LineChart) and the container (a DIV in our case).
-        var chart = new google.charts.Line(document.getElementById('chart'))
-
-        // Draw the chart with Options.
-        chart.draw(figures, google.charts.Line.convertOptions(options));
-
-
-      });
-    };
+}
 </script>
-<div class="canvas">
-
-</div>
-
-<script src="https://d3js.org/d3.v6.min.js"></script>
-<script type="text/javascript"src="index.js">
-
-</script>
-</script>
-  </body>
+</head>
+<body>
+<div id="chartContainer" style="height: 300px; width: 100%;"></div>
+<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+</body>
 </html>
