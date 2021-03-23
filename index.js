@@ -14,7 +14,7 @@ const graph=svg. append('g')
 .attr('transform','translate(${margin.left},${margin.top})')
 
 
-d3.json("https://raw.githubusercontent.com/digitalstory33/Renaissance/main/bar.json").then(data)=> {
+d3.json("bar.json").then(data)=> {
 
 const rects=graph.selectAll('rect')
 .data('data')
@@ -30,7 +30,7 @@ rects.enter()
 .attr('width',x.bandwidth)
 .attr('height', d=>graphHeight-y(d.'tot_sum'))
 .attr('fill','orange')
-.attr('x', d=>x(d."decade")
+.attr('x', d=>x(d."decade"))
 .attr('y', d=> y(d.'tot_sum'))
 
 const y= d3.scaleLinear()
@@ -39,7 +39,7 @@ const y= d3.scaleLinear()
 
 const x= d3.scaleBand()
 .domain([data.map(item=> item.'decade')])
-.range([0,500])
+.range([0,15])
 .paddingInner(0.2)
 .paddingOuter(0.2)
 
