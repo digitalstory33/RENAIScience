@@ -1,4 +1,13 @@
-.oldfont{
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url(./image/back.jpg);
+  font-family:mord;
+
+}
+
+
+h1{
 padding-left: 25px;
   padding-right:30px
   text-align: justify;
@@ -6,7 +15,8 @@ padding-left: 25px;
   font-size: 25px;
   font-family: mord;
 }
-.ftitle{
+
+h3{
   font-size: 30px;
   text-decoration: underline;
   font-weight: bold;
@@ -14,6 +24,4 @@ padding-left: 25px;
   padding-left: 30px;
   padding-top:30px;
 }
-.first{
-    background-image: url(image/back.jpg);
-}
+
