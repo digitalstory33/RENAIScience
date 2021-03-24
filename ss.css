@@ -248,5 +248,5 @@ background-color:#4d3e3e;
   padding:10px
 }
 body #first{
-  background-image: url("back.jpg");
+  background-image: url("./back.jpg");
 }
