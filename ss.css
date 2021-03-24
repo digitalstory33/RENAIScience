@@ -244,9 +244,8 @@ background-color:#4d3e3e;
   opacity: 1;
 }
 #chartContainer{
-  margine:auto;
-  padding:10px
+  margine:0 auto;
 }
-body #first{
-  background-image: url("./back.jpg");
+#first{
+  background: url("./back.jpg");
 }
