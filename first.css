@@ -3,7 +3,11 @@ body {
   padding: 0;
   background-image: url(./image/back.jpg);
   font-family:mord;
+}
 
+@font-face {
+  font-family: mord;
+  src: url(mord.ttf);
 }
 
 
