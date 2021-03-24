@@ -247,11 +247,17 @@ background-color:#4d3e3e;
   opacity: 1;
 }
 .oldfont{
-padding-left: 25px;
-  padding-right:20px
+padding-left: 30px;
+  padding-right:30px
   text-align: justify;
  text-justify: inter-word;
-  font-size: 20px;
+  font-size: 25px;
   font-family: celtic;
 }
+.ftitle{
+  font-size: 30px;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
 
