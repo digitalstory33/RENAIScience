@@ -243,3 +243,7 @@ background-color:#4d3e3e;
   background-size: 100%;
   opacity: 1;
 }
+#chartContainer{
+  margine:auto;
+  padding:10px
+}
