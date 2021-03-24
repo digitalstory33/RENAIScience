@@ -244,13 +244,11 @@ background-color:#4d3e3e;
   opacity: 1;
 }
 .oldfont{
-padding-left: 180px;
-  padding-right: 200px
+padding-left: 20px;
+  padding-right:20px
   text-align: justify;
  text-justify: inter-word;
-  font-size: 26px;
-  margin-top: 100px;
-  margin-right: 100px;
+  font-size: 20px;
   font-family: mord;
 }
 
