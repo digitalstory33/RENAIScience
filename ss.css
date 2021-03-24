@@ -247,5 +247,6 @@ background-color:#4d3e3e;
   margine:auto;
   padding:10px
 }
-#first{
-  background-image: url("bb.jfif")
+body #first{
+  background-image: url("back.jpg");
+}
