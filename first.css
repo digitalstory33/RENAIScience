@@ -9,19 +9,17 @@ body {
 
 h1{
 padding-left: 25px;
+ font-weight: bold;
   padding-right:30px
   text-align: justify;
- text-justify: inter-word;
   font-size: 25px;
   font-family: mord;
 }
 
 h3{
-  font-size: 30px;
-  text-decoration: underline;
-  font-weight: bold;
+  font-size: 25px;
   font-family:mord;
-  padding-left: 30px;
-  padding-top:30px;
+  padding-left: 40px;
+  padding-right: 40px;
 }
 
