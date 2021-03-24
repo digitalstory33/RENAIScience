@@ -20,8 +20,11 @@ body {
 @font-face {
   font-family: old;
   font-family: mord;
+  font-family: celtic;
   src: url(old.otf);
   src: url(mord.ttf);
+  src: url(celtic.ttf);
+
 }
 
 @font-face {
@@ -244,11 +247,11 @@ background-color:#4d3e3e;
   opacity: 1;
 }
 .oldfont{
-padding-left: 20px;
+padding-left: 25px;
   padding-right:20px
   text-align: justify;
  text-justify: inter-word;
   font-size: 20px;
-  font-family: mord;
+  font-family: celtic;
 }
 
