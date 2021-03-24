@@ -1,0 +1,19 @@
+.oldfont{
+padding-left: 25px;
+  padding-right:30px
+  text-align: justify;
+ text-justify: inter-word;
+  font-size: 25px;
+  font-family: mord;
+}
+.ftitle{
+  font-size: 30px;
+  text-decoration: underline;
+  font-weight: bold;
+  font-family:mord;
+  padding-left: 30px;
+  padding-top:30px;
+}
+.first{
+    background-image: url(image/back.jpg);
+}
