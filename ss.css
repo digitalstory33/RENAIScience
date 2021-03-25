@@ -20,27 +20,19 @@ body {
 @font-face {
   font-family: old;
   font-family: mord;
-  font-family: celtic;
   src: url(old.otf);
   src: url(mord.ttf);
-  src: url(celtic.ttf);
 
-}
-
-@font-face {
-  font-family: old;
-  src: url(old.otf);
 }
 
 .texth {
   padding-left: 180px;
   padding-right: 200px
   text-align: justify;
- text-justify: inter-word;
   font-size: 26px;
   margin-top: 100px;
   margin-right: 100px;
-  font-family: mord.ttf;
+  font-family: mord;
 }
 
 .hero-text {
