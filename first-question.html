@@ -1,48 +1,75 @@
-<!DOCTYPE HTML>
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-  <link rel="stylesheet" href="first.css">
+  <title>First question</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <style>
+
+    /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+    .row.content {height: 800px}
+
+    /* Set gray background color and 100% height */
+    .sidenav {
+      padding-top: 20px;
+      background-color: #f1f1f1;
+      height: 1000px;
+    }
+
+    /* On small screens, set height to 'auto' for sidenav and grid */
+    @media screen and (max-width: 767px) {
+      .sidenav {
+        height: auto;
+        padding: 15px;
+      }
+      .row.content {height:auto;}
+    }
+  </style>
+	<link rel="stylesheet" href="ss.css">
 <script>
 window.onload = function () {
-  CanvasJS.addColorSet("greenShades",
-                [//colorSet Array
+	CanvasJS.addColorSet("greenShades",
+	[//colorSet Array
 
-                "#c70039",
-                "#534e52",
-                "#3c1b1f",
-                ])
+	"#c70039",
+	"#534e52",
+	"#3c1b1f",
+		])
 
 var chart = new CanvasJS.Chart("chartContainer", {
-  backgroundColor: "#f7f7f7",
+	backgroundColor: "#f7f7f7",
 	animationEnabled: true,
 	theme: "light2",
 
-  colorSet: "greenShades",
+	colorSet: "greenShades",
 
 	title:{
 		text: "Average Number of Art-historian",
-      fontFamily: "sans-serif",
-        fontSize: 20,
-        margin: 45,
-        padding: 15,
-       borderThickness: 5,
-       cornerRadius: 5,
+			fontFamily: "sans-serif",
+				fontSize: 20,
+				margin: 45,
+				padding: 15,
+			 borderThickness: 5,
+			 cornerRadius: 5,
 
 
 	},
 	axisY: {
-    title: "avg",
-    titleFontSize: 15,
-    titleFontFamily: "sans-serif",
-    titleFontColor: "black",
-     margin:10,
+		title: "avg",
+		titleFontSize: 15,
+		titleFontFamily: "sans-serif",
+			 titleFontColor: "black",
+			 margin:10,
 	},
-  axisX: {
-    title: "year",
-    titleFontSize: 15,
-    titleFontFamily: "sans-serif",
-       titleFontColor: "black",
-       margin:25,
+	axisX: {
+		title: "year",
+		titleFontSize: 15,
+		titleFontFamily: "sans-serif",
+			 titleFontColor: "black",
+			 margin:25,
 	},
 	data: [{
 		type: "column",
@@ -56,15 +83,15 @@ var chart = new CanvasJS.Chart("chartContainer", {
 			{ label: "1910s", y: 2,toolTipContent:"Aby Warburg</br>Cornelius von Fabriczy</br>Ernst Steinmann</br>Kurt Badt" },
 			{ label: "1920s", y: 2.9,toolTipContent:"Aby Warburg</br>Ernst Steinmann</br>Fritz Heinemann</br>Ulrich Middeldorf</br>Werner Cohn" },
 			{ label: "1930s", y: 5.4,toolTipContent:"Ernst Steinmann</br>Fritz Heinemann</br>John Pope-Hennessy</br>Ulrich Middeldorf</br>Werner Cohn</br>Aby Warburg</br>Wolfgang Lotz" },
-      { label: "1940s", y: 7.6,toolTipContent:"Ernst Steinmann</br>Fritz Heinemann</br>John Pope-Hennessy</br>Ulrich Middeldorf</br>Werner Cohn</br>Wolfgang Lotz</br>Richard Krautheimer</br>Leo Steinberg research</br>Federico Zeri</br>Luisa Vertova" },
-      { label: "1950s", y: 9.7,toolTipContent:"Ernst Steinmann</br>Federico Zeri</br>Fritz Heinemann</br>John Pope-Hennessy</br>Leo Steinberg research</br>Richard Krautheimer</br>Ulrich Middeldorf</br>Werner Cohn</br>Wolfgang Lotz</br>Luisa Vertova</br>Ellis Waterhouse</br>Kurt Badt"},
-      { label: "1960s", y: 9.6,toolTipContent:"Ernst Steinmann</br>Federico Zeri</br>Fritz Heinemann</br>John Pope-Hennessy</br>Leo Steinberg research</br>Luisa Vertova</br>Richard Krautheimer</br>Ulrich Middeldorf</br>Werner Cohn</br>Wolfgang Lotz</br>Everett Fahy" },
-      { label: "1970s", y: 9.4,toolTipContent:  "Ernst Steinmann</br>Everett Fahy</br>Federico Zeri</br>Fritz Heinemann</br>John Pope-Hennessy</br>Leo Steinberg</br>Leo Steinberg research</br>Luisa Vertova</br>Richard Krautheimer</br>Ulrich Middeldorf</br>Wolfgang Lotz,Ellis Waterhouse" },
-      { label: "1980s", y: 9.0,toolTipContent:  "Ernst Steinmann</br>Everett Fahy</br>Federico Zeri</br>Fritz Heinemann</br>John Pope-Hennessy</br>Leo Steinberg research</br>Luisa Vertova</br>Richard Krautheimer</br>Ulrich Middeldorf</br>Wolfgang Lotz</br>Kurt Badt</br>Leo Steinberg</br>Stefano Tumidei</br>Julian Kliemann" },
-      { label: "1990s", y: 7.6,toolTipContent:   "Ernst Steinmann</br>Everett Fahy</br>Federico Zeri</br>John Pope-Hennessy</br>Julian Kliemann</br>Leo Steinberg research</br>Luisa Vertova</br>Richard Krautheimer</br>Stefano Tumidei</br>Wolfgang Lotz"},
-      { label: "2000s", y: 4.5,toolTipContent:"Everett Fahy</br>Federico Zeri</br>Julian Kliemann</br>Luisa Vertova</br>Richard Krautheimer</br>Stefano Tumidei</br>Leo Steinberg</br>Ulrich Middeldorf" },
-      { label: "2010s", y: 2.8,toolTipContent:  "Everett Fahy</br>Julian Kliemann</br>Luisa Vertova</br>Stefano Tumidei</br>Leo Steinberg" },
-      { label: "2020s", y: 1,toolTipContent:"Leo Steinberg" }
+			{ label: "1940s", y: 7.6,toolTipContent:"Ernst Steinmann</br>Fritz Heinemann</br>John Pope-Hennessy</br>Ulrich Middeldorf</br>Werner Cohn</br>Wolfgang Lotz</br>Richard Krautheimer</br>Leo Steinberg research</br>Federico Zeri</br>Luisa Vertova" },
+			{ label: "1950s", y: 9.7,toolTipContent:"Ernst Steinmann</br>Federico Zeri</br>Fritz Heinemann</br>John Pope-Hennessy</br>Leo Steinberg research</br>Richard Krautheimer</br>Ulrich Middeldorf</br>Werner Cohn</br>Wolfgang Lotz</br>Luisa Vertova</br>Ellis Waterhouse</br>Kurt Badt"},
+			{ label: "1960s", y: 9.6,toolTipContent:"Ernst Steinmann</br>Federico Zeri</br>Fritz Heinemann</br>John Pope-Hennessy</br>Leo Steinberg research</br>Luisa Vertova</br>Richard Krautheimer</br>Ulrich Middeldorf</br>Werner Cohn</br>Wolfgang Lotz</br>Everett Fahy" },
+			{ label: "1970s", y: 9.4,toolTipContent:  "Ernst Steinmann</br>Everett Fahy</br>Federico Zeri</br>Fritz Heinemann</br>John Pope-Hennessy</br>Leo Steinberg</br>Leo Steinberg research</br>Luisa Vertova</br>Richard Krautheimer</br>Ulrich Middeldorf</br>Wolfgang Lotz,Ellis Waterhouse" },
+			{ label: "1980s", y: 9.0,toolTipContent:  "Ernst Steinmann</br>Everett Fahy</br>Federico Zeri</br>Fritz Heinemann</br>John Pope-Hennessy</br>Leo Steinberg research</br>Luisa Vertova</br>Richard Krautheimer</br>Ulrich Middeldorf</br>Wolfgang Lotz</br>Kurt Badt</br>Leo Steinberg</br>Stefano Tumidei</br>Julian Kliemann" },
+			{ label: "1990s", y: 7.6,toolTipContent:   "Ernst Steinmann</br>Everett Fahy</br>Federico Zeri</br>John Pope-Hennessy</br>Julian Kliemann</br>Leo Steinberg research</br>Luisa Vertova</br>Richard Krautheimer</br>Stefano Tumidei</br>Wolfgang Lotz"},
+			{ label: "2000s", y: 4.5,toolTipContent:"Everett Fahy</br>Federico Zeri</br>Julian Kliemann</br>Luisa Vertova</br>Richard Krautheimer</br>Stefano Tumidei</br>Leo Steinberg</br>Ulrich Middeldorf" },
+			{ label: "2010s", y: 2.8,toolTipContent:  "Everett Fahy</br>Julian Kliemann</br>Luisa Vertova</br>Stefano Tumidei</br>Leo Steinberg" },
+			{ label: "2020s", y: 1,toolTipContent:"Leo Steinberg" }
 		]
 	}]
 });
@@ -73,84 +100,99 @@ chart.render();
 }
 </script>
 </head>
+
 <body>
- 
-    <div id="chartContainer" style="height:0; width: 40%; position: relative; margin:100px 0px 0px 380px;"></div>
+<div class="container-fluid text-center">
+  <div class="row content">
+    <div class="col-sm-2 sidenav">
+			<div calss="container">
+			  <style type="text/css">
+			.tg  {border-collapse:collapse;border-spacing:0;}
+			.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+			  overflow:hidden;padding:10px 5px;word-break:normal;}
+			.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+			  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+			.tg .tg-oe15{background-color:#ffffff;border-color:#ffffff;text-align:left;vertical-align:top}
+			.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
+			</style>
+			<table class="tg">
+			<thead>
+			  <tr>
+			    <th class="tg-oe15"><img src="./image/Middeldorf.jpg" alt="Image" width="70" height="70"></th>
+			  </tr>
+			</thead>
+			<tbody>
+			  <th class="tg-oe15"><img src="./image/Krautheimer.jpg" alt="Image" width="70" height="70"></th>
 
-<div calss="container">
-  <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-oe15{background-color:#ffffff;border-color:#ffffff;text-align:left;vertical-align:top}
-.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-oe15"><img src="./image/Middeldorf.jpg" alt="Image" width="70" height="70"></th>
-  </tr>
-</thead>
-<tbody>
-  <th class="tg-oe15"><img src="./image/krautheimer.jpg" alt="Image" width="70" height="70"></th>
+			  <tr>
+			    <td class="tg-oe15"><img src="./image/baratto.jpg" alt="Image" width="70" height="70"></td>
+			  </tr>
+			  <tr>
+			    <td class="tg-oe15"><img src="./image/Waterhouse.jpg" alt="Image" width="70" height="70"></td>
+			  </tr>
+			  <tr>
+			    <td class="tg-zv4m"><img src="./image/Lotz.jpg" width="70" height="70"></td>
+			  </tr>
+			  <tr>
+			    <td class="tg-zv4m"><img src="./image/steinmann.jpg" width="70" height="70"></tr>
+			      <tr>
+			        <td class="tg-zv4m"><img src="./image/hennessy.jpg" width="70" height="70"></td>
+			      </tr>
+			</tbody>
+			</table>
+				</div>
+    </div>
+    <div class="col-sm-8 text-left">
+			<div class="first-text" style="margin: auto ; width: 80%;position: absolute; padding-top:20px;padding-left:130px;">
+		    <h1>First Question:</h1>
+		    <h2>How does the study of Renaissance evolve during time? Are there specific moments or some evolutions during history in which the study of Renaissance either spread or stopped for some reasons?</h2>
+		    <p>here goes the explanation</p>
 
-  <tr>
-    <td class="tg-oe15"><img src="./image/baratto.jpg" alt="Image" width="70" height="70"></td>
-  </tr>
-  <tr>
-    <td class="tg-oe15"><img src="./image/waterhouse.jpg" alt="Image" width="70" height="70"></td>
-  </tr>
-  <tr>
-    <td class="tg-zv4m"><img src="./image/richard.jpg" width="70" height="70"></td>
-  </tr>
-  <tr>
-    <td class="tg-zv4m"><img src="./image/steinmann.jpg" width="70" height="70"></tr>
-      <tr>
-        <td class="tg-zv4m"><img src="./image/hennessy.jpg" width="70" height="70"></td>
-      </tr>
-</tbody>
-</table>
-	</div>
+		  </div>
+		  <div id="chartContainer" style="height:0; width: 40%; margin:300px 380px;"></div>
+    </div>
+    <div class="col-sm-2 sidenav">
+			<div class="right">
+		    <style type="text/css">
+		  .tg  {border-collapse:collapse;border-spacing:0;}
+		  .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+		    overflow:hidden;padding:10px 5px;word-break:normal;}
+		  .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+		    font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+		  .tg .tg-oe15{background-color:#ffffff;border-color:#ffffff;text-align:left;vertical-align:top}
+		  .tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
+		  </style>
+		  <table class="tg">
+		  <thead>
+		    <tr>
+		      <th class="tg-oe15"><img src="./image/steinmann.jpg" alt="Image" width="70" height="70"></th>
+		    </tr>
+		  </thead>
+		  <tbody>
+		    <th class="tg-oe15"><img src="./image/steinberg.jpg" alt="Image" width="70" height="70"></th>
 
-  <div class="right">
-    <style type="text/css">
-  .tg  {border-collapse:collapse;border-spacing:0;}
-  .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-    overflow:hidden;padding:10px 5px;word-break:normal;}
-  .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-    font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-  .tg .tg-oe15{background-color:#ffffff;border-color:#ffffff;text-align:left;vertical-align:top}
-  .tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
-  </style>
-  <table class="tg">
-  <thead>
-    <tr>
-      <th class="tg-oe15"><img src="./image/steinmann.jpg" alt="Image" width="70" height="70"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <th class="tg-oe15"><img src="./image/steinberg.jpg" alt="Image" width="70" height="70"></th>
-    <tr>
-      <td class="tg-oe15"><img src="./image/fahy.jpg" alt="Image" width="70" height="70"></td>
-    </tr>
-    <tr>
-      <td class="tg-oe15"><img src="./image/hertz.jpg" alt="Image" width="70" height="70"></td>
-    </tr>
-    <tr>
-      <td class="tg-zv4m"><img src="./image/lotz.jpg" width="70" height="70"></td>
-    </tr>
-    <tr>
-      <td class="tg-zv4m"><img src="./image/warburg.jpg" width="70" height="70"></td>
-    </tr>
-    <tr>
-      <td class="tg-zv4m"><img src="./image/cohn.jfif" width="70" height="70"></tr>
-  </tbody>
-  </table>
-  	</div>
+		    <tr>
+		      <td class="tg-oe15"><img src="./image/Fahy.jpg" alt="Image" width="70" height="70"></td>
+		    </tr>
+		    <tr>
+		      <td class="tg-oe15"><img src="./image/hertz.jpg" alt="Image" width="70" height="70"></td>
+		    </tr>
+		    <tr>
+		      <td class="tg-zv4m"><img src="./image/Lotz.jpg" width="70" height="70"></td>
+		    </tr>
+		    <tr>
+		      <td class="tg-zv4m"><img src="./image/warburg.jpg" width="70" height="70"></td>
+		    </tr>
+		    <tr>
+		      <td class="tg-zv4m"><img src="./image/cohn.jfif" width="70" height="70"></tr>
+		  </tbody>
+		  </table>
+		  	</div>
+		<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+      </div>
+    </div>
+  </div>
+</div>
 
-<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
 </body>
-
 </html>
