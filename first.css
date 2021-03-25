@@ -12,9 +12,7 @@ body {
 
 
 h1{
-padding-left: 25px;
  font-weight: bold;
-  padding-right:30px
   text-align: justify;
   font-size: 25px;
   font-family: mord;
@@ -22,17 +20,15 @@ color:"#3c1b1f";
 
 }
 
-h3{
+h2{
   font-size: 25px;
   font-family:mord;
-  padding-left: 40px;
-  padding-right: 40px;
 }
 
   .container{
-    position: absolute;
-  top: 8px;
-  left: 16px;
+    display:flex;
+    align-items: flex-end;
+     height: 200px;
   }
 
   .right{
