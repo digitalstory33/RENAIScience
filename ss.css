@@ -14,7 +14,7 @@ body {
 .hero-text h1 span {
   color: #c70039;
   font-size: 80px;
-  font-family: old;
+  font-family: vic;
 }
 
 @font-face {
@@ -25,10 +25,6 @@ body {
   src: url(mord.ttf);
   src: url(vic.otf);
 
-}
-
-.font{
-  font_family:vic;
 }
 
 .texth {
