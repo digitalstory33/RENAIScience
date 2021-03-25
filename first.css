@@ -26,10 +26,9 @@ h2{
 }
 
   .container{
-    align-self: flex-start;
-  left: 0; /* new */
-  top: 0; /* new */
-  position: fixed; /* new */
+    display:flex;
+    align-items: flex-end;
+  height: 200px;
   }
 
   .right{
