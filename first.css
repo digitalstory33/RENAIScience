@@ -29,7 +29,7 @@ h2{
     align-self: flex-start;
   left: 0; /* new */
   top: 0; /* new */
-  position: relative; /* new */
+  position: fixed; /* new */
   }
 
   .right{
