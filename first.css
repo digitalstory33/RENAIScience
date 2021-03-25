@@ -31,12 +31,7 @@ h2{
   height: 200px;
   }
 
-  .right{
-    position:absolute;
-   top:0;
-   right:0;
-  }
-
+  
   .title{
 position: absolute;
 margin-left: 200px;
