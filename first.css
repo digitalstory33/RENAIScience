@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
     background-color: #fbfbfb;
-  font-family:mord;
+  font-family:mord.ttf;
 }
 
 @font-face {
@@ -17,14 +17,14 @@ padding-left: 25px;
   padding-right:30px
   text-align: justify;
   font-size: 25px;
-  font-family: mord;
+  font-family: mord.ttf;
 color:"#3c1b1f";
 
 }
 
 h3{
   font-size: 25px;
-  font-family:mord;
+  font-family:mord.ttf;
   padding-left: 40px;
   padding-right: 40px;
 }
