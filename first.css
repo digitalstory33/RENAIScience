@@ -29,7 +29,7 @@ h3{
   padding-right: 40px;
 }
 
-  .container {
+  .container{
     display:flex;
     align-items: flex-end;
   height: 200px;
@@ -48,10 +48,11 @@ h3{
    right:0;
   }
 
-  .title  {
-    position: absolute;
+  .title{
+position: absolute;
 margin-left: 200px;
 margin-top: 0;
-padding-top: 0;}
+padding-top: 0;
+}
 
 
