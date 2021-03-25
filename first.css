@@ -26,9 +26,10 @@ h2{
 }
 
   .container{
-    position:relative;
-    top:0;
-    left:0;
+    align-self: flex-start;
+  left: 0; /* new */
+  top: 0; /* new */
+  position: absolute; /* new */
   }
 
   .right{
