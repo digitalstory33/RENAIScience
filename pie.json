@@ -1,0 +1,14 @@
+[
+  {
+    "type": "artifact",
+    "count_coll": 23
+  },
+  {
+    "type": "genre",
+    "count_coll": 80
+  },
+  {
+    "type": "person",
+    "count_coll": 109
+  }
+]
