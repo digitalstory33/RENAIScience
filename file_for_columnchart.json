@@ -1,0 +1,200 @@
+[
+  {
+    "decade": "1880s",
+    "historians": [
+      "Gustav Ludwig",
+      "Cornelius von Fabriczy"
+    ],
+    "avg historians": 1.0
+  },
+  {
+    "decade": "1890s",
+    "historians": [
+      "Cornelius von Fabriczy",
+      "Aby Warburg",
+      "Ernst Steinmann"
+    ],
+    "avg historians": 1.3
+  },
+  {
+    "decade": "1900s",
+    "historians": [
+      "Cornelius von Fabriczy",
+      "Ernst Steinmann",
+      "Aby Warburg",
+      "Gustav Ludwig"
+    ],
+    "avg historians": 2.2
+  },
+  {
+    "decade": "1910s",
+    "historians": [
+      "Aby Warburg",
+      "Cornelius von Fabriczy",
+      "Ernst Steinmann",
+      "Kurt Badt"
+    ],
+    "avg historians": 2.0
+  },
+  {
+    "decade": "1920s",
+    "historians": [
+      "Aby Warburg",
+      "Ernst Steinmann",
+      "Fritz Heinemann",
+      "Ulrich Middeldorf",
+      "Werner Cohn"
+    ],
+    "avg historians": 2.9
+  },
+  {
+    "decade": "1930s",
+    "historians": [
+      "Ernst Steinmann",
+      "Fritz Heinemann",
+      "John Pope-Hennessy",
+      "Ulrich Middeldorf",
+      "Werner Cohn",
+      "Aby Warburg",
+      "Wolfgang Lotz"
+    ],
+    "avg historians": 5.4
+  },
+  {
+    "decade": "1940s",
+    "historians": [
+      "Ernst Steinmann",
+      "Fritz Heinemann",
+      "John Pope-Hennessy",
+      "Ulrich Middeldorf",
+      "Werner Cohn",
+      "Wolfgang Lotz",
+      "Richard Krautheimer",
+      "Leo Steinberg research",
+      "Federico Zeri",
+      "Luisa Vertova"
+    ],
+    "avg historians": 7.6
+  },
+  {
+    "decade": "1950s",
+    "historians": [
+      "Ernst Steinmann",
+      "Federico Zeri",
+      "Fritz Heinemann",
+      "John Pope-Hennessy",
+      "Leo Steinberg research",
+      "Richard Krautheimer",
+      "Ulrich Middeldorf",
+      "Werner Cohn",
+      "Wolfgang Lotz",
+      "Luisa Vertova",
+      "Ellis Waterhouse",
+      "Kurt Badt"
+    ],
+    "avg historians": 9.7
+  },
+  {
+    "decade": "1960s",
+    "historians": [
+      "Ernst Steinmann",
+      "Federico Zeri",
+      "Fritz Heinemann",
+      "John Pope-Hennessy",
+      "Leo Steinberg research",
+      "Luisa Vertova",
+      "Richard Krautheimer",
+      "Ulrich Middeldorf",
+      "Werner Cohn",
+      "Wolfgang Lotz",
+      "Everett Fahy"
+    ],
+    "avg historians": 9.6
+  },
+  {
+    "decade": "1970s",
+    "historians": [
+      "Ernst Steinmann",
+      "Everett Fahy",
+      "Federico Zeri",
+      "Fritz Heinemann",
+      "John Pope-Hennessy",
+      "Leo Steinberg",
+      "Leo Steinberg research",
+      "Luisa Vertova",
+      "Richard Krautheimer",
+      "Ulrich Middeldorf",
+      "Wolfgang Lotz",
+      "Ellis Waterhouse"
+    ],
+    "avg historians": 9.4
+  },
+  {
+    "decade": "1980s",
+    "historians": [
+      "Ernst Steinmann",
+      "Everett Fahy",
+      "Federico Zeri",
+      "Fritz Heinemann",
+      "John Pope-Hennessy",
+      "Leo Steinberg research",
+      "Luisa Vertova",
+      "Richard Krautheimer",
+      "Ulrich Middeldorf",
+      "Wolfgang Lotz",
+      "Kurt Badt",
+      "Leo Steinberg",
+      "Stefano Tumidei",
+      "Julian Kliemann"
+    ],
+    "avg historians": 9.0
+  },
+  {
+    "decade": "1990s",
+    "historians": [
+      "Ernst Steinmann",
+      "Everett Fahy",
+      "Federico Zeri",
+      "John Pope-Hennessy",
+      "Julian Kliemann",
+      "Leo Steinberg research",
+      "Luisa Vertova",
+      "Richard Krautheimer",
+      "Stefano Tumidei",
+      "Wolfgang Lotz"
+    ],
+    "avg historians": 7.6
+  },
+  {
+    "decade": "2000s",
+    "historians": [
+      "Everett Fahy",
+      "Federico Zeri",
+      "Julian Kliemann",
+      "Luisa Vertova",
+      "Richard Krautheimer",
+      "Stefano Tumidei",
+      "Leo Steinberg",
+      "Ulrich Middeldorf"
+    ],
+    "avg historians": 4.5
+  },
+  {
+    "decade": "2010s",
+    "historians": [
+      "Everett Fahy",
+      "Julian Kliemann",
+      "Luisa Vertova",
+      "Stefano Tumidei",
+      "Leo Steinberg"
+    ],
+    "avg historians": 2.8
+  },
+  {
+    "decade": "2020s",
+    "historians": [
+      "Leo Steinberg"
+    ],
+    "avg historians": 1.0
+  }
+]
