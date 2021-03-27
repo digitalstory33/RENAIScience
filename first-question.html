@@ -32,73 +32,86 @@
   </style>
 	<link rel="stylesheet" href="ss.css">
 <script>
+<script>
+
+function makeGraph(data) {
+  CanvasJS.addColorSet("greenShades", [
+    //colorSet Array
+    "#c70039",
+    "#534e52",
+    "#3c1b1f",
+  ])
+  var chart = new CanvasJS.Chart("chartContainer", {
+    backgroundColor: "#f7f7f7",
+    animationEnabled: true,
+    theme: "light2",
+
+    colorSet: "greenShades",
+
+    title:{
+      text: "Average Number of Art-historian",
+        fontFamily: "sans-serif",
+          fontSize: 20,
+          margin: 45,
+          padding: 15,
+         borderThickness: 5,
+         cornerRadius: 5,
+
+
+    },
+    axisY: {
+      title: "avg",
+      titleFontSize: 15,
+      titleFontFamily: "sans-serif",
+         titleFontColor: "black",
+         margin:10,
+    },
+    axisX: {
+      title: "year",
+      titleFontSize: 15,
+      titleFontFamily: "sans-serif",
+         titleFontColor: "black",
+         margin:25,
+    },
+    data: [{
+      type: "column",
+      showInLegend: true,
+      legendMarkerColor: "grey",
+      legendText: "",
+      dataPoints: data
+    }]
+  });
+  chart.render();
+}
+
+function makeTooltip(element) {
+  // Makes tooltip code from list of historians inside element
+  let tooltip = "";
+  element["historians"].forEach((historian) => {
+    tooltip = tooltip.concat(historian, "<br>")
+  })
+  return tooltip
+}
+
 window.onload = function () {
-	CanvasJS.addColorSet("greenShades",
-	[//colorSet Array
-
-	"#c70039",
-	"#534e52",
-	"#3c1b1f",
-		])
-
-var chart = new CanvasJS.Chart("chartContainer", {
-	backgroundColor: "#f7f7f7",
-	animationEnabled: true,
-	theme: "light2",
-
-	colorSet: "greenShades",
-
-	title:{
-		text: "Average Number of Art-historian",
-			fontFamily: "sans-serif",
-				fontSize: 20,
-				margin: 45,
-				padding: 15,
-			 borderThickness: 5,
-			 cornerRadius: 5,
-
-
-	},
-	axisY: {
-		title: "avg",
-		titleFontSize: 15,
-		titleFontFamily: "sans-serif",
-			 titleFontColor: "black",
-			 margin:10,
-	},
-	axisX: {
-		title: "year",
-		titleFontSize: 15,
-		titleFontFamily: "sans-serif",
-			 titleFontColor: "black",
-			 margin:25,
-	},
-	data: [{
-		type: "column",
-		showInLegend: true,
-		legendMarkerColor: "grey",
-		legendText: "",
-		dataPoints: [
-				{ label: "1880s", y: 1,toolTipContent:"Gustav Ludwig</br>Cornelius von Fabriczy"},
-			{ label: "1890s", y: 1.3, toolTipContent:"Cornelius von Fabriczy</br>Aby Warburg</br>Ernst Steinmann"},
-			{ label: "1900s", y: 2.2,toolTipContent:"Cornelius von Fabriczy</br>Ernst Steinmann</br>Aby Warburg</br>Gustav Ludwig" },
-			{ label: "1910s", y: 2,toolTipContent:"Aby Warburg</br>Cornelius von Fabriczy</br>Ernst Steinmann</br>Kurt Badt" },
-			{ label: "1920s", y: 2.9,toolTipContent:"Aby Warburg</br>Ernst Steinmann</br>Fritz Heinemann</br>Ulrich Middeldorf</br>Werner Cohn" },
-			{ label: "1930s", y: 5.4,toolTipContent:"Ernst Steinmann</br>Fritz Heinemann</br>John Pope-Hennessy</br>Ulrich Middeldorf</br>Werner Cohn</br>Aby Warburg</br>Wolfgang Lotz" },
-			{ label: "1940s", y: 7.6,toolTipContent:"Ernst Steinmann</br>Fritz Heinemann</br>John Pope-Hennessy</br>Ulrich Middeldorf</br>Werner Cohn</br>Wolfgang Lotz</br>Richard Krautheimer</br>Leo Steinberg research</br>Federico Zeri</br>Luisa Vertova" },
-			{ label: "1950s", y: 9.7,toolTipContent:"Ernst Steinmann</br>Federico Zeri</br>Fritz Heinemann</br>John Pope-Hennessy</br>Leo Steinberg research</br>Richard Krautheimer</br>Ulrich Middeldorf</br>Werner Cohn</br>Wolfgang Lotz</br>Luisa Vertova</br>Ellis Waterhouse</br>Kurt Badt"},
-			{ label: "1960s", y: 9.6,toolTipContent:"Ernst Steinmann</br>Federico Zeri</br>Fritz Heinemann</br>John Pope-Hennessy</br>Leo Steinberg research</br>Luisa Vertova</br>Richard Krautheimer</br>Ulrich Middeldorf</br>Werner Cohn</br>Wolfgang Lotz</br>Everett Fahy" },
-			{ label: "1970s", y: 9.4,toolTipContent:  "Ernst Steinmann</br>Everett Fahy</br>Federico Zeri</br>Fritz Heinemann</br>John Pope-Hennessy</br>Leo Steinberg</br>Leo Steinberg research</br>Luisa Vertova</br>Richard Krautheimer</br>Ulrich Middeldorf</br>Wolfgang Lotz,Ellis Waterhouse" },
-			{ label: "1980s", y: 9.0,toolTipContent:  "Ernst Steinmann</br>Everett Fahy</br>Federico Zeri</br>Fritz Heinemann</br>John Pope-Hennessy</br>Leo Steinberg research</br>Luisa Vertova</br>Richard Krautheimer</br>Ulrich Middeldorf</br>Wolfgang Lotz</br>Kurt Badt</br>Leo Steinberg</br>Stefano Tumidei</br>Julian Kliemann" },
-			{ label: "1990s", y: 7.6,toolTipContent:   "Ernst Steinmann</br>Everett Fahy</br>Federico Zeri</br>John Pope-Hennessy</br>Julian Kliemann</br>Leo Steinberg research</br>Luisa Vertova</br>Richard Krautheimer</br>Stefano Tumidei</br>Wolfgang Lotz"},
-			{ label: "2000s", y: 4.5,toolTipContent:"Everett Fahy</br>Federico Zeri</br>Julian Kliemann</br>Luisa Vertova</br>Richard Krautheimer</br>Stefano Tumidei</br>Leo Steinberg</br>Ulrich Middeldorf" },
-			{ label: "2010s", y: 2.8,toolTipContent:  "Everett Fahy</br>Julian Kliemann</br>Luisa Vertova</br>Stefano Tumidei</br>Leo Steinberg" },
-			{ label: "2020s", y: 1,toolTipContent:"Leo Steinberg" }
-		]
-	}]
-});
-chart.render();
-
+  // JQuery gets the JSON
+  $.getJSON("file_for_columnchart.json", function(data){
+    let datapoints = new Array();
+    data.forEach((element) => {
+      // For each entry in the JSON file, makes an object with label, y and toolTipContent
+      // and add the object to datapoints Array
+      datapoints.push({
+        "label": element["decade"],
+        "y": element["avg historians"],
+        "toolTipContent": makeTooltip(element)
+      })
+    })
+    // When data is loaded, calls function makeGraph
+    makeGraph(datapoints)
+  }).fail(function(){
+    // If something goes wrong in data loading throw an error in console
+    console.log("An error has occurred.");
+  });
 }
 </script>
 </head>
