@@ -26,6 +26,13 @@ body {
 
 }
 
+@font-face {
+  font-family: mord;
+  src: url(mord.ttf);
+}
+
+
+
 .texth {
   padding-left: 180px;
   padding-right: 200px
