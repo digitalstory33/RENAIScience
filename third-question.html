@@ -1,56 +1,77 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-    <!--Load the AJAX API-->
-    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script type="text/javascript">
-        /*$(document).ready(function()
-        {
-            $.getJSON("chartData.json", function(data){
+  <title>third question</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="first.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 
-                console.log(data);
-            }).fail(function(){
-                console.log("An error has occurred.");
-            });
-        });*/
+<script type="text/javascript">
+    /*$(document).ready(function()
+    {
+        $.getJSON("chartData.json", function(data){
 
-        // Load the Visualization API and the piechart package.
-        google.charts.load('current', {'packages':['corechart']});
+            console.log(data);
+        }).fail(function(){
+            console.log("An error has occurred.");
+        });
+    });*/
 
-        // Set a callback to run when the Google Visualization API is loaded.
-        google.charts.setOnLoadCallback(drawChart);
+    // Load the Visualization API and the piechart package.
+    google.charts.load('current', {'packages':['corechart']});
 
-        function drawChart() {
-            var jsonData = $.ajax({
-                url: "https://digitalstory33.github.io/Renaissance/chartData.json",
-                dataType: "json",
-                async: false
-            }).responseText;
-            // Create our data table out of JSON data loaded from server.
-            $.getJSON("chartData.json", function(data){
+    // Set a callback to run when the Google Visualization API is loaded.
+    google.charts.setOnLoadCallback(drawChart);
 
-                var data = new google.visualization.DataTable(data);
+    function drawChart() {
+        // Create our data table out of JSON data loaded from server.
+        $.getJSON("https://digitalstory33.github.io/Renaissance/chartData.json", function(data){
 
-                // Instantiate and draw our chart, passing in some options.
-                var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
-                var options = {
-                    title: 'pie chart',
-                    colors: ['#838383', '#ad9d9d', '#fccbcb'],
-                    is3D: true,
-                };
-                chart.draw(data, options);
-                console.log(data);
-            }).fail(function(){
-                console.log("An error has occurred.");
-            });
+            var data = new google.visualization.DataTable(data);
 
-        }
+            // Instantiate and draw our chart, passing in some options.
+            var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
+            var options = {
+                title: 'pie chart',
+                colors: ['#838383', '#ad9d9d', '#fccbcb'],
+                is3D: true,
+            };
+            chart.draw(data, options);
+            console.log(data);
+        }).fail(function(){
+            console.log("An error has occurred.");
+        });
 
-    </script>
-</head>
+    }
+
+</script></head>
 
 <body>
-<!--Div that will hold the pie chart-->
-<div id="chart_div" style="width: 900px; height: 500px;"></div>
+
+    <div class="col-sm-10 text-left">
+	<div class="first-text" style="margin: auto ; width: 100%;position: absolute; padding-top:20px;padding-left:80px;">
+		    <h1>third Question:</h1>
+		    <h2> Are there aspects of the Renaissance that have been studied more by historians? </h2>
+		    <p>here goes the explanation</p>
+
+        <div id="chart_div" style="width: 900px; height: 500px;"></div>
+
+
+		  </div>
+    </div>
+    <div class="col-sm-2 sidenav">
+			<div class="right">
+
+		  	</div>
+      </div>
+    </div>
+  </div>
+</div>
+
 </body>
 </html>
