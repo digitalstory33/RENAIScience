@@ -1,0 +1,11 @@
+{
+  "cols": [
+    {"id":"","label":"Topping","pattern":"","type":"string"},
+    {"id":"","label":"Slices","pattern":"","type":"number"}
+  ],
+  "rows": [
+    {"c":[{"v":"artifact","f":null},{"v":23,"f":null}]},
+    {"c":[{"v":"genre","f":null},{"v":80,"f":null}]},
+    {"c":[{"v":"person","f":null},{"v":109,"f":null}]}
+  ]
+}
