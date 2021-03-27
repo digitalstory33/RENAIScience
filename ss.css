@@ -17,18 +17,14 @@ body {
 }
 
 @font-face {
+  font-family:mord;
   font-family: old;
   font-family:vic;
+  src: url(mord.ttf);
   src: url(old.otf);
   src: url(vic.otf);
 
 }
-
-@font-face {
-  font-family: mord;
-  src: url(mord.ttf);
-}
-
 
 
 #texth {
