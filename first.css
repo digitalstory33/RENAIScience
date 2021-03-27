@@ -25,6 +25,14 @@ h2{
   font-family:mord;
 }
 
+.first-text{
+   font-weight: bold;
+  text-align: justify;
+  font-size: 25px;
+  font-family: mord;
+color:"#3c1b1f";
+}
+
   .container{
     display:flex;
     align-items: flex-end;
