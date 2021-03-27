@@ -18,10 +18,8 @@ body {
 
 @font-face {
   font-family: old;
-  font-family: mord;
   font-family:vic;
   src: url(old.otf);
-  src: url(mord.ttf);
   src: url(vic.otf);
 
 }
