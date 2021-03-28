@@ -4,9 +4,9 @@
 
 <!-- Load d3.js -->
 <script src="https://d3js.org/d3.v4.js"></script>
-<head>
- <link rel="stylesheet" href="second.css">
 
+<head>
+  <link rel="stylesheet" href="second.css">
 
 </head>
 <body>
@@ -23,7 +23,7 @@
 <script>
 
 // set the dimensions and margins of the graph
-var margin = {top: 80, right: 25, bottom: 30, left: 80},
+var margin = {top: 80, right: 25, bottom: 30, left: 200},
   width = 800 - margin.left - margin.right,
   height = 600 - margin.top - margin.bottom;
 
@@ -68,6 +68,9 @@ d3.csv("heatmap2.csv", function(data) {
   var myColor = d3.scaleSequential()
     .interpolator(d3.interpolateInferno)
     .domain([1,100])
+    /*var myColor = d3.scale.scaleSequential()
+        .interpolator(d3.interpolateInferno)
+        .domain([0, buckets - 1, d3.max(data, function (d) { return d.value; })])*/
 
   // create a tooltip
   var tooltip = d3.select("#my_dataviz")
@@ -128,7 +131,7 @@ svg.append("text")
         .attr("y", -50)
         .attr("text-anchor", "left")
         .style("font-size", "22px")
-        .text("The Numver of Art historians Studying Artistic Periods by Decade");
+        .text("A d3.js heatmap");
 
 // Add subtitle to graph
 svg.append("text")
@@ -138,7 +141,7 @@ svg.append("text")
         .style("font-size", "14px")
         .style("fill", "grey")
         .style("max-width", 400)
-        .text("");
+        .text("A short description of the take-away message of this chart.");
 
 
 </script>
