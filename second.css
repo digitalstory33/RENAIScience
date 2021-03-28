@@ -43,12 +43,6 @@ h2{
 }
 
 
-  .container{
-    display:flex;
-    align-items: flex-end;
-  height: 200px;
-  }
-
   
 #chart{
   display: flex;
