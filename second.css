@@ -37,9 +37,11 @@ h2{
   padding-left:30;
 }
 
-.first-text h1{
-  color:#3c1b1f;
+.head{
+    padding-left:30;
+    padding-top:20px;
 }
+
 
   .container{
     display:flex;
