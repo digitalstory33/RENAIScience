@@ -37,9 +37,10 @@ h2{
   padding-left:30;
 }
 
-.head{
+.head h1{
     padding-left:30;
-    padding-top:20px;
+    padding-top:30px;
+  margin-left: 50px;
 }
 
 
