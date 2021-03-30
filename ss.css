@@ -29,8 +29,8 @@ body {
 }
 
 @font-family{
-  font-family:nick;
-  src: url(nick.ttf);
+  font-family:old;
+  src: url(old.ttf);
 }
 
 .texth {
