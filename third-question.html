@@ -18,9 +18,10 @@
         div.tooltip {
             position: absolute;
             text-align: center;
-            padding: 2px;
+            padding: 7px;
             font: 12px sans-serif;
-            background: lightsteelblue;
+            background: #282828;
+            color: #ffffff;
             border: 0;
             border-radius: 8px;
             visibility: hidden;
@@ -201,7 +202,11 @@
                     if (d[historianName] === '0') { return height - y(0); }
                     else {return height - y(d[historianName].split(", ").length || 0);}
                 })
-                .attr("fill", "#69b3a2")
+                .attr("fill", function(d) {
+                    if (d.obj_type === "artifact") { return "#838383"; }
+                    if (d.obj_type === "genre") { return "#AD9D9D"; }
+                    else { return "#FCCBCB"; }
+                })
                 .attr("y", function(d) {
                     if (d[historianName] === '0') { return y(0); }
                     else {return y(d[historianName].split(", ").length || 0);}
@@ -214,7 +219,7 @@
                 .attr("transform", "translate(0," + height + ")")
                 .call(d3.axisBottom(x))
                 .selectAll("text")
-                .style("text-anchor", "end");
+                .style("font-size", "13px");
 
             var div = d3.select("body").append("div")
                 .attr("class", "tooltip")
@@ -222,32 +227,27 @@
 
             svg.selectAll("rect")
                 .on("mouseover", function(d) {
-                    // var x = d3.event.pageX - document.getElementById('my_dataviz').getBoundingClientRect().x + 10;
-                    // var y = d3.event.pageY - document.getElementById('my_dataviz').getBoundingClientRect().y + 10;
-
-                    // var textdiv = document.getElementById('text');
-                    // textdiv.innerHTML = d[historianName].replace(/, /g, " <br>");
-
                     div.style('visibility', 'visible')
                         .style("opacity", .9)
-                    // .style('top', d3.event.pageY - 10 + 'px')
-                    // .style('left', d3.event.pageX + 10 + 'px')
-                    // .html(d[historianName].replace(/, /g, " <br>"));
-
                 })
                 .on("mousemove", function (d) {
-                    // var x = d3.event.pageX - document.getElementById('my_dataviz').getBoundingClientRect().x + 10;
-                    // var y = d3.event.pageY - document.getElementById('my_dataviz').getBoundingClientRect().y + 10;
-
                     div .style('top', d3.event.pageY - 10 + 'px')
                         .style('left', d3.event.pageX + 10 + 'px')
                         .html(d[historianName].replace(/, /g, " <br>"));
-                    d3.select(this).attr("fill", "blue");
+                    d3.select(this).attr("fill", function(d) {
+                        if (d.obj_type === "artifact") { return "#626262"; }
+                        if (d.obj_type === "genre") { return "#8a7f7f"; }
+                        else { return "#e7acac"; }
+                    });
                 })
                 .on("mouseout", function() {
                     div.style('visibility', 'hidden')
                         .style("opacity", 0);
-                    d3.select(this).attr("fill", "#69b3a2");
+                    d3.select(this).attr("fill", function(d) {
+                        if (d.obj_type === "artifact") { return "#838383"; }
+                        if (d.obj_type === "genre") { return "#AD9D9D"; }
+                        else { return "#FCCBCB"; }
+                    });
                 });
 
         } // end of function update()
