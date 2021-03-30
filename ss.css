@@ -18,6 +18,12 @@ body {
 }
 
 @font-face {
+  font-family: vic;
+  src: url(vic.otf);
+
+}
+
+@font-face {
   font-family: old;
   src: url(old.otf);
 }
