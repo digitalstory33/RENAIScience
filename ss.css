@@ -18,10 +18,11 @@ body {
 }
 
 @font-face {
-  font-family:mord;
+  
+  font-family:chelsea;
   font-family: old;
   font-family:vic;
-  src: url(mord.ttf);
+  src: url(chelsea.ttf);
   src: url(old.otf);
   src: url(vic.otf);
 
@@ -32,10 +33,11 @@ body {
   padding-left: 180px;
   padding-right: 200px
   text-align: justify;
+  text-justify: inter-word;
   font-size: 20px;
   margin-top: 100px;
   margin-right: 100px;
-  font-family: mord;
+  font-family: chelsea;
 }
 
 .hero-text {
