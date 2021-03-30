@@ -1,6 +1,6 @@
 font-face {
-  font-family:chelsea;
-  src: url(chelsea.ttf);
+  font-family:nick;
+  src: url(nick.ttf);
 }
 
 .texth {
@@ -10,5 +10,5 @@ font-face {
   font-size: 20px;
   margin-top: 100px;
   margin-right: 100px;
-  font-family: chelsea;
+  font-family: nick;
 }
