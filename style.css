@@ -166,3 +166,46 @@ a.article, a.article:hover {
         display: none;
     }
 }
+body {
+  margin: 0;
+  padding: 0;
+    background-color: #fbfbfb;
+  font-family:mord;
+}
+
+@font-face {
+  font-family: mord;
+  src: url(mord.ttf);
+}
+
+
+h1{
+ font-weight: bold;
+  text-align: justify;
+  font-size: 25px;
+  font-family: mord;
+color:"#3c1b1f";
+
+}
+
+h2{
+  font-size: 20px;
+  font-family:mord;zz
+}
+
+.first-text{
+   font-weight: bold;
+  text-align: justify;
+  font-size: 25px;
+  font-family: mord;
+  margin: auto;
+  width: 100%;
+  position: absolute;
+  padding-top:20px;
+  padding-left:30;
+}
+
+.head h1{
+    padding-top:30px;
+  margin-left: 15px;
+}
