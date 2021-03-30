@@ -8,6 +8,9 @@
 	    p, ul li{
 		    text-align:center;
 	    }
+	    h2 {
+		    margin-bottom:5vh;
+	    }
       .rect {
         fill: steelblue;
       }
@@ -45,14 +48,19 @@
 
   <h1>Question Four:</h1>
   <h2>Which type of archival resources in archival collections represent the study of Renaissance? Where are the sources?</h2>
-<p>Thearchives preserve a lot of different materials and object types which represent the study of Renaissance.
-The most relevant part of the archives is composed of photographs, followed by generic archival documents and notes. 
-An interesting aspect, revealed by the analysis on the data, is the distinction between three categories on the basis of the frequence:
-	  <ul>
-		  <li>Photographs (14 occurencies);</li>
-		  <li>A set of 6 objects (3-8 occurencies);</li>
-		  <li>A set of 21 objects (1-2 occurencies).</li>
-	</ul>  
+	  
+<p>With this question the focus switches on the material objects which represent the study of the Renaissance period. 
+	The archives contain different objects, some of them are pretty common, and some other really rare.
+	  But all of them, summed and compared, can tell us something about a concrete aspect of a discipline funded on interpretations and research.</p>
+	
+<p>The archives preserve a lot of different materials and object types which concretely are considered the basis for the study of Renaissance.
+The most consistent part of the archives is composed of photographs, followed by generic archival documents and notes. <br>
+An interesting aspect, revealed by the analysis on the data, is the distinction between three macro-categories on the basis of the frequence:
+	  <ol>
+		  <li>HIGH FREQUENCE: 1 object (14 occurencies);</li>
+		  <li>MEDIUM FREQUENCE: A set of 6 objects (3-8 occurencies);</li>
+		  <li>LOW FREQUENCE: A set of 21 objects (1-2 occurencies).</li>
+	</ol>  
 </p>
     
 <div id='barChart'>
@@ -98,12 +106,14 @@ d3.csv("resources_for_barchart.csv", function (allObjects) {
 </script>  
  
 <div id="to_shift">
-<p>The keepers are identified as the people/families/place where the objects are kept. </p> 
-<p>The above treemap represents 
-	<ul>
-		<li>the distribution of the objects among the respective keepers.</li>
+<p>The keepers are identified as the people/families/places where the objects are kept and preserved. The keepers are a relevant aspect of the archives reality
+	since they are the institutions which take care of the single archives. Because of their relevance in this field, the analysis of the location of the materials 
+	is focused on them.</p> 
+<p>The treechart is able to figure out two main aspects which came out from the analysis on the sources:
+	<ol>
+		<li>the distribution of the objects among the respective keepers;</li>
 		<li>the composition of the keepers collections.</li>
-	</ul>
+	</ol>
 </p>
 
 <div id="treemap"></div>
