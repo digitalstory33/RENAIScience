@@ -14,10 +14,11 @@
       #treemap{
         text-align:center;
       }
-      #barChart{
-        width: 750;
-        margin: auto;
-      }
+    div#barChart {
+	    height: 200px;
+	    width: 800px;
+	    margin: auto;
+    }
     </style>
     
     <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
@@ -34,9 +35,18 @@
 
   <h1>Question Four:</h1>
   <h2>Which type of archival resources in archival collections represent the study of Renaissance? Where are the sources?</h2>
+<p>Thearchives preserve a lot of different materials and object types which represent the study of Renaissance.
+The most relevant part of the archives is composed of photographs, followed by generic archival documents and notes. 
+An interesting aspect, revealed by the analysis on the data, is the distinction between three categories on the basis of the frequence:
+	  <ul>
+		  <li>Photographs (14 occurencies);</li>
+		  <li>A set of 6 objects (3-8 occurencies);</li>
+		  <li>A set of 21 objects (1-2 occurencies).</li>
+	</ul>  
+</p>
     
 <div id='barChart'>
-<canvas id="myChart" width="18.5" height="30"></canvas>
+<canvas id="myChart"></canvas>
 </div>
     
     
@@ -76,8 +86,15 @@ d3.csv("resources_for_barchart.csv", function (allObjects) {
 );
 
 </script>  
-    
-  
+ 
+
+<p>The keepers are identified as the people/families/place where the objects are kept. </p> 
+<p>The above treemap represents 
+	<ul>
+		<li>the distribution of the objects among the respective keepers.</li>
+		<li>the composition of the keepers collections.</li>
+	</ul>
+</p>
 
 <div id="treemap"></div>
 </body>
