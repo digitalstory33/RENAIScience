@@ -12,6 +12,8 @@
     <script src="https://d3js.org/d3.v4.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.10.0/d3.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.bundle.min.js"></script>
 
     <style>
 
@@ -51,12 +53,95 @@
         }
 
         select {
-            position: absolute;
+            height: 40px;
+            font-size: 20px;
+            padding: 0;
             left: 500px;
             background-color: white;
             color: black;
             border: 2px solid #555555;
+        }
+
+        div.container {
+            height: 200px;
+            width: 800px;
+            margin: auto;
+        }
+        .butt{
+            justify-content: center;
+            text-align: center;
+            margin: auto;
+            /*display:inline;*/
+        }
+        .button{
+            border: none;
+            color: white;
             padding: 8px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 8px 10px;
+            transition-duration: 0.4s;
+            cursor: pointer;
+            display:inline;
+        }
+        .button1 {
+            background-color: white;
+            color: black;
+            border: 2px solid #555555;
+        }
+
+        .button1:hover {
+            background-color: #555555;
+            color: white;
+        }
+        .cic {
+            margin-left: 40px;
+            color: white;
+            padding: 8px;
+            background-color: black;
+            border-radius: 12px;
+        }
+        #title {
+            /* font-family: 'Merriweather'; */
+            text-align: center;
+            padding: 30px;
+            font-size: 28px;
+            letter-spacing: -0.01em;
+            color: #333;
+        }
+        #legend {
+            display: flex;
+            justify-content: center;
+            padding: 0 10px 10px 10px;
+            font-size: 14px;
+        }
+        #legend .item {
+            line-height: 12px;
+            padding: 0 10px 0 4px;
+        }
+
+        #legend .item.one {
+            border-left: 12px solid #d4ebf2;
+        }
+        #legend .item.two {
+            border-left: 12px solid;
+        }
+        #legend .item.three {
+            border-left: 12px solid #add3e6;
+        }
+        #legend .item.four {
+            border-left: 12px solid #add8e6;
+        }
+        #legend .item.five {
+            border-left: 12px solid #addde6;
+        }
+        #legend .item.six {
+            border-left: 12px solid #ade2e6;
+        }
+        #legend .item.seven {
+            border-left: 12px solid #ade6e6;
         }
 
     </style>
@@ -126,10 +211,13 @@
 
 
 <div class="col-sm-10 text-left">
-    <div class="first-text" style="margin: auto ; width: 100%;position: unset; padding-top:20px;padding-left:80px;">
+    <div class="first-text" style="margin: auto ; width: 100%;position: unset; padding-top:80px;padding-left:80px;">
         <p>On the second level of the analysis, the interests are reported for each single art historian.</p>
+        <div id="selectorDiv"></div>
     </div>
 </div>
+
+
 
 <!-- div where the bar charts for the single historians will take place -->
 <div id="my_dataviz"></div>
@@ -159,7 +247,7 @@
         var historianNames = data.columns.slice(1);
 
         // Create a select element
-        var select = d3.select("body")
+        var select = d3.select("#selectorDiv")
             .append("select")
             .on("change", update)
 
@@ -255,6 +343,110 @@
     }) // end of the function that parses the csv
 
 </script>
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- div for the buttons -->
+<div class="butt">
+    <button class="button button1" onclick="doit('bar_person_subtype.csv', 'Number of of people studied by their profession', 'chart', 'myChart' )">People</button>
+
+    <button class="button button1" onclick="doit('chart_to_quest.csv', 'All object types distributed per number of occurencies', 'myChart', 'chart')">Technique/genre/material</button>
+
+    <button class="button cic" onclick="hideGraph()">Hide</button>
+</div>
+
+
+<!-- divs for the bar charts of subinterests -->
+<div class="container">
+    <canvas id="chart"></canvas>
+</div>
+
+<div class="container">
+    <canvas id="myChart"></canvas>
+</div>
+<script>
+
+    function hideGraph(){
+        document.getElementById('myChart').parentElement.setAttribute('style', 'display: none');
+        document.getElementById('chart').parentElement.setAttribute('style', 'display: none');
+    }
+
+    function doit(csvpath, frase, correctID, wrongID) {
+        document.getElementById(wrongID).parentElement.setAttribute('style', 'display: none');
+        document.getElementById(correctID).parentElement.setAttribute('style', 'display: block');
+
+        const cic = document.getElementById(correctID).getContext("2d");
+
+        d3.csv(csvpath, function makeChart(data) {
+            // data is an array of objects where each object represents a country
+            var subtypes = data.map(function (d) {
+                return d.subtype;
+            });
+            var count = data.map(function (d) {
+                return d.count_coll;
+            });
+
+            const arrayOfObj = subtypes.map(function (d, i) {
+                return {
+                    label: d,
+                    data: count[i] || 0,
+                }
+            })
+
+            const sortedArrayOfObj = arrayOfObj.sort(function (a, b) {
+                return b.data - a.data
+            })
+
+            let newArrayLabel = []
+            let newArrayData = []
+            sortedArrayOfObj.forEach(function (d) {
+                newArrayLabel.push(d.label)
+                newArrayData.push(d.data)
+            })
+
+
+            new Chart(cic, {
+                type: "bar",
+                options: {
+                    legend: { display: false },
+                    title: {
+                        display: true,
+                        text: frase
+                    },
+                    scales: {
+                        yAxes: [
+                            {
+                                ticks: {
+                                    beginAtZero: true
+                                }
+                            }
+                        ]
+                    }
+                },
+                data: {
+                    labels: newArrayLabel,
+                    datasets: [
+                        {
+                            label: "Object subtype frequency",
+                            data: newArrayData,
+                            backgroundColor: ["#FDEDED","#FDE2E2", "#FDD7D7", "#FCCBCB","#E9C0C0","#D5B4B4","#AD9D9D","#838383","#595959", "#3D3D3D", "#000", "#000"]
+                        }
+                    ]
+                }
+            });
+        })
+    }
+</script>
+
 
 
 </body>
