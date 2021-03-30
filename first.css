@@ -14,21 +14,21 @@ body {
 h1{
  font-weight: bold;
   text-align: justify;
-  font-size: 25px;
+  font-size: 30px;
   font-family: mord;
 color:"#3c1b1f";
 
 }
 
 h2{
-  font-size: 22px;
+  font-size: 20px;
   font-family:mord;
 }
 
 .first-text{
    font-weight: bold;
   text-align: justify;
-  font-size: 25px;
+  font-size: 20px;
   font-family: mord;
   margin: auto;
   width: 100%;
