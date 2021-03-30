@@ -14,7 +14,7 @@ body {
   color: #c70039;
   font-size: 80px;
   font-family: vic;
-  padding-left:15px;
+  padding-left:50px;
 }
 
 @font-face {
@@ -35,7 +35,7 @@ body {
   font-size: 26px;
   margin-top: 100px;
   margin-right: 100px;
-  font-family: mord;
+  font-family: old;
 }
 
 .hero-text {
