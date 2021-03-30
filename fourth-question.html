@@ -1,25 +1,83 @@
 <!DOCTYPE html>
 <head>
 <meta charset="utf-8">
-<script src="https://d3js.org/d3.v4.js"></script>
   
   <head>
     <link rel="stylesheet" href="four.css">
     <style>
-.rect {
-  fill: steelblue;
-}
-.rect:hover {
-  fill: orange;
-}
-</style>
+      .rect {
+        fill: steelblue;
+      }
+      .rect:hover {
+        fill: orange;
+      }
+      #treemap{
+        text-align:center;
+      }
+      #barChart{
+        width: 750;
+        margin: auto;
+      }
+    </style>
+    
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datasource@0.1.0"></script>
+    <script src="https://d3js.org/d3.v4.js"></script>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://d3js.org/d3-selection.v1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.bundle.min.js"></script>
+    
   </head>
   
   <body>
 
   <h1>Question Four:</h1>
   <h2>Which type of archival resources in archival collections represent the study of Renaissance? Where are the sources?</h2>
-<div id="barchart"></div>
+    
+<div id='barChart'>
+<canvas id="myChart" width="18.5" height="30"></canvas>
+</div>
+    
+    
+<script>  
+  const final_chart = document.getElementById('myChart').getContext('2d');
+
+// Load the dataset
+d3.csv("resources_for_barchart.csv", function (allObjects) {
+
+    var ObjectsTypes = allObjects.map(function (d) {
+      return d.ObjectType; //forse problemi di formato perchè ci vorrebbe una lista/array
+    });
+    var objectsNum = allObjects.map(function (d) {
+      return d.count_coll;
+    });
+
+    new Chart(final_chart, {
+      type: "horizontalBar",
+      data: {
+        labels: ObjectsTypes,
+        datasets: [{
+		  label: "Object type frequency",
+		  data: objectsNum,
+		  backgroundColor: ['#ade6e6', "#ade2e6", "#addae6", "#add8e6", "#add8e6", "#add8e6", "#add3e6", "#b3cde0", "#b3cde0", "#b3cde0", "#b3cde0", "#b3cde0", '#adcae6', '#adcae6', '#adcae6', '#adcae6', '#adcae6', '#adcae6', '#adcae6', '#adcae6', '#adcae6', '#adcae6', '#adcae6', '#adcae6', '#adcae6', '#adcae6', '#adcae6', '#adcae6'],
+		}],
+
+      },
+      options: {
+	      legend: { display: false },
+	      title: {
+	        display: true,
+	        text: 'All object types distributed per number of occurencies'
+	      }
+	  }
+    });
+  }
+);
+
+</script>  
+    
+  
 
 <div id="treemap"></div>
 </body>
