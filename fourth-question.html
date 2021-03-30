@@ -5,6 +5,9 @@
   <head>
     <link rel="stylesheet" href="four.css">
     <style>
+	    p{
+		    text-align:center;
+	    }
       .rect {
         fill: steelblue;
       }
@@ -16,11 +19,16 @@
       }
     div#barChart {
 	    height: 200px;
-	    width: 350px;
+	    width: 400px;
 	    margin: auto;
 	    /*height: 500px;
 	    width: 700px;*/
     }
+	    
+	    div#to_shift{
+		    margin-top: 80vh;
+	    }
+	    
     </style>
     
     <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
@@ -89,7 +97,7 @@ d3.csv("resources_for_barchart.csv", function (allObjects) {
 
 </script>  
  
-
+<div id="to_shift">
 <p>The keepers are identified as the people/families/place where the objects are kept. </p> 
 <p>The above treemap represents 
 	<ul>
@@ -99,6 +107,7 @@ d3.csv("resources_for_barchart.csv", function (allObjects) {
 </p>
 
 <div id="treemap"></div>
+</div>
 </body>
   
 
