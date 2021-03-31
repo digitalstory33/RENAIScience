@@ -25,6 +25,12 @@ h2{
   font-family:mord;zz
 }
 
+.container{
+    display:flex;
+    align-items: flex-end;
+  height: 200px;
+  }
+
 .first-text{
    font-weight: bold;
   text-align: justify;
