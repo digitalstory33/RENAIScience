@@ -38,8 +38,8 @@ body {
 .texth {
   padding-left: 180px;
   padding-right: 200px
-  text-align: justify;
-  font-size: 20px;
+text-align-last: left;
+  font-size: 25px;
   margin-top: 100px;
   margin-right: 100px;
   font-family: mord;
