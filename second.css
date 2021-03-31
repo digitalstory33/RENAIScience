@@ -70,6 +70,10 @@ p{font-size: 20px;
 
 .box{
   background-color: #f8f4e1;
-  padding: 15px;
+  padding-top: 20px;
+  padding-left:30px;
+  padding-right:30px;
+  padding-bottom:20px;
+}
 }
 
