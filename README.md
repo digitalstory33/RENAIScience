@@ -4,9 +4,10 @@ This project is mainly based on the archival resources of Artchives, with an imp
 
 ## Credits
 The project was developed by:
-Alessia Cioffi, student @ University of Bologna, alessia.cioffi@studio.unibo.it;
-Sara Amayeh, student @ University of Bologna, sara.ama@studio.unibo.it;
-Sara Coppini, student @ University of Bologna, sara.coppini@studio.unibo.it. 
+
+- Alessia Cioffi, student @ University of Bologna, alessia.cioffi@studio.unibo.it;
+- Sara Amayeh, student @ University of Bologna, sara.ama@studio.unibo.it;
+- Sara Coppini, student @ University of Bologna, sara.coppini@studio.unibo.it. 
 
 Each aspect of the project has been thought together and developed singularly. Sara Coppini was responsible for data access, extraction and cleaning; Alessia focused on the data analysis and esploration; Sara Amayeh was responsible for web development and communication strategies. The graphic visualisations have been carried out by Sara Amayeh, in collaboration with Alessia and Sara Coppini.
 
