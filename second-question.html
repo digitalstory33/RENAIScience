@@ -1,15 +1,7 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>Second question</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-<link rel="stylesheet" href="second.css">
-
-  <style>
+<script src="../new2/5e7b2ce5edf2e326c88800d4303da0dd-180a716db73127c54dc2035fc20a3ae037e981c9/heatmap.js"></script>
+<meta charset="utf-8">
+<style>
   .axis path,
   .axis line {
     fill: none;
@@ -26,39 +18,13 @@
         /*top:110px;*/
         position: relative;
     }
+</style>
+<h1>Second Question:</h1>
+<h2>are the art historians studying renaissance also studying those artistic periods? </h2>
+<p>here goes explanation</p>
+<div class="heatmap"></div>
 
-    /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
-    .row.content {height: 800px}
-
-    /* Set gray background color and 100% height */
-    .sidenav {
-      padding-top: 20px;
-      background-color: #8e7f7f;
-      height: 1000px;
-    }
-
-    /* On small screens, set height to 'auto' for sidenav and grid */
-    @media screen and (max-width: 767px) {
-      .sidenav {
-        height: auto;
-        padding: 0px;
-      }
-      .row.content {height:auto;}
-    }
-  </style>
-	</head>
-	<body>
-  <h1>Second Question:</h1>
-  <h2>are the art historians studying renaissance also studying those artistic periods? </h2>
-  <p>As it's shown in the heatmap there are other artistic periods that have been studied by art historians.
-The heatmap illustrates that some of these artistic periods were more popular among the art-historians such as Baroque, Mannerism, Middle Ages, Modern arts and Neoclassicism.
-However, we can say that according to the heatmap art-historians paid close attention to Baroque and Mannerism more than other artistic periods.
-As it's shown in the heatmap the number of art-historians who have studied these two artistic periods grew relatively between the years 1920 and 2000.
-Overall we can say that the Renaissance was the most popular and the most important artistic period among art-historians.
-</p>
-  <div class="heatmap"></div>
-
-  <script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://d3js.org/d3.v4.min.js"></script>
 
 <script>
 
@@ -68,7 +34,7 @@ Overall we can say that the Renaissance was the most popular and the most import
     #EF9FAE, #C76475, #781426
 
     positive color scales in increasing magnitude
-    #cbbcb1, #898b8a, #41444b
+    #e7dec8, #ad9d9d, #838383
 
     */
 
@@ -99,7 +65,7 @@ Overall we can say that the Renaissance was the most popular and the most import
       height = 900 - margin.top - margin.bottom;
   var colorScale;
 
-  colorHold=["#781426","#C76475","#EF9FAE","  #cbbcb1","#898b8a","#41444b"]
+  colorHold=["#781426","#C76475","#EF9FAE","#ABDB92","#77B75B","#2E6E12"]
   /*colorLText=["< -66%","-66% to -33%","-33% to 0%","0% to 33%","33% to 66%","> 66%"]*/
     colorLText=["< 1","2 to 4","5","6","6 to 8","9"]
 
@@ -304,45 +270,3 @@ Overall we can say that the Renaissance was the most popular and the most import
   });
   }
 </script>
-		<div class="table">
-  <style type="text/css">
- .tg  {border-collapse:collapse;border-spacing:0;}
- .tg td{border-color:#8e7f7f;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-   overflow:hidden;padding:10px 5px;word-break:normal;}
- .tg th{border-color:#8e7f7f;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
- .tg .tg-wp8o{border-color:#8e7f7f;text-align:center;vertical-align:top}
- .tg .tg-73oq{border-color:#8e7f7f;text-align:left;vertical-align:top}
- </style>
- <table class="tg" align="right">
- <thead>
-   <tr>
-     <th class="tg-73oq">most studies historical period along with renaissance</th>
-   </tr>
- </thead>
- <tbody>
-   <tr>
-     <td class="tg-wp8o"><br><img src="./image/renaissance.jpg" alt="renaissance" width="70" height="70"><br><br><a href="https://www.britannica.com/event/Renaissance" target="_blank" rel="noopener noreferrer">Renaissance</a><br></td>
-   </tr>
-   <tr>
-     <td class="tg-wp8o"><img src="./image/baroque.jpg"  alt="Baroque" width="70" height="70"><br><br><a href="https://en.wikipedia.org/wiki/Baroque" target="_blank" rel="noopener noreferrer">15century</a><br></td>
-   </tr>
-   <td class="tg-wp8o"><img src="./image/15c.jpg" alt="15th" width="70" height="70"><br><br><a href="https://en.wikipedia.org/wiki/15th_century" target="_blank" rel="noopener noreferrer">15century</a><br></td>
- </tr>
-   <tr>
-     <td class="tg-wp8o"><img src="./image/16c.jpg" alt="16th" width="70" height="70"><br><br><a href="https://en.wikipedia.org/wiki/16th_century" target="_blank" rel="noopener noreferrer">16th century</a><br></td>
-   </tr>
- </tbody>
- </table>
-		  	</div>
-
-       
-
-		<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
-    
-</div>
-</body>
-</html>
-
-</body>
-</html>
