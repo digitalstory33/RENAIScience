@@ -19,3 +19,8 @@ body {
   margin-right:50px;
   margin-bottom:50px;
 }
+
+h2 h3 {
+  font-family:mord;
+  font-size: 25px;
+}
