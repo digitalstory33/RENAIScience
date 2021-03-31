@@ -12,7 +12,7 @@ The project was developed by:
 Each aspect of the project has been thought together and developed singularly. Sara Coppini was responsible for data access, extraction and cleaning; Alessia focused on the data analysis and esploration; Sara Amayeh was responsible for web development and communication strategies. The graphic visualisations have been carried out by Sara Amayeh, in collaboration with Alessia and Sara Coppini.
 
 ## Licences
-This project is available under the CC-BY xxxx License.
-ARTchives data are available under CC0 license.
-SNAC data are available under xxxx license.
-WORLDCAT data are available under xxxx license.
+- This project is available under the CC-BY xxxx License.
+- ARTchives data are available under CC0 license.
+- SNAC data are available under xxxx license.
+- WORLDCAT data are available under xxxx license.
