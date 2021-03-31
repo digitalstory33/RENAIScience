@@ -176,6 +176,10 @@ body {
   font-family:mord;
 }
 
+.heatmap{
+    width:100%;
+    position:center;
+}
 @font-face {
   font-family: mord;
   src: url(mord.ttf);
