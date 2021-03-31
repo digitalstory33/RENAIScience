@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-    background-image: url (mona.jpg)
+    background-image: url ("./image/mona.jpg")
   font-family:mord;
    background-repeat: no-repeat;
   background-attachment: fixed;
