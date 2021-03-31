@@ -25,6 +25,11 @@ h2{
   font-family:mord;zz
 }
 
+p{font-size: 20px;
+  font-family:mord;
+  text-align:justify;
+}
+
 .container{
     display:flex;
     align-items: flex-end;
