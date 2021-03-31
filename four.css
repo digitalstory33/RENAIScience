@@ -37,6 +37,12 @@ h2{
 }
 
 
+p{font-size: 20px;
+  font-family:mord;
+  text-align:justify;
+}
+
+
 .head h1{
     padding-top:30px;
   margin-left: 15px;
