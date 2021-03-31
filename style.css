@@ -25,6 +25,7 @@ a, a:hover, a:focus {
 
 .navbar {
     padding: 15px 10px;
+    width:100%;
     background: #fff;
     border: none;
     border-radius: 0;
