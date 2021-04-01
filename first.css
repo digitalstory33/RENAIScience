@@ -63,6 +63,12 @@ second-text{
 		  margin-top: 400px;
 		margin-left: 300px;
 		}
+#myChart{
+	height: 200px;
+		  width: 500px;
+		  margin-top: 700px;
+		margin-left: 300px;
+}
   
   .title{
 position: absolute;
