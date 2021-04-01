@@ -61,13 +61,13 @@ second-text{
 		  height: 200px;
 		  width: 500px;
 		  margin-top: 400px;
-		margin-left: 300px;
+		margin-left: 100px;
 		}
 #myChart{
 	height: 200px;
 		  width: 500px;
-		  margin-top: 600px;
-		margin-left: 100px;
+		  margin-top: 500px;
+		margin-left: 10px;
 }
   
   .title{
