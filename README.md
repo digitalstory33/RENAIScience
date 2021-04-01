@@ -2,7 +2,7 @@
 
 Website link: https://digitalstory33.github.io/Renaissance/
 
-Link del jupiter notebook xxx
+Jupyter notebook link: https://hub.gke2.mybinder.org/user/digitalstory33-renaissance-mdtidb0x/tree
 
 This project aims to discover the most relevant aspects of the study of Renaissance. The most relevant aspect on which the analysis is focused are: the context in which it was studied (e.g. which historians where interested in it, which was their background), its features (either material and immaterial), the trend of the interest for Renaissance over time.
 
