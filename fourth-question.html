@@ -70,7 +70,9 @@ The most consistent part of the archives is composed of photographs, followed by
 An interesting aspect, revealed by the analysis on the data, is the distinction between three macro-categories on the basis of the frequence:
 	  <ol>
 		  <li>HIGH FREQUENCE: 1 object (14 occurencies);</li>
+		  
 		  <li>MEDIUM FREQUENCE: A set of 6 objects (3-8 occurencies);</li>
+		  
 		  <li>LOW FREQUENCE: A set of 21 objects (1-2 occurencies).</li>
 	</ol>  
 </p>
@@ -100,8 +102,10 @@ d3.csv("resources_for_barchart.csv", function (allObjects) {
         datasets: [{
 		  label: "Object type frequency",
 		  data: objectsNum,
-		  backgroundColor: ['#ade6e6', "#ade2e6", "#addae6", "#add8e6", "#add8e6", "#add8e6", "#add3e6", "#b3cde0", "#b3cde0", "#b3cde0", "#b3cde0", "#b3cde0", '#adcae6', '#adcae6', '#adcae6', '#adcae6', '#adcae6', '#adcae6', '#adcae6', '#adcae6', '#adcae6', '#adcae6', '#adcae6', '#adcae6', '#adcae6', '#adcae6', '#adcae6', '#adcae6'],
-		}],
+		  //backgroundColor: ['#ade6e6', "#ade2e6", "#addae6", "#add8e6", "#add8e6", "#add8e6", "#add3e6", "#b3cde0", "#b3cde0", "#b3cde0", "#b3cde0", "#b3cde0", '#adcae6', '#adcae6', '#adcae6', '#adcae6', '#adcae6', '#adcae6', '#adcae6', '#adcae6', '#adcae6', '#adcae6', '#adcae6', '#adcae6', '#adcae6', '#adcae6', '#adcae6', '#adcae6'],
+		  backgroundColor: ['#FDEDED', "#FDE2E2", "#FDD7D7", "#FCCBCB", "#FCCBCB", "#FCCBCB", "#E9C0C0", "#D5B4B4", "#D5B4B4", "#D5B4B4", "#D5B4B4", "#D5B4B4", '#AD9D9D', '#AD9D9D', '#AD9D9D', '#AD9D9D', '#AD9D9D', '#AD9D9D', '#AD9D9D', '#AD9D9D', '#AD9D9D', '#AD9D9D', '#AD9D9D', '#AD9D9D', '#AD9D9D', '#AD9D9D', '#AD9D9D', '#AD9D9D'],
+	
+	}],
 
       },
       options: {
@@ -124,6 +128,7 @@ d3.csv("resources_for_barchart.csv", function (allObjects) {
 <p>The treechart is able to figure out two main aspects which came out from the analysis on the sources:
 	<ol>
 		<li>the distribution of the objects among the respective keepers;</li>
+		
 		<li>the composition of the keepers collections.</li>
 	</ol>
 </p>
@@ -180,7 +185,8 @@ d3.json("file_for_tree.json", function(data) {
   // prepare a color scale
   var color = d3.scaleOrdinal()
     .domain(["Biblioteca Hertziana", "Fondazione Federico Zeri", "Getty Research Institute", "Kunsthistorisches Institut"])
-    .range([ "#402D54", "#D18975", "#8FD175", "#add8e6"])
+    .range(["#FDD7D7", "#D5B4B4", "#AD9D9D", "#C0A7A7"])
+  //.range([ "#402D54", "#D18975", "#8FD175", "#add8e6"])
 
   // And a opacity scale
   var opacity = d3.scaleLinear()
