@@ -71,10 +71,10 @@ second-text{
   font-family: mord;
   margin: auto;
   width: 75%;
-  position: absolute;
+  /*position: absolute;*/
   padding-top:10px;
 	padding-left:90px;
-	margin-top: 100px;
+	/*margin-top: 100px;*/
 }
 
 
