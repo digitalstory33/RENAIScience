@@ -1,0 +1,268 @@
+{
+  "Nachlass Wolfgang Lotz": {
+    "URI": "https://w3id.org/artchives/collectionnachlass-wolfgang-lotz",
+    "https://w3id.org/artchives/hasSubjectArtist": [
+      {
+        "interest": "http://www.wikidata.org/entity/Q160538",
+        "interestLabel": "Gian Lorenzo Bernini"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q175566",
+        "interestLabel": "Giacomo della Porta"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q297565",
+        "interestLabel": "Giacomo Barozzi da Vignola"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q177692",
+        "interestLabel": "Andrea Palladio"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q381757",
+        "interestLabel": "Galeazzo Alessi"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P921": [
+      {
+        "interest": "http://www.wikidata.org/entity/Q99208488",
+        "interestLabel": "Hilde Bauer"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q1515397",
+        "interestLabel": "Gert von der Osten"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q1641821",
+        "interestLabel": "Otto Lehmann-Brockhaus"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q19754132",
+        "interestLabel": "Werner Gramberg"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q1609365",
+        "interestLabel": "Herbert Einem"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q160538",
+        "interestLabel": "Gian Lorenzo Bernini"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q175566",
+        "interestLabel": "Giacomo della Porta"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q860861",
+        "interestLabel": "sculpture"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q3305213",
+        "interestLabel": "painting"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q12271",
+        "interestLabel": "architecture"
+      },
+      {
+        "interest": "https://w3id.org/artchives/MD1601366693003",
+        "interestLabel": "Ludwig H. Heydenreich"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q57656",
+        "interestLabel": "Erwin Panofsky"
+      },
+      {
+        "interest": "https://w3id.org/artchives/MD1601366759314",
+        "interestLabel": "Franz Graf Wolff Metternich"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q297565",
+        "interestLabel": "Giacomo Barozzi da Vignola"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q37853",
+        "interestLabel": "Baroque"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q177692",
+        "interestLabel": "Andrea Palladio"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q7016",
+        "interestLabel": "17th century"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q381757",
+        "interestLabel": "Galeazzo Alessi"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q27144556",
+        "interestLabel": "Ernst Kantorowicz"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q90407",
+        "interestLabel": "Richard Krautheimer"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q7017",
+        "interestLabel": "16th century"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q4692",
+        "interestLabel": "Renaissance"
+      }
+    ],
+    "https://w3id.org/artchives/hasSubjectPeople": [
+      {
+        "interest": "http://www.wikidata.org/entity/Q27144556",
+        "interestLabel": "Ernst Kantorowicz"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q90407",
+        "interestLabel": "Richard Krautheimer"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q99208488",
+        "interestLabel": "Hilde Bauer"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q1641821",
+        "interestLabel": "Otto Lehmann-Brockhaus"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q1515397",
+        "interestLabel": "Gert von der Osten"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q1609365",
+        "interestLabel": "Herbert Einem"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q19754132",
+        "interestLabel": "Werner Gramberg"
+      },
+      {
+        "interest": "https://w3id.org/artchives/MD1601366693003",
+        "interestLabel": "Ludwig H. Heydenreich"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q57656",
+        "interestLabel": "Erwin Panofsky"
+      },
+      {
+        "interest": "https://w3id.org/artchives/MD1601366759314",
+        "interestLabel": "Franz Graf Wolff Metternich"
+      }
+    ],
+    "https://w3id.org/artchives/hasSubjectObject": [
+      {
+        "interest": "http://www.wikidata.org/entity/Q860861",
+        "interestLabel": "sculpture"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q3305213",
+        "interestLabel": "painting"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q12271",
+        "interestLabel": "architecture"
+      }
+    ],
+    "https://w3id.org/artchives/hasSubjectPeriod": [
+      {
+        "interest": "http://www.wikidata.org/entity/Q37853",
+        "interestLabel": "Baroque"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q7016",
+        "interestLabel": "17th century"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q7017",
+        "interestLabel": "16th century"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q4692",
+        "interestLabel": "Renaissance"
+      }
+    ]
+  },
+  "Wolfgang Lotz": {
+    "URI": "http://www.wikidata.org/entity/Q1296486",
+    "http://www.wikidata.org/prop/direct/P921": [
+      {
+        "interest": "Architects and patrons"
+      },
+      {
+        "interest": "Buildings"
+      },
+      {
+        "interest": "Vignola,"
+      },
+      {
+        "interest": "Art, Renaissance"
+      },
+      {
+        "interest": "Art"
+      },
+      {
+        "interest": "Sixteenth century"
+      },
+      {
+        "interest": "Architecture, Renaissance"
+      },
+      {
+        "interest": "Painting, Renaissance"
+      },
+      {
+        "interest": "Italy--Tuscany"
+      },
+      {
+        "interest": "Christian art and symbolism--Medieval"
+      },
+      {
+        "interest": "Italy--Rome"
+      },
+      {
+        "interest": "Church decoration and ornament"
+      },
+      {
+        "interest": "Fonts"
+      },
+      {
+        "interest": "Architecture, Baroque"
+      },
+      {
+        "interest": "Fifteenth century"
+      },
+      {
+        "interest": "Architecture"
+      },
+      {
+        "interest": "Architecture, Italian"
+      },
+      {
+        "interest": "Art, Italian"
+      },
+      {
+        "interest": "Mannerism (Architecture)"
+      },
+      {
+        "interest": "Architectural drawing"
+      },
+      {
+        "interest": "Italy--Siena"
+      },
+      {
+        "interest": "Travel"
+      },
+      {
+        "interest": "Northern Europe"
+      },
+      {
+        "interest": "Italy"
+      }
+    ]
+  }
+}

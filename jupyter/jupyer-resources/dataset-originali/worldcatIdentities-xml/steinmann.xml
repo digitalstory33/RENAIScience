@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?><Identity type="personal">
+  <creationtime>Tue Feb 23 23:21:27 2021 UTC</creationtime>
+  <pnkey>lccn-nr95019623</pnkey>
+  <audLevel>&lt;!--  actual audience min:0.30, avg:0.71, max:0.95  --&gt;<min>
+      <level>0.50</level>
+      <title>Die Sixtinische Kapelle /</title>
+    </min>
+    <avg>
+      <level>0.77</level>
+    </avg>
+    <max>
+      <level>0.94</level>
+      <title>Die Sixtinische Kapelle /</title>
+    </max>
+  </audLevel>
+  <authorityInfo>
+    <viafid>51765119</viafid>
+    <wikidataid>Q3057287</wikidataid>
+    <lccn>nr 95019623</lccn>
+    <arn>3847247</arn>
+    <x400>
+      <rawName>
+        <suba>E. St. 1866-1934</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Ernesto Steinmann</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Ernesto Steinmann historiador de l'art alemany</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Ernesto Steinmann historien de l'art allemand</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Ernst Steinmann deutscher Kunsthistoriker</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Ernst Steinmann Duits kunsthistoricus (1866-1934)</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Ernst Steinmann German art historian</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Ernst Steinmann historiador del arte alemán</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Ernst Steinmann historian gjerman i artit</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Ernst Steinmann professor académico alemão</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Ernst Steinmann tysk professor</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Steinmann, E.</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Steinmann, E. 1866-1934</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Steinmann, Ernst Theodor Karl</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Steinmann, Ernst Theodor Karl 1866-1934</suba>
+      </rawName>
+    </x400>
+  </authorityInfo>
+  <associatedNames>
+    <name count="850">
+      <normName>lccn-n80152368</normName>
+      <rawName>
+        <suba>Michelangelo Buonarroti</suba>
+        <subd>1475-1564</subd>
+      </rawName>
+      <relator count="24">ill</relator>
+      <relator count="2">art</relator>
+      <relator count="32">aut</relator>
+    </name>
+    <name count="676">
+      <normName>lccn-n79022942</normName>
+      <rawName>
+        <suba>Botticelli, Sandro</suba>
+        <subd>1444 or 1445-1510</subd>
+      </rawName>
+      <relator count="1">ill</relator>
+      <relator count="1">art</relator>
+      <relator count="4">aut</relator>
+      <relator count="2">dte</relator>
+    </name>
+    <name count="286">
+      <normName>lccn-n81104009</normName>
+      <rawName>
+        <suba>Dodgson, Campbell</suba>
+        <subd>1867-1948</subd>
+      </rawName>
+      <relator count="281">trl</relator>
+    </name>
+    <name count="262">
+      <normName>lccn-nr91029265</normName>
+      <rawName>
+        <suba>Pintoricchio</suba>
+        <subd>approximately 1454-1513</subd>
+      </rawName>
+    </name>
+    <name count="254">
+      <normName>lccn-n83319383</normName>
+      <rawName>
+        <suba>Ghirlandaio, Domenico</suba>
+        <subd>1449-1494</subd>
+      </rawName>
+      <relator count="2">aut</relator>
+    </name>
+    <name count="249">
+      <normName>viaf-306173189</normName>
+      <rawName>
+        <suba>Freyhan, Robert</suba>
+      </rawName>
+      <relator count="3">edt</relator>
+      <relator count="25">ctb</relator>
+      <relator count="1">aut</relator>
+    </name>
+    <name count="248">
+      <normName>lccn-n82037902</normName>
+      <rawName>
+        <suba>Levis, Howard Coppuck</suba>
+      </rawName>
+    </name>
+    <name count="248">
+      <normName>lccn-n2014032674</normName>
+      <rawName>
+        <suba>Lessing J. Rosenwald Reference Collection (Library of Congress)</suba>
+      </rawName>
+    </name>
+    <name count="245">
+      <normName>lccn-n50014455</normName>
+      <rawName>
+        <suba>Wittkower, Rudolf</suba>
+      </rawName>
+      <relator count="6">edt</relator>
+    </name>
+    <name count="195">
+      <normName>viaf-10210240</normName>
+      <rawName>
+        <suba>Gerstfeldt, Olga von</suba>
+        <subd>1869-1910</subd>
+      </rawName>
+      <relator count="181">aut</relator>
+      <relator count="2">ctb</relator>
+    </name>
+  </associatedNames>
+  <nameInfo type="personal">
+    <rawName>
+      <suba>Steinmann, Ernst</suba>
+      <subd>1866-1934</subd>
+    </rawName>
+    <genres>
+      <genre count="463" norm="1919895">Bibliographies</genre>
+      <genre count="192" norm="1919896">Biographies</genre>
+      <genre count="187" norm="1411628">History</genre>
+      <genre count="75" norm="1423692">Catalogs</genre>
+      <genre count="55" norm="1423831">Portraits</genre>
+      <genre count="1" norm="1411635">Criticism, interpretation, etc</genre>
+      <genre count="1" norm="1423874">Pictorial works</genre>
+    </genres>
+    <fastHeadings>
+      <fast count="849" norm="64395" size="5" tag="600">Michelangelo Buonarroti,</fast>
+      <fast count="509" norm="1809076" size="5" tag="600">Botticelli, Sandro,</fast>
+      <fast count="382" norm="1204500" size="5" tag="651">Italy--Rome</fast>
+      <fast count="333" norm="815177" size="5" tag="650">Art</fast>
+      <fast count="309" norm="1204565" size="5" tag="651">Italy</fast>
+      <fast count="205" norm="123040" size="5" tag="600">Ghirlandaio, Domenico,</fast>
+      <fast count="192" norm="1050530" size="5" tag="650">Painters</fast>
+      <fast count="166" norm="1841589" size="5" tag="600">Pintoricchio,</fast>
+      <fast count="158" norm="1094518" size="5" tag="650">Renaissance</fast>
+      <fast count="132" norm="816786" size="5" tag="650">Art, Renaissance</fast>
+      <fast count="108" norm="1155558" size="4" tag="650">Travel</fast>
+      <fast count="98" norm="813346" size="4" tag="650">Architecture</fast>
+      <fast count="98" norm="199677" size="4" tag="600">Sixtus--IV,--Pope,</fast>
+      <fast count="98" norm="51614" size="4" tag="600">Julius--II,--Pope,</fast>
+      <fast count="97" norm="721198" size="4" tag="610">Cappella Sistina (Vatican Palace, Vatican City)</fast>
+      <fast count="79" norm="1109483" size="4" tag="650">Sculpture</fast>
+      <fast count="75" norm="536918" size="4" tag="610">British Museum</fast>
+      <fast count="74" norm="1204699" size="4" tag="651">Italy--Florence</fast>
+      <fast count="70" norm="212417" size="4" tag="600">Medici, House of</fast>
+      <fast count="65" norm="356648" size="4" tag="600">Steinmann, Ernst,</fast>
+      <fast count="62" norm="815573" size="3" tag="650">Art libraries</fast>
+      <fast count="58" norm="588842" size="3" tag="610">Bibliotheca Hertziana, Max-Planck-Institut</fast>
+      <fast count="46" norm="88996" size="3" tag="600">Paul--III,--Pope,</fast>
+      <fast count="46" norm="553835" size="3" tag="610">Basilica di San Pietro in Vaticano</fast>
+      <fast count="10" norm="1112853" size="3" tag="650">Sepulchral monuments</fast>
+      <fast count="10" norm="1152439" size="3" tag="650">Tombs</fast>
+      <fast count="9" norm="1208574" size="3" tag="651">Vatican City</fast>
+      <fast count="6" norm="1029675" size="3" tag="650">Mural painting and decoration, Italian</fast>
+      <fast count="6" norm="840962" size="3" tag="650">Buildings</fast>
+      <fast count="6" norm="1051051" size="3" tag="650">Painting, Renaissance</fast>
+      <fast count="4" norm="831351" size="2" tag="650">Bibliography</fast>
+      <fast count="3" norm="1029558" size="2" tag="650">Mural painting and decoration</fast>
+      <fast count="3" norm="1204885" size="2" tag="651">Rome (Empire)</fast>
+      <fast count="2" norm="631155" size="2" tag="610">Vatican Palace (Vatican City)</fast>
+      <fast count="1" norm="712627" size="2" tag="610">Cappella Sistina (Santa Maria Maggiore (Church : Rome, Italy))</fast>
+      <fast count="1" norm="782754" size="2" tag="610">Palazzo Zuccari (Rome, Italy)</fast>
+      <fast count="1" norm="997341" size="2" tag="650">Libraries</fast>
+    </fastHeadings>
+    <languages count="4">
+      <lang code="ger" count="278"/>
+      <lang code="eng" count="20"/>
+      <lang code="ita" count="8"/>
+      <lang code="dut" count="1"/>
+    </languages>
+    <birthDate>1866</birthDate>
+    <deathDate>1934</deathDate>
+    <dates>
+      <date byCount="16" byScaled="4.00" count="16" scaled="4.00">1892</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1894</date>
+      <date byCount="4" byScaled="2.00" count="4" scaled="2.00">1895</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">1896</date>
+      <date byCount="57" byScaled="5.83" count="57" scaled="5.83">1897</date>
+      <date byCount="29" byScaled="4.86" count="29" scaled="4.86">1898</date>
+      <date byCount="18" byScaled="4.17" count="18" scaled="4.17">1899</date>
+      <date byCount="63" byScaled="5.98" count="63" scaled="5.98">1901</date>
+      <date byCount="27" byScaled="4.75" count="27" scaled="4.75">1902</date>
+      <date byCount="15" byScaled="3.91" count="15" scaled="3.91">1903</date>
+      <date byCount="3" byScaled="1.58" count="3" scaled="1.58">1904</date>
+      <date byCount="33" byScaled="5.04" count="33" scaled="5.04">1905</date>
+      <date byCount="21" byScaled="4.39" count="21" scaled="4.39">1906</date>
+      <date byCount="26" byScaled="4.70" count="26" scaled="4.70">1907</date>
+      <date byCount="25" byScaled="4.64" count="25" scaled="4.64">1908</date>
+      <date byCount="3" byScaled="1.58" count="3" scaled="1.58">1909</date>
+      <date byCount="15" byScaled="3.91" count="15" scaled="3.91">1910</date>
+      <date byCount="17" byScaled="4.09" count="17" scaled="4.09">1911</date>
+      <date byCount="23" byScaled="4.52" count="23" scaled="4.52">1912</date>
+      <date byCount="27" byScaled="4.75" count="27" scaled="4.75">1913</date>
+      <date byCount="10" byScaled="3.32" count="10" scaled="3.32">1914</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1915</date>
+      <date byCount="10" byScaled="3.32" count="10" scaled="3.32">1916</date>
+      <date byCount="11" byScaled="3.46" count="11" scaled="3.46">1917</date>
+      <date byCount="9" byScaled="3.17" count="9" scaled="3.17">1918</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">1919</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">1921</date>
+      <date byCount="10" byScaled="3.32" count="10" scaled="3.32">1922</date>
+      <date byCount="4" byScaled="2.00" count="4" scaled="2.00">1923</date>
+      <date byCount="4" byScaled="2.00" count="4" scaled="2.00">1924</date>
+      <date byCount="18" byScaled="4.17" count="18" scaled="4.17">1925</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">1926</date>
+      <date byCount="21" byScaled="4.39" count="21" scaled="4.39">1927</date>
+      <date byCount="8" byScaled="3.00" count="8" scaled="3.00">1929</date>
+      <date byCount="17" byScaled="4.09" count="17" scaled="4.09">1930</date>
+      <date byCount="11" byScaled="3.46" count="11" scaled="3.46">1932</date>
+      <date aboutCount="4" aboutScaled="2.00" byCount="7" byScaled="2.81" count="11" scaled="3.46">1935</date>
+      <date byCount="6" byScaled="2.58" count="6" scaled="2.58">1938</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1951</date>
+      <date byCount="6" byScaled="2.58" count="6" scaled="2.58">1953</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1965</date>
+      <date byCount="23" byScaled="4.52" count="23" scaled="4.52">1967</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1974</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1977</date>
+      <date aboutCount="3" aboutScaled="1.58" count="3" scaled="1.58">2002</date>
+      <date byCount="4" byScaled="2.00" count="4" scaled="2.00">2007</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">2010</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">2011</date>
+      <date byCount="6" byScaled="2.58" count="6" scaled="2.58">2012</date>
+      <date byCount="5" byScaled="2.32" count="5" scaled="2.32">2013</date>
+      <date byCount="3" byScaled="1.58" count="3" scaled="1.58">2015</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">2017</date>
+    </dates>
+    <totalHoldings>3993</totalHoldings>
+    <workCount>218</workCount>
+    <recordCount>713</recordCount>
+    <ddc ident="">759.5</ddc>
+    <lcc ident="ND623.B7">ND623.B7</lcc>
+    <relators>
+      <relator code="aut" count="3192">
+        <oclcnum count="247">ocn000936575</oclcnum>
+        <oclcnum count="160">ocn002902905</oclcnum>
+        <oclcnum count="158">ocn000826301</oclcnum>
+        <oclcnum count="141">ocn002779003</oclcnum>
+        <oclcnum count="92">ocn001107582</oclcnum>
+        <oclcnum count="84">ocn002166567</oclcnum>
+        <oclcnum count="83">ocn006844366</oclcnum>
+        <oclcnum count="76">ocn000947164</oclcnum>
+        <oclcnum count="74">ocn001096096</oclcnum>
+        <oclcnum count="68">ocn003522617</oclcnum>
+      </relator>
+      <relator code="edt" count="120">
+        <oclcnum count="47">ocn001382790</oclcnum>
+        <oclcnum count="26">ocn017244026</oclcnum>
+        <oclcnum count="15">ocn257827760</oclcnum>
+        <oclcnum count="7">ocn682514225</oclcnum>
+        <oclcnum count="4">ocn1070047154</oclcnum>
+        <oclcnum count="3">ocn1067543278</oclcnum>
+        <oclcnum count="2">ocn962106130</oclcnum>
+        <oclcnum count="2">ocn494460396</oclcnum>
+        <oclcnum count="2">ocn1187175247</oclcnum>
+        <oclcnum count="2">ocn468508547</oclcnum>
+      </relator>
+      <relator code="ctb" count="43">
+        <oclcnum count="27">ocn260120370</oclcnum>
+        <oclcnum count="10">ocn073831211</oclcnum>
+        <oclcnum count="4">ocn072631432</oclcnum>
+        <oclcnum count="2">ocn072125919</oclcnum>
+      </relator>
+      <relator code="oth" count="24">
+        <oclcnum count="14">ocn992892109</oclcnum>
+        <oclcnum count="8">ocn992850754</oclcnum>
+        <oclcnum count="2">ocn1187180375</oclcnum>
+        <oclcnum count="0">ocn957724452</oclcnum>
+        <oclcnum count="0">ocn957690004</oclcnum>
+      </relator>
+      <relator code="hnr" count="19">
+        <oclcnum count="14">ocn246202898</oclcnum>
+        <oclcnum count="4">ocn312830076</oclcnum>
+        <oclcnum count="1">ocn1073419367</oclcnum>
+      </relator>
+      <relator code="cre" count="11">
+        <oclcnum count="3">ocn1035968085</oclcnum>
+        <oclcnum count="2">ocn1040152508</oclcnum>
+        <oclcnum count="2">ocn1039554470</oclcnum>
+        <oclcnum count="1">ocn1040139977</oclcnum>
+        <oclcnum count="1">ocn1039770910</oclcnum>
+        <oclcnum count="1">ocn1082453718</oclcnum>
+        <oclcnum count="1">ocn1040156070</oclcnum>
+      </relator>
+      <relator code="aui" count="2">
+        <oclcnum count="2">ocn441683624</oclcnum>
+      </relator>
+    </relators>
+  </nameInfo>
+  <by>
+    <citation ident="newwork358634">
+      <holdings>336</holdings>
+      <numEditions>39</numEditions>
+      <oclcnum>ocn006844366</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="ger" count="38"/>
+        <lang code="und" count="1"/>
+      </languages>
+      <date>1899</date>
+      <dates different="3" first="1899" last="1908"/>
+      <audLevel>0.64</audLevel>
+      <creator ident="51765119,nr95019623">Steinmann, Ernst</creator>
+      <title>Rom in der renaissance von Nicolaus V. bis auf Julius II</title>
+      <genres>
+        <genre count="93" norm="history">History</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork826301">
+      <holdings>310</holdings>
+      <numEditions>20</numEditions>
+      <oclcnum>ocn000826301</oclcnum>
+      <recordType>book</recordType>
+      <languages count="3">
+        <lang code="ger" count="16"/>
+        <lang code="und" count="2"/>
+        <lang code="eng" count="2"/>
+      </languages>
+      <date>1897</date>
+      <dates different="1" first="1897" last="1897"/>
+      <audLevel>0.71</audLevel>
+      <creator ident="51765119,nr95019623">Steinmann, Ernst</creator>
+      <title>Ghirlandajo</title>
+      <genres>
+        <genre count="192" norm="biographies">Biographies</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork936575">
+      <holdings>308</holdings>
+      <numEditions>12</numEditions>
+      <oclcnum>ocn000936575</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="eng" count="12"/>
+      </languages>
+      <date>1901</date>
+      <dates different="1" first="1901" last="1901"/>
+      <audLevel>0.68</audLevel>
+      <creator ident="51765119,nr95019623">Steinmann, Ernst</creator>
+      <title>Botticelli</title>
+    </citation>
+    <citation ident="newwork2902905">
+      <holdings>265</holdings>
+      <numEditions>24</numEditions>
+      <oclcnum>ocn002902905</oclcnum>
+      <recordType>book</recordType>
+      <languages count="3">
+        <lang code="ger" count="22"/>
+        <lang code="und" count="1"/>
+        <lang code="ita" count="1"/>
+      </languages>
+      <date>1898</date>
+      <dates different="2" first="1898" last="2013"/>
+      <audLevel>0.79</audLevel>
+      <creator ident="51765119,nr95019623">Steinmann, Ernst</creator>
+      <title>Pinturicchio</title>
+    </citation>
+    <citation ident="newwork2779003">
+      <holdings>228</holdings>
+      <numEditions>17</numEditions>
+      <oclcnum>ocn002779003</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="ger" count="16"/>
+        <lang code="eng" count="1"/>
+      </languages>
+      <date>1897</date>
+      <dates different="1" first="1897" last="1897"/>
+      <audLevel>0.71</audLevel>
+      <creator ident="51765119,nr95019623">Steinmann, Ernst</creator>
+      <title>Botticelli</title>
+    </citation>
+    <citation ident="newwork947164">
+      <holdings>215</holdings>
+      <numEditions>29</numEditions>
+      <oclcnum>ocn000947164</oclcnum>
+      <recordType>book</recordType>
+      <languages count="3">
+        <lang code="ger" count="27"/>
+        <lang code="dut" count="1"/>
+        <lang code="eng" count="1"/>
+      </languages>
+      <date>1927</date>
+      <dates different="3" first="1927" last="1974"/>
+      <audLevel>0.90</audLevel>
+      <creator ident="51765119,nr95019623">Steinmann, Ernst</creator>
+      <title>Michelangelo-Bibliographie, 1927-1970</title>
+      <genres>
+        <genre count="371" norm="bibliographies">Bibliographies</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork5270192">
+      <holdings>181</holdings>
+      <numEditions>35</numEditions>
+      <oclcnum>ocn006353488</oclcnum>
+      <recordType>book</recordType>
+      <languages count="3">
+        <lang code="ger" count="32"/>
+        <lang code="eng" count="2"/>
+        <lang code="und" count="1"/>
+      </languages>
+      <date>1910</date>
+      <dates different="4" first="1910" last="1922"/>
+      <audLevel>0.56</audLevel>
+      <creator ident="10210240">Gerstfeldt, Olga von</creator>
+      <title>Pilgerfahrten in Italien</title>
+    </citation>
+    <citation ident="newwork3522617">
+      <holdings>132</holdings>
+      <numEditions>20</numEditions>
+      <oclcnum>ocn003522617</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="ger" count="19"/>
+        <lang code="und" count="1"/>
+      </languages>
+      <date>1906</date>
+      <dates different="2" first="1906" last="1907"/>
+      <audLevel>0.84</audLevel>
+      <creator ident="51765119,nr95019623">Steinmann, Ernst</creator>
+      <title>Das geheimnis der Medicigraeber Michel Angelos</title>
+    </citation>
+    <citation ident="newwork2166567">
+      <holdings>120</holdings>
+      <numEditions>15</numEditions>
+      <oclcnum>ocn002166567</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="15"/>
+      </languages>
+      <date>1901</date>
+      <dates different="2" first="1901" last="1905"/>
+      <audLevel>0.82</audLevel>
+      <creator ident="51765119,nr95019623">Steinmann, Ernst</creator>
+      <title>Die Sixtinische Kapelle</title>
+      <genres>
+        <genre count="90" norm="history">History</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork1107582">
+      <holdings>101</holdings>
+      <numEditions>5</numEditions>
+      <oclcnum>ocn001107582</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="5"/>
+      </languages>
+      <date>1930</date>
+      <dates different="1" first="1930" last="1930"/>
+      <audLevel>0.95</audLevel>
+      <creator ident="51765119,nr95019623">Steinmann, Ernst</creator>
+      <title>Michelangelo im Spiegel seiner Zeit</title>
+      <genres>
+        <genre count="1" norm="criticism, interpretation, etc">Criticism, interpretation, etc</genre>
+        <genre count="1" norm="pictorial works">Pictorial works</genre>
+        <genre count="92" norm="bibliographies">Bibliographies</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork3054581">
+      <holdings>90</holdings>
+      <numEditions>10</numEditions>
+      <oclcnum>ocn003054581</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="ita" count="7"/>
+        <lang code="und" count="3"/>
+      </languages>
+      <date>1932</date>
+      <dates different="1" first="1932" last="1932"/>
+      <audLevel>0.84</audLevel>
+      <creator ident="51765119,nr95019623">Steinmann, Ernst</creator>
+      <title>Michelangelo e Luigi del Riccio : con documenti inediti</title>
+    </citation>
+    <citation ident="newwork2295059">
+      <holdings>84</holdings>
+      <numEditions>6</numEditions>
+      <oclcnum>ocn002295059</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="6"/>
+      </languages>
+      <date>1938</date>
+      <dates different="1" first="1938" last="1938"/>
+      <audLevel>0.87</audLevel>
+      <creator ident="24585191,n80152368">Michelangelo</creator>
+      <title>Die Aufzeichnungen des Michelangelo Buonarroti im Britischen Museum in London und im Vermächtnis Ernst Steinmann in Rom</title>
+      <genres>
+        <genre count="75" norm="catalogs">Catalogs</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork4021681">
+      <holdings>78</holdings>
+      <numEditions>13</numEditions>
+      <oclcnum>ocn004021681</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="13"/>
+      </languages>
+      <date>1912</date>
+      <dates different="1" first="1912" last="1912"/>
+      <audLevel>0.71</audLevel>
+      <creator ident="51765119,nr95019623">Steinmann, Ernst</creator>
+      <title>Das Grabmal Pauls III. in St. Peter in Rom</title>
+    </citation>
+    <citation ident="newwork16979058">
+      <holdings>78</holdings>
+      <numEditions>12</numEditions>
+      <oclcnum>ocn016979058</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="ger" count="11"/>
+        <lang code="eng" count="1"/>
+      </languages>
+      <date>1901</date>
+      <dates different="1" first="1901" last="1901"/>
+      <audLevel>0.60</audLevel>
+      <creator ident="51765119,nr95019623">Steinmann, Ernst</creator>
+      <title>Antonio da Viterbo: ein Beitrage zur Geschichte der umbrischen Malerschule um die Wende des XV Jahrhunderts</title>
+    </citation>
+    <citation ident="newwork1382790">
+      <holdings>74</holdings>
+      <numEditions>10</numEditions>
+      <oclcnum>ocn001382790</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="10"/>
+      </languages>
+      <date>1913</date>
+      <dates different="1" first="1913" last="1913"/>
+      <audLevel>0.92</audLevel>
+      <creator ident="51765119,nr95019623">Steinmann, Ernst</creator>
+      <title>Die Portraitdarstellungen des Michelangelo</title>
+      <genres>
+        <genre count="55" norm="portraits">Portraits</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork162752419">
+      <holdings>73</holdings>
+      <numEditions>12</numEditions>
+      <oclcnum>ocn162752419</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="12"/>
+      </languages>
+      <date>1901</date>
+      <dates different="1" first="1901" last="1901"/>
+      <audLevel>0.30</audLevel>
+      <creator ident="51765119,nr95019623">Steinmann, Ernst</creator>
+      <title>Die Sixtinische Kapelle</title>
+      <genres>
+        <genre count="3" norm="history">History</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork162752432">
+      <holdings>67</holdings>
+      <numEditions>8</numEditions>
+      <oclcnum>ocn162752432</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="8"/>
+      </languages>
+      <date>1905</date>
+      <dates different="1" first="1905" last="1905"/>
+      <audLevel>0.31</audLevel>
+      <creator ident="51765119,nr95019623">Steinmann, Ernst</creator>
+      <title>Die Sixtinische Kapelle</title>
+      <genres>
+        <genre count="1" norm="history">History</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork256314063">
+      <holdings>63</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn256314063</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="1"/>
+      </languages>
+      <date>1898</date>
+      <dates different="1" first="1898" last="1898"/>
+      <audLevel>0.31</audLevel>
+      <creator ident="51765119,nr95019623">Steinmann, Ernst</creator>
+      <title>Pinturicchio</title>
+    </citation>
+    <citation ident="newwork769110">
+      <holdings>62</holdings>
+      <numEditions>7</numEditions>
+      <oclcnum>ocn000769110</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="7"/>
+      </languages>
+      <date>1903</date>
+      <dates different="1" first="1903" last="1903"/>
+      <audLevel>0.92</audLevel>
+      <creator ident="51765119,nr95019623">Steinmann, Ernst</creator>
+      <title>Botticelli</title>
+    </citation>
+    <citation ident="newwork2376131">
+      <holdings>57</holdings>
+      <numEditions>9</numEditions>
+      <oclcnum>ocn002376131</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="9"/>
+      </languages>
+      <date>1925</date>
+      <dates different="1" first="1925" last="1925"/>
+      <audLevel>0.64</audLevel>
+      <creator ident="51765119,nr95019623">Steinmann, Ernst</creator>
+      <title>Botticelli</title>
+    </citation>
+  </by>
+  <about>
+    <citation ident="newwork51770374">
+      <holdings>59</holdings>
+      <numEditions>3</numEditions>
+      <oclcnum>ocn051770374</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="3"/>
+      </languages>
+      <date>2002</date>
+      <dates different="1" first="2002" last="2002"/>
+      <audLevel>0.79</audLevel>
+      <creator ident="42771814,no2003025814">Tesche, Doreen</creator>
+      <title>Ernst Steinmann und die Gründungsgeschichte der Bibliotheca Hertziana in Rom</title>
+      <genres>
+        <genre count="62" norm="history">History</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork24180546">
+      <holdings>3</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn024180546</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="1"/>
+      </languages>
+      <date>1935</date>
+      <dates different="1" first="1935" last="1935"/>
+      <audLevel>0.94</audLevel>
+      <title>Reden gehalten bei der Trauerfeier für Ernst Steinmann im Goethesaal des Kaiser Wilhelm-Institutes für kunst- und Kulturwissenschaft Bibliotheca Kerfziana am 10. Januar 1935</title>
+    </citation>
+    <citation ident="newwork65921468">
+      <holdings>3</holdings>
+      <numEditions>2</numEditions>
+      <oclcnum>ocn078424837</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="2"/>
+      </languages>
+      <date>1935</date>
+      <dates different="1" first="1935" last="1935"/>
+      <audLevel>0.34</audLevel>
+      <creator ident="47556007,n85252672">Bruhns, Leo</creator>
+      <title>Reden gehalten bei der Trauerfeier für Ernst Steinmann im Goethesaal des Kaiser Wilhelm-Institutes für Kunst- und Kulturwissenschaft Bibliotheca Hertziana am 10. Januar 1935</title>
+    </citation>
+    <citation ident="newwork1056467245">
+      <holdings>1</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn1056467245</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="eng" count="1"/>
+      </languages>
+      <date>1935</date>
+      <dates different="1" first="1935" last="1935"/>
+      <audLevel>0.47</audLevel>
+      <title>Reden gehalten bei der Trauerfeier für Ernst Steinmann im Goethesaal des Kaiser Wilhelm-Institutes für kunst- und Kulturwissenschaft Bibliotheca Hertziana am 10. Januar 1935 /c[Leo Bruhns, Federico Hermanin, Bartolommeo Nogara]</title>
+    </citation>
+  </about>
+  <admin:administrativeMetadata xmlns:admin="http://viaf.org/xa/administrativeMetadata">
+    <admin:administrativeMetadataInstance>
+      <admin:administrativeMetadataDate>Thu Feb 25 12:18:27 EST 2021</admin:administrativeMetadataDate>
+      <admin:administrativeMetadataUser>batch</admin:administrativeMetadataUser>
+      <admin:administrativeMetadataRecordLength>22711</admin:administrativeMetadataRecordLength>
+    </admin:administrativeMetadataInstance>
+  </admin:administrativeMetadata>
+</Identity>

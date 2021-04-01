@@ -1,0 +1,1178 @@
+<?xml version="1.0" encoding="UTF-8"?><Identity type="personal">
+  <creationtime>Tue Feb 23 23:33:48 2021 UTC</creationtime>
+  <pnkey>lccn-n81086393</pnkey>
+  <audLevel>&lt;!--  actual audience min:0.00, avg:0.62, max:1.00  --&gt;<min>
+      <level>0.22</level>
+      <title>Lorenzo Ghiberti: Volume II</title>
+    </min>
+    <avg>
+      <level>0.49</level>
+    </avg>
+    <max>
+      <level>1.00</level>
+      <title>Oral history interview with James S. Ackerman,</title>
+    </max>
+  </audLevel>
+  <authorityInfo>
+    <viafid>102327382</viafid>
+    <wikidataid>Q90407</wikidataid>
+    <wikiLink>Richard_Krautheimer</wikiLink>
+    <lccn>n  81086393</lccn>
+    <arn>631620</arn>
+    <x400>
+      <rawName>
+        <suba>Ḳrauṭhaimer, Rikhard 1897-1994</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Krauthajmer, Ričard.</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Krautheimer, R.</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Krautheimer, R. 1897-1994</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Krautheimer, Richard</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Krautheimer, Richard, 1897-</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Krautheimeris Richardas</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Qrâuthaimer Rîkard</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Qrâuthaimer, Rîkard 1897-1994</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Qrâuṭhaymer, Rîkard 1897-1994</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Richard Krautheimer</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Richard Krautheimer deutsch-amerikanischer Kunsthistoriker</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Richard Krautheimer Duits antropoloog (1897-1994)</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Richard Krautheimer German art historian</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Richard Krautheimer historiador de l'art alemany</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Richard Krautheimer historiador del arte alemán</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Richard Krautheimer historian gjerman i artit</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Richard Krautheimer historien de l'art allemand</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Richard Krautheimer professor académico alemão</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Richard Krautheimer storico dell'arte tedesco</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Richard Krautheimer tysk professor</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Rikhard Krauthaimer</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Краутхаймер, Ричард</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>קראוטהימר, ריכרד</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>ريتشارد كراوثيمير</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>クラウトハイマー, リチャード</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>リヒャルト・クラウトハイマー</suba>
+      </rawName>
+    </x400>
+  </authorityInfo>
+  <associatedNames>
+    <name count="3122">
+      <normName>lccn-n78096136</normName>
+      <rawName>
+        <suba>Ghiberti, Lorenzo</suba>
+        <subd>1378-1455</subd>
+      </rawName>
+      <relator count="55">oth</relator>
+      <relator count="2">art</relator>
+      <relator count="816">aut</relator>
+    </name>
+    <name count="1371">
+      <normName>lccn-n83005135</normName>
+      <rawName>
+        <suba>Krautheimer-Hess, Trude</suba>
+      </rawName>
+      <relator count="9">oth</relator>
+      <relator count="2">aui</relator>
+      <relator count="1">aut</relator>
+      <relator count="4">ctb</relator>
+    </name>
+    <name count="874">
+      <normName>lccn-n84121289</normName>
+      <rawName>
+        <suba>Alexander</suba>
+        <subb>VII</subb>
+        <subc>Pope</subc>
+        <subd>1599-1667</subd>
+      </rawName>
+    </name>
+    <name count="820">
+      <normName>lccn-nb2008022829</normName>
+      <rawName>
+        <suba>Battistero di San Giovanni (Florence, Italy)</suba>
+      </rawName>
+    </name>
+    <name count="727">
+      <normName>lccn-n79027821</normName>
+      <rawName>
+        <suba>Ćurčić, Slobodan</suba>
+      </rawName>
+      <relator count="19">edt</relator>
+    </name>
+    <name count="722">
+      <normName>lccn-n80137807</normName>
+      <rawName>
+        <suba>Princeton University Press</suba>
+      </rawName>
+      <relator count="2">pbl</relator>
+    </name>
+    <name count="574">
+      <normName>lccn-n94113221</normName>
+      <rawName>
+        <suba>Corbett, Spencer</suba>
+      </rawName>
+      <relator count="58">oth</relator>
+      <relator count="7">aut</relator>
+    </name>
+    <name count="558">
+      <normName>lccn-n80075391</normName>
+      <rawName>
+        <suba>Frankl, Wolfgang</suba>
+      </rawName>
+      <relator count="58">oth</relator>
+      <relator count="6">aut</relator>
+    </name>
+    <name count="214">
+      <normName>lccn-n81027192</normName>
+      <rawName>
+        <suba>Striker, Cecil L.</suba>
+        <subd>1932-</subd>
+      </rawName>
+      <relator count="1">oth</relator>
+      <relator count="11">edt</relator>
+    </name>
+    <name count="201">
+      <normName>lccn-n50036883</normName>
+      <rawName>
+        <suba>Ackerman, James S.</suba>
+      </rawName>
+      <relator count="1">oth</relator>
+      <relator count="2">edt</relator>
+    </name>
+  </associatedNames>
+  <nameInfo type="personal">
+    <rawName>
+      <suba>Krautheimer, Richard</suba>
+      <subd>1897-1994</subd>
+    </rawName>
+    <genres>
+      <genre count="4741" norm="1411628">History</genre>
+      <genre count="852" norm="1423873">Illustrated works</genre>
+      <genre count="254" norm="1423772">Conference papers and proceedings</genre>
+      <genre count="238" norm="1941036">Festschriften</genre>
+      <genre count="6" norm="1411635">Criticism, interpretation, etc</genre>
+      <genre count="2" norm="1423692">Catalogs</genre>
+      <genre count="1" norm="1919896">Biographies</genre>
+    </genres>
+    <fastHeadings>
+      <fast count="3808" norm="1204500" size="5" tag="651">Italy--Rome</fast>
+      <fast count="3057" norm="860550" size="5" tag="650">Church architecture</fast>
+      <fast count="2909" norm="813728" size="5" tag="650">Architecture, Early Christian</fast>
+      <fast count="2576" norm="813638" size="5" tag="650">Architecture, Byzantine</fast>
+      <fast count="2533" norm="1710945" size="5" tag="650">Church history--Primitive and early church</fast>
+      <fast count="2090" norm="840962" size="5" tag="650">Buildings</fast>
+      <fast count="1997" norm="1204885" size="5" tag="651">Rome (Empire)</fast>
+      <fast count="1720" norm="1710943" size="5" tag="650">Church history--Middle Ages</fast>
+      <fast count="1370" norm="29253" size="5" tag="600">Ghiberti, Lorenzo,</fast>
+      <fast count="1230" norm="957723" size="5" tag="650">Historic buildings</fast>
+      <fast count="1151" norm="1155558" size="4" tag="650">Travel</fast>
+      <fast count="926" norm="816576" size="4" tag="650">Art, Medieval</fast>
+      <fast count="903" norm="816193" size="4" tag="650">Art, Early Christian</fast>
+      <fast count="865" norm="1204699" size="4" tag="651">Italy--Florence</fast>
+      <fast count="861" norm="1093678" size="4" tag="650">Relief (Sculpture)</fast>
+      <fast count="861" norm="839453" size="4" tag="650">Bronze doors</fast>
+      <fast count="852" norm="1356024" size="4" tag="630">Bible</fast>
+      <fast count="838" norm="816786" size="4" tag="650">Art, Renaissance</fast>
+      <fast count="820" norm="719825" size="4" tag="610">Battistero di San Giovanni (Florence, Italy)</fast>
+      <fast count="813" norm="858898" size="4" tag="650">Christian antiquities</fast>
+      <fast count="813" norm="1208698" size="3" tag="651">Italy--Milan</fast>
+      <fast count="813" norm="860509" size="3" tag="650">Church and state</fast>
+      <fast count="813" norm="1204833" size="3" tag="651">Turkey--Istanbul</fast>
+      <fast count="804" norm="813624" size="3" tag="650">Architecture, Baroque</fast>
+      <fast count="795" norm="862177" size="3" tag="650">City planning</fast>
+      <fast count="782" norm="813586" size="3" tag="650">Architecture and state</fast>
+      <fast count="759" norm="139321" size="3" tag="600">Alexander--VII,--Pope,</fast>
+      <fast count="344" norm="813825" size="3" tag="650">Architecture, Medieval</fast>
+      <fast count="258" norm="76887" size="3" tag="600">Krautheimer, Richard,</fast>
+      <fast count="258" norm="860599" size="3" tag="650">Church buildings</fast>
+      <fast count="195" norm="813346" size="2" tag="650">Architecture</fast>
+      <fast count="173" norm="1730477" size="2" tag="650">Jewish architecture</fast>
+      <fast count="173" norm="1141042" size="2" tag="650">Synagogues</fast>
+      <fast count="162" norm="828176" size="2" tag="650">Basilicas</fast>
+      <fast count="161" norm="897830" size="2" tag="650">Drawing, Italian</fast>
+      <fast count="155" norm="1208574" size="2" tag="651">Vatican City</fast>
+      <fast count="155" norm="1109483" size="2" tag="650">Sculpture</fast>
+      <fast count="147" norm="1109611" size="2" tag="650">Sculpture, Classical</fast>
+      <fast count="138" norm="1210272" size="2" tag="651">Germany</fast>
+      <fast count="127" norm="553835" size="2" tag="610">Basilica di San Pietro in Vaticano</fast>
+      <fast count="119" norm="1898837" size="1" tag="600">Opicino,--de Canistris,</fast>
+      <fast count="117" norm="827284" size="1" tag="650">Baptisteries</fast>
+      <fast count="101" norm="815381" size="1" tag="650">Art--Themes, motives</fast>
+      <fast count="93" norm="1204565" size="1" tag="651">Italy</fast>
+      <fast count="91" norm="815177" size="1" tag="650">Art</fast>
+      <fast count="91" norm="858904" size="1" tag="650">Christian art and symbolism</fast>
+      <fast count="91" norm="815259" size="1" tag="650">Art--Historiography</fast>
+      <fast count="85" norm="897842" size="1" tag="650">Drawing, Medieval</fast>
+      <fast count="85" norm="1199914" size="1" tag="650">Architectural drawing, Medieval</fast>
+      <fast count="85" norm="1204895" size="1" tag="651">Italy--Pavia</fast>
+    </fastHeadings>
+    <languages count="11">
+      <lang code="eng" count="383"/>
+      <lang code="ger" count="102"/>
+      <lang code="ita" count="56"/>
+      <lang code="fre" count="16"/>
+      <lang code="spa" count="4"/>
+      <lang code="gre" count="1"/>
+      <lang code="heb" count="1"/>
+      <lang code="rus" count="1"/>
+      <lang code="lat" count="1"/>
+      <lang code="mul" count="1"/>
+      <lang code="mis" count="1"/>
+    </languages>
+    <birthDate>1897</birthDate>
+    <deathDate>1994</deathDate>
+    <dates>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1900</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1924</date>
+      <date byCount="18" byScaled="4.17" count="18" scaled="4.17">1925</date>
+      <date byCount="12" byScaled="3.58" count="12" scaled="3.58">1927</date>
+      <date byCount="7" byScaled="2.81" count="7" scaled="2.81">1928</date>
+      <date byCount="4" byScaled="2.00" count="4" scaled="2.00">1929</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1930</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">1932</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1933</date>
+      <date byCount="7" byScaled="2.81" count="7" scaled="2.81">1934</date>
+      <date byCount="6" byScaled="2.58" count="6" scaled="2.58">1935</date>
+      <date byCount="27" byScaled="4.75" count="27" scaled="4.75">1936</date>
+      <date aboutCount="1" aboutScaled="0.00" byCount="64" byScaled="6.00" count="65" scaled="6.02">1937</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1938</date>
+      <date byCount="9" byScaled="3.17" count="9" scaled="3.17">1939</date>
+      <date byCount="3" byScaled="1.58" count="3" scaled="1.58">1940</date>
+      <date byCount="10" byScaled="3.32" count="10" scaled="3.32">1941</date>
+      <date byCount="17" byScaled="4.09" count="17" scaled="4.09">1942</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">1945</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">1946</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">1947</date>
+      <date byCount="4" byScaled="2.00" count="4" scaled="2.00">1948</date>
+      <date byCount="6" byScaled="2.58" count="6" scaled="2.58">1949</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">1950</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1951</date>
+      <date byCount="7" byScaled="2.81" count="7" scaled="2.81">1952</date>
+      <date byCount="5" byScaled="2.32" count="5" scaled="2.32">1953</date>
+      <date byCount="3" byScaled="1.58" count="3" scaled="1.58">1955</date>
+      <date byCount="24" byScaled="4.58" count="24" scaled="4.58">1956</date>
+      <date byCount="7" byScaled="2.81" count="7" scaled="2.81">1957</date>
+      <date byCount="3" byScaled="1.58" count="3" scaled="1.58">1958</date>
+      <date byCount="15" byScaled="3.91" count="15" scaled="3.91">1959</date>
+      <date byCount="8" byScaled="3.00" count="8" scaled="3.00">1960</date>
+      <date byCount="5" byScaled="2.32" count="5" scaled="2.32">1961</date>
+      <date byCount="20" byScaled="4.32" count="20" scaled="4.32">1962</date>
+      <date byCount="5" byScaled="2.32" count="5" scaled="2.32">1963</date>
+      <date byCount="8" byScaled="3.00" count="8" scaled="3.00">1964</date>
+      <date byCount="46" byScaled="5.52" count="46" scaled="5.52">1965</date>
+      <date byCount="6" byScaled="2.58" count="6" scaled="2.58">1966</date>
+      <date byCount="28" byScaled="4.81" count="28" scaled="4.81">1967</date>
+      <date byCount="4" byScaled="2.00" count="4" scaled="2.00">1968</date>
+      <date byCount="37" byScaled="5.21" count="37" scaled="5.21">1969</date>
+      <date byCount="79" byScaled="6.30" count="79" scaled="6.30">1970</date>
+      <date byCount="58" byScaled="5.86" count="58" scaled="5.86">1971</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">1972</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1973</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1974</date>
+      <date byCount="25" byScaled="4.64" count="25" scaled="4.64">1975</date>
+      <date byCount="12" byScaled="3.58" count="12" scaled="3.58">1976</date>
+      <date byCount="22" byScaled="4.46" count="22" scaled="4.46">1977</date>
+      <date byCount="4" byScaled="2.00" count="4" scaled="2.00">1978</date>
+      <date byCount="13" byScaled="3.70" count="13" scaled="3.70">1979</date>
+      <date byCount="41" byScaled="5.36" count="41" scaled="5.36">1980</date>
+      <date byCount="22" byScaled="4.46" count="22" scaled="4.46">1981</date>
+      <date byCount="37" byScaled="5.21" count="37" scaled="5.21">1982</date>
+      <date byCount="29" byScaled="4.86" count="29" scaled="4.86">1983</date>
+      <date byCount="7" byScaled="2.81" count="7" scaled="2.81">1984</date>
+      <date byCount="29" byScaled="4.86" count="29" scaled="4.86">1985</date>
+      <date byCount="32" byScaled="5.00" count="32" scaled="5.00">1986</date>
+      <date aboutCount="2" aboutScaled="1.00" byCount="33" byScaled="5.04" count="35" scaled="5.13">1987</date>
+      <date byCount="17" byScaled="4.09" count="17" scaled="4.09">1988</date>
+      <date byCount="9" byScaled="3.17" count="9" scaled="3.17">1989</date>
+      <date byCount="14" byScaled="3.81" count="14" scaled="3.81">1990</date>
+      <date aboutCount="6" aboutScaled="2.58" byCount="14" byScaled="3.81" count="20" scaled="4.32">1991</date>
+      <date byCount="6" byScaled="2.58" count="6" scaled="2.58">1992</date>
+      <date aboutCount="1" aboutScaled="0.00" byCount="25" byScaled="4.64" count="26" scaled="4.70">1993</date>
+      <date aboutCount="4" aboutScaled="2.00" byCount="7" byScaled="2.81" count="11" scaled="3.46">1994</date>
+      <date aboutCount="2" aboutScaled="1.00" byCount="18" byScaled="4.17" count="20" scaled="4.32">1995</date>
+      <date byCount="28" byScaled="4.81" count="28" scaled="4.81">1996</date>
+      <date aboutCount="1" aboutScaled="0.00" byCount="20" byScaled="4.32" count="21" scaled="4.39">1997</date>
+      <date aboutCount="1" aboutScaled="0.00" byCount="12" byScaled="3.58" count="13" scaled="3.70">1998</date>
+      <date byCount="4" byScaled="2.00" count="4" scaled="2.00">1999</date>
+      <date byCount="32" byScaled="5.00" count="32" scaled="5.00">2000</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">2001</date>
+      <date aboutCount="3" aboutScaled="1.58" byCount="3" byScaled="1.58" count="6" scaled="2.58">2002</date>
+      <date byCount="3" byScaled="1.58" count="3" scaled="1.58">2003</date>
+      <date aboutCount="1" aboutScaled="0.00" byCount="1" byScaled="0.00" count="2" scaled="1.00">2004</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">2005</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">2007</date>
+      <date byCount="7" byScaled="2.81" count="7" scaled="2.81">2008</date>
+      <date byCount="3" byScaled="1.58" count="3" scaled="1.58">2009</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">2010</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">2011</date>
+      <date byCount="6" byScaled="2.58" count="6" scaled="2.58">2012</date>
+      <date byCount="5" byScaled="2.32" count="5" scaled="2.32">2013</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">2018</date>
+      <date byCount="9" byScaled="3.17" count="9" scaled="3.17">2019</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">2020</date>
+    </dates>
+    <totalHoldings>14525</totalHoldings>
+    <workCount>353</workCount>
+    <recordCount>1302</recordCount>
+    <ddc ident="">945.632</ddc>
+    <lcc ident="DG811">DG811</lcc>
+    <relators>
+      <relator code="aut" count="12310">
+        <oclcnum count="1183">ocn004834277</oclcnum>
+        <oclcnum count="755">ocn007740982</oclcnum>
+        <oclcnum count="746">ocn000128347</oclcnum>
+        <oclcnum count="720">ocn011573665</oclcnum>
+        <oclcnum count="688">ocn000523677</oclcnum>
+        <oclcnum count="439">ocn001058249</oclcnum>
+        <oclcnum count="402">ocn001528940</oclcnum>
+        <oclcnum count="377">ocn001148510</oclcnum>
+        <oclcnum count="358">ocn002335804</oclcnum>
+        <oclcnum count="331">ocn027694993</oclcnum>
+      </relator>
+      <relator code="hnr" count="158">
+        <oclcnum count="44">ocn157295511</oclcnum>
+        <oclcnum count="32">ocn245848133</oclcnum>
+        <oclcnum count="28">ocn246975928</oclcnum>
+        <oclcnum count="23">ocn247446271</oclcnum>
+        <oclcnum count="13">ocn468320008</oclcnum>
+        <oclcnum count="9">ocn468692865</oclcnum>
+        <oclcnum count="8">ocn075866476</oclcnum>
+        <oclcnum count="1">ocn468461747</oclcnum>
+      </relator>
+      <relator code="oth" count="73">
+        <oclcnum count="7">ocn1222291450</oclcnum>
+        <oclcnum count="5">ocn1069941510</oclcnum>
+        <oclcnum count="5">ocn1070835376</oclcnum>
+        <oclcnum count="4">ocn1068111686</oclcnum>
+        <oclcnum count="4">ocn1067779953</oclcnum>
+        <oclcnum count="4">ocn1072432305</oclcnum>
+        <oclcnum count="3">ocn1070717932</oclcnum>
+        <oclcnum count="3">ocn1067894382</oclcnum>
+        <oclcnum count="3">ocn1069941508</oclcnum>
+        <oclcnum count="3">ocn186067082</oclcnum>
+      </relator>
+      <relator code="edt" count="48">
+        <oclcnum count="25">ocn832210693</oclcnum>
+        <oclcnum count="21">ocn832210713</oclcnum>
+        <oclcnum count="2">ocn185809569</oclcnum>
+      </relator>
+      <relator code="ctb" count="8">
+        <oclcnum count="8">ocn718960059</oclcnum>
+      </relator>
+      <relator code="ive" count="6">
+        <oclcnum count="1">ocn887463212</oclcnum>
+        <oclcnum count="1">ocn691631745</oclcnum>
+        <oclcnum count="1">ocn1182573325</oclcnum>
+        <oclcnum count="1">ocn691803681</oclcnum>
+        <oclcnum count="1">ocn743133150</oclcnum>
+        <oclcnum count="1">ocn691897301</oclcnum>
+      </relator>
+      <relator code="dte" count="4">
+        <oclcnum count="2">ocn441054262</oclcnum>
+        <oclcnum count="2">ocn441857184</oclcnum>
+      </relator>
+      <relator code="cre" count="2">
+        <oclcnum count="1">ocn1035581000</oclcnum>
+        <oclcnum count="1">ocn1036126803</oclcnum>
+      </relator>
+      <relator code="htt" count="1">
+        <oclcnum count="1">ocn1198929465</oclcnum>
+      </relator>
+      <relator code="col" count="1">
+        <oclcnum count="1">ocn923524882</oclcnum>
+      </relator>
+    </relators>
+  </nameInfo>
+  <by>
+    <citation ident="newwork523677">
+      <holdings>2798</holdings>
+      <numEditions>117</numEditions>
+      <oclcnum>ocn000523677</oclcnum>
+      <recordType>book</recordType>
+      <languages count="6">
+        <lang code="eng" count="110"/>
+        <lang code="ita" count="2"/>
+        <lang code="und" count="2"/>
+        <lang code="fre" count="1"/>
+        <lang code="gre" count="1"/>
+        <lang code="spa" count="1"/>
+      </languages>
+      <date>1965</date>
+      <dates different="12" first="1965" last="1992"/>
+      <audLevel>0.56</audLevel>
+      <creator ident="102327382,n81086393">Krautheimer, Richard</creator>
+      <title>Early Christian and Byzantine architecture</title>
+      <genres>
+        <genre count="2513" norm="history">History</genre>
+      </genres>
+      <cover isbn="9780300052947" oclc="ocn318412218" type="isbn">+-+2947055585324</cover>
+    </citation>
+    <citation ident="newwork4834277">
+      <holdings>2069</holdings>
+      <numEditions>66</numEditions>
+      <oclcnum>ocn004834277</oclcnum>
+      <recordType>book</recordType>
+      <languages count="5">
+        <lang code="eng" count="44"/>
+        <lang code="ger" count="18"/>
+        <lang code="ita" count="2"/>
+        <lang code="und" count="1"/>
+        <lang code="fre" count="1"/>
+      </languages>
+      <date>1979</date>
+      <dates different="9" first="1979" last="2004"/>
+      <audLevel>0.52</audLevel>
+      <creator ident="102327382,n81086393">Krautheimer, Richard</creator>
+      <title>Rome, profile of a city, 312-1308</title>
+      <genres>
+        <genre count="1635" norm="history">History</genre>
+      </genres>
+      <summary>"In this classic study, surveying the city's life from Christian Antiquity through the Middle Ages, Richard Krautheimer focuses on monuments of art and architecture as they reflect the historical events, the ideological currents, and the meaning Rome held for its contemporaries. Lavishly illustrated, this book tells an intriguing story in which the heritage of antiquity intertwines with the living presence of Christianity. Written by one of the great art historians of our time, it offers a profile of the Eternal City unlike any drawn in the past or likely to be drawn in the future."--Amazon</summary>
+      <cover isbn="9780691003191" oclc="ocn1076012759" type="isbn">+-+6468556415324</cover>
+    </citation>
+    <citation ident="newwork1058249">
+      <holdings>1991</holdings>
+      <numEditions>87</numEditions>
+      <oclcnum>ocn001058249</oclcnum>
+      <recordType>book</recordType>
+      <languages count="4">
+        <lang code="eng" count="78"/>
+        <lang code="und" count="6"/>
+        <lang code="ita" count="2"/>
+        <lang code="ger" count="1"/>
+      </languages>
+      <date>1956</date>
+      <dates different="6" first="1956" last="2019"/>
+      <audLevel>0.64</audLevel>
+      <creator ident="102327382,n81086393">Krautheimer, Richard</creator>
+      <title>Lorenzo Ghiberti</title>
+      <genres>
+        <genre count="6" norm="criticism, interpretation, etc">Criticism, interpretation, etc</genre>
+        <genre count="1" norm="biographies">Biographies</genre>
+      </genres>
+      <summary>Lorenzo Ghiberti, sculptor and towering figure of the Renaissance, was the creator of the celebrated Bronze Doors of the Baptistery at Florence, a work that occupied him for twenty years and that became known as the Doors of Paradise. Here Richard Krautheimer takes what Charles S. Seymour, Jr., describes as "a fascinating journey into the mind, career, and inventiveness of one of the indisputably outstanding sculptors of all the Western tradition." -- Form publisher's description</summary>
+      <cover isbn="9780691003368" oclc="ocn1109328670" type="isbn">+-+3188556415324</cover>
+    </citation>
+    <citation ident="newwork128347">
+      <holdings>929</holdings>
+      <numEditions>43</numEditions>
+      <oclcnum>ocn000128347</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="eng" count="41"/>
+        <lang code="und" count="2"/>
+      </languages>
+      <date>1969</date>
+      <dates different="2" first="1969" last="1971"/>
+      <audLevel>0.64</audLevel>
+      <creator ident="102327382,n81086393">Krautheimer, Richard</creator>
+      <title>Studies in early Christian, Medieval, and Renaissance art</title>
+      <summary>Includes translations of papers originally published in German and Italian</summary>
+    </citation>
+    <citation ident="newwork208416">
+      <holdings>897</holdings>
+      <numEditions>22</numEditions>
+      <oclcnum>ocn000208416</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="eng" count="20"/>
+        <lang code="und" count="2"/>
+      </languages>
+      <date>1971</date>
+      <dates different="2" first="1971" last="2019"/>
+      <audLevel>0.52</audLevel>
+      <creator ident="54188431,n78096136">Ghiberti, Lorenzo</creator>
+      <title>Ghiberti's bronze doors</title>
+      <genres>
+        <genre count="852" norm="illustrated works">Illustrated works</genre>
+      </genres>
+      <summary>Legend has it that Michelangelo named the East Door of the Baptistery in Florence, "the Gates of Paradise." Set in place in 1452, it may be seen today. To recount the story of Ghiberti's double achievement, the North as well as the East Door, Richard Krautheimer has extracted the whole wealth of illustrations for the doors: every panel is shown, some in detail, with close-ups of the portrait busts and the plant and animal vignettes that enliven the borders. Four color plates recapture the shimmer of the gilded bronze. To these illustrations Mr. Krautheimer has added a brief commentary, touching on the style and meaning of the Old and New Testament scenes represented and sketching the life of the artist -- first as a young, unknown bronze-caster competing for the Baptistery commission and then as a craftsman par excellence. -- From publisher's description</summary>
+    </citation>
+    <citation ident="newwork7740982">
+      <holdings>864</holdings>
+      <numEditions>29</numEditions>
+      <oclcnum>ocn007740982</oclcnum>
+      <recordType>book</recordType>
+      <languages count="3">
+        <lang code="eng" count="20"/>
+        <lang code="ita" count="8"/>
+        <lang code="rus" count="1"/>
+      </languages>
+      <date>1981</date>
+      <dates different="7" first="1981" last="2020"/>
+      <audLevel>0.68</audLevel>
+      <creator ident="102327382,n81086393">Krautheimer, Richard</creator>
+      <title>Three Christian capitals : topography and politics</title>
+      <cover isbn="9780520060340" oclc="ocn1202075538" type="isbn">+-+5985155705324</cover>
+    </citation>
+    <citation ident="newwork11573665">
+      <holdings>854</holdings>
+      <numEditions>25</numEditions>
+      <oclcnum>ocn011573665</oclcnum>
+      <recordType>book</recordType>
+      <languages count="3">
+        <lang code="eng" count="16"/>
+        <lang code="ita" count="7"/>
+        <lang code="und" count="2"/>
+      </languages>
+      <date>1975</date>
+      <dates different="3" first="1975" last="1987"/>
+      <audLevel>0.60</audLevel>
+      <creator ident="102327382,n81086393">Krautheimer, Richard</creator>
+      <title>The Rome of Alexander VII, 1655-1667</title>
+      <genres>
+        <genre count="12" norm="history">History</genre>
+      </genres>
+      <summary>"This richly illustrated volume analyzes a turning point in the history of Baroque Rome and the accomplishments of the man who changed the city's map and its image more significantly than any other pope since the High Renaissance,.  The great squares of Rome are his monuments.  Through his bulding and renovating programs, Alexander VII created he Rome that ever since his time attracted travelers from all over the world."--Page 4 of cover</summary>
+      <cover isbn="9780691002774" oclc="ocn011573665" type="isbn">+-+9227556415324</cover>
+    </citation>
+    <citation ident="newwork1122460252">
+      <holdings>281</holdings>
+      <numEditions>4</numEditions>
+      <oclcnum>ocn1122460252</oclcnum>
+      <recordType>file</recordType>
+      <languages count="2">
+        <lang code="eng" count="3"/>
+        <lang code="und" count="1"/>
+      </languages>
+      <date>1970</date>
+      <dates different="2" first="1970" last="2019"/>
+      <audLevel>0.52</audLevel>
+      <creator ident="102327382,n81086393">Krautheimer, Richard</creator>
+      <title>Lorenzo Ghiberti: Volume II</title>
+    </citation>
+    <citation ident="newwork36676115">
+      <holdings>214</holdings>
+      <numEditions>13</numEditions>
+      <oclcnum>ocn036676115</oclcnum>
+      <recordType>book</recordType>
+      <languages count="3">
+        <lang code="eng" count="7"/>
+        <lang code="ger" count="5"/>
+        <lang code="ita" count="1"/>
+      </languages>
+      <date>1996</date>
+      <dates different="1" first="1996" last="1996"/>
+      <audLevel>0.88</audLevel>
+      <title>Architectural studies in memory of Richard Krautheimer</title>
+      <genres>
+        <genre count="167" norm="history">History</genre>
+        <genre count="147" norm="festschriften">Festschriften</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork1109724">
+      <holdings>208</holdings>
+      <numEditions>12</numEditions>
+      <oclcnum>ocn001109724</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="ger" count="11"/>
+        <lang code="heb" count="1"/>
+      </languages>
+      <date>1927</date>
+      <dates different="2" first="1927" last="1994"/>
+      <audLevel>0.84</audLevel>
+      <creator ident="102327382,n81086393">Krautheimer, Richard</creator>
+      <title>Mittelalterliche Synagogen</title>
+    </citation>
+    <citation ident="newwork25120492">
+      <holdings>194</holdings>
+      <numEditions>30</numEditions>
+      <oclcnum>ocn025120492</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="ger" count="15"/>
+        <lang code="ita" count="15"/>
+      </languages>
+      <date>1988</date>
+      <dates different="5" first="1988" last="2008"/>
+      <audLevel>0.60</audLevel>
+      <creator ident="102327382,n81086393">Krautheimer, Richard</creator>
+      <title>Ausgewählte Aufsätze zur europäischen Kunstgeschichte</title>
+      <genres>
+        <genre count="89" norm="history">History</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork40489830">
+      <holdings>171</holdings>
+      <numEditions>11</numEditions>
+      <oclcnum>ocn040489830</oclcnum>
+      <recordType>book</recordType>
+      <languages count="4">
+        <lang code="ger" count="5"/>
+        <lang code="ita" count="4"/>
+        <lang code="mis" count="1"/>
+        <lang code="mul" count="1"/>
+      </languages>
+      <date>1998</date>
+      <dates different="1" first="1998" last="1998"/>
+      <audLevel>0.88</audLevel>
+      <creator ident="109070700,no93007851">Winner, Matthias</creator>
+      <title>Il Cortile delle Statue = Der Statuenhof des Belvedere im Vatikan : Akten des internationalen Kongresses zu Ehren von Richard Krautheimer, Rom, 21.-23. Oktober 1992</title>
+      <genres>
+        <genre count="2" norm="history">History</genre>
+        <genre count="2" norm="catalogs">Catalogs</genre>
+        <genre count="152" norm="conference papers and proceedings">Conference papers and proceedings</genre>
+      </genres>
+      <summary>El origen de los museos vaticanos se configuró a partir de las obras de arte que de manera privada tenía el cardenal Giuliano della Rovere, que cuando fue escogido papa en 1503, con el nombre de Julio II, trasladó su colección al patio del Palacio Belvedere que se adornó con algunas esculturas, hoy conocido bajo el nombre de Patio Octógono</summary>
+    </citation>
+    <citation ident="newwork1114709">
+      <holdings>170</holdings>
+      <numEditions>21</numEditions>
+      <oclcnum>ocn001114709</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="21"/>
+      </languages>
+      <date>1925</date>
+      <dates different="2" first="1925" last="2000"/>
+      <audLevel>0.71</audLevel>
+      <creator ident="102327382,n81086393">Krautheimer, Richard</creator>
+      <title>Die Kirchen der Bettelorden in Deutschland</title>
+    </citation>
+    <citation ident="newwork237388">
+      <holdings>167</holdings>
+      <numEditions>8</numEditions>
+      <oclcnum>ocn000237388</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="eng" count="7"/>
+        <lang code="lat" count="1"/>
+      </languages>
+      <date>1937</date>
+      <dates different="2" first="1937" last="1970"/>
+      <audLevel>0.93</audLevel>
+      <creator ident="102327382,n81086393">Krautheimer, Richard</creator>
+      <title>Corpus basilicarum Christianarum Romae. The early Christian basilicas of Rome (IV-IX cent.)</title>
+    </citation>
+    <citation ident="newwork40626058">
+      <holdings>161</holdings>
+      <numEditions>13</numEditions>
+      <oclcnum>ocn040626058</oclcnum>
+      <recordType>book</recordType>
+      <languages count="3">
+        <lang code="ita" count="10"/>
+        <lang code="ger" count="2"/>
+        <lang code="eng" count="1"/>
+      </languages>
+      <date>1997</date>
+      <dates different="1" first="1997" last="1997"/>
+      <audLevel>0.88</audLevel>
+      <title>In memoriam Richard Krautheimer : relazioni della giornata di studi, Roma, 20 febbraio 1995, Palazzo dei Conservatori, Salla dell'Ercole</title>
+      <genres>
+        <genre count="10" norm="history">History</genre>
+        <genre count="100" norm="conference papers and proceedings">Conference papers and proceedings</genre>
+        <genre count="91" norm="festschriften">Festschriften</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork15377315">
+      <holdings>144</holdings>
+      <numEditions>7</numEditions>
+      <oclcnum>ocn015377315</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="eng" count="6"/>
+        <lang code="ita" count="1"/>
+      </languages>
+      <date>1985</date>
+      <dates different="2" first="1985" last="1986"/>
+      <audLevel>0.92</audLevel>
+      <creator ident="102327382,n81086393">Krautheimer, Richard</creator>
+      <title>St. Peter's and medieval Rome</title>
+      <genres>
+        <genre count="127" norm="history">History</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork254998">
+      <holdings>136</holdings>
+      <numEditions>19</numEditions>
+      <oclcnum>ocn001965186</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="ger" count="17"/>
+        <lang code="eng" count="2"/>
+      </languages>
+      <date>1936</date>
+      <dates different="3" first="1936" last="1969"/>
+      <audLevel>0.93</audLevel>
+      <creator ident="25362364,n92064324">Salomon, Richard</creator>
+      <title>Opicinus de Canistris : Weltbild und Bekenntnisse eines avignonesischen Klerikers des 14. Jahrhunderts</title>
+    </citation>
+    <citation ident="newwork38400939">
+      <holdings>127</holdings>
+      <numEditions>5</numEditions>
+      <oclcnum>ocn038400939</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="ger" count="4"/>
+        <lang code="eng" count="1"/>
+      </languages>
+      <date>1997</date>
+      <dates different="1" first="1997" last="1997"/>
+      <audLevel>0.93</audLevel>
+      <creator ident="37077118,nr96001321">Jäggi, Carola</creator>
+      <title>Pratum Romanum : Richard Krautheimer zum 100. Geburtstag</title>
+    </citation>
+    <citation ident="newwork17902611">
+      <holdings>111</holdings>
+      <numEditions>14</numEditions>
+      <oclcnum>ocn029304090</oclcnum>
+      <recordType>book</recordType>
+      <languages count="3">
+        <lang code="fre" count="7"/>
+        <lang code="eng" count="4"/>
+        <lang code="spa" count="3"/>
+      </languages>
+      <date>1042</date>
+      <dates different="4" first="1042" last="2018"/>
+      <audLevel>0.60</audLevel>
+      <creator ident="102327382,n81086393">Krautheimer, Richard</creator>
+      <title>Introduction à une "iconographie de l'architecture médiévale"</title>
+      <genres>
+        <genre count="79" norm="history">History</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork42890051">
+      <holdings>106</holdings>
+      <numEditions>2</numEditions>
+      <oclcnum>ocn042890051</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="fre" count="2"/>
+      </languages>
+      <date>1999</date>
+      <dates different="1" first="1999" last="1999"/>
+      <audLevel>0.47</audLevel>
+      <creator ident="102327382,n81086393">Krautheimer, Richard</creator>
+      <title>Rome : portrait d'une ville, 312-1308</title>
+      <genres>
+        <genre count="106" norm="history">History</genre>
+        <genre count="0" norm="criticism, interpretation, etc">Criticism, interpretation, etc</genre>
+      </genres>
+    </citation>
+  </by>
+  <about>
+    <citation ident="newwork52442736">
+      <holdings>80</holdings>
+      <numEditions>3</numEditions>
+      <oclcnum>ocn052442736</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ita" count="3"/>
+      </languages>
+      <date>2002</date>
+      <dates different="1" first="2002" last="2002"/>
+      <audLevel>0.90</audLevel>
+      <creator ident="uncontrolled">Congresso internazionale di studi sulle chiese di Roma</creator>
+      <title>Ecclesiae urbis : atti del Congresso internazionale di studi sulle chiese di Roma (IV-X secolo), Roma, 4-10 settembre 2000</title>
+      <genres>
+        <genre count="78" norm="church history">Church history</genre>
+        <genre count="86" norm="conference papers and proceedings">Conference papers and proceedings</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork38400939">
+      <holdings>4</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn878540720</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="1"/>
+      </languages>
+      <date>1997</date>
+      <dates different="1" first="1997" last="1997"/>
+      <audLevel>0.93</audLevel>
+      <creator ident="37077118,nr96001321">Jäggi, Carola</creator>
+      <title>Pratum Romanum : Richard Krautheimer zum 100. Geburtstag</title>
+    </citation>
+    <citation ident="newwork976888552">
+      <holdings>3</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn976888552</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="eng" count="1"/>
+      </languages>
+      <date>1991</date>
+      <dates different="1" first="1991" last="1991"/>
+      <audLevel>0.94</audLevel>
+      <creator ident="uncontrolled">Canadian International Art History Conference</creator>
+      <title>Rome : tradition innovation and renewal : a Canadian International Art History Conference 8-13 June 1987 Rome : in honour of Richard Krautheimer and Leonard Boyle</title>
+      <genres>
+        <genre count="3" norm="bibliographies">Bibliographies</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork40489830">
+      <holdings>2</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn951411095</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="1"/>
+      </languages>
+      <date>1998</date>
+      <dates different="1" first="1998" last="1998"/>
+      <audLevel>0.88</audLevel>
+      <creator ident="109070700,no93007851">Winner, Matthias</creator>
+      <title>Il Cortile delle Statue = Der Statuenhof des Belvedere im Vatikan : Akten des internationalen Kongresses zu Ehren von Richard Krautheimer, Rom, 21.-23. Oktober 1992</title>
+      <genres>
+        <genre count="2" norm="history">History</genre>
+        <genre count="2" norm="catalogs">Catalogs</genre>
+        <genre count="152" norm="conference papers and proceedings">Conference papers and proceedings</genre>
+      </genres>
+      <summary>El origen de los museos vaticanos se configuró a partir de las obras de arte que de manera privada tenía el cardenal Giuliano della Rovere, que cuando fue escogido papa en 1503, con el nombre de Julio II, trasladó su colección al patio del Palacio Belvedere que se adornó con algunas esculturas, hoy conocido bajo el nombre de Patio Octógono</summary>
+    </citation>
+    <citation ident="newwork79460742">
+      <holdings>2</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn079460742</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="eng" count="1"/>
+      </languages>
+      <date>2004</date>
+      <dates different="1" first="2004" last="2004"/>
+      <audLevel>0.00</audLevel>
+      <creator ident="uncontrolled">Ackerman, James S</creator>
+      <title>Richard Krautheimer, 6 July 1897-1 November 1994</title>
+    </citation>
+    <citation ident="newwork122491153">
+      <holdings>2</holdings>
+      <numEditions>2</numEditions>
+      <oclcnum>ocn613478050</oclcnum>
+      <recordType>visu</recordType>
+      <languages count="1">
+        <lang code="eng" count="2"/>
+      </languages>
+      <date>1991</date>
+      <dates different="1" first="1991" last="1991"/>
+      <audLevel>0.28</audLevel>
+      <creator ident="100949358,no2015028732">Collin, Philippe</creator>
+      <title>Richard Krautheimer, journées romaines</title>
+      <summary>"Un portrait de l'historien d'art Richard Krautheimer. Après avoir enseigné l'histoire de l'architecture aux Etats-Unis, il met à jour un important corpus sur l'architecture de l'ère chrétienne à Rome. Il écrit une douzaine d'ouvrages dont l'un consacré au sculpteur florentin Lorenzo Ghiberti</summary>
+    </citation>
+    <citation ident="newwork83687482">
+      <holdings>2</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn083687482</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="eng" count="1"/>
+      </languages>
+      <date>1995</date>
+      <dates different="1" first="1995" last="1995"/>
+      <audLevel>0.94</audLevel>
+      <title>In memoriam : Richard Krautheimer, 1897-1994 : Institute of Fine Arts, New York University, 2 April 1995</title>
+    </citation>
+    <citation ident="newwork26255302">
+      <holdings>2</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn080869340</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="eng" count="1"/>
+      </languages>
+      <date>1991</date>
+      <dates different="1" first="1991" last="1991"/>
+      <audLevel>0.93</audLevel>
+      <creator ident="uncontrolled">Canadian International Art History Conference</creator>
+      <title>Rome : tradition, innovation and renewal : a Canadian International Art History Conference : 8-13 June 1987, Rome : in honour of Richard Krautheimer on the occasion of his 90th birthday and Leonard Boyle O.P., Prefect of the Biblioteca apostolica vaticana</title>
+      <genres>
+        <genre count="1" norm="history">History</genre>
+        <genre count="2" norm="conference papers and proceedings">Conference papers and proceedings</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork36169832">
+      <holdings>1</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn036725354</oclcnum>
+      <recordType>mix</recordType>
+      <languages count="1">
+        <lang code="eng" count="1"/>
+      </languages>
+      <date>1994</date>
+      <dates different="1" first="1994" last="1994"/>
+      <audLevel>1.00</audLevel>
+      <creator ident="39372701,n50036883">Ackerman, James S</creator>
+      <title>Art historian James S. Ackerman</title>
+      <genres>
+        <genre count="4" norm="interviews">Interviews</genre>
+      </genres>
+      <summary>Ackerman discusses his childhood and family background; career as art historian and academic at Berkeley and Harvard. Topics include effects of the 1960s on art history, race, gender and tenure issues at Harvard, faculty recruitment, shift from Renaissance to 19th cent. as a research focus, marriages</summary>
+    </citation>
+    <citation ident="newwork863419431">
+      <holdings>1</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn863419431</oclcnum>
+      <recordType>visu</recordType>
+      <languages count="1">
+        <lang code="fre" count="1"/>
+      </languages>
+      <date>1994</date>
+      <dates different="1" first="1994" last="1994"/>
+      <audLevel>0.47</audLevel>
+      <creator ident="100949358,no2015028732">Collin, Philippe</creator>
+      <title>Richard Krautheimer : une journée roumaine</title>
+    </citation>
+    <citation ident="newwork39451643">
+      <holdings>1</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn039451643</oclcnum>
+      <recordType>mix</recordType>
+      <languages count="1">
+        <lang code="eng" count="1"/>
+      </languages>
+      <date>1994</date>
+      <dates different="1" first="1994" last="1994"/>
+      <audLevel>0.47</audLevel>
+      <creator ident="237990903,n86002754">Smyth, Craig Hugh</creator>
+      <title>Art historian Craig Hugh Smyth</title>
+      <genres>
+        <genre count="1" norm="art">Art</genre>
+        <genre count="2" norm="interviews">Interviews</genre>
+      </genres>
+      <summary>Smyth discusses his childhood and family background and continues through his education and career as an art historian and academic. Major topics include art history at Princeton and New York University's Institute of Fine Arts, Harvard University's Villa i Tatti, fund-raising as director of the Institute of Fine Arts and I Tatti, and the contributions of major art historians during the mid-twentieth century</summary>
+    </citation>
+    <citation ident="newwork36874906">
+      <holdings>1</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn036874906</oclcnum>
+      <recordType>mix</recordType>
+      <languages count="1">
+        <lang code="eng" count="1"/>
+      </languages>
+      <date>1993</date>
+      <dates different="1" first="1993" last="1993"/>
+      <audLevel>0.90</audLevel>
+      <creator ident="23669014,n87888823">Coolidge, John</creator>
+      <title>The Modern sensibility at the Fogg Art Museum John Coolidge</title>
+      <genres>
+        <genre count="1" norm="history">History</genre>
+        <genre count="3" norm="interviews">Interviews</genre>
+      </genres>
+      <summary>The interview begins with Coolidge's family background, then continues through his education at Harvard University and the New York University Institute of Fine Arts. It concludes with his research, teaching and career as director of the Fogg Art Museum</summary>
+    </citation>
+    <citation ident="newwork1057852134">
+      <holdings>1</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn1057852134</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="eng" count="1"/>
+      </languages>
+      <date>1991</date>
+      <dates different="1" first="1991" last="1991"/>
+      <audLevel>0.47</audLevel>
+      <creator ident="uncontrolled">Canadian International Art History Conference</creator>
+      <title>Rome : tradition, innovation and renewal ; a Canadian International Art History Conference 8-13 June 1987 Rome : in honour of Richard Krautheimer, on the occasion of his 90th birthday and Leonard Boyle</title>
+      <genres>
+        <genre count="1" norm="bibliographies">Bibliographies</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork39497146">
+      <holdings>1</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn039497146</oclcnum>
+      <recordType>mix</recordType>
+      <languages count="1">
+        <lang code="eng" count="1"/>
+      </languages>
+      <date>1994</date>
+      <dates different="1" first="1994" last="1994"/>
+      <audLevel>0.79</audLevel>
+      <creator ident="96583245,n79126921">Lehmann, Phyllis Williams</creator>
+      <title>Art historian : Phyllis Williams Lehmann :</title>
+      <genres>
+        <genre count="3" norm="interviews">Interviews</genre>
+      </genres>
+      <summary>The interview begins with Lehmann's family background and childhood, and continues on through her education at Wellesley College and New York University's Institute of Fine Arts, and concludes with her teaching and deanship at Smith College. Major topics covered includes Lehmann's husband Karl Lehmann, her involvement in excavations at Samothrace, and her scholarly research and publications</summary>
+    </citation>
+    <citation ident="newwork434571462">
+      <holdings>1</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn434571462</oclcnum>
+      <recordType>mix</recordType>
+      <languages count="1">
+        <lang code="eng" count="1"/>
+      </languages>
+      <audLevel>0.07</audLevel>
+      <creator ident="23669014,n87888823">Coolidge, John</creator>
+      <title/>
+      <summary>These papers of Fogg Art Museum directors John Coolidge and Agnes Mongan document their administration of the museum and related professional activities. Most of Coolidge's papers were created during his administration, from 1948 to 1968; most of Mongan's papers are from her tenure as acting director and then director (1968 to 1971). The papers consist primarily of correspondence, including Coolidge's correspondence with art dealers, and also include photographs, memoranda, reports, meeting minutes, blueprints, printed material, letters of recommendation, page proofs, financial documents, sketches and grant proposals</summary>
+    </citation>
+    <citation ident="newwork888087522">
+      <holdings>1</holdings>
+      <numEditions>2</numEditions>
+      <oclcnum>ocn1030318448</oclcnum>
+      <recordType>rcrd</recordType>
+      <languages count="1">
+        <lang code="eng" count="2"/>
+      </languages>
+      <date>1991</date>
+      <dates different="1" first="1991" last="1991"/>
+      <audLevel>1.00</audLevel>
+      <creator ident="uncontrolled">Ackerman, James S</creator>
+      <title>Oral history interview with James S. Ackerman</title>
+      <summary/>
+    </citation>
+    <citation ident="newwork888091723">
+      <holdings>1</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn1030323093</oclcnum>
+      <recordType>mix</recordType>
+      <languages count="1">
+        <lang code="eng" count="1"/>
+      </languages>
+      <audLevel>0.07</audLevel>
+      <creator ident="uncontrolled">Ribicoff, Belle Krasne</creator>
+      <title>Belle Krasne Ribicoff papers</title>
+      <summary/>
+    </citation>
+    <citation ident="newwork61068435">
+      <holdings>1</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn061068435</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="eng" count="1"/>
+      </languages>
+      <date>1937</date>
+      <dates different="1" first="1937" last="1937"/>
+      <audLevel>0.00</audLevel>
+      <creator ident="140095232,n00073580">Young Men's Hebrew Association (New York, N.Y.)</creator>
+      <title>"The Jew in art" by Professor Richard Krautheimer (professor of art history, University of Louisville) formerly of University of Marburg : Monday, February 1st, 9 p.m. "Jewish art as the art of a national group" Tuesday, February 2nd, 9 p.m. "Jewish art as the art of a sociological group" ... Department of Jewish Studies Y.M.H.A. Lexington Avenue at 92nd Street</title>
+    </citation>
+    <citation ident="newwork1018014071">
+      <holdings>1</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn1018014071</oclcnum>
+      <recordType>file</recordType>
+      <languages count="1">
+        <lang code="und" count="1"/>
+      </languages>
+      <audLevel>0.07</audLevel>
+      <creator ident="45578848,n79074019">Caspary, Gerard E</creator>
+      <title>Gerard Caspary Collection</title>
+      <summary>The personal papers of the professor for medieval history, Gerard E. Caspary consist mainly of a typescript "From the edge of the Holocaust: Letters from my mother and grandmother 1940-1943", composed by Caspary between 2005-2006 and the original letters on which it is based. Also included are photographs and additional family research documents</summary>
+    </citation>
+    <citation ident="newwork201524908">
+      <holdings>1</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn201524908</oclcnum>
+      <recordType>mix</recordType>
+      <languages count="1">
+        <lang code="eng" count="1"/>
+      </languages>
+      <audLevel>0.07</audLevel>
+      <creator ident="10752366,n82012298">Bober, Harry</creator>
+      <title>The Harry Bober Papers</title>
+      <summary>The primary value of this collection lies in the fact that Bober was unable to publish many of his ideas on Medieval Schemata before his death. Other areas of interest within the collection involve investigation files and lecture materials. Investigation files were created by Bober while working as a consultant for art dealers, primarily H.P. Kraus. While the bulk of the lecture material available within Series II appears to have been generated by Bober, some very interesting files contain notes and lectures by colleagues Erwin Panofsky, Walter Cook, Richard Krautheimer, and Willibald Sauerländer</summary>
+    </citation>
+  </about>
+  <bestCover oclc="ocn1076012759" type="isbn">+-+6468556415324</bestCover>
+  <admin:administrativeMetadata xmlns:admin="http://viaf.org/xa/administrativeMetadata">
+    <admin:administrativeMetadataInstance>
+      <admin:administrativeMetadataDate>Thu Feb 25 12:24:47 EST 2021</admin:administrativeMetadataDate>
+      <admin:administrativeMetadataUser>batch</admin:administrativeMetadataUser>
+      <admin:administrativeMetadataRecordLength>46102</admin:administrativeMetadataRecordLength>
+    </admin:administrativeMetadataInstance>
+  </admin:administrativeMetadata>
+</Identity>

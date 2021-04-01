@@ -1,0 +1,1657 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6xs64gb",
+    "entityType": {
+        "id": "700",
+        "term": "person",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Person",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised"
+            },
+            "eventDateTime": "2015-09-19",
+            "agentType": {
+                "id": "687",
+                "term": "machine"
+            },
+            "agent": "CPF merge program",
+            "eventDescription": "Merge v2.0"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-08-17T15:20:21",
+            "standardDateTime": "2016-08-17T15:20:21",
+            "agentType": {
+                "id": "687",
+                "term": "machine",
+                "type": "agent_type"
+            },
+            "agent": "SNAC EAC-CPF Parser",
+            "eventDescription": "Bulk ingest into SNAC Database"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-08-17T15:20:22",
+            "standardDateTime": "2016-08-17T15:20:22",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)"
+        }
+    ],
+    "sources": [
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "uri": "http:\/\/www.worldcat.org\/oclc\/123408061",
+            "id": "64800738",
+            "version": "9472334"
+        },
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "uri": "http:\/\/www.worldcat.org\/oclc\/85176063",
+            "id": "64800737",
+            "version": "9472334"
+        },
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "text": "<objectXMLWrap>\n               <container xmlns=\"\">\n                  <filename>\/data\/source\/findingAids\/harvard\/art00017.xml<\/filename>\n                  <ead_entity en_type=\"persname\">Zeri, Federico<\/ead_entity>\n               <\/container>\n            <\/objectXMLWrap>",
+            "uri": "http:\/\/id.lib.harvard.edu\/ead\/art00017\/catalog",
+            "id": "64800741",
+            "version": "9472334"
+        },
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "uri": "http:\/\/www.worldcat.org\/oclc\/270525180",
+            "id": "64800739",
+            "version": "9472334"
+        },
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "uri": "http:\/\/www.worldcat.org\/oclc\/427636915",
+            "id": "64800740",
+            "version": "9472334"
+        },
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "uri": "http:\/\/viaf.org\/viaf\/17237451",
+            "id": "64800742",
+            "version": "9472334"
+        }
+    ],
+    "conventionDeclarations": [
+        {
+            "dataType": "ConventionDeclaration",
+            "text": "<conventionDeclaration><citation>VIAF<\/citation><\/conventionDeclaration>",
+            "id": "64800743",
+            "version": "9472334"
+        }
+    ],
+    "languagesUsed": [
+        {
+            "dataType": "Language",
+            "language": {
+                "id": "214",
+                "term": "ita",
+                "type": "language_code",
+                "description": "Italian"
+            },
+            "script": {
+                "id": "685",
+                "term": "Zyyy",
+                "type": "script_code",
+                "description": "Code for undetermined script"
+            },
+            "id": "64800744",
+            "version": "9472334"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Zeri, Federico",
+            "preferenceScore": "99",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Zeri, Federico",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "64800746",
+                    "version": "9472334"
+                }
+            ],
+            "id": "64800745",
+            "version": "9472334",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"WorldCat\",\n        \"form\": \"authorizedForm\"\n    },\n    {\n        \"contributor\": \"VIAF\",\n        \"form\": \"alternativeForm\"\n    },\n    {\n        \"contributor\": \"VIAF\",\n        \"form\": \"authorizedForm\"\n    },\n    {\n        \"contributor\": \"LC\",\n        \"form\": \"authorizedForm\"\n    },\n    {\n        \"contributor\": \"harvard\",\n        \"form\": \"authorizedForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "82101191",
+                    "version": "9472334"
+                }
+            ]
+        },
+        {
+            "dataType": "NameEntry",
+            "original": "Zeri, Federico, 1921-1998",
+            "preferenceScore": "98",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Zeri, Federico, 1921-1998",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "64800753",
+                    "version": "9472334"
+                }
+            ],
+            "id": "64800752",
+            "version": "9472334",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"VIAF\",\n        \"form\": \"authorizedForm\"\n    },\n    {\n        \"contributor\": \"LAC\",\n        \"form\": \"authorizedForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "82101192",
+                    "version": "9472334"
+                }
+            ]
+        },
+        {
+            "dataType": "NameEntry",
+            "original": "\u30bc\u30fc\u30ea, \u30d5\u30a7\u30c7\u30ea\u30b3",
+            "preferenceScore": "0",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "\u30bc\u30fc\u30ea, \u30d5\u30a7\u30c7\u30ea\u30b3",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "64800757",
+                    "version": "9472334"
+                }
+            ],
+            "id": "64800756",
+            "version": "9472334",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"VIAF\",\n        \"form\": \"alternativeForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "82101193",
+                    "version": "9472334"
+                }
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "64800735",
+            "targetConstellation": "604663",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6xs64gb",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6q530m8",
+            "targetEntityType": {
+                "id": "700",
+                "term": "person",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Person",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28243",
+                "term": "correspondedWith",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#correspondedWith",
+                "type": "relation_type"
+            },
+            "content": "Coolidge, John, 1913-1995",
+            "id": "64800772",
+            "version": "9472334"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "64800735",
+            "targetConstellation": "51058284",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6xs64gb",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6g48w27",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "J. Paul Getty Museum.",
+            "id": "64800771",
+            "version": "9472334"
+        },
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "64800735",
+            "targetConstellation": "52586362",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6xs64gb",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6dr72ff",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "J. Paul Getty Museum. Director's Office",
+            "id": "64800770",
+            "version": "9472334"
+        }
+    ],
+    "sameAsRelations": [
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#sameAs",
+                "type": "record_type"
+            },
+            "text": "Zeri, Federico, 1921-1998",
+            "uri": "https:\/\/viaf.org\/viaf\/17237451",
+            "id": "64800766",
+            "version": "9472334"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "https:\/\/www.worldcat.org\/identities\/lccn-n50014073",
+            "id": "64800767",
+            "version": "9472334"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "https:\/\/id.loc.gov\/authorities\/n50014073",
+            "id": "64800768",
+            "version": "9472334"
+        },
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#sameAs",
+                "type": "record_type"
+            },
+            "uri": "https:\/\/www.wikidata.org\/entity\/Q1089074",
+            "id": "64800769",
+            "version": "9472334"
+        }
+    ],
+    "resourceRelations": [
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http:\/\/www.worldcat.org\/oclc\/123408061",
+                "source": "<objectXMLWrap>\n               <mods xmlns=\"http:\/\/www.loc.gov\/mods\/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:123408061<\/recordOrigin>\n                     <recordContentSource>ISIL:OCLC-JPG<\/recordContentSource>\n                  <\/recordInfo>\n                  <name>\n                     <namePart>J. Paul Getty Museum.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Bramlett, Norris.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Corzo, Miguel Angel.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Duke, Lani.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Englander, Nancy.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Fink, Eleanor E.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Forster, Kurt Walter.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Fredericksen, Burton B.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Garrett, Stephen, 1922-<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Getty, Gordon.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Getty, J. Paul 1892-1976.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Jones, Anne Marian.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Lehman, Yole.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Stothart, Herbert.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Valentiner, Wilhelm Reinhold, 1880-1958.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Wescher, Paul, b. 1894.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Williams, Harold.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Wittmann, Otto, 1911-2001.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>J. Paul Getty Trust.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <titleInfo>\n                     <title>Administration records, 1950-1986, undated.<\/title>\n                  <\/titleInfo>\n                  <abstract>Records consist of correspondence, memoranda, newsletters, notes, by-laws, reports, press releases, agendas, financial documents, minutes, schedules and calendars, manuals, directories, statistics, telegrams, press clippings, photographs and other materials dating 1950 to 1986 and undated. These documents issue from the offices of a succession of museum curators, including W.R. Valentiner, Paul Wescher, Anne Jones, Burton B. Fredericksen, and Gillian Wilson, as well as from the offices of Trustee Norris Bramlett and J. Paul Getty himself. Other records also originated in the Security and Personnel departments of the museum. Subjects are varied, but include financial matters, personnel, art acquisition, remodeling and expansion of the museum, security, visitor policies and statistics, visiting scholars, museum publications and reference queries. <\/abstract>\n                  <name>\n                     <namePart>Getty Research Institute<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/rps\">Repository<\/roleTerm>\n                     <\/role>\n                  <\/name>\n               <\/mods>\n            <\/objectXMLWrap>",
+                "title": "Administration records, 1950-1986, undated.",
+                "abstract": "Records consist of correspondence, memoranda, newsletters, notes, by-laws, reports, press releases, agendas, financial documents, minutes, schedules and calendars, manuals, directories, statistics, telegrams, press clippings, photographs and other materials dating 1950 to 1986 and undated. These documents issue from the offices of a succession of museum curators, including W.R. Valentiner, Paul Wescher, Anne Jones, Burton B. Fredericksen, and Gillian Wilson, as well as from the offices of Trustee Norris Bramlett and J. Paul Getty himself. Other records also originated in the Security and Personnel departments of the museum. Subjects are varied, but include financial matters, personnel, art acquisition, remodeling and expansion of the museum, security, visitor policies and statistics, visiting scholars, museum publications and reference queries. ",
+                "extent": "13.14 linear feet : (31.5 boxes)",
+                "displayEntry": "J. Paul Getty Museum. Administration records, 1950-1986, undated.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "J. Paul Getty Museum.",
+                        "id": "8617458",
+                        "version": "6812906"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Bramlett, Norris.",
+                        "id": "8617459",
+                        "version": "6812906"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Corzo, Miguel Angel.",
+                        "id": "8617460",
+                        "version": "6812906"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Duke, Lani.",
+                        "id": "8617461",
+                        "version": "6812906"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Englander, Nancy.",
+                        "id": "8617462",
+                        "version": "6812906"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Fink, Eleanor E.",
+                        "id": "8617463",
+                        "version": "6812906"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Forster, Kurt Walter.",
+                        "id": "8617464",
+                        "version": "6812906"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Fredericksen, Burton B.",
+                        "id": "8617465",
+                        "version": "6812906"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Garrett, Stephen, 1922-",
+                        "id": "8617466",
+                        "version": "6812906"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Getty, Gordon.",
+                        "id": "8617467",
+                        "version": "6812906"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Getty, J. Paul 1892-1976.",
+                        "id": "8617468",
+                        "version": "6812906"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Jones, Anne Marian.",
+                        "id": "8617469",
+                        "version": "6812906"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Lehman, Yole.",
+                        "id": "8617470",
+                        "version": "6812906"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Stothart, Herbert.",
+                        "id": "8617471",
+                        "version": "6812906"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Valentiner, Wilhelm Reinhold, 1880-1958.",
+                        "id": "8617472",
+                        "version": "6812906"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Wescher, Paul, b. 1894.",
+                        "id": "8617473",
+                        "version": "6812906"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Williams, Harold.",
+                        "id": "8617474",
+                        "version": "6812906"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Wittmann, Otto, 1911-2001.",
+                        "id": "8617475",
+                        "version": "6812906"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "J. Paul Getty Trust.",
+                        "id": "8617476",
+                        "version": "6812906"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http:\/\/n2t.net\/ark:\/99166\/w69x14qc",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Getty Research Institute",
+                            "preferenceScore": "99",
+                            "id": "84206342",
+                            "version": "11323519"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "The Getty Research Institute",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Research Library Special Collections and Visual Resources 1200 Getty Center Drive, Suite 1100 Los Angeles, California 90049-1688",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "84206393",
+                                    "version": "11323519"
+                                }
+                            ],
+                            "id": "84206392",
+                            "version": "11323519"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Getty Research Institute, Research Library",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "1200 Getty Center Drive",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400244",
+                                        "term": "Street",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Street",
+                                        "type": "address_part"
+                                    },
+                                    "id": "84206395",
+                                    "version": "11323519"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Suite 1100",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400244",
+                                        "term": "Street",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Street",
+                                        "type": "address_part"
+                                    },
+                                    "id": "84206396",
+                                    "version": "11323519"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Los Angeles",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400245",
+                                        "term": "City",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#City",
+                                        "type": "address_part"
+                                    },
+                                    "id": "84206397",
+                                    "version": "11323519"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "CA",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400246",
+                                        "term": "State",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#State",
+                                        "type": "address_part"
+                                    },
+                                    "id": "84206398",
+                                    "version": "11323519"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "90049-1688",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400247",
+                                        "term": "PostalCode",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#PostalCode",
+                                        "type": "address_part"
+                                    },
+                                    "id": "84206399",
+                                    "version": "11323519"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "5",
+                                    "type": {
+                                        "id": "400248",
+                                        "term": "Country",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Country",
+                                        "type": "address_part"
+                                    },
+                                    "id": "84206400",
+                                    "version": "11323519"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "(310) 440-7390 ",
+                                    "order": "6",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "84206401",
+                                    "version": "11323519"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "http:\/\/www.getty.edu\/research\/conducting_research\/library\/reference_form.html",
+                                    "order": "7",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "84206402",
+                                    "version": "11323519"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17565",
+                                "uri": "http:\/\/www.geonames.org\/5368361\/los-angeles.html",
+                                "name": "Los Angeles",
+                                "latitude": "34.0522300",
+                                "longitude": "-118.2436800",
+                                "administrationCode": "CA",
+                                "countryCode": "US"
+                            },
+                            "confirmed": true,
+                            "id": "84206394",
+                            "version": "11323519"
+                        }
+                    ],
+                    "id": "84206336",
+                    "version": "11323526"
+                },
+                "id": "6812906",
+                "version": "6812906"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#referencedIn",
+                "type": "document_role"
+            },
+            "content": "J. Paul Getty Museum. Administration records, 1950-1986, undated.",
+            "id": "64800774",
+            "version": "9472334"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http:\/\/id.lib.harvard.edu\/ead\/art00017\/catalog",
+                "title": "Papers of John Coolidge and Agnes Mongan, 1909-2006",
+                "abstract": "These papers of Fogg Art Museum directors John Coolidge and AgnesMongan document their administration of the museum and related professional activities.  Mostof Coolidge's papers were created during his administration, from 1948 to 1968; most ofMongan's papers are from her tenure as acting director and then director (1968 to 1971).  Thepapers consist primarily of correspondence, including Coolidge's correspondence with artdealers, and also include photographs, memoranda, reports, meeting minutes, blueprints, printedmaterial, letters of recommendation, page proofs, financial documents, sketches and grantproposals.",
+                "extent": "152 file boxes + oversize materials",
+                "date": "1909-2006",
+                "displayEntry": "Papers of John Coolidge and Agnes Mongan, 1909-2006",
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6jx945d",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Harvard Art Museums. Archives",
+                            "preferenceScore": "99",
+                            "id": "84215731",
+                            "version": "11327216"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Massachusetts",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "84215749",
+                            "version": "11327202"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Massachusetts--Cambridge",
+                            "type": {
+                                "id": "705",
+                                "term": "AssociatedPlace",
+                                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#AssociatedPlace",
+                                "type": "place_type"
+                            },
+                            "id": "84215747",
+                            "version": "11327202"
+                        }
+                    ],
+                    "id": "84215727",
+                    "version": "11327217"
+                },
+                "id": "6382502",
+                "version": "6382502"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#referencedIn",
+                "type": "document_role"
+            },
+            "content": "Papers of John Coolidge and Agnes Mongan, 1909-2006",
+            "id": "64800777",
+            "version": "9472334"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http:\/\/www.worldcat.org\/oclc\/427636915",
+                "source": "<objectXMLWrap>\n               <mods xmlns=\"http:\/\/www.loc.gov\/mods\/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:427636915<\/recordOrigin>\n                     <recordContentSource>ISIL:OCLC-FXM<\/recordContentSource>\n                  <\/recordInfo>\n                  <name>\n                     <namePart>Zeri, Federico.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Italy. Soprintendenza alle gallerie per le provincie di Firenze, Arezzo e Pistoia.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Committee to Rescue Italian Art.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <titleInfo>\n                     <title>[A collection of material related to the Florence flood of Nov. 4, 1966 and damage to art works]. 1966.<\/title>\n                  <\/titleInfo>\n                  <name>\n                     <namePart>Frick Art Reference Library of The Frick Collection<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/rps\">Repository<\/roleTerm>\n                     <\/role>\n                  <\/name>\n               <\/mods>\n            <\/objectXMLWrap>",
+                "title": "[A collection of material related to the Florence flood of Nov. 4, 1966 and damage to art works]. 1966.",
+                "extent": "8 leaves ; 28 cm.",
+                "displayEntry": "Zeri, Federico. [A collection of material related to the Florence flood of Nov. 4, 1966 and damage to art works].",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Zeri, Federico.",
+                        "id": "9695657",
+                        "version": "7476431"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Italy. Soprintendenza alle gallerie per le provincie di Firenze, Arezzo e Pistoia.",
+                        "id": "9695658",
+                        "version": "7476431"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Committee to Rescue Italian Art.",
+                        "id": "9695659",
+                        "version": "7476431"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6s57ffj",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Frick Art Reference Library of The Frick Collection",
+                            "preferenceScore": "99",
+                            "id": "76767937",
+                            "version": "11226965"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Frick Art Reference Library of The Frick Collection",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "10 East 71st Street",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76767941",
+                                    "version": "11226965"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "New York",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76767942",
+                                    "version": "11226965"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-NY",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76767943",
+                                    "version": "11226965"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "10021-4967",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76767944",
+                                    "version": "11226965"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76767945",
+                                    "version": "11226965"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "15876",
+                                "name": "Frick Art Reference Library of The Frick Collection",
+                                "latitude": "40.7714119",
+                                "longitude": "-73.9670563"
+                            },
+                            "confirmed": true,
+                            "id": "76767940",
+                            "version": "11226965"
+                        }
+                    ],
+                    "id": "76767936",
+                    "version": "11226968"
+                },
+                "id": "7476431",
+                "version": "7476431"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Zeri, Federico. [A collection of material related to the Florence flood of Nov. 4, 1966 and damage to art works].",
+            "id": "64800776",
+            "version": "9472334"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http:\/\/www.worldcat.org\/oclc\/85176063",
+                "source": "<objectXMLWrap>\n               <mods xmlns=\"http:\/\/www.loc.gov\/mods\/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:85176063<\/recordOrigin>\n                     <recordContentSource>ISIL:OCLC-JPG<\/recordContentSource>\n                  <\/recordInfo>\n                  <name>\n                     <namePart>J. Paul Getty Museum. Director's Office<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Bramlett, Norris.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Frel, Jir\u030ci\u0301.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Garrett, Stephen, 1922-<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Rountree, Stephen.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Walsh, John, 1937-<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Williams, Harold.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>J. Paul Getty Trust.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <titleInfo>\n                     <title>John Walsh's records, 1973-1985, undated<\/title>\n                  <\/titleInfo>\n                  <abstract>Records consist of correspondence, memoranda, reports, minutes, agenda, notes,  lists, press releases, printed materials, proceedings, resolutions, proposals,   photographs, contracts, a plat, and clippings, dating 1973-1985, that comprise the  administrative correspondence and memoranda of J. Paul Getty Museum Director John Walsh and general office files created and maintained in the office of the Museum Director under the leadership of Stephen Garrett, Stephen Rountree, and John Walsh. <\/abstract>\n                  <name>\n                     <namePart>Getty Research Institute<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/rps\">Repository<\/roleTerm>\n                     <\/role>\n                  <\/name>\n               <\/mods>\n            <\/objectXMLWrap>",
+                "title": "John Walsh's records, 1973-1985, undated",
+                "abstract": "Records consist of correspondence, memoranda, reports, minutes, agenda, notes,  lists, press releases, printed materials, proceedings, resolutions, proposals,   photographs, contracts, a plat, and clippings, dating 1973-1985, that comprise the  administrative correspondence and memoranda of J. Paul Getty Museum Director John Walsh and general office files created and maintained in the office of the Museum Director under the leadership of Stephen Garrett, Stephen Rountree, and John Walsh. ",
+                "extent": "6.82 linear feet (17 boxes and 1 flat file)",
+                "displayEntry": "J. Paul Getty Museum. Director's Office. John Walsh's records, 1973-1985, undated",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Bramlett, Norris.",
+                        "id": "11214042",
+                        "version": "8332233"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "J. Paul Getty Museum. Director's Office",
+                        "id": "11214041",
+                        "version": "8332233"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Frel, Jir\u030ci\u0301.",
+                        "id": "11214043",
+                        "version": "8332233"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Garrett, Stephen, 1922-",
+                        "id": "11214044",
+                        "version": "8332233"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Rountree, Stephen.",
+                        "id": "11214045",
+                        "version": "8332233"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Walsh, John, 1937-",
+                        "id": "11214046",
+                        "version": "8332233"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Williams, Harold.",
+                        "id": "11214047",
+                        "version": "8332233"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "J. Paul Getty Trust.",
+                        "id": "11214048",
+                        "version": "8332233"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http:\/\/n2t.net\/ark:\/99166\/w69x14qc",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Getty Research Institute",
+                            "preferenceScore": "99",
+                            "id": "84206342",
+                            "version": "11323519"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "The Getty Research Institute",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Research Library Special Collections and Visual Resources 1200 Getty Center Drive, Suite 1100 Los Angeles, California 90049-1688",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "84206393",
+                                    "version": "11323519"
+                                }
+                            ],
+                            "id": "84206392",
+                            "version": "11323519"
+                        },
+                        {
+                            "dataType": "Place",
+                            "original": "Getty Research Institute, Research Library",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "1200 Getty Center Drive",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400244",
+                                        "term": "Street",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Street",
+                                        "type": "address_part"
+                                    },
+                                    "id": "84206395",
+                                    "version": "11323519"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Suite 1100",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400244",
+                                        "term": "Street",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Street",
+                                        "type": "address_part"
+                                    },
+                                    "id": "84206396",
+                                    "version": "11323519"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Los Angeles",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400245",
+                                        "term": "City",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#City",
+                                        "type": "address_part"
+                                    },
+                                    "id": "84206397",
+                                    "version": "11323519"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "CA",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400246",
+                                        "term": "State",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#State",
+                                        "type": "address_part"
+                                    },
+                                    "id": "84206398",
+                                    "version": "11323519"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "90049-1688",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400247",
+                                        "term": "PostalCode",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#PostalCode",
+                                        "type": "address_part"
+                                    },
+                                    "id": "84206399",
+                                    "version": "11323519"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "5",
+                                    "type": {
+                                        "id": "400248",
+                                        "term": "Country",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Country",
+                                        "type": "address_part"
+                                    },
+                                    "id": "84206400",
+                                    "version": "11323519"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "(310) 440-7390 ",
+                                    "order": "6",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "84206401",
+                                    "version": "11323519"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "http:\/\/www.getty.edu\/research\/conducting_research\/library\/reference_form.html",
+                                    "order": "7",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "84206402",
+                                    "version": "11323519"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17565",
+                                "uri": "http:\/\/www.geonames.org\/5368361\/los-angeles.html",
+                                "name": "Los Angeles",
+                                "latitude": "34.0522300",
+                                "longitude": "-118.2436800",
+                                "administrationCode": "CA",
+                                "countryCode": "US"
+                            },
+                            "confirmed": true,
+                            "id": "84206394",
+                            "version": "11323519"
+                        }
+                    ],
+                    "id": "84206336",
+                    "version": "11323526"
+                },
+                "id": "8332233",
+                "version": "8332233"
+            },
+            "role": {
+                "id": "693",
+                "term": "referencedIn",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#referencedIn",
+                "type": "document_role"
+            },
+            "content": "J. Paul Getty Museum. Director's Office. John Walsh's records, 1973-1985, undated",
+            "id": "64800773",
+            "version": "9472334"
+        },
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http:\/\/www.worldcat.org\/oclc\/270525180",
+                "source": "<objectXMLWrap>\n               <mods xmlns=\"http:\/\/www.loc.gov\/mods\/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:270525180<\/recordOrigin>\n                     <recordContentSource>ISIL:OCLC-UBF<\/recordContentSource>\n                  <\/recordInfo>\n                  <name>\n                     <namePart>Allcorn, John H.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Beatty, Alfred Chester, Sir, 1875-1968.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Benham, Wilfrid E.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Brockwell, Maurice Walter, 1869-1958.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Brown, E. N.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Buttery, Horace A.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Cailleux, M.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Check, William A.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Cohen, Gabriel, 1961-<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Constable, W. G. (William George), 1887-<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Duval, Paul, 1922-<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Escarra, Marie-Edmee.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Fisher, J. O. M.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Gibbs, David.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Gilbert, Betty.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Hall, Ernest.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Hammond, Lily.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Harris, Lawren, 1885-1970.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Heim, Franc\u0327ois.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Honeyman, T. J. (Tom John), 1891-1971.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Hulme, Gerald.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Jarvis, Alan Hepburn, 1915-1972.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Laski, Philip.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Lester, C. H. T.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Lucas, A. W. (Arthur W.), 1867-1923.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Martin, J. E.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Matters, W. G.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Millest, Julian A.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Millett, Victor.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Munnings, Alfred J. (Alfred James), Sir, 1875-1959.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Napper, W.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Pitman, Hugo.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Preston, Kerrison.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Rawlins, Ian G.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Ratzer, John H.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Rothenstein, John, Sir, 1901-<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Ruhemann, Helmut, 1891-<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Samuel, Sigmund, 1867-<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Seaton, Cecil.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Seeley, Peter M.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Spencer, D. A. (Douglas Arthur), 1901-<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Spink, C. Marshall.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Stern, Max.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Thomas, L. G. A.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Walker, John Rodney.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Widmann, Heinz.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Wooldridge, E. A.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Zacks, Samuel J., 1904-1970.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Zeri, Federico.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <titleInfo>\n                     <title>Correspondence regarding purchase of paintings : 1956 June - 1957 Feb. Case 25, File 1. 1956 June - 1957 Feb.<\/title>\n                  <\/titleInfo>\n                  <abstract>Letters, soundscriber tapes, photographs, telegrams, newspaper clippings, descriptions of paintings, advice on conditions for storage, list of paintings acquired with price and place of purchase, descriptions of Lord Beaverbrook's collection scheme for the Beaverbrook Art Gallery. <\/abstract>\n                  <name>\n                     <namePart>University of New Brunswick, Fredericton<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/rps\">Repository<\/roleTerm>\n                     <\/role>\n                  <\/name>\n               <\/mods>\n            <\/objectXMLWrap>",
+                "title": "Correspondence regarding purchase of paintings : 1956 June - 1957 Feb. Case 25, File 1. 1956 June - 1957 Feb.",
+                "abstract": "Letters, soundscriber tapes, photographs, telegrams, newspaper clippings, descriptions of paintings, advice on conditions for storage, list of paintings acquired with price and place of purchase, descriptions of Lord Beaverbrook's collection scheme for the Beaverbrook Art Gallery. ",
+                "extent": "Correspondence : 413 (449 leaves)Photographs: 13 : b&w.",
+                "displayEntry": "Allcorn, John H. Correspondence regarding purchase of paintings : 1956 June - 1957 Feb. Case 25, File 1.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Heim, Franc\u0327ois.",
+                        "id": "9187797",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Allcorn, John H.",
+                        "id": "9187779",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Beatty, Alfred Chester, Sir, 1875-1968.",
+                        "id": "9187780",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Benham, Wilfrid E.",
+                        "id": "9187781",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Brockwell, Maurice Walter, 1869-1958.",
+                        "id": "9187782",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Brown, E. N.",
+                        "id": "9187783",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Buttery, Horace A.",
+                        "id": "9187784",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Cailleux, M.",
+                        "id": "9187785",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Check, William A.",
+                        "id": "9187786",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Cohen, Gabriel, 1961-",
+                        "id": "9187787",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Constable, W. G. (William George), 1887-",
+                        "id": "9187788",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Duval, Paul, 1922-",
+                        "id": "9187789",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Escarra, Marie-Edmee.",
+                        "id": "9187790",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Fisher, J. O. M.",
+                        "id": "9187791",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Gibbs, David.",
+                        "id": "9187792",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Gilbert, Betty.",
+                        "id": "9187793",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hall, Ernest.",
+                        "id": "9187794",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hammond, Lily.",
+                        "id": "9187795",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Harris, Lawren, 1885-1970.",
+                        "id": "9187796",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Honeyman, T. J. (Tom John), 1891-1971.",
+                        "id": "9187798",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Hulme, Gerald.",
+                        "id": "9187799",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Jarvis, Alan Hepburn, 1915-1972.",
+                        "id": "9187800",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Laski, Philip.",
+                        "id": "9187801",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Lester, C. H. T.",
+                        "id": "9187802",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Lucas, A. W. (Arthur W.), 1867-1923.",
+                        "id": "9187803",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Martin, J. E.",
+                        "id": "9187804",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Matters, W. G.",
+                        "id": "9187805",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Millest, Julian A.",
+                        "id": "9187806",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Millett, Victor.",
+                        "id": "9187807",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Munnings, Alfred J. (Alfred James), Sir, 1875-1959.",
+                        "id": "9187808",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Napper, W.",
+                        "id": "9187809",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Pitman, Hugo.",
+                        "id": "9187810",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Preston, Kerrison.",
+                        "id": "9187811",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Rawlins, Ian G.",
+                        "id": "9187812",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Ratzer, John H.",
+                        "id": "9187813",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Rothenstein, John, Sir, 1901-",
+                        "id": "9187814",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Ruhemann, Helmut, 1891-",
+                        "id": "9187815",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Samuel, Sigmund, 1867-",
+                        "id": "9187816",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Seaton, Cecil.",
+                        "id": "9187817",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Seeley, Peter M.",
+                        "id": "9187818",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Spencer, D. A. (Douglas Arthur), 1901-",
+                        "id": "9187819",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Spink, C. Marshall.",
+                        "id": "9187820",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Stern, Max.",
+                        "id": "9187821",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Thomas, L. G. A.",
+                        "id": "9187822",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Walker, John Rodney.",
+                        "id": "9187823",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Widmann, Heinz.",
+                        "id": "9187824",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Wooldridge, E. A.",
+                        "id": "9187825",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Zacks, Samuel J., 1904-1970.",
+                        "id": "9187826",
+                        "version": "7183325"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Zeri, Federico.",
+                        "id": "9187827",
+                        "version": "7183325"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6bs9fvv",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "University of New Brunswick, Fredericton, Harriet Irving Library",
+                            "preferenceScore": "99",
+                            "id": "76787315",
+                            "version": "11234161"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "University of New Brunswick, Fredericton, Harriet Irving Library",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "5 Macaulay Lane",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76787320",
+                                    "version": "11234161"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "Fredericton",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76787321",
+                                    "version": "11234161"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "CA-NB",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76787322",
+                                    "version": "11234161"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "E3B 5H5",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76787323",
+                                    "version": "11234161"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "CA",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76787324",
+                                    "version": "11234161"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "16211",
+                                "name": "University of New Brunswick, Fredericton, Harriet Irving Library",
+                                "latitude": "45.9461555",
+                                "longitude": "-66.6431046"
+                            },
+                            "confirmed": true,
+                            "id": "76787319",
+                            "version": "11234161"
+                        }
+                    ],
+                    "id": "76787314",
+                    "version": "11234164"
+                },
+                "id": "7183325",
+                "version": "7183325"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Allcorn, John H. Correspondence regarding purchase of paintings : 1956 June - 1957 Feb. Case 25, File 1.",
+            "id": "64800775",
+            "version": "9472334"
+        }
+    ],
+    "nationalities": [
+        {
+            "dataType": "Nationality",
+            "term": {
+                "id": "400342",
+                "term": "Italians",
+                "type": "nationality"
+            },
+            "id": "64800759",
+            "version": "9472334"
+        }
+    ],
+    "id": "64800735",
+    "version": "9472335",
+    "dates": [
+        {
+            "dataType": "SNACDate",
+            "fromDate": "1921-08-21",
+            "fromDateOriginal": "1921-08-21",
+            "fromType": {
+                "id": "689",
+                "term": "Birth",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Birth",
+                "type": "date_type"
+            },
+            "toDate": "1998-10-05",
+            "toDateOriginal": "1998-10-05",
+            "toType": {
+                "id": "690",
+                "term": "Death",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Death",
+                "type": "date_type"
+            },
+            "isRange": true,
+            "id": "64800736",
+            "version": "9472334"
+        }
+    ]
+}

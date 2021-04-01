@@ -1,0 +1,210 @@
+{
+  "resources": [
+    {
+      "title": "Sculptures from the Samuel H. Kress Collection : European schools, XIV-XIX Century",
+      "date": "1976",
+      "creators": {
+        "creator": "Middeldorf, Ulrich"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Catalogs"
+      }
+    },
+    {
+      "title": "Raphael's drawings",
+      "date": "1945",
+      "creators": {
+        "creator": "Middeldorf, Ulrich"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Festschrift Ulrich Middeldorf",
+      "date": "1968",
+      "creators": {
+        "creator": "Middeldorf Kosegarten, Antje"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Art"
+      }
+    },
+    {
+      "title": "Raccolta di scritti : that is, Collected writings",
+      "date": "1979",
+      "creators": {
+        "creator": "Middeldorf, Ulrich"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Criticism, interpretation, etc",
+        "genre2": "Art"
+      }
+    },
+    {
+      "title": "Medals and plaquettes from the Sigmund Morgenroth Collection",
+      "date": "1944",
+      "creators": {
+        "creator": "Morgenroth, Sigmund",
+        "coCreator": "Middeldorf"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Catalogs"
+      }
+    },
+    {
+      "title": "Renaissance medals and plaquettes : catalogue",
+      "date": "1983",
+      "creators": {
+        "creator": "Middeldorf, Ulrich"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Catalogs"
+      }
+    },
+    {
+      "title": "Die Sammlung der Selbstbildnisse in den Uffizien",
+      "creators": {
+        "creator": "Prinz, Wolfram",
+        "coCreator": "Middeldorf"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Catalogs"
+      }
+    },
+    {
+      "title": "Early Renaissance reliefs",
+      "date": "2001",
+      "creators": {
+        "creator": "Avery, Charles",
+        "coCreator": "Middeldorf"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Exhibition catalogs"
+      }
+    },
+    {
+      "title": "Il Tesoro della Basilica di San Francesco ad Assisi : saggi e catalogo di Rosalia Bonito Fanelli ... [et al.] ; introduzione di Ulrich Middeldorf ; coordinamento di Maria G. Ciardi Dupre\u0301 dal Poggetto",
+      "date": "1980",
+      "creators": {
+        "creator": "Middeldorf"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Catalogs"
+      }
+    },
+    {
+      "title": "Fifty mortars : a catalogue",
+      "date": "1981",
+      "creators": {
+        "creator": "Middeldorf, Ulrich"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Catalogs"
+      }
+    },
+    {
+      "title": "A corpus of Italian medals of the renaissance before Cellini",
+      "date": "1984",
+      "creators": {
+        "creator": "Hill, George Francis",
+        "coCreator": "Middeldorf"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "An Exhibition of the work of Victor Hammer",
+      "date": "1948",
+      "creators": {
+        "creator": "Middeldorf, Ulrich"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Exhibition catalogs"
+      }
+    },
+    {
+      "title": "Raphael's drawings",
+      "date": "1945",
+      "creators": {
+        "creator": "Raphael",
+        "coCreator": "Middeldorf"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Die Sammlung der Selbstbildnisse in den Uffizien",
+      "date": "1971",
+      "creators": {
+        "creator": "Prinz, Wolfram",
+        "coCreator": "Middeldorf"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Catalogs"
+      }
+    },
+    {
+      "title": "Raccolta di scritti that is collected writings",
+      "date": "1979",
+      "creators": {
+        "creator": "Middeldorf, Ulrich"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Raccolta di scritti that is collected writings",
+      "date": "1979",
+      "creators": {
+        "creator": "Middeldorf, Ulrich"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Raccolta di scritti : that is collected writings",
+      "date": "1979",
+      "creators": {
+        "creator": "Middeldorf, Ulrich"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Festschrift Ulrich Middeldorf",
+      "date": "1968",
+      "creators": {
+        "creator": "Middeldorf"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Medals and plaquettes from the Sigmund Morgenroth collection",
+      "date": "1944",
+      "creators": {
+        "creator": "Middeldorf, Ulrich"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Exhibition catalogs"
+      }
+    },
+    {
+      "title": "Maestri toscani del Quattrocento : Cosimo Rosselli, Botticelli, Botticini, Filippino Lippi, David Ghirlandaio, Raffaellino del Garbo, Tommaso, Piero di Cosimo",
+      "date": "1981",
+      "creators": {
+        "creator": "Vaccari, Maria Grazia",
+        "coCreator": "Middeldorf"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Catalogs"
+      }
+    }
+  ]
+}

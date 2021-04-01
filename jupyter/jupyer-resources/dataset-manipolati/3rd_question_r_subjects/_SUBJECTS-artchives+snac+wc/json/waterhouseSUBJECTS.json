@@ -1,0 +1,437 @@
+{
+  "Ellis Waterhouse": {
+    "URI": "http://www.wikidata.org/entity/Q3051533",
+    "http://www.wikidata.org/prop/direct/P921": [
+      {
+        "interest": "Mural painting and decoration"
+      },
+      {
+        "interest": "National Gallery of Canada"
+      },
+      {
+        "interest": "Art, Baroque--Italy"
+      },
+      {
+        "interest": "De Rothschild, J. A.--(James Armand),"
+      },
+      {
+        "interest": "Painting, British"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q125191",
+        "interestLabel": "photograph"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q125191",
+        "interestLabel": "photograph"
+      },
+      {
+        "interest": "Architecture, Domestic--Great Britain"
+      },
+      {
+        "interest": "Painting, Dutch"
+      },
+      {
+        "interest": "Painting, European"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q37853",
+        "interestLabel": "baroque"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q37853",
+        "interestLabel": "baroque"
+      },
+      {
+        "interest": "Drawing, British"
+      },
+      {
+        "interest": "Painting, Italian"
+      },
+      {
+        "interest": "Architecture, Domestic"
+      },
+      {
+        "interest": "Painting, Modern"
+      },
+      {
+        "interest": "Waterhouse, Ellis Kirkham,"
+      },
+      {
+        "interest": "England--Waddesdon"
+      },
+      {
+        "interest": "Great Britain"
+      },
+      {
+        "interest": "Titian,"
+      },
+      {
+        "interest": "Painting, English"
+      },
+      {
+        "interest": "Italy--Rome"
+      },
+      {
+        "interest": "Art historians"
+      },
+      {
+        "interest": "Barber Institute of Fine Arts"
+      },
+      {
+        "interest": "Painting, Renaissance"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q208165",
+        "interestLabel": "collecting"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q208165",
+        "interestLabel": "collecting"
+      },
+      {
+        "interest": "Painting--Private collections"
+      },
+      {
+        "interest": "Painting, Baroque"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q3305213",
+        "interestLabel": "painting"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q3305213",
+        "interestLabel": "painting"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q1510510",
+        "interestLabel": "Country Homes"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q1510510",
+        "interestLabel": "Country Homes"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q93184",
+        "interestLabel": "drawing"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q93184",
+        "interestLabel": "drawing"
+      },
+      {
+        "interest": "Patrizi family"
+      },
+      {
+        "interest": "Art, British"
+      },
+      {
+        "interest": "England"
+      },
+      {
+        "interest": "Architecture--Italy"
+      },
+      {
+        "interest": "Rothschild Collection at Waddesdon Manor"
+      },
+      {
+        "interest": "Royal Academy of Arts (Great Britain)"
+      },
+      {
+        "interest": "Art--Expertising"
+      },
+      {
+        "interest": "Italy"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q12271",
+        "interestLabel": "architecture"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q12271",
+        "interestLabel": "architecture"
+      },
+      {
+        "interest": "Art--Private collections"
+      },
+      {
+        "interest": "Artists"
+      },
+      {
+        "interest": "Notebooks"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q131808",
+        "interestLabel": "Mannerism"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q131808",
+        "interestLabel": "Mannerism"
+      },
+      {
+        "interest": "Reynolds, Joshua,--Sir,"
+      },
+      {
+        "interest": "Giorgione,"
+      },
+      {
+        "interest": "Suffer little children to come unto Me (Van Dyck, Anthony)"
+      },
+      {
+        "interest": "Painting"
+      },
+      {
+        "interest": "Country homes"
+      },
+      {
+        "interest": "Gainsborough, Thomas,"
+      },
+      {
+        "interest": "Mannerism (Art)"
+      },
+      {
+        "interest": "Greece"
+      },
+      {
+        "interest": "Arts, Baroque"
+      },
+      {
+        "interest": "Waddesdon Manor (Waddesdon, England)"
+      },
+      {
+        "interest": "Davies, Martin,"
+      },
+      {
+        "interest": "Art, Baroque"
+      },
+      {
+        "interest": "Collectors and collecting"
+      },
+      {
+        "interest": "Acland family"
+      },
+      {
+        "interest": "Art, Modern"
+      },
+      {
+        "interest": "Decoration and ornament"
+      },
+      {
+        "interest": "Labia, Natale"
+      },
+      {
+        "interest": "Jesus Christ"
+      },
+      {
+        "interest": "Photograph collections"
+      },
+      {
+        "interest": "Van Dyck, Anthony,"
+      },
+      {
+        "interest": "Greco,"
+      },
+      {
+        "interest": "Painters"
+      },
+      {
+        "interest": "Robinson, Joseph Benjamin,--Sir,"
+      },
+      {
+        "interest": "Blessing of children by Jesus Christ"
+      },
+      {
+        "interest": "Rome (Empire)"
+      }
+    ]
+  },
+  "Ellis K. Waterhouse notebooks and research files": {
+    "URI": "https://w3id.org/artchives/collectionellis-k-waterhouse-notebooks-and-research-files",
+    "https://w3id.org/artchives/hasSubjectObject": [
+      {
+        "interest": "http://www.wikidata.org/entity/Q3305213",
+        "interestLabel": "painting"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q3305213",
+        "interestLabel": "painting"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q93184",
+        "interestLabel": "drawing"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q93184",
+        "interestLabel": "drawing"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q125191",
+        "interestLabel": "photograph"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q125191",
+        "interestLabel": "photograph"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q12271",
+        "interestLabel": "architecture"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q12271",
+        "interestLabel": "architecture"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P921": [
+      {
+        "interest": "http://www.wikidata.org/entity/Q8459",
+        "interestLabel": "Giorgione"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q208165",
+        "interestLabel": "collecting"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q208165",
+        "interestLabel": "collecting"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q301",
+        "interestLabel": "El Greco"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q192720",
+        "interestLabel": "Thomas Gainsborough"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q3305213",
+        "interestLabel": "painting"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q3305213",
+        "interestLabel": "painting"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q1510510",
+        "interestLabel": "Country Homes"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q1510510",
+        "interestLabel": "Country Homes"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q93184",
+        "interestLabel": "drawing"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q93184",
+        "interestLabel": "drawing"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q125191",
+        "interestLabel": "photograph"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q125191",
+        "interestLabel": "photograph"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q194402",
+        "interestLabel": "Joshua Reynolds"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q12271",
+        "interestLabel": "architecture"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q12271",
+        "interestLabel": "architecture"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q131808",
+        "interestLabel": "Mannerism"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q131808",
+        "interestLabel": "Mannerism"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q37853",
+        "interestLabel": "baroque"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q37853",
+        "interestLabel": "baroque"
+      }
+    ],
+    "https://w3id.org/artchives/hasSubjectGenre": [
+      {
+        "interest": "http://www.wikidata.org/entity/Q208165",
+        "interestLabel": "collecting"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q208165",
+        "interestLabel": "collecting"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q3305213",
+        "interestLabel": "painting"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q3305213",
+        "interestLabel": "painting"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q1510510",
+        "interestLabel": "Country Homes"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q1510510",
+        "interestLabel": "Country Homes"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q12271",
+        "interestLabel": "architecture"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q12271",
+        "interestLabel": "architecture"
+      }
+    ],
+    "https://w3id.org/artchives/hasSubjectArtist": [
+      {
+        "interest": "http://www.wikidata.org/entity/Q8459",
+        "interestLabel": "Giorgione"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q301",
+        "interestLabel": "El Greco"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q192720",
+        "interestLabel": "Thomas Gainsborough"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q194402",
+        "interestLabel": "Joshua Reynolds"
+      }
+    ],
+    "https://w3id.org/artchives/hasSubjectPeriod": [
+      {
+        "interest": "http://www.wikidata.org/entity/Q131808",
+        "interestLabel": "Mannerism"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q131808",
+        "interestLabel": "Mannerism"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q37853",
+        "interestLabel": "baroque"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q37853",
+        "interestLabel": "baroque"
+      }
+    ]
+  }
+}

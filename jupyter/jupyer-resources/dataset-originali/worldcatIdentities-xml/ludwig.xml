@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?><Identity type="personal">
+  <creationtime>Tue Feb 23 23:33:05 2021 UTC</creationtime>
+  <pnkey>viaf-88695574</pnkey>
+  <audLevel>&lt;!--  actual audience min:0.20, avg:0.70, max:0.96  --&gt;<min>
+      <level>0.37</level>
+      <title>Werke /</title>
+    </min>
+    <avg>
+      <level>0.74</level>
+    </avg>
+    <max>
+      <level>0.94</level>
+      <title>Contratti fra lo stampador Zuan di Colonia ed i suoi socii, e inventario di una parte del loro magazzino</title>
+    </max>
+  </audLevel>
+  <authorityInfo>
+    <viafid>88695574</viafid>
+    <wikidataid>Q41616785</wikidataid>
+    <x400>
+      <rawName>
+        <suba>Gustav Ludwig 1852-1905</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Ludwig, Gustave.</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Ludwig, Gustave 1852-1905</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Ludwig Gustave 1853-1905</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Ludwig, Gustavo.</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Ludwig, Gustavo 1852-1905</suba>
+      </rawName>
+    </x400>
+  </authorityInfo>
+  <associatedNames>
+    <name count="550">
+      <normName>lccn-n95070803</normName>
+      <rawName>
+        <suba>Molmenti, Pompeo</suba>
+        <subd>1852-1928</subd>
+      </rawName>
+      <relator count="373">aut</relator>
+    </name>
+    <name count="464">
+      <normName>lccn-n82097632</normName>
+      <rawName>
+        <suba>Carpaccio, Vittore</suba>
+        <subd>1455?-1525</subd>
+      </rawName>
+    </name>
+    <name count="286">
+      <normName>lccn-nr91021798</normName>
+      <rawName>
+        <suba>Cust, Robert H. Hobart</suba>
+        <subq>(Robert Henry Hobart)</subq>
+        <subd>1861-</subd>
+      </rawName>
+      <relator count="276">trl</relator>
+    </name>
+    <name count="284">
+      <normName>lccn-n79063679</normName>
+      <rawName>
+        <suba>Euripides</suba>
+      </rawName>
+      <relator count="284">aut</relator>
+    </name>
+    <name count="93">
+      <normName>lccn-n50010050</normName>
+      <rawName>
+        <suba>Bode, Wilhelm von</suba>
+        <subd>1845-1929</subd>
+      </rawName>
+      <relator count="76">edt</relator>
+    </name>
+    <name count="87">
+      <normName>lccn-nb2004309548</normName>
+      <rawName>
+        <suba>Gronau, Georg</suba>
+        <subd>1868-1938</subd>
+      </rawName>
+      <relator count="76">edt</relator>
+    </name>
+    <name count="81">
+      <normName>lccn-nr95033946</normName>
+      <rawName>
+        <suba>Hadeln, Detlev</suba>
+        <subc>Baron von</subc>
+        <subd>1878-1935</subd>
+      </rawName>
+      <relator count="76">edt</relator>
+    </name>
+    <name count="48">
+      <normName>lccn-nr95029511</normName>
+      <rawName>
+        <suba>Weber, Wilhelm Ernst</suba>
+      </rawName>
+      <relator count="2">trl</relator>
+      <relator count="2">edt</relator>
+    </name>
+    <name count="47">
+      <normName>lccn-no00079848</normName>
+      <rawName>
+        <suba>Teuffel, W. S.</suba>
+        <subq>(Wilhelm Sigmund)</subq>
+        <subd>1820-1878</subd>
+      </rawName>
+      <relator count="3">trl</relator>
+      <relator count="2">edt</relator>
+    </name>
+    <name count="41">
+      <normName>lccn-n79081354</normName>
+      <rawName>
+        <suba>Horatius Flaccus, Quintus</suba>
+      </rawName>
+      <relator count="37">aut</relator>
+    </name>
+  </associatedNames>
+  <nameInfo type="personal">
+    <rawName>
+      <suba>Ludwig, Gustav</suba>
+      <subd>1852-1905</subd>
+    </rawName>
+    <genres>
+      <genre count="7708" norm="1423879">Drama</genre>
+      <genre count="2150" norm="1921740">Tragedies (Drama)</genre>
+      <genre count="505" norm="1922483">Mythological plays</genre>
+      <genre count="151" norm="1411635">Criticism, interpretation, etc</genre>
+      <genre count="81" norm="1423828">Poetry</genre>
+      <genre count="64" norm="1411628">History</genre>
+      <genre count="60" norm="1423900">Sources</genre>
+      <genre count="10" norm="1726453">Academic theses</genre>
+      <genre count="3" norm="1919896">Biographies</genre>
+      <genre count="0" norm="1423888">Study guides</genre>
+    </genres>
+    <fastHeadings>
+      <fast count="5799" norm="904392" size="5" tag="600">Electra--(Greek mythological figure)</fast>
+      <fast count="1808" norm="1047569" size="5" tag="600">Orestes,--King of Argos (Mythological character)</fast>
+      <fast count="487" norm="1357540" size="5" tag="630">Electra (Sophocles)</fast>
+      <fast count="404" norm="1096476" size="5" tag="650">Revenge</fast>
+      <fast count="384" norm="95890" size="5" tag="600">Carpaccio, Vittore,</fast>
+      <fast count="326" norm="37200" size="5" tag="600">Euripides</fast>
+      <fast count="179" norm="1360520" size="5" tag="630">Electra (Euripides)</fast>
+      <fast count="167" norm="947146" size="5" tag="650">Greek drama (Tragedy)</fast>
+      <fast count="165" norm="947127" size="5" tag="650">Greek drama</fast>
+      <fast count="161" norm="1031804" size="5" tag="650">Mythology, Greek</fast>
+      <fast count="70" norm="910737" size="4" tag="650">English drama</fast>
+      <fast count="64" norm="816430" size="4" tag="650">Art, Italian</fast>
+      <fast count="63" norm="1204473" size="4" tag="651">Italy--Venice</fast>
+      <fast count="62" norm="947441" size="4" tag="650">Greek literature</fast>
+      <fast count="53" norm="45249" size="4" tag="600">Sophocles</fast>
+      <fast count="21" norm="1362428" size="4" tag="630">Orestes (Euripides)</fast>
+      <fast count="13" norm="38678" size="4" tag="600">Charles--II,--King of England,</fast>
+      <fast count="9" norm="897468" size="4" tag="650">Drama</fast>
+      <fast count="8" norm="302417" size="4" tag="600">Wecklein, N.--(Nicolaus),</fast>
+      <fast count="7" norm="1359708" size="4" tag="630">Choephori (Aeschylus)</fast>
+      <fast count="6" norm="30103" size="3" tag="600">Denniston, J. D.--(John Dewar),</fast>
+      <fast count="4" norm="954545" size="3" tag="600">Helen,--of Troy, Queen of Sparta</fast>
+      <fast count="4" norm="1540327" size="3" tag="600">Electra</fast>
+      <fast count="4" norm="1796242" size="3" tag="630">Works (Euripides)</fast>
+      <fast count="4" norm="811441" size="3" tag="600">Apollo--(Deity)</fast>
+      <fast count="3" norm="1076612" size="3" tag="650">Printing</fast>
+      <fast count="3" norm="1827208" size="3" tag="600">Johann,--von Koln,</fast>
+      <fast count="3" norm="817559" size="3" tag="650">Artists</fast>
+      <fast count="3" norm="1204565" size="3" tag="651">Italy</fast>
+      <fast count="1" norm="999953" size="3" tag="650">Literature</fast>
+      <fast count="0" norm="947491" size="2" tag="650">Greek philology</fast>
+      <fast count="0" norm="1106924" size="2" tag="650">Scholia</fast>
+      <fast count="0" norm="993373" size="2" tag="650">Latin poetry</fast>
+    </fastHeadings>
+    <languages count="4">
+      <lang code="ger" count="33"/>
+      <lang code="ita" count="28"/>
+      <lang code="fre" count="21"/>
+      <lang code="eng" count="14"/>
+    </languages>
+    <birthDate>1852</birthDate>
+    <deathDate>1905</deathDate>
+    <dates>
+      <date byCount="7" byScaled="2.81" count="7" scaled="2.81">1852</date>
+      <date byCount="8" byScaled="3.00" count="8" scaled="3.00">1853</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">1854</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1855</date>
+      <date byCount="3" byScaled="1.58" count="3" scaled="1.58">1856</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1859</date>
+      <date byCount="3" byScaled="1.58" count="3" scaled="1.58">1860</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1861</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">1869</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1871</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1872</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1873</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">1874</date>
+      <date byCount="3" byScaled="1.58" count="3" scaled="1.58">1879</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">1881</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">1883</date>
+      <date byCount="3" byScaled="1.58" count="3" scaled="1.58">1884</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1888</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1890</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1896</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1897</date>
+      <date byCount="5" byScaled="2.32" count="5" scaled="2.32">1899</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1900</date>
+      <date byCount="15" byScaled="3.91" count="15" scaled="3.91">1901</date>
+      <date byCount="13" byScaled="3.70" count="13" scaled="3.70">1902</date>
+      <date byCount="15" byScaled="3.91" count="15" scaled="3.91">1903</date>
+      <date byCount="5" byScaled="2.32" count="5" scaled="2.32">1904</date>
+      <date byCount="8" byScaled="3.00" count="8" scaled="3.00">1905</date>
+      <date byCount="26" byScaled="4.70" count="26" scaled="4.70">1906</date>
+      <date byCount="17" byScaled="4.09" count="17" scaled="4.09">1907</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1908</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">1909</date>
+      <date byCount="22" byScaled="4.46" count="22" scaled="4.46">1910</date>
+      <date byCount="10" byScaled="3.32" count="10" scaled="3.32">1911</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">1912</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1921</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1925</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1929</date>
+      <date byCount="3" byScaled="1.58" count="3" scaled="1.58">1932</date>
+      <date byCount="6" byScaled="2.58" count="6" scaled="2.58">1933</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1975</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1977</date>
+    </dates>
+    <totalHoldings>1219</totalHoldings>
+    <workCount>165</workCount>
+    <recordCount>281</recordCount>
+    <ddc ident="">882.01</ddc>
+    <lcc ident="PA4414.E5">PA4414.E5</lcc>
+    <relators>
+      <relator code="aut" count="389">
+        <oclcnum count="63">ocn008594404</oclcnum>
+        <oclcnum count="60">ocn003022052</oclcnum>
+        <oclcnum count="15">ocn746103341</oclcnum>
+        <oclcnum count="14">ocn066061232</oclcnum>
+        <oclcnum count="9">ocn004418539</oclcnum>
+        <oclcnum count="9">ocn715645683</oclcnum>
+        <oclcnum count="8">ocn1102096049</oclcnum>
+        <oclcnum count="7">ocn906222839</oclcnum>
+        <oclcnum count="7">ocn743254871</oclcnum>
+        <oclcnum count="7">ocn082937641</oclcnum>
+      </relator>
+      <relator code="trl" count="44">
+        <oclcnum count="9">ocn175042121</oclcnum>
+        <oclcnum count="8">ocn175042145</oclcnum>
+        <oclcnum count="8">ocn175042131</oclcnum>
+        <oclcnum count="3">ocn175042173</oclcnum>
+        <oclcnum count="2">ocn1046405470</oclcnum>
+        <oclcnum count="2">ocn1072208986</oclcnum>
+        <oclcnum count="2">ocn1070986091</oclcnum>
+        <oclcnum count="2">ocn1076043384</oclcnum>
+        <oclcnum count="2">ocn1050550537</oclcnum>
+        <oclcnum count="1">ocn493440156</oclcnum>
+      </relator>
+      <relator code="edt" count="34">
+        <oclcnum count="4">ocn1071627910</oclcnum>
+        <oclcnum count="4">ocn1071178861</oclcnum>
+        <oclcnum count="3">ocn1046362307</oclcnum>
+        <oclcnum count="3">ocn1071278440</oclcnum>
+        <oclcnum count="3">ocn1069187723</oclcnum>
+        <oclcnum count="3">ocn1068666777</oclcnum>
+        <oclcnum count="3">ocn1072867461</oclcnum>
+        <oclcnum count="2">ocn1068796791</oclcnum>
+        <oclcnum count="2">ocn1071253919</oclcnum>
+        <oclcnum count="2">ocn1068702271</oclcnum>
+      </relator>
+      <relator code="oth" count="2">
+        <oclcnum count="1">ocn830716655</oclcnum>
+        <oclcnum count="1">ocn1072846515</oclcnum>
+      </relator>
+      <relator code="hnr" count="1">
+        <oclcnum count="1">ocn901442933</oclcnum>
+      </relator>
+      <relator code="ctb" count="0">
+        <oclcnum count="0">ocn713396681</oclcnum>
+      </relator>
+    </relators>
+  </nameInfo>
+  <by>
+    <citation ident="newwork1336247">
+      <holdings>307</holdings>
+      <numEditions>14</numEditions>
+      <oclcnum>ocn001336247</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="eng" count="13"/>
+        <lang code="ita" count="1"/>
+      </languages>
+      <date>1907</date>
+      <dates different="1" first="1907" last="1907"/>
+      <audLevel>0.75</audLevel>
+      <creator ident="10000386,n95070803">Molmenti, Pompeo</creator>
+      <title>The life and works of Vittorio Carpaccio</title>
+    </citation>
+    <citation ident="newwork4418539">
+      <holdings>127</holdings>
+      <numEditions>21</numEditions>
+      <oclcnum>ocn008594404</oclcnum>
+      <recordType>book</recordType>
+      <languages count="3">
+        <lang code="fre" count="19"/>
+        <lang code="und" count="1"/>
+        <lang code="eng" count="1"/>
+      </languages>
+      <date>1905</date>
+      <dates different="2" first="1905" last="1910"/>
+      <audLevel>0.84</audLevel>
+      <creator ident="88695574">Ludwig, Gustav</creator>
+      <title>Vittore Carpaccio, la vie et l'oeuvre du peintre</title>
+      <genres>
+        <genre count="63" norm="criticism, interpretation, etc">Criticism, interpretation, etc</genre>
+        <genre count="3" norm="biographies">Biographies</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork6962832">
+      <holdings>106</holdings>
+      <numEditions>21</numEditions>
+      <oclcnum>ocn006962832</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="ita" count="19"/>
+        <lang code="fre" count="2"/>
+      </languages>
+      <date>1881</date>
+      <dates different="3" first="1881" last="1910"/>
+      <audLevel>0.71</audLevel>
+      <creator ident="10000386,n95070803">Molmenti, Pompeo</creator>
+      <title>Vittore Carpaccio : la vita e le opere</title>
+    </citation>
+    <citation ident="newwork3022052">
+      <holdings>83</holdings>
+      <numEditions>7</numEditions>
+      <oclcnum>ocn003022052</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="7"/>
+      </languages>
+      <date>1911</date>
+      <dates different="1" first="1911" last="1911"/>
+      <audLevel>0.71</audLevel>
+      <creator ident="88695574">Ludwig, Gustav</creator>
+      <title>Archivalische Beiträge zur Geschichte der venezianischen Kunst : aus dem Nachlass Gustav Ludwigs</title>
+      <genres>
+        <genre count="64" norm="history">History</genre>
+        <genre count="60" norm="sources">Sources</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork908782525">
+      <holdings>32</holdings>
+      <numEditions>2</numEditions>
+      <oclcnum>ocn908782525</oclcnum>
+      <recordType>file</recordType>
+      <languages count="1">
+        <lang code="ger" count="2"/>
+      </languages>
+      <audLevel>0.82</audLevel>
+      <creator ident="2130151778256418130004,no92010069">Horácio</creator>
+      <title>Gedichte; in den Versmassen der Urschrift übersetz und erläutert</title>
+    </citation>
+    <citation ident="newwork27740603">
+      <holdings>22</holdings>
+      <numEditions>8</numEditions>
+      <oclcnum>ocn906222839</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ita" count="8"/>
+      </languages>
+      <date>1901</date>
+      <dates different="2" first="1901" last="1902"/>
+      <audLevel>0.96</audLevel>
+      <creator ident="88695574">Ludwig, Gustav</creator>
+      <title>Contratti fra lo stampador Zuan di Colonia ed i suoi socii, e inventario di una parte del loro magazzino</title>
+    </citation>
+    <citation ident="newwork82937641">
+      <holdings>20</holdings>
+      <numEditions>7</numEditions>
+      <oclcnum>ocn082937641</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="7"/>
+      </languages>
+      <date>1932</date>
+      <dates different="2" first="1932" last="1933"/>
+      <audLevel>0.34</audLevel>
+      <creator ident="88695574">Ludwig, Gustav</creator>
+      <title>Die Bodenerträge im Getreidebau bei Anwendung von Kunstdüngerstickstoff; ein Beitrag zum Gesetz des abnekmenden Bodenertrages</title>
+    </citation>
+    <citation ident="newwork9718706">
+      <holdings>15</holdings>
+      <numEditions>5</numEditions>
+      <oclcnum>ocn647388380</oclcnum>
+      <recordType>file</recordType>
+      <languages count="1">
+        <lang code="ger" count="5"/>
+      </languages>
+      <date>1837</date>
+      <dates different="1" first="1837" last="1837"/>
+      <audLevel>0.47</audLevel>
+      <creator ident="30280836,n83235619">Donner, J. J. C</creator>
+      <title>Werke</title>
+    </citation>
+    <citation ident="newwork163027559">
+      <holdings>9</holdings>
+      <numEditions>2</numEditions>
+      <oclcnum>ocn163027559</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="ger" count="1"/>
+        <lang code="und" count="1"/>
+      </languages>
+      <date>1853</date>
+      <dates different="2" first="1853" last="1874"/>
+      <audLevel>0.24</audLevel>
+      <creator ident="100227522,n79081354">Horace</creator>
+      <title>Werke</title>
+    </citation>
+    <citation ident="newwork896380">
+      <holdings>9</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn175042121</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="1"/>
+      </languages>
+      <date>1851</date>
+      <dates different="1" first="1851" last="1851"/>
+      <audLevel>0.64</audLevel>
+      <creator ident="265326651,n79063679">Euripides</creator>
+      <title>Orestes</title>
+      <genres>
+        <genre count="7" norm="criticism, interpretation, etc">Criticism, interpretation, etc</genre>
+        <genre count="1847" norm="drama">Drama</genre>
+        <genre count="892" norm="tragedies (drama)">Tragedies (Drama)</genre>
+        <genre count="4" norm="mythological plays">Mythological plays</genre>
+      </genres>
+      <summary>Produced more frequently on the ancient stage than any other tragedy, Orestes retells with striking innovations the story of the young man who kills his mother to avenge her murder of his father. Though eventually exonerated, Orestes becomes a fugitive from the Furies (avenging spirits) of his mother's blood. On the brink of destruction, he is saved in the end by Apollo, who had commanded the matricide. Powerful and gripping, Orestes sweeps us along with a momentum that, starting slowly, builds inevitably to one of the most spectacular climaxes in all Greek tragedy</summary>
+    </citation>
+    <citation ident="newwork258095843">
+      <holdings>9</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn258095843</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="1"/>
+      </languages>
+      <date>1848</date>
+      <dates different="1" first="1848" last="1848"/>
+      <audLevel>0.33</audLevel>
+      <creator ident="265326651,n79063679">Euripides</creator>
+      <title>Euripides Werke, metrisch übersetzt und mit Anmerkungen begleitet von Gustav Ludwig</title>
+    </citation>
+    <citation ident="newwork257905027">
+      <holdings>8</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn257905027</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="1"/>
+      </languages>
+      <date>1838</date>
+      <dates different="1" first="1838" last="1838"/>
+      <audLevel>0.32</audLevel>
+      <creator ident="265326651,n79063679">Euripides</creator>
+      <title>Euripides Werke, metrisch übersetzt und mit Anmerkungen begleitet von Gustav Ludwig</title>
+    </citation>
+    <citation ident="newwork165887360">
+      <holdings>8</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn165887360</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="1"/>
+      </languages>
+      <date>1843</date>
+      <dates different="1" first="1843" last="1843"/>
+      <audLevel>0.22</audLevel>
+      <creator ident="265326651,n79063679">Euripides</creator>
+      <title>Werke : Hrsg. von G.L.F. Tafel ...</title>
+    </citation>
+    <citation ident="newwork165887372">
+      <holdings>8</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn165887372</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="1"/>
+      </languages>
+      <date>1851</date>
+      <dates different="1" first="1851" last="1851"/>
+      <audLevel>0.22</audLevel>
+      <creator ident="265326651,n79063679">Euripides</creator>
+      <title>Werke : Hrsg. von G.L.F. Tafel ...</title>
+    </citation>
+    <citation ident="newwork366815">
+      <holdings>8</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn175042145</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="1"/>
+      </languages>
+      <date>1852</date>
+      <dates different="1" first="1852" last="1852"/>
+      <audLevel>0.68</audLevel>
+      <creator ident="101760867,n79127755">Sophocles</creator>
+      <title>Elektra : a play</title>
+      <genres>
+        <genre count="81" norm="criticism, interpretation, etc">Criticism, interpretation, etc</genre>
+        <genre count="81" norm="poetry">Poetry</genre>
+        <genre count="5861" norm="drama">Drama</genre>
+        <genre count="0" norm="study guides">Study guides</genre>
+        <genre count="10" norm="academic theses">Academic theses</genre>
+        <genre count="1258" norm="tragedies (drama)">Tragedies (Drama)</genre>
+        <genre count="501" norm="mythological plays">Mythological plays</genre>
+      </genres>
+      <summary>This critical edition of Ezra Pound's Elektra marks the most significant appearance in twenty years of a "new" work by the controversial poet. Composed in the early months of 1949, while Pound was under indictment for treason and hospitalized by court order in Washington, D.C., this hitherto unpublished version of Sophocles' play documents a critical stage in the poet's writing career: with his subsequent rendition of Sophocles' Trachiniae and his ongoing translations from the Chinese classics, it signaled his return to sustained composition and his eventual decision to resume his life work, the Cantos. The success of Carey Perloff's Classic Stage Company debut of Pound's play in 1987 has already demonstrated the interest of the theatrical community in the work, and this presentation of the text, with critical apparatus, is a major event in Pound studies. The edition serves as a kind of practical workshop in translation, particularly in its exposition of Pound's discussions with his collaborator, Rudd Fleming. Richard Reid demonstrates in his introduction that Pound's choice of the Elektra was of crucial significance. In the play Sophocles confronts many of our most deeply held cultural assumptions: those concerning the family, the community, the claims of religion and justice, and language itself. As anyone familiar with the works of Pound will readily recognize, these issues are central in his own writings. The Elektra clarifies the formal, thematic, and psychological dilemmas seen in his work following the achievements recorded in the Pisan Cantos. This play and Pound's version of the Trachiniae can lead to a reassessment of his entire oeuvre in the context of this century's history. It will be essential reading for admirers of Pound's poetry, for students of the art of translation, and for directors and actors interested in performing the drama of ancient Athens on the modern stage</summary>
+    </citation>
+    <citation ident="newwork165887365">
+      <holdings>8</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn165887365</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="1"/>
+      </languages>
+      <date>1848</date>
+      <dates different="1" first="1848" last="1848"/>
+      <audLevel>0.22</audLevel>
+      <creator ident="265326651,n79063679">Euripides</creator>
+      <title>Werke : Hrsg. von G.L.F. Tafel ...</title>
+    </citation>
+    <citation ident="newwork165887361">
+      <holdings>8</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn165887361</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="1"/>
+      </languages>
+      <date>1845</date>
+      <dates different="1" first="1845" last="1845"/>
+      <audLevel>0.22</audLevel>
+      <creator ident="265326651,n79063679">Euripides</creator>
+      <title>Werke : Hrsg. von G.L.F. Tafel ...</title>
+    </citation>
+    <citation ident="newwork175042131">
+      <holdings>8</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn175042131</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="1"/>
+      </languages>
+      <date>1851</date>
+      <dates different="1" first="1851" last="1851"/>
+      <audLevel>0.32</audLevel>
+      <creator ident="265326651,n79063679">Euripides</creator>
+      <title>Der rasende Herakles</title>
+    </citation>
+    <citation ident="newwork257905487">
+      <holdings>8</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn257905487</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="1"/>
+      </languages>
+      <date>1838</date>
+      <dates different="1" first="1838" last="1838"/>
+      <audLevel>0.47</audLevel>
+      <creator ident="265326651,n79063679">Euripides</creator>
+      <title>Euripides Werke, metrisch übersetzt und mit Anmerkungen begleitet von Gustav Ludwig</title>
+    </citation>
+    <citation ident="newwork163027589">
+      <holdings>8</holdings>
+      <numEditions>2</numEditions>
+      <oclcnum>ocn163027589</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="ger" count="1"/>
+        <lang code="und" count="1"/>
+      </languages>
+      <date>1854</date>
+      <dates different="2" first="1854" last="1874"/>
+      <audLevel>0.20</audLevel>
+      <creator ident="uncontrolled">Horatius Flaccus, Quintus</creator>
+      <title>Werke</title>
+    </citation>
+  </by>
+  <admin:administrativeMetadata xmlns:admin="http://viaf.org/xa/administrativeMetadata">
+    <admin:administrativeMetadataInstance>
+      <admin:administrativeMetadataDate>Thu Feb 25 12:29:40 EST 2021</admin:administrativeMetadataDate>
+      <admin:administrativeMetadataUser>batch</admin:administrativeMetadataUser>
+      <admin:administrativeMetadataRecordLength>17245</admin:administrativeMetadataRecordLength>
+    </admin:administrativeMetadataInstance>
+  </admin:administrativeMetadata>
+</Identity>

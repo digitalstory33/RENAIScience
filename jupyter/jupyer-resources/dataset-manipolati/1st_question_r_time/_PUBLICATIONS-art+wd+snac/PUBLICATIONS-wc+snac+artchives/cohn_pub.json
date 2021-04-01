@@ -1,0 +1,377 @@
+{
+  "resources": [
+    {
+      "title": "Untersuchungen zur Geschichte des deutschen Einblattholzschnitts im 2. Drittel des 15. Jahrhunderts",
+      "date": "1934",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "History"
+      },
+      "summary": "15th century"
+    },
+    {
+      "title": "Der Wandel der Architekturgestaltung in den Werken Hans Holbeins d. j., ein Beitrag zur Holbein-Chronologie",
+      "date": "1929",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Rubens",
+      "date": "1951",
+      "creators": {
+        "creator": "Rubens, Peter Paul",
+        "coCreator": "Cohn"
+      },
+      "recordType": "book",
+      "summary": "Peter Paul Rubens"
+    },
+    {
+      "title": "Spina Die neuentdeckte Etruskerstadt und d. griechischen Vasen ihrer Graber",
+      "date": "1958",
+      "creators": {
+        "creator": "Alfieri, Nereo",
+        "coCreator": "Cohn"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Spina; die neuentdeckte Etruskerstadt und die griechischen Vasen ihrer Graber",
+      "date": "1958",
+      "creators": {
+        "creator": "Alfieri, Nereo",
+        "coCreator": "Cohn"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Chiese di Ravenna",
+      "date": "1958",
+      "summary": "christian architecture",
+      "creators": {
+        "creator": "Bovini, Giuseppe",
+        "coCreator": "Cohn"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Holz- und metallschnitte einer suddeutschen sammlung",
+      "date": "1934",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Einblattdrucke der Strassburger druckerei Johannes Gruninger",
+      "date": "1937",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Holz- und Metallschnitte aus offentlichen sammlungen und bibliotheken in Aachen, Bamberg, Berlin, Breslau, Darmstadt, Dresden, Gottingen, Gotha",
+      "date": "1935",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Holz- und metallschnitte aus offentl. in- und auslandischen sammlungen und Bibliotheken in Innsbruck, Salzburg, Wien, Delsberg, Neuenstadt, St. Gallen, Lyon, Paris, Strassburg, Tunbridge Wells:",
+      "date": "1938",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Holz- und metallschnitte aus offentlichen sammlungen und bibliotheken in Hannover, Koblenz, Koln, Leipzig und Luneburg, mit begleitendem text",
+      "date": "1935",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Catalogs"
+      }
+    },
+    {
+      "title": "Holz- und metallschnitte aus offentlichen sammlungen und bibliotheken in Maihingen, Marburg, Neisse, Nurnberg, Rosenheim, Rottenburg, Stuttgart und Wurzburg, mit begleitendem text",
+      "date": "1935",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Five centuries of Italian majolica",
+      "date": "1960",
+      "creators": {
+        "creator": "Liverani, Giuseppe",
+        "coCreator": "Cohn"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Holz- und Metallschnitte aus offentlichen Sammlungen und Bibliotheken in Maihingen, Marburg, Neisse, Nurnberg, Rosenheim, Rottenburg, Stuttgart und Wurzburg",
+      "date": "1935",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Hans Holbein, 1497-1543",
+      "date": "1957",
+      "creators": {
+        "creator": "Holbein, Hans",
+        "coCreator": "Cohn"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Lucas Cranach : 1472-1553",
+      "date": "1956",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Albrecht Durer, 1471-1528",
+      "date": "1958",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Luca Cranach, 1472-1553",
+      "date": "1956",
+      "creators": {
+        "creator": "Cranach, Lucas",
+        "coCreator": "Cohn"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Rubens",
+      "date": "1951",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Rubens",
+      "date": "1951",
+      "creators": {
+        "creator": "Rubens, Peter Paul",
+        "coCreator": "Cohn"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Galleria Palatina (die Pitti-Galerie) : F\u00FChrer f\u00FCr den Besucher und Katalog der ausgestellten Werke, hrsg. von Anna Maria Francini Ciaranfi",
+      "date": "1968",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Contributo a Pietro Lorenzetti",
+      "date": "1959",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "article"
+    },
+    {
+      "title": "Maestri sconosciuti del Quattrocento Fiorentino",
+      "date": "1960",
+      "summary": "Florence, Quattrocento, Renaissance, 15th century",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "article"
+    },
+    {
+      "title": "Ein neues Museum in San Giovanni Valdarno",
+      "date": "1960",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "article"
+    },
+    {
+      "title": "Florentiner Kunstberich",
+      "date": "1960",
+      "summary": "Florence, art",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "article"
+    },
+    {
+      "title": "Florenz zur Zeit Dantes",
+      "date": "1959",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "article"
+    },
+    {
+      "title": "Ein Geschenk Bernard Berensons an die Florentiner Uffizien",
+      "date": "1959",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "article"
+    },
+    {
+      "title": "Zur Ikonographie der Glasfenster von Orsanmichele, mit Zsfassung in ital. Sprache",
+      "date": "1959",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "article"
+    },
+    {
+      "title": "Das neue \"Museo dell'Opera di Santa Croce\"",
+      "date": "1959",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "article"
+    },
+    {
+      "title": "Die dritte Florentiner Fresken-Schau im Forte Belvedere",
+      "date": "1959",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "article"
+    },
+    {
+      "title": "Eine unbekannte oberrheinische Miniatur des \"Weichen Stils\"",
+      "date": "1959",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "article"
+    },
+    {
+      "title": "Notizie storiche intorno ad alcune tavole fiorentine del '300 e '400",
+      "date": "1958",
+      "summary": "Florence, 14th century, 15th century",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "article"
+    },
+    {
+      "title": "Franco Sacchetti und das ikonographische Programm der Gew\u00F6lbemalereien von Orsanmichele",
+      "date": "1958",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "article"
+    },
+    {
+      "title": "Neue Beitr\u00E4ge zu Antonio Veneziano",
+      "date": "1958",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "article"
+    },
+    {
+      "title": "Albrecht D\u00FCrer : 1471 - 1528",
+      "date": "1958",
+      "summary": "Albrecht Durer",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "La seconda immagine della Loggia di Orsanmichele",
+      "date": "1957",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "article"
+    },
+    {
+      "title": "R\u00FCckblick auf das Fra Angelico Jahr",
+      "date": "1956",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "article"
+    },
+    {
+      "title": "Nuovi documenti per il B. Angelico",
+      "date": "1956",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "article"
+    },
+    {
+      "title": "Il Beato Angelico e Battista di Biagio Sanguigni",
+      "date": "1955",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "article"
+    },
+    {
+      "title": "Nanni di Banco",
+      "date": "1952",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "article"
+    },
+    {
+      "title": "Two glass panels after designs by Hans Holbein",
+      "date": "1939",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "article"
+    },
+    {
+      "title": "A glass painting by the Master E. S.",
+      "date": "1937",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "article"
+    },
+    {
+      "title": "Christoph Amberger (c. 1500 - 1561), The Virgin enthroned with St. Christopher and Donors",
+      "date": "1933",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "article"
+    },
+    {
+      "title": "Der Wandel der Architekturgestaltung in den Werken Hans Holbeins d.J.: ein Beitrag zur Holbein-Chronologie",
+      "date": "1930",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "article"
+    }
+  ]
+}

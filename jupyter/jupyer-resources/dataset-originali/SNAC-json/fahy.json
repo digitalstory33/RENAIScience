@@ -1,0 +1,321 @@
+{
+    "dataType": "Constellation",
+    "ark": "http:\/\/n2t.net\/ark:\/99166\/w6tj21rt",
+    "entityType": {
+        "id": "700",
+        "term": "person",
+        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Person",
+        "type": "entity_type"
+    },
+    "maintenanceStatus": {
+        "term": "revised"
+    },
+    "maintenanceAgency": "SNAC: Social Networks and Archival Context",
+    "maintenanceEvents": [
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised"
+            },
+            "eventDateTime": "2015-09-18",
+            "agentType": {
+                "id": "687",
+                "term": "machine"
+            },
+            "agent": "CPF merge program",
+            "eventDescription": "Merge v2.0"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-08-14T08:15:00",
+            "standardDateTime": "2016-08-14T08:15:00",
+            "agentType": {
+                "id": "687",
+                "term": "machine",
+                "type": "agent_type"
+            },
+            "agent": "SNAC EAC-CPF Parser",
+            "eventDescription": "Bulk ingest into SNAC Database"
+        },
+        {
+            "dataType": "MaintenanceEvent",
+            "eventType": {
+                "id": "704",
+                "term": "revised",
+                "type": "event_type"
+            },
+            "eventDateTime": "2016-08-14T08:15:00",
+            "standardDateTime": "2016-08-14T08:15:00",
+            "agentType": {
+                "id": "400254",
+                "term": "human",
+                "type": "agent_type"
+            },
+            "agent": "System Service (system@localhost)"
+        }
+    ],
+    "sources": [
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "uri": "http:\/\/viaf.org\/viaf\/166209974",
+            "id": "44283501",
+            "version": "6468809"
+        },
+        {
+            "dataType": "Source",
+            "type": {
+                "id": "28296",
+                "term": "simple",
+                "type": "source_type"
+            },
+            "uri": "http:\/\/www.worldcat.org\/oclc\/228431440",
+            "id": "44283500",
+            "version": "6468809"
+        }
+    ],
+    "conventionDeclarations": [
+        {
+            "dataType": "ConventionDeclaration",
+            "text": "<conventionDeclaration><citation>VIAF<\/citation><\/conventionDeclaration>",
+            "id": "44283502",
+            "version": "6468809"
+        }
+    ],
+    "nameEntries": [
+        {
+            "dataType": "NameEntry",
+            "original": "Fahy, Everett.",
+            "preferenceScore": "2",
+            "components": [
+                {
+                    "dataType": "NameComponent",
+                    "text": "Fahy, Everett.",
+                    "order": "0",
+                    "type": {
+                        "id": "400228",
+                        "term": "Name",
+                        "type": "name_component"
+                    },
+                    "id": "44283504",
+                    "version": "6468809"
+                }
+            ],
+            "id": "44283503",
+            "version": "6468809",
+            "snacControlMetadata": [
+                {
+                    "dataType": "SNACControlMetadata",
+                    "sourceData": "[\n    {\n        \"contributor\": \"VIAF\",\n        \"form\": \"authorizedForm\"\n    },\n    {\n        \"contributor\": \"WorldCat\",\n        \"form\": \"authorizedForm\"\n    }\n]",
+                    "note": "Contributors from initial SNAC EAC-CPF ingest",
+                    "id": "80419853",
+                    "version": "6468809"
+                }
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "dataType": "ConstellationRelation",
+            "sourceConstellation": "44283499",
+            "targetConstellation": "70313053",
+            "sourceArkID": "http:\/\/n2t.net\/ark:\/99166\/w6tj21rt",
+            "targetArkID": "http:\/\/n2t.net\/ark:\/99166\/w6mh1jgv",
+            "targetEntityType": {
+                "id": "698",
+                "term": "corporateBody",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                "type": "entity_type"
+            },
+            "type": {
+                "id": "28234",
+                "term": "associatedWith",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#associatedWith",
+                "type": "relation_type"
+            },
+            "content": "Whitney Museum of American Art.",
+            "id": "44283510",
+            "version": "6468809"
+        }
+    ],
+    "sameAsRelations": [
+        {
+            "dataType": "SameAs",
+            "type": {
+                "id": "28225",
+                "term": "sameAs",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#sameAs",
+                "type": "record_type"
+            },
+            "text": "Fahy, Everett.",
+            "uri": "https:\/\/viaf.org\/viaf\/166209974",
+            "id": "44283509",
+            "version": "6468809"
+        }
+    ],
+    "resourceRelations": [
+        {
+            "dataType": "ResourceRelation",
+            "resource": {
+                "dataType": "Resource",
+                "documentType": {
+                    "id": "696",
+                    "term": "ArchivalResource",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#ArchivalResource",
+                    "type": "document_type"
+                },
+                "link": "http:\/\/www.worldcat.org\/oclc\/228431440",
+                "source": "<objectXMLWrap>\n               <mods xmlns=\"http:\/\/www.loc.gov\/mods\/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:228431440<\/recordOrigin>\n                     <recordContentSource>ISIL:OCLC-AQ035<\/recordContentSource>\n                  <\/recordInfo>\n                  <name>\n                     <namePart>Fahy, Everett.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <name>\n                     <namePart>Whitney Museum of American Art.<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/cre\">Creator<\/roleTerm>\n                     <\/role>\n                  <\/name>\n                  <titleInfo>\n                     <title>Fahy, Everett: Art World Personality Files.<\/title>\n                  <\/titleInfo>\n                  <name>\n                     <namePart>Whitney Museum of American Art<\/namePart>\n                     <role>\n                        <roleTerm valueURI=\"http:\/\/id.loc.gov\/vocabulary\/relators\/rps\">Repository<\/roleTerm>\n                     <\/role>\n                  <\/name>\n               <\/mods>\n            <\/objectXMLWrap>",
+                "title": "Fahy, Everett: Art World Personality Files.",
+                "extent": "1 folder.",
+                "displayEntry": "Fahy, Everett. Fahy, Everett: Art World Personality Files.",
+                "originationNames": [
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Fahy, Everett.",
+                        "id": "9001593",
+                        "version": "7085372"
+                    },
+                    {
+                        "dataType": "OriginationName",
+                        "name": "Whitney Museum of American Art.",
+                        "id": "9001594",
+                        "version": "7085372"
+                    }
+                ],
+                "repository": {
+                    "dataType": "Constellation",
+                    "ark": "http:\/\/n2t.net\/ark:\/99166\/w67f3hwg",
+                    "entityType": {
+                        "id": "698",
+                        "term": "corporateBody",
+                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#CorporateBody",
+                        "type": "entity_type"
+                    },
+                    "nameEntries": [
+                        {
+                            "dataType": "NameEntry",
+                            "original": "Whitney Museum of American Art, Library",
+                            "preferenceScore": "99",
+                            "id": "76790745",
+                            "version": "11235341"
+                        }
+                    ],
+                    "places": [
+                        {
+                            "dataType": "Place",
+                            "original": "Whitney Museum of American Art, Library",
+                            "type": {
+                                "id": "400242",
+                                "term": "Address",
+                                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Address",
+                                "type": "place_type"
+                            },
+                            "address": [
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "945 Madison Ave. 75th St.",
+                                    "order": "0",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76790750",
+                                    "version": "11235341"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "New York",
+                                    "order": "1",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76790751",
+                                    "version": "11235341"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US-NY",
+                                    "order": "2",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76790752",
+                                    "version": "11235341"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "10021",
+                                    "order": "3",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76790753",
+                                    "version": "11235341"
+                                },
+                                {
+                                    "dataType": "AddressLine",
+                                    "text": "US",
+                                    "order": "4",
+                                    "type": {
+                                        "id": "400243",
+                                        "term": "Unspecified",
+                                        "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Unspecified",
+                                        "type": "address_part"
+                                    },
+                                    "id": "76790754",
+                                    "version": "11235341"
+                                }
+                            ],
+                            "geoplace": {
+                                "id": "17353",
+                                "name": "Whitney Museum of American Art, Library",
+                                "latitude": "40.7805000",
+                                "longitude": "-73.9802000"
+                            },
+                            "confirmed": true,
+                            "id": "76790749",
+                            "version": "11235341"
+                        }
+                    ],
+                    "id": "76790744",
+                    "version": "11235344"
+                },
+                "id": "7085372",
+                "version": "7085372"
+            },
+            "role": {
+                "id": "692",
+                "term": "creatorOf",
+                "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#creatorOf",
+                "type": "document_role"
+            },
+            "content": "Fahy, Everett. Fahy, Everett: Art World Personality Files.",
+            "id": "44283511",
+            "version": "6468809"
+        }
+    ],
+    "id": "44283499",
+    "version": "6468810"
+}

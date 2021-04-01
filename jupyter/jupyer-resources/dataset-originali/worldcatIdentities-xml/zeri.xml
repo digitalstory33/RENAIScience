@@ -1,0 +1,1179 @@
+<?xml version="1.0" encoding="UTF-8"?><Identity type="personal">
+  <creationtime>Tue Feb 23 23:19:36 2021 UTC</creationtime>
+  <pnkey>lccn-n50014073</pnkey>
+  <audLevel>&lt;!--  actual audience min:0.23, avg:0.68, max:0.98  --&gt;<min>
+      <level>0.23</level>
+      <title>Cezanne, Mont Sainte-Victoire /</title>
+    </min>
+    <avg>
+      <level>0.59</level>
+    </avg>
+    <max>
+      <level>0.93</level>
+      <title>Un velo di silenzio /</title>
+    </max>
+  </audLevel>
+  <authorityInfo>
+    <viafid>17237451</viafid>
+    <wikidataid>Q1089074</wikidataid>
+    <wikiLink>Federico_Zeri</wikiLink>
+    <lccn>n  50014073</lccn>
+    <arn>49550</arn>
+    <x400>
+      <rawName>
+        <suba>Dzeri, Federiko</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Federico Zeri critico d'arte italiano</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Federico Zeri historiador da arte italiano</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Federico Zeri historiador de l'art italià</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Federico Zeri historiador del arte italiano</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Federico Zeri historian italian i artit</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Federico Zeri historien de l'art italien</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Federico Zeri istoric al artei italian</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Federico Zeri Italiaans kunstcriticus (1921-1998)</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Federico Zeri Italian art historian</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Federico Zeri italienischer Kunsthistoriker</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Federico Zeri staraí na healaíne Iodálach</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Zeri, Federico 1921-1998</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Zeri, Federiko</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Федерико Дзери итальянский искусствовед</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>ゼーリ, フェデリコ</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>フェデリコ・ツェーリ</suba>
+      </rawName>
+    </x400>
+  </authorityInfo>
+  <associatedNames>
+    <name count="2829">
+      <normName>lccn-n88070409</normName>
+      <rawName>
+        <suba>Dolcetta, Marco</suba>
+      </rawName>
+      <relator count="1">ivr</relator>
+      <relator count="25">edt</relator>
+    </name>
+    <name count="2462">
+      <normName>lccn-no00093967</normName>
+      <rawName>
+        <suba>Mazour, Elena</suba>
+      </rawName>
+      <relator count="1">trl</relator>
+      <relator count="12">edt</relator>
+    </name>
+    <name count="1385">
+      <normName>lccn-n79129629</normName>
+      <rawName>
+        <suba>Metropolitan Museum of Art (New York, N.Y.)</suba>
+      </rawName>
+      <relator count="4">oth</relator>
+    </name>
+    <name count="953">
+      <normName>lccn-n80046639</normName>
+      <rawName>
+        <suba>Gardner, Elizabeth E.</suba>
+      </rawName>
+      <relator count="7">oth</relator>
+      <relator count="2">red</relator>
+      <relator count="10">ctb</relator>
+    </name>
+    <name count="485">
+      <normName>np-scott, susan</normName>
+      <rawName>
+        <suba>Scott, Susan</suba>
+      </rawName>
+      <relator count="4">trl</relator>
+    </name>
+    <name count="430">
+      <normName>lccn-n79053697</normName>
+      <rawName>
+        <suba>Fredericksen, Burton B.</suba>
+      </rawName>
+      <relator count="427">aut</relator>
+    </name>
+    <name count="393">
+      <normName>lccn-n84060279</normName>
+      <rawName>
+        <suba>Rozman, Ksenija</suba>
+      </rawName>
+      <relator count="22">aui</relator>
+      <relator count="4">oth</relator>
+      <relator count="6">aut</relator>
+      <relator count="15">edt</relator>
+      <relator count="2">ive</relator>
+    </name>
+    <name count="342">
+      <normName>lccn-n50056780</normName>
+      <rawName>
+        <suba>Pinacoteca di Brera</suba>
+      </rawName>
+      <relator count="7">oth</relator>
+    </name>
+    <name count="323">
+      <normName>lccn-n80113881</normName>
+      <rawName>
+        <suba>Narodna galerija v Ljubljani</suba>
+      </rawName>
+      <relator count="16">oth</relator>
+      <relator count="1">pbl</relator>
+      <relator count="2">edt</relator>
+    </name>
+    <name count="323">
+      <normName>lccn-n79027105</normName>
+      <rawName>
+        <suba>Walters Art Gallery (Baltimore, Md.)</suba>
+      </rawName>
+      <relator count="2">oth</relator>
+    </name>
+  </associatedNames>
+  <nameInfo type="personal">
+    <rawName>
+      <suba>Zeri, Federico</suba>
+    </rawName>
+    <genres>
+      <genre count="1663" norm="1423692">Catalogs</genre>
+      <genre count="931" norm="1411635">Criticism, interpretation, etc</genre>
+      <genre count="167" norm="1411628">History</genre>
+      <genre count="147" norm="1424028">Exhibition catalogs</genre>
+      <genre count="80" norm="1919896">Biographies</genre>
+      <genre count="33" norm="1919948">Personal correspondence</genre>
+      <genre count="18" norm="1423874">Pictorial works</genre>
+      <genre count="16" norm="1423772">Conference papers and proceedings</genre>
+      <genre count="9" norm="1423832">Interviews</genre>
+      <genre count="1" norm="1986236">Collection catalogs</genre>
+    </genres>
+    <fastHeadings>
+      <fast count="2152" norm="1050567" size="5" tag="650">Painting</fast>
+      <fast count="2124" norm="1050910" size="5" tag="650">Painting, Italian</fast>
+      <fast count="1189" norm="1204333" size="5" tag="651">New York (State)--New York</fast>
+      <fast count="995" norm="1051051" size="5" tag="650">Painting, Renaissance</fast>
+      <fast count="726" norm="4353" size="5" tag="600">Zeri, Federico</fast>
+      <fast count="498" norm="1204699" size="5" tag="651">Italy--Florence</fast>
+      <fast count="495" norm="1204565" size="5" tag="651">Italy</fast>
+      <fast count="428" norm="1204473" size="5" tag="651">Italy--Venice</fast>
+      <fast count="419" norm="538556" size="5" tag="610">Metropolitan Museum of Art (New York, N.Y.)</fast>
+      <fast count="396" norm="1204310" size="5" tag="651">Canada</fast>
+      <fast count="396" norm="1204155" size="4" tag="651">United States</fast>
+      <fast count="295" norm="1204292" size="4" tag="651">Maryland--Baltimore</fast>
+      <fast count="276" norm="798702" size="4" tag="650">Aesthetics</fast>
+      <fast count="271" norm="530720" size="4" tag="610">Walters Art Gallery (Baltimore, Md.)</fast>
+      <fast count="246" norm="1204409" size="4" tag="651">Italy--Siena</fast>
+      <fast count="244" norm="1244299" size="4" tag="651">Italy--Italy, Central</fast>
+      <fast count="240" norm="815314" size="4" tag="650">Art--Private collections</fast>
+      <fast count="239" norm="1050856" size="4" tag="650">Painting, Gothic</fast>
+      <fast count="233" norm="1204885" size="4" tag="651">Rome (Empire)</fast>
+      <fast count="223" norm="815177" size="4" tag="650">Art</fast>
+      <fast count="221" norm="35416" size="3" tag="600">Matisse, Henri,</fast>
+      <fast count="220" norm="1851272" size="3" tag="600">Titian,</fast>
+      <fast count="220" norm="1384659" size="3" tag="630">Sacred and profane love (Titian)</fast>
+      <fast count="220" norm="1002807" size="3" tag="650">Love in art</fast>
+      <fast count="214" norm="1212867" size="3" tag="651">Russia (Federation)--Saint Petersburg</fast>
+      <fast count="214" norm="1029643" size="3" tag="650">Mural painting and decoration, French</fast>
+      <fast count="214" norm="887522" size="3" tag="650">Dance in art</fast>
+      <fast count="204" norm="1204289" size="3" tag="651">France</fast>
+      <fast count="199" norm="35623" size="3" tag="600">Cezanne, Paul,</fast>
+      <fast count="199" norm="968249" size="3" tag="650">Impressionism (Art)</fast>
+      <fast count="188" norm="1061600" size="2" tag="650">Photograph collections</fast>
+      <fast count="176" norm="815554" size="2" tag="650">Art historians</fast>
+      <fast count="175" norm="1809076" size="2" tag="600">Botticelli, Sandro,</fast>
+      <fast count="175" norm="1361959" size="2" tag="630">Spring (Botticelli, Sandro)</fast>
+      <fast count="175" norm="805512" size="2" tag="650">Allegories</fast>
+      <fast count="170" norm="1692643" size="2" tag="651">Northern Italy</fast>
+      <fast count="147" norm="1007809" size="2" tag="650">Mannerism (Art)</fast>
+      <fast count="132" norm="604274" size="2" tag="610">Galleria Spada</fast>
+      <fast count="127" norm="1925288" size="2" tag="610">Fototeca Zeri</fast>
+      <fast count="120" norm="1204551" size="2" tag="651">Italy--Bologna</fast>
+      <fast count="116" norm="918895" size="1" tag="650">Expressionism (Art)</fast>
+      <fast count="116" norm="1204556" size="1" tag="651">Norway</fast>
+      <fast count="116" norm="1358031" size="1" tag="630">Scream (Nasjonalgalleriet (Norway)) (Munch, Edvard)</fast>
+      <fast count="116" norm="30085" size="1" tag="600">Munch, Edvard,</fast>
+      <fast count="106" norm="1109734" size="1" tag="650">Sculpture, Italian</fast>
+      <fast count="95" norm="816430" size="1" tag="650">Art, Italian</fast>
+      <fast count="95" norm="1204477" size="1" tag="651">Italy--Tuscany</fast>
+      <fast count="94" norm="816786" size="1" tag="650">Art, Renaissance</fast>
+      <fast count="92" norm="889315" size="1" tag="650">Decorative arts</fast>
+      <fast count="90" norm="93945" size="1" tag="600">Cini, Vittorio,</fast>
+    </fastHeadings>
+    <languages count="5">
+      <lang code="ita" count="211"/>
+      <lang code="eng" count="140"/>
+      <lang code="fre" count="28"/>
+      <lang code="ger" count="3"/>
+      <lang code="mul" count="2"/>
+    </languages>
+    <birthDate>1921</birthDate>
+    <deathDate>1998</deathDate>
+    <dates>
+      <date byCount="10" byScaled="3.32" count="10" scaled="3.32">1948</date>
+      <date byCount="3" byScaled="1.58" count="3" scaled="1.58">1949</date>
+      <date byCount="12" byScaled="3.58" count="12" scaled="3.58">1950</date>
+      <date byCount="12" byScaled="3.58" count="12" scaled="3.58">1951</date>
+      <date byCount="18" byScaled="4.17" count="18" scaled="4.17">1952</date>
+      <date byCount="17" byScaled="4.09" count="17" scaled="4.09">1953</date>
+      <date byCount="31" byScaled="4.95" count="31" scaled="4.95">1954</date>
+      <date byCount="27" byScaled="4.75" count="27" scaled="4.75">1955</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">1956</date>
+      <date byCount="38" byScaled="5.25" count="38" scaled="5.25">1957</date>
+      <date byCount="12" byScaled="3.58" count="12" scaled="3.58">1958</date>
+      <date byCount="27" byScaled="4.75" count="27" scaled="4.75">1959</date>
+      <date byCount="5" byScaled="2.32" count="5" scaled="2.32">1960</date>
+      <date byCount="18" byScaled="4.17" count="18" scaled="4.17">1961</date>
+      <date byCount="8" byScaled="3.00" count="8" scaled="3.00">1962</date>
+      <date byCount="11" byScaled="3.46" count="11" scaled="3.46">1963</date>
+      <date byCount="15" byScaled="3.91" count="15" scaled="3.91">1964</date>
+      <date byCount="12" byScaled="3.58" count="12" scaled="3.58">1965</date>
+      <date byCount="11" byScaled="3.46" count="11" scaled="3.46">1966</date>
+      <date byCount="5" byScaled="2.32" count="5" scaled="2.32">1967</date>
+      <date byCount="9" byScaled="3.17" count="9" scaled="3.17">1968</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">1969</date>
+      <date byCount="14" byScaled="3.81" count="14" scaled="3.81">1970</date>
+      <date byCount="51" byScaled="5.67" count="51" scaled="5.67">1971</date>
+      <date byCount="16" byScaled="4.00" count="16" scaled="4.00">1972</date>
+      <date byCount="35" byScaled="5.13" count="35" scaled="5.13">1973</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">1974</date>
+      <date byCount="3" byScaled="1.58" count="3" scaled="1.58">1975</date>
+      <date byCount="49" byScaled="5.61" count="49" scaled="5.61">1976</date>
+      <date byCount="5" byScaled="2.32" count="5" scaled="2.32">1977</date>
+      <date byCount="6" byScaled="2.58" count="6" scaled="2.58">1978</date>
+      <date byCount="23" byScaled="4.52" count="23" scaled="4.52">1979</date>
+      <date byCount="55" byScaled="5.78" count="55" scaled="5.78">1980</date>
+      <date byCount="54" byScaled="5.75" count="54" scaled="5.75">1981</date>
+      <date aboutCount="2" aboutScaled="1.00" byCount="58" byScaled="5.86" count="60" scaled="5.91">1982</date>
+      <date byCount="79" byScaled="6.30" count="79" scaled="6.30">1983</date>
+      <date aboutCount="4" aboutScaled="2.00" byCount="42" byScaled="5.39" count="46" scaled="5.52">1984</date>
+      <date byCount="33" byScaled="5.04" count="33" scaled="5.04">1985</date>
+      <date byCount="83" byScaled="6.38" count="83" scaled="6.38">1986</date>
+      <date byCount="60" byScaled="5.91" count="60" scaled="5.91">1987</date>
+      <date aboutCount="1" aboutScaled="0.00" byCount="87" byScaled="6.44" count="88" scaled="6.46">1988</date>
+      <date aboutCount="4" aboutScaled="2.00" byCount="82" byScaled="6.36" count="86" scaled="6.43">1989</date>
+      <date byCount="64" byScaled="6.00" count="64" scaled="6.00">1990</date>
+      <date byCount="48" byScaled="5.58" count="48" scaled="5.58">1991</date>
+      <date byCount="33" byScaled="5.04" count="33" scaled="5.04">1992</date>
+      <date byCount="72" byScaled="6.17" count="72" scaled="6.17">1993</date>
+      <date aboutCount="1" aboutScaled="0.00" byCount="46" byScaled="5.52" count="47" scaled="5.55">1994</date>
+      <date aboutCount="5" aboutScaled="2.32" byCount="59" byScaled="5.88" count="64" scaled="6.00">1995</date>
+      <date aboutCount="1" aboutScaled="0.00" byCount="21" byScaled="4.39" count="22" scaled="4.46">1996</date>
+      <date byCount="51" byScaled="5.67" count="51" scaled="5.67">1997</date>
+      <date aboutCount="1" aboutScaled="0.00" byCount="96" byScaled="6.58" count="97" scaled="6.60">1998</date>
+      <date aboutCount="5" aboutScaled="2.32" byCount="118" byScaled="6.88" count="123" scaled="6.94">1999</date>
+      <date aboutCount="6" aboutScaled="2.58" byCount="96" byScaled="6.58" count="102" scaled="6.67">2000</date>
+      <date aboutCount="2" aboutScaled="1.00" byCount="68" byScaled="6.09" count="70" scaled="6.13">2001</date>
+      <date aboutCount="1" aboutScaled="0.00" byCount="8" byScaled="3.00" count="9" scaled="3.17">2002</date>
+      <date byCount="9" byScaled="3.17" count="9" scaled="3.17">2003</date>
+      <date byCount="13" byScaled="3.70" count="13" scaled="3.70">2004</date>
+      <date aboutCount="1" aboutScaled="0.00" byCount="6" byScaled="2.58" count="7" scaled="2.81">2006</date>
+      <date byCount="7" byScaled="2.81" count="7" scaled="2.81">2007</date>
+      <date byCount="12" byScaled="3.58" count="12" scaled="3.58">2008</date>
+      <date aboutCount="4" aboutScaled="2.00" byCount="10" byScaled="3.32" count="14" scaled="3.81">2009</date>
+      <date aboutCount="3" aboutScaled="1.58" byCount="7" byScaled="2.81" count="10" scaled="3.32">2010</date>
+      <date aboutCount="7" aboutScaled="2.81" byCount="10" byScaled="3.32" count="17" scaled="4.09">2011</date>
+      <date aboutCount="1" aboutScaled="0.00" byCount="5" byScaled="2.32" count="6" scaled="2.58">2012</date>
+      <date aboutCount="2" aboutScaled="1.00" byCount="3" byScaled="1.58" count="5" scaled="2.32">2013</date>
+      <date aboutCount="4" aboutScaled="2.00" byCount="3" byScaled="1.58" count="7" scaled="2.81">2014</date>
+      <date aboutCount="3" aboutScaled="1.58" byCount="5" byScaled="2.32" count="8" scaled="3.00">2015</date>
+      <date aboutCount="3" aboutScaled="1.58" count="3" scaled="1.58">2016</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">2017</date>
+      <date byCount="6" byScaled="2.58" count="6" scaled="2.58">2018</date>
+      <date aboutCount="3" aboutScaled="1.58" byCount="1" byScaled="0.00" count="4" scaled="2.00">2019</date>
+    </dates>
+    <totalHoldings>13682</totalHoldings>
+    <workCount>955</workCount>
+    <recordCount>2200</recordCount>
+    <ddc ident="">759.5</ddc>
+    <lcc ident="ND611">ND611</lcc>
+    <relators>
+      <relator code="aut" count="5886">
+        <oclcnum count="267">ocn021229452</oclcnum>
+        <oclcnum count="199">ocn044154526</oclcnum>
+        <oclcnum count="175">ocn044154538</oclcnum>
+        <oclcnum count="132">ocn020799204</oclcnum>
+        <oclcnum count="121">ocn000301626</oclcnum>
+        <oclcnum count="103">ocn043276382</oclcnum>
+        <oclcnum count="102">ocn043276355</oclcnum>
+        <oclcnum count="97">ocn043276609</oclcnum>
+        <oclcnum count="95">ocn001327920</oclcnum>
+        <oclcnum count="95">ocn043276532</oclcnum>
+      </relator>
+      <relator code="edt" count="594">
+        <oclcnum count="43">ocn797221649</oclcnum>
+        <oclcnum count="16">ocn489833462</oclcnum>
+        <oclcnum count="16">ocn489833631</oclcnum>
+        <oclcnum count="15">ocn489576046</oclcnum>
+        <oclcnum count="15">ocn489840287</oclcnum>
+        <oclcnum count="15">ocn489900058</oclcnum>
+        <oclcnum count="14">ocn489833615</oclcnum>
+        <oclcnum count="12">ocn489840374</oclcnum>
+        <oclcnum count="10">ocn489840385</oclcnum>
+        <oclcnum count="8">ocn489833368</oclcnum>
+      </relator>
+      <relator code="aui" count="115">
+        <oclcnum count="14">ocn468814861</oclcnum>
+        <oclcnum count="9">ocn800008219</oclcnum>
+        <oclcnum count="6">ocn468785648</oclcnum>
+        <oclcnum count="6">ocn799285893</oclcnum>
+        <oclcnum count="4">ocn461780207</oclcnum>
+        <oclcnum count="4">ocn461862960</oclcnum>
+        <oclcnum count="3">ocn755101236</oclcnum>
+        <oclcnum count="3">ocn755101233</oclcnum>
+        <oclcnum count="3">ocn755101232</oclcnum>
+        <oclcnum count="3">ocn755101237</oclcnum>
+      </relator>
+      <relator code="oth" count="34">
+        <oclcnum count="5">ocn185829026</oclcnum>
+        <oclcnum count="5">ocn1072721018</oclcnum>
+        <oclcnum count="4">ocn464217996</oclcnum>
+        <oclcnum count="2">ocn1075714717</oclcnum>
+        <oclcnum count="2">ocn1073943965</oclcnum>
+        <oclcnum count="2">ocn833076235</oclcnum>
+        <oclcnum count="2">ocn1071521773</oclcnum>
+        <oclcnum count="2">ocn1075642082</oclcnum>
+        <oclcnum count="1">ocn924821094</oclcnum>
+        <oclcnum count="1">ocn926001847</oclcnum>
+      </relator>
+      <relator code="pbd" count="22">
+        <oclcnum count="11">ocn493412299</oclcnum>
+        <oclcnum count="6">ocn468354738</oclcnum>
+        <oclcnum count="3">ocn468150581</oclcnum>
+        <oclcnum count="1">ocn462302329</oclcnum>
+        <oclcnum count="1">ocn468355558</oclcnum>
+      </relator>
+      <relator code="aft" count="20">
+        <oclcnum count="20">ocn835394880</oclcnum>
+      </relator>
+      <relator code="ill" count="17">
+        <oclcnum count="13">ocn466749052</oclcnum>
+        <oclcnum count="2">ocn490574450</oclcnum>
+        <oclcnum count="2">ocn698852956</oclcnum>
+      </relator>
+      <relator code="ive" count="17">
+        <oclcnum count="3">ocn758724295</oclcnum>
+        <oclcnum count="2">ocn444212983</oclcnum>
+        <oclcnum count="2">ocn446139375</oclcnum>
+        <oclcnum count="2">ocn781091874</oclcnum>
+        <oclcnum count="1">ocn691629321</oclcnum>
+        <oclcnum count="1">ocn959069705</oclcnum>
+        <oclcnum count="1">ocn922800787</oclcnum>
+        <oclcnum count="1">ocn1182579835</oclcnum>
+        <oclcnum count="1">ocn887483340</oclcnum>
+        <oclcnum count="1">ocn691897286</oclcnum>
+      </relator>
+      <relator code="col" count="9">
+        <oclcnum count="7">ocn812409190</oclcnum>
+        <oclcnum count="1">ocn932883211</oclcnum>
+        <oclcnum count="1">ocn900235458</oclcnum>
+      </relator>
+      <relator code="dte" count="8">
+        <oclcnum count="2">ocn451327506</oclcnum>
+        <oclcnum count="2">ocn451334036</oclcnum>
+        <oclcnum count="1">ocn451327269</oclcnum>
+        <oclcnum count="1">ocn451918792</oclcnum>
+        <oclcnum count="1">ocn1146264858</oclcnum>
+        <oclcnum count="1">ocn450727717</oclcnum>
+      </relator>
+      <relator code="cur" count="6">
+        <oclcnum count="6">ocn450048036</oclcnum>
+      </relator>
+      <relator code="com" count="6">
+        <oclcnum count="5">ocn799288923</oclcnum>
+        <oclcnum count="1">ocn450403415</oclcnum>
+      </relator>
+      <relator code="art" count="6">
+        <oclcnum count="5">ocn898517838</oclcnum>
+        <oclcnum count="1">ocn959007562</oclcnum>
+      </relator>
+      <relator code="hnr" count="6">
+        <oclcnum count="3">ocn1128843855</oclcnum>
+        <oclcnum count="2">ocn1176264173</oclcnum>
+        <oclcnum count="1">ocn887138374</oclcnum>
+      </relator>
+      <relator code="wpr" count="4">
+        <oclcnum count="4">ocn1088350329</oclcnum>
+      </relator>
+      <relator code="hst" count="3">
+        <oclcnum count="3">ocn469285775</oclcnum>
+      </relator>
+      <relator code="ctb" count="2">
+        <oclcnum count="1">ocn1073977156</oclcnum>
+        <oclcnum count="1">ocn468270369</oclcnum>
+      </relator>
+      <relator code="dnr" count="2">
+        <oclcnum count="2">ocn443320145</oclcnum>
+      </relator>
+      <relator code="cre" count="2">
+        <oclcnum count="1">ocn1033706302</oclcnum>
+        <oclcnum count="1">ocn1035777504</oclcnum>
+      </relator>
+      <relator code="adp" count="1">
+        <oclcnum count="1">ocn904267766</oclcnum>
+      </relator>
+      <relator code="drt" count="1">
+        <oclcnum count="1">ocn928214505</oclcnum>
+      </relator>
+      <relator code="ivr" count="1">
+        <oclcnum count="1">ocn896881692</oclcnum>
+      </relator>
+      <relator code="red" count="0">
+        <oclcnum count="0">ocn761067466</oclcnum>
+      </relator>
+    </relators>
+  </nameInfo>
+  <by>
+    <citation ident="newwork161861">
+      <holdings>621</holdings>
+      <numEditions>34</numEditions>
+      <oclcnum>ocn000161861</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="eng" count="33"/>
+        <lang code="ita" count="1"/>
+      </languages>
+      <date>1971</date>
+      <dates different="1" first="1971" last="1971"/>
+      <audLevel>0.56</audLevel>
+      <creator ident="126238294,n79129629">Metropolitan Museum of Art (Nova York, Nova York)</creator>
+      <title>Italian paintings: Florentine school; a catalogue of the collection of the Metropolitan Museum of Art</title>
+      <genres>
+        <genre count="503" norm="catalogs">Catalogs</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork606103">
+      <holdings>428</holdings>
+      <numEditions>15</numEditions>
+      <oclcnum>ocn000606103</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="eng" count="15"/>
+      </languages>
+      <date>1972</date>
+      <dates different="1" first="1972" last="1972"/>
+      <audLevel>0.79</audLevel>
+      <creator ident="34547817,n79053697">Fredericksen, Burton B</creator>
+      <title>Census of pre-nineteenth-century Italian paintings in North American public collections</title>
+    </citation>
+    <citation ident="newwork20799204">
+      <holdings>410</holdings>
+      <numEditions>9</numEditions>
+      <oclcnum>ocn021229452</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="eng" count="9"/>
+      </languages>
+      <date>1987</date>
+      <dates different="2" first="1987" last="1990"/>
+      <audLevel>0.38</audLevel>
+      <creator ident="17237451,n50014073">Zeri, Federico</creator>
+      <title>Behind the image : the art of reading paintings</title>
+    </citation>
+    <citation ident="newwork662154">
+      <holdings>359</holdings>
+      <numEditions>13</numEditions>
+      <oclcnum>ocn000662154</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="eng" count="13"/>
+      </languages>
+      <date>1973</date>
+      <dates different="1" first="1973" last="1973"/>
+      <audLevel>0.75</audLevel>
+      <creator ident="126238294,n79129629">Metropolitan Museum of Art (New York, N.Y.)</creator>
+      <title>Italian paintings: Venetian school; a catalogue of the collection of the Metropolitan Museum of Art</title>
+      <genres>
+        <genre count="335" norm="catalogs">Catalogs</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork2310348">
+      <holdings>330</holdings>
+      <numEditions>18</numEditions>
+      <oclcnum>ocn002463997</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="eng" count="18"/>
+      </languages>
+      <date>1976</date>
+      <dates different="1" first="1976" last="1976"/>
+      <audLevel>0.84</audLevel>
+      <creator ident="126086372,n79027105">Walters Art Gallery (Baltimore)</creator>
+      <title>Italian paintings in the Walters Art Gallery</title>
+      <genres>
+        <genre count="295" norm="catalogs">Catalogs</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork6331701">
+      <holdings>260</holdings>
+      <numEditions>20</numEditions>
+      <oclcnum>ocn006331701</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="eng" count="19"/>
+        <lang code="und" count="1"/>
+      </languages>
+      <date>1980</date>
+      <dates different="1" first="1980" last="1980"/>
+      <audLevel>0.87</audLevel>
+      <creator ident="126238294,n79129629">Metropolitan Museum of Art (New York, N.Y.)</creator>
+      <title>Italian paintings : Sienese and Central Italian schools : a catalogue of the collection of the Metropolitan Museum of Art</title>
+      <genres>
+        <genre count="225" norm="catalogs">Catalogs</genre>
+      </genres>
+      <summary>There are now over 400 Italian paintings in the Metropolitan Museum, some 150 of them acquired in the more than thirty years since the Museum first published a catalogue of its Italian works. The first volume of a greatly enlarged and extensively revised catalogue, the Florentine School, was published in 1971. The second volume on the Venetian School appeared in 1973. This volume on the Sienese and Central Italian Schools will be followed by a fourth volume on the schools of North Italy. In the present book the paintings are arranged in alphabetical order by artist, and, within the artist, in order of accession number. A brief biography of each artist is given, and every painting in the catalogue is illustrated, some with details. The author is an internationally known authority in the field of Italian paintings. His collaborator is Curator of European Paintings in the Museum</summary>
+    </citation>
+    <citation ident="newwork48003551">
+      <holdings>230</holdings>
+      <numEditions>7</numEditions>
+      <oclcnum>ocn048003551</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="eng" count="7"/>
+      </languages>
+      <date>2000</date>
+      <dates different="1" first="2000" last="2000"/>
+      <audLevel>0.24</audLevel>
+      <creator ident="42630086,n79054729">Matisse, Henri</creator>
+      <title>Matisse, la Danse</title>
+      <genres>
+        <genre count="221" norm="criticism, interpretation, etc">Criticism, interpretation, etc</genre>
+      </genres>
+      <summary>Books invites the reader on a journey through the most famous paintings in the history of art. Detailed, informative, and stimulating portraits of the individual artist are documented alongside beautiful glossy illustrations and detailed keys to the paintings</summary>
+      <cover isbn="1553210107" oclc="ocn861504409" type="isbn">+-+2565678006</cover>
+    </citation>
+    <citation ident="newwork47444066">
+      <holdings>229</holdings>
+      <numEditions>3</numEditions>
+      <oclcnum>ocn047444066</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="eng" count="3"/>
+      </languages>
+      <date>2000</date>
+      <dates different="1" first="2000" last="2000"/>
+      <audLevel>0.25</audLevel>
+      <creator ident="109266837,n79074519">Titien</creator>
+      <title>Titian, sacred and profane love</title>
+      <genres>
+        <genre count="220" norm="criticism, interpretation, etc">Criticism, interpretation, etc</genre>
+      </genres>
+      <summary>Examines the major paintings and themes of Titian, including an analysis of "Sacred and Profane Love", as well as information about his life and cultural surroundings. -- From product description</summary>
+      <cover isbn="1553210115" oclc="ocn757332115" type="isbn">+-+0665678006</cover>
+    </citation>
+    <citation ident="newwork44154526">
+      <holdings>200</holdings>
+      <numEditions>2</numEditions>
+      <oclcnum>ocn044154526</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="eng" count="2"/>
+      </languages>
+      <date>2000</date>
+      <dates different="1" first="2000" last="2000"/>
+      <audLevel>0.23</audLevel>
+      <creator ident="17237451,n50014073">Zeri, Federico</creator>
+      <title>Cezanne, Mont Sainte-Victoire</title>
+      <genres>
+        <genre count="199" norm="criticism, interpretation, etc">Criticism, interpretation, etc</genre>
+      </genres>
+      <summary>Books invites the reader on a journey through the most famous paintings in the history of art. Detailed, informative, and stimulating portraits of the individual artist are documented alongside beautiful glossy illustrations and detailed keys to the paintings</summary>
+      <cover isbn="1553210190" oclc="ocn1038156553" type="isbn">+-+5465678006</cover>
+    </citation>
+    <citation ident="newwork44154538">
+      <holdings>183</holdings>
+      <numEditions>2</numEditions>
+      <oclcnum>ocn044154538</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="eng" count="2"/>
+      </languages>
+      <date>2000</date>
+      <dates different="1" first="2000" last="2000"/>
+      <audLevel>0.24</audLevel>
+      <creator ident="17237451,n50014073">Zeri, Federico</creator>
+      <title>Botticelli, Allegory of spring</title>
+      <genres>
+        <genre count="175" norm="criticism, interpretation, etc">Criticism, interpretation, etc</genre>
+      </genres>
+      <summary>Books invites the reader on a journey through the most famous paintings in the history of art. Detailed, informative, and stimulating portraits of the individual artist are documented alongside beautiful glossy illustrations and detailed keys to the paintings</summary>
+      <cover isbn="155321014X" oclc="ocn044154538" type="isbn">+-+K965678006</cover>
+    </citation>
+    <citation ident="newwork11460959">
+      <holdings>176</holdings>
+      <numEditions>9</numEditions>
+      <oclcnum>ocn011460959</oclcnum>
+      <recordType>book</recordType>
+      <languages count="3">
+        <lang code="ita" count="6"/>
+        <lang code="mul" count="2"/>
+        <lang code="und" count="1"/>
+      </languages>
+      <date>1984</date>
+      <dates different="1" first="1984" last="1984"/>
+      <audLevel>0.94</audLevel>
+      <creator ident="93292264,n85385432">Barroero, Liliana</creator>
+      <title>Scritti di storia dell'arte in onore di Federico Zeri</title>
+      <genres>
+        <genre count="167" norm="history">History</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork11867190">
+      <holdings>173</holdings>
+      <numEditions>12</numEditions>
+      <oclcnum>ocn011867190</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="eng" count="12"/>
+      </languages>
+      <date>1986</date>
+      <dates different="1" first="1986" last="1986"/>
+      <audLevel>0.84</audLevel>
+      <creator ident="126238294,n79129629">Metropolitan Museum of Art (New York, N.Y.)</creator>
+      <title>Italian paintings : a catalogue of the collection of the Metropolitan Museum of Art, North Italian school</title>
+      <genres>
+        <genre count="147" norm="catalogs">Catalogs</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork2270772">
+      <holdings>172</holdings>
+      <numEditions>29</numEditions>
+      <oclcnum>ocn002270772</oclcnum>
+      <recordType>book</recordType>
+      <languages count="3">
+        <lang code="ita" count="26"/>
+        <lang code="fre" count="2"/>
+        <lang code="und" count="1"/>
+      </languages>
+      <date>1957</date>
+      <dates different="1" first="1957" last="1957"/>
+      <audLevel>0.88</audLevel>
+      <creator ident="17237451,n50014073">Zeri, Federico</creator>
+      <title>Pittura e controriforma; l'art senza tempo di Scipione da Gaeta</title>
+    </citation>
+    <citation ident="newwork301626">
+      <holdings>161</holdings>
+      <numEditions>20</numEditions>
+      <oclcnum>ocn000301626</oclcnum>
+      <recordType>book</recordType>
+      <languages count="3">
+        <lang code="ita" count="17"/>
+        <lang code="eng" count="2"/>
+        <lang code="und" count="1"/>
+      </languages>
+      <date>1954</date>
+      <dates different="1" first="1954" last="1954"/>
+      <audLevel>0.87</audLevel>
+      <creator ident="17237451,n50014073">Zeri, Federico</creator>
+      <title>La Galleria Spada in Roma; catalogo dei dipinti</title>
+      <genres>
+        <genre count="10" norm="catalogs">Catalogs</genre>
+        <genre count="1" norm="collection catalogs">Collection catalogs</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork18062051">
+      <holdings>158</holdings>
+      <numEditions>30</numEditions>
+      <oclcnum>ocn018062051</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="ita" count="29"/>
+        <lang code="fre" count="1"/>
+      </languages>
+      <date>1987</date>
+      <dates different="6" first="1987" last="2007"/>
+      <audLevel>0.92</audLevel>
+      <creator ident="17237451,n50014073">Zeri, Federico</creator>
+      <title>Dietro l'immagine : conversazioni sull'arte di leggere l'arte</title>
+    </citation>
+    <citation ident="newwork1327920">
+      <holdings>141</holdings>
+      <numEditions>21</numEditions>
+      <oclcnum>ocn001327920</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="ita" count="19"/>
+        <lang code="eng" count="2"/>
+      </languages>
+      <date>1959</date>
+      <dates different="1" first="1959" last="1959"/>
+      <audLevel>0.93</audLevel>
+      <creator ident="17237451,n50014073">Zeri, Federico</creator>
+      <title>La Galleria Pallavicini in Roma : catalogo dei dipinti</title>
+      <genres>
+        <genre count="8" norm="catalogs">Catalogs</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork2273012">
+      <holdings>139</holdings>
+      <numEditions>22</numEditions>
+      <oclcnum>ocn002273012</oclcnum>
+      <recordType>book</recordType>
+      <languages count="3">
+        <lang code="ita" count="19"/>
+        <lang code="fre" count="2"/>
+        <lang code="und" count="1"/>
+      </languages>
+      <date>1961</date>
+      <dates different="2" first="1961" last="1995"/>
+      <audLevel>0.90</audLevel>
+      <creator ident="17237451,n50014073">Zeri, Federico</creator>
+      <title>Due dipinti, la filologia e un nome: il Maestro delle tavole Barberini</title>
+    </citation>
+    <citation ident="newwork20384081">
+      <holdings>126</holdings>
+      <numEditions>8</numEditions>
+      <oclcnum>ocn417360012</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="fre" count="8"/>
+      </languages>
+      <date>1985</date>
+      <dates different="3" first="1985" last="2001"/>
+      <audLevel>0.75</audLevel>
+      <creator ident="17237451,n50014073">Zeri, Federico</creator>
+      <title>Renaissance et pseudo renaissance</title>
+    </citation>
+    <citation ident="newwork47838078">
+      <holdings>125</holdings>
+      <numEditions>3</numEditions>
+      <oclcnum>ocn047838078</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="eng" count="3"/>
+      </languages>
+      <date>2000</date>
+      <dates different="1" first="2000" last="2000"/>
+      <audLevel>0.23</audLevel>
+      <creator ident="61624802,n79006348">Munch, Edvard</creator>
+      <title>Munch, the scream</title>
+      <genres>
+        <genre count="116" norm="criticism, interpretation, etc">Criticism, interpretation, etc</genre>
+      </genres>
+      <cover isbn="1553210158" oclc="ocn757332056" type="isbn">+-+3065678006</cover>
+    </citation>
+    <citation ident="newwork13007342">
+      <holdings>117</holdings>
+      <numEditions>15</numEditions>
+      <oclcnum>ocn013007342</oclcnum>
+      <recordType>book</recordType>
+      <languages count="3">
+        <lang code="ita" count="12"/>
+        <lang code="fre" count="2"/>
+        <lang code="und" count="1"/>
+      </languages>
+      <date>1984</date>
+      <dates different="1" first="1984" last="1984"/>
+      <audLevel>0.93</audLevel>
+      <creator ident="142760402,n79046150">Fondazione "Giorgio Cini."</creator>
+      <title>Dipinti toscani e oggetti d'arte dalla collezione Vittorio Cini</title>
+      <genres>
+        <genre count="95" norm="catalogs">Catalogs</genre>
+        <genre count="3" norm="exhibition catalogs">Exhibition catalogs</genre>
+      </genres>
+    </citation>
+  </by>
+  <about>
+    <citation ident="newwork25622405">
+      <holdings>49</holdings>
+      <numEditions>4</numEditions>
+      <oclcnum>ocn037546516</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="ita" count="3"/>
+        <lang code="fre" count="1"/>
+      </languages>
+      <date>1989</date>
+      <dates different="1" first="1989" last="1989"/>
+      <audLevel>0.88</audLevel>
+      <creator ident="66607157,nr92021888">Bacchi, Andrea</creator>
+      <title>Il conoscitore d'arte : sculture dal XV al XIX secolo della collezione di Federico Zeri</title>
+      <genres>
+        <genre count="49" norm="exhibition catalogs">Exhibition catalogs</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork32281667">
+      <holdings>48</holdings>
+      <numEditions>4</numEditions>
+      <oclcnum>ocn032281667</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="fre" count="4"/>
+      </languages>
+      <date>1995</date>
+      <dates different="2" first="1995" last="2002"/>
+      <audLevel>0.79</audLevel>
+      <creator ident="17237451,n50014073">Zeri, Federico</creator>
+      <title>J'avoue m'être trompe : fragments d'une autobiographie</title>
+      <genres>
+        <genre count="47" norm="biographies">Biographies</genre>
+      </genres>
+      <summary>Autobiographie d'un grand historien d'art italien</summary>
+    </citation>
+    <citation ident="newwork936209190">
+      <holdings>45</holdings>
+      <numEditions>2</numEditions>
+      <oclcnum>ocn936209190</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ita" count="2"/>
+      </languages>
+      <date>2015</date>
+      <dates different="1" first="2015" last="2015"/>
+      <audLevel>0.97</audLevel>
+      <creator ident="uncontrolled">Federico Zeri Foundation (Bologna)</creator>
+      <title>La natura morta di Federico Zeri</title>
+      <genres>
+        <genre count="45" norm="catalogs">Catalogs</genre>
+        <genre count="45" norm="pictorial works">Pictorial works</genre>
+      </genres>
+      <summary>"Il libro presenta i risultati dello studio della sezione natura morta della Fototeca Zeri. Costituita da oltre 14.400 fotografie di dipinti dal XVI al XIX secolo, la sezione rappresenta la maggiore raccolta fotografica esistente al mondo su questo genere pittorico, imprescindibile punto di riferimento per gli studi storico artistici. Vengono indagate la storia, la formazione, le caratteristiche di questa straordinaria raccolta e il decisivo contributo di Federico Zeri agli studi sulla natura morta. Negli anni Ottanta Zeri coordina l’importante opera in due volumi La Natura morta in Italia, edita nel 1989 da Electa. A questo periodo risale la maggior parte delle acquisizioni di fotografie relative a questo genere, una raccolta proseguita per tutta la carriera dello studioso. Questo volume costituisce inoltre uno strumento scientifico aggiornato per le ricerche sulla pittura di natura morta italiana. Attraverso gli scritti di studiosi e specialisti sono stati proposti alcuni casi inediti selezionati tra i materiali originali di Zeri. Le opere raffigurate sono state studiate anche dal punto di vista iconografico, fornendo letture e approfondimenti su aspetti della storia culturale e materiale dal XVI al XIX secolo. Viene inoltre presentato un ricco repertorio delle specie botaniche rappresentate nei dipinti."--</summary>
+    </citation>
+    <citation ident="newwork900724527">
+      <holdings>36</holdings>
+      <numEditions>3</numEditions>
+      <oclcnum>ocn900724527</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ita" count="3"/>
+      </languages>
+      <date>2014</date>
+      <dates different="1" first="2014" last="2014"/>
+      <audLevel>0.96</audLevel>
+      <creator ident="124228190,no2011136262">Fondazione Federico Zeri</creator>
+      <title>I colori del bianco e nero : fotografie storiche nella Fototeca Zeri, 1870-1920</title>
+      <genres>
+        <genre count="6" norm="catalogs">Catalogs</genre>
+        <genre count="3" norm="pictorial works">Pictorial works</genre>
+      </genres>
+      <summary>"The Zeri Photo Library holds an important collection of over 14,000 old photographs, which the Foundation has been studying and cataloging for years. They are precious prints (coals, aristotypes, albumines, gelatins with silver salts) made between 1870 and 1920 that represent works of painting, sculpture and monuments. It is a very varied material for provenance, techniques and authors, which has a considerable interest both in the history of art and in the history of photography. Through sixteen case studies, chosen among the many possible in Zeri's photographic archive and illustrated by an accurate set of images, the volume investigates the multiple aspects related to photography of artistic historical reproduction between the nineteenth and twentieth centuries. In particular, we wanted to highlight the possible links between works of art and photography. The work is enriched by a repertoire of 85 photographers working in that period. Some are famous names, others are almost unknown to literature, but their activity deserves investigation. The publication was made possible thanks to the experience and skills of the Federico Zeri Foundation in the study, conservation and cataloging of these important historical materials. The essays are the result of a research that has led in many cases to unpublished results."--</summary>
+    </citation>
+    <citation ident="newwork44181701">
+      <holdings>36</holdings>
+      <numEditions>3</numEditions>
+      <oclcnum>ocn044181701</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ita" count="3"/>
+      </languages>
+      <date>2000</date>
+      <dates different="1" first="2000" last="2000"/>
+      <audLevel>0.90</audLevel>
+      <creator ident="66607157,nr92021888">Bacchi, Andrea</creator>
+      <title>La donazione Federico Zeri : cinquanta sculture per Bergamo : Bergamo, Palazzo della ragione, 30 marzo-25 giugno 2000</title>
+      <genres>
+        <genre count="49" norm="exhibition catalogs">Exhibition catalogs</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork468975054">
+      <holdings>35</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn468975054</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ita" count="1"/>
+      </languages>
+      <date>2009</date>
+      <dates different="1" first="2009" last="2009"/>
+      <audLevel>0.97</audLevel>
+      <creator ident="71510161,n80028423">Ottani Cavina, Anna</creator>
+      <title>Federico Zeri, dietro l'immagine : opere d'arte e fotografia</title>
+      <genres>
+        <genre count="35" norm="exhibition catalogs">Exhibition catalogs</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork34046768">
+      <holdings>34</holdings>
+      <numEditions>4</numEditions>
+      <oclcnum>ocn034046768</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ita" count="4"/>
+      </languages>
+      <date>1995</date>
+      <dates different="3" first="1995" last="2009"/>
+      <audLevel>0.90</audLevel>
+      <creator ident="17237451,n50014073">Zeri, Federico</creator>
+      <title>Confesso che ho sbagliato : ricordi autobiografici</title>
+      <genres>
+        <genre count="33" norm="biographies">Biographies</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork540380627">
+      <holdings>33</holdings>
+      <numEditions>3</numEditions>
+      <oclcnum>ocn540380627</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ita" count="3"/>
+      </languages>
+      <date>2010</date>
+      <dates different="1" first="2010" last="2010"/>
+      <audLevel>0.93</audLevel>
+      <creator ident="17237451,n50014073">Zeri, Federico</creator>
+      <title>Lettere alla casa editrice</title>
+      <genres>
+        <genre count="33" norm="personal correspondence">Personal correspondence</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork1137847021">
+      <holdings>33</holdings>
+      <numEditions>3</numEditions>
+      <oclcnum>ocn1138930384</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ita" count="3"/>
+      </languages>
+      <date>2019</date>
+      <dates different="1" first="2019" last="2019"/>
+      <audLevel>0.98</audLevel>
+      <title>Federico Zeri, lavori in corso</title>
+      <summary>"Federico Zeri (1921-1998) è stato uno dei più straordinari storici dell'arte e conoscitori del Novecento. All'Università di Bologna, che gli ha conferito la laurea ad honorem 6 febbraio 1998, ha lasciato la sua fototeca e la biblioteca d'arte. Ai suoi scritti si deve la riscoperta di aree marginali della produzione artistica italiana, il recupero filologico e storico di artisti dimenticati, di opere disperse e di un'intera geografia figurativa trascurata dagli studi. Strumento essenziale di questo monumentale lavoro di indagine è stata la sua fototeca dove Zeri ha lasciato una serie di cartelle in cui aveva raccolto numerose fotografie per articoli che non ebbe il tempo di portare a termine. Il libro Federico Zeri: lavori in corso nasce dal recupero e dallo studio di questa documentazione inedita, con l'idea di essere anche uno stimolo per la prosecuzione delle ricerche. Gli argomenti selezionati riguardano la pittura italiana dal Trecento al Seicento. Spaziano da opere inedite a provocazioni su problemi non abbastanza conosciuti o su opere già note ma non capite. Il libro è composto da 21 saggi. Ogni testo si propone non di restituire il pensiero di Zeri che nella sua interezza è purtroppo precluso, ma di ricostruire per quanto possibile le sue intenzioni, alla luce dei suoi studi editi e dei suggerimenti scaturiti dai materiali della sua fototeca."--</summary>
+    </citation>
+    <citation ident="newwork927414004">
+      <holdings>25</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn927414004</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ita" count="1"/>
+      </languages>
+      <date>2015</date>
+      <dates different="1" first="2015" last="2015"/>
+      <audLevel>0.96</audLevel>
+      <creator ident="233272947,no2015147684">Alberti, Giulia</creator>
+      <title>Inganni dipinti : trompe-l'œil nella Fototeca Zeri</title>
+      <genres>
+        <genre count="25" norm="catalogs">Catalogs</genre>
+        <genre count="25" norm="pictorial works">Pictorial works</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork777950997">
+      <holdings>24</holdings>
+      <numEditions>3</numEditions>
+      <oclcnum>ocn807779748</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ita" count="3"/>
+      </languages>
+      <date>2011</date>
+      <dates different="1" first="2011" last="2011"/>
+      <audLevel>0.96</audLevel>
+      <creator ident="124228190,no2011136262">Fondazione Federico Zeri</creator>
+      <title>La pittura italiana nella fototeca Zeri : fotografie scelte : Lazio, Toscana, Marche, Umbria, Emilia Romagna</title>
+      <genres>
+        <genre count="45" norm="catalogs">Catalogs</genre>
+        <genre count="18" norm="pictorial works">Pictorial works</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork48749356">
+      <holdings>24</holdings>
+      <numEditions>2</numEditions>
+      <oclcnum>ocn048749356</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ita" count="2"/>
+      </languages>
+      <date>2000</date>
+      <dates different="1" first="2000" last="2000"/>
+      <audLevel>0.96</audLevel>
+      <creator ident="17237451,n50014073">Zeri, Federico</creator>
+      <title>Federico Zeri : diario marchigiano, 1948-1988</title>
+    </citation>
+    <citation ident="newwork871007542">
+      <holdings>22</holdings>
+      <numEditions>2</numEditions>
+      <oclcnum>ocn871007542</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="fre" count="2"/>
+      </languages>
+      <date>2013</date>
+      <dates different="1" first="2013" last="2013"/>
+      <audLevel>0.90</audLevel>
+      <creator ident="71510161,n80028423">Ottani Cavina, Anna</creator>
+      <title>Federico Zeri et le connoisseurship = Federico Zeri and connoisseurship</title>
+      <genres>
+        <genre count="22" norm="conference papers and proceedings">Conference papers and proceedings</genre>
+      </genres>
+      <summary>A l'occasion du Salon international de la peinture ancienne au Palais de la Bourse, du 13 au 17 novembre 2013, etait organise un colloque sous la direction d'Anna Ottani Cavina et Mauro Natale, au Palais Brongniart, Paris.00</summary>
+    </citation>
+    <citation ident="newwork69646170">
+      <holdings>21</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn069646170</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ita" count="1"/>
+      </languages>
+      <date>2006</date>
+      <dates different="1" first="2006" last="2006"/>
+      <audLevel>0.96</audLevel>
+      <creator ident="76070503,no2006060906">Gioia, Rosaria</creator>
+      <title>Federico Zeri e la tutela del patrimonio culturale italiano</title>
+    </citation>
+    <citation ident="newwork49806007">
+      <holdings>21</holdings>
+      <numEditions>2</numEditions>
+      <oclcnum>ocn049806007</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ita" count="2"/>
+      </languages>
+      <date>2001</date>
+      <dates different="1" first="2001" last="2001"/>
+      <audLevel>0.95</audLevel>
+      <title>Venti modi di essere Zeri</title>
+      <genres>
+        <genre count="16" norm="conference papers and proceedings">Conference papers and proceedings</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork734083431">
+      <holdings>18</holdings>
+      <numEditions>4</numEditions>
+      <oclcnum>ocn743224049</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="ita" count="3"/>
+        <lang code="ger" count="1"/>
+      </languages>
+      <date>2011</date>
+      <dates different="1" first="2011" last="2011"/>
+      <audLevel>0.95</audLevel>
+      <creator ident="66633577,n86143157">Kronbichler, Johann</creator>
+      <title>Il capolavoro non esiste</title>
+      <genres>
+        <genre count="18" norm="exhibition catalogs">Exhibition catalogs</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork993963671">
+      <holdings>14</holdings>
+      <numEditions>3</numEditions>
+      <oclcnum>ocn993963671</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ita" count="3"/>
+      </languages>
+      <date>2016</date>
+      <dates different="1" first="2016" last="2016"/>
+      <audLevel>0.98</audLevel>
+      <creator ident="11150170590600012666,no2017096431">Barni, Daniele</creator>
+      <title>Lo sguardo della critica : i conoscitori d'arte in Italia tra XIX e XX secolo</title>
+      <genres>
+        <genre count="14" norm="history">History</genre>
+        <genre count="14" norm="biographies">Biographies</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork501976533">
+      <holdings>12</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn501976533</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ita" count="1"/>
+      </languages>
+      <date>2009</date>
+      <dates different="1" first="2009" last="2009"/>
+      <audLevel>0.98</audLevel>
+      <creator ident="17237451,n50014073">Zeri, Federico</creator>
+      <title>Anni-- Zeri : storie, ma non favole, sull'arte nel racconto di Federico Zeri</title>
+    </citation>
+    <citation ident="newwork882527383">
+      <holdings>11</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn888970940</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="1"/>
+      </languages>
+      <date>2014</date>
+      <dates different="1" first="2014" last="2014"/>
+      <audLevel>0.95</audLevel>
+      <creator ident="306407456,n98011782">Bignasca, A</creator>
+      <title>Roma eterna : 2000 Jahre Skulptur aus den Sammlungen Santarelli und Zeri</title>
+      <genres>
+        <genre count="11" norm="exhibition catalogs">Exhibition catalogs</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork42999505">
+      <holdings>10</holdings>
+      <numEditions>2</numEditions>
+      <oclcnum>ocn042999505</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ita" count="2"/>
+      </languages>
+      <date>1999</date>
+      <dates different="1" first="1999" last="1999"/>
+      <audLevel>0.71</audLevel>
+      <creator ident="17237451,n50014073">Zeri, Federico</creator>
+      <title>Un velo di silenzio</title>
+      <genres>
+        <genre count="9" norm="interviews">Interviews</genre>
+      </genres>
+    </citation>
+  </about>
+  <bestCover oclc="ocn861504409" type="isbn">+-+2565678006</bestCover>
+  <admin:administrativeMetadata xmlns:admin="http://viaf.org/xa/administrativeMetadata">
+    <admin:administrativeMetadataInstance>
+      <admin:administrativeMetadataDate>Thu Feb 25 12:04:17 EST 2021</admin:administrativeMetadataDate>
+      <admin:administrativeMetadataUser>batch</admin:administrativeMetadataUser>
+      <admin:administrativeMetadataRecordLength>57377</admin:administrativeMetadataRecordLength>
+    </admin:administrativeMetadataInstance>
+  </admin:administrativeMetadata>
+</Identity>

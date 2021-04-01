@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?><Identity type="personal">
+  <creationtime>Tue Feb 23 23:13:28 2021 UTC</creationtime>
+  <pnkey>lccn-n87154419</pnkey>
+  <audLevel>&lt;!--  actual audience min:0.00, avg:0.73, max:0.97  --&gt;<min>
+      <level>0.70</level>
+      <title>Cornelio De Fabriczy : [Necrologio]</title>
+    </min>
+    <avg>
+      <level>0.82</level>
+    </avg>
+    <max>
+      <level>1.00</level>
+      <title>Cornelio De Fabriczy : [Necrologio]</title>
+    </max>
+  </audLevel>
+  <authorityInfo>
+    <viafid>71628893</viafid>
+    <wikidataid>Q995470</wikidataid>
+    <lccn>n  87154419</lccn>
+    <arn>2174148</arn>
+    <x400>
+      <rawName>
+        <suba>Cornelius de Fabriczy storico dell'arte ungherese</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Cornelius von Fabriczy</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Cornelius von Fabriczy historiador de l'art hongarès</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Cornelius von Fabriczy historiador del arte húngaro</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Cornelius von Fabriczy historien de l'art hongrois</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>De Fabriczy, C. 1839-1910</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>De Fabriczy, Cornelio 1839-1910</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Fabriczy, C. v.</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Fabriczy, C. von.</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Fabriczy, C. von 1839-1910</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Fabriczy, Cornel von</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Fabriczy Cornel von 1839-1910</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Fabriczy, Cornelio</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Fabriczy Cornelio de 1839-1910</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Fabriczy, Cornelis van 1839-1910</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Fabriczy, Cornelius von 1839-1910</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Fabriczy, Kornél.</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Fabriczy, Kornél 1839-1910</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Fabriczy, Kornél von</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Fabriczy Kornel von 1839-1910</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Fabriczy, Kornelius</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Fabriczy Kornelius von 1839-1910</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Kornél Fabriczy</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Kornél Fabriczy Hungarian art historian</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Kornél Fabriczy kunsthistoricus</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Von Fabriczy, Cornelius</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Von Fabriczy, Cornelius 1839-1910</suba>
+      </rawName>
+    </x400>
+  </authorityInfo>
+  <associatedNames>
+    <name count="206">
+      <normName>lccn-n50010050</normName>
+      <rawName>
+        <suba>Bode, Wilhelm von</suba>
+        <subd>1845-1929</subd>
+      </rawName>
+      <relator count="19">oth</relator>
+      <relator count="13">ctb</relator>
+      <relator count="66">edt</relator>
+      <relator count="1">aut</relator>
+    </name>
+    <name count="204">
+      <normName>lccn-n79021381</normName>
+      <rawName>
+        <suba>Burckhardt, Jacob</suba>
+        <subd>1818-1897</subd>
+      </rawName>
+      <relator count="204">aut</relator>
+    </name>
+    <name count="166">
+      <normName>lccn-n79029808</normName>
+      <rawName>
+        <suba>Brunelleschi, Filippo</suba>
+        <subd>1377-1446</subd>
+      </rawName>
+    </name>
+    <name count="104">
+      <normName>lccn-n91098678</normName>
+      <rawName>
+        <suba>Billi, Antonio</suba>
+        <subd>approximately 1480-1536 or 1537</subd>
+      </rawName>
+      <relator count="33">aut</relator>
+    </name>
+    <name count="36">
+      <normName>lccn-n80116803</normName>
+      <rawName>
+        <suba>Bode, Wilhelm</suba>
+        <subd>1862-1922</subd>
+      </rawName>
+      <relator count="7">oth</relator>
+      <relator count="12">ctb</relator>
+    </name>
+    <name count="34">
+      <normName>lccn-n87154414</normName>
+      <rawName>
+        <suba>Poma, Anna Maria</suba>
+      </rawName>
+      <relator count="2">trl</relator>
+      <relator count="17">edt</relator>
+    </name>
+    <name count="33">
+      <normName>lccn-n81147607</normName>
+      <rawName>
+        <suba>Sangallo, Giuliano da</suba>
+        <subd>1445?-1516?</subd>
+      </rawName>
+    </name>
+    <name count="33">
+      <normName>np-burckhardt, jacob</normName>
+      <rawName>
+        <suba>Burckhardt, Jacob</suba>
+      </rawName>
+      <relator count="31">aut</relator>
+    </name>
+    <name count="28">
+      <normName>lccn-no2003011204</normName>
+      <rawName>
+        <suba>Burckhardt, Jacob</suba>
+      </rawName>
+      <relator count="28">aut</relator>
+    </name>
+    <name count="27">
+      <normName>lccn-n00027115</normName>
+      <rawName>
+        <suba>Hamilton, Annie</suba>
+      </rawName>
+      <relator count="24">trl</relator>
+    </name>
+  </associatedNames>
+  <nameInfo type="personal">
+    <rawName>
+      <suba>Fabriczy, Cornelius von</suba>
+      <subd>1839-1910</subd>
+    </rawName>
+    <genres>
+      <genre count="54" norm="1919896">Biographies</genre>
+      <genre count="28" norm="1411628">History</genre>
+      <genre count="16" norm="1920771">Catalogues raisonnés</genre>
+      <genre count="2" norm="1411635">Criticism, interpretation, etc</genre>
+    </genres>
+    <fastHeadings>
+      <fast count="524" norm="1204565" size="5" tag="651">Italy</fast>
+      <fast count="279" norm="815177" size="5" tag="650">Art</fast>
+      <fast count="251" norm="1013537" size="5" tag="650">Medals</fast>
+      <fast count="139" norm="1013559" size="5" tag="650">Medals, Renaissance</fast>
+      <fast count="136" norm="816430" size="5" tag="650">Art, Italian</fast>
+      <fast count="125" norm="32694" size="5" tag="600">Brunelleschi, Filippo,</fast>
+      <fast count="103" norm="1094518" size="5" tag="650">Renaissance</fast>
+      <fast count="99" norm="1204699" size="5" tag="651">Italy--Florence</fast>
+      <fast count="88" norm="817559" size="5" tag="650">Artists</fast>
+      <fast count="63" norm="815925" size="5" tag="650">Art, Ancient</fast>
+      <fast count="20" norm="84203" size="4" tag="600">Sangallo, Giuliano da,</fast>
+      <fast count="8" norm="815447" size="4" tag="650">Art appreciation</fast>
+      <fast count="6" norm="816576" size="4" tag="650">Art, Medieval</fast>
+      <fast count="6" norm="816806" size="4" tag="650">Art, Roman</fast>
+      <fast count="6" norm="816786" size="4" tag="650">Art, Renaissance</fast>
+      <fast count="4" norm="1155558" size="4" tag="650">Travel</fast>
+      <fast count="3" norm="1050567" size="4" tag="650">Painting</fast>
+      <fast count="2" norm="813114" size="4" tag="650">Architects</fast>
+      <fast count="1" norm="813346" size="4" tag="650">Architecture</fast>
+    </fastHeadings>
+    <languages count="6">
+      <lang code="ger" count="111"/>
+      <lang code="ita" count="50"/>
+      <lang code="eng" count="10"/>
+      <lang code="fre" count="5"/>
+      <lang code="spa" count="2"/>
+      <lang code="nor" count="1"/>
+    </languages>
+    <birthDate>1839</birthDate>
+    <deathDate>1910</deathDate>
+    <dates>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1877</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1883</date>
+      <date byCount="5" byScaled="2.32" count="5" scaled="2.32">1884</date>
+      <date byCount="5" byScaled="2.32" count="5" scaled="2.32">1885</date>
+      <date byCount="11" byScaled="3.46" count="11" scaled="3.46">1886</date>
+      <date byCount="6" byScaled="2.58" count="6" scaled="2.58">1887</date>
+      <date byCount="6" byScaled="2.58" count="6" scaled="2.58">1888</date>
+      <date byCount="5" byScaled="2.32" count="5" scaled="2.32">1889</date>
+      <date byCount="4" byScaled="2.00" count="4" scaled="2.00">1890</date>
+      <date byCount="17" byScaled="4.09" count="17" scaled="4.09">1891</date>
+      <date byCount="26" byScaled="4.70" count="26" scaled="4.70">1892</date>
+      <date byCount="18" byScaled="4.17" count="18" scaled="4.17">1893</date>
+      <date byCount="14" byScaled="3.81" count="14" scaled="3.81">1894</date>
+      <date byCount="17" byScaled="4.09" count="17" scaled="4.09">1895</date>
+      <date byCount="27" byScaled="4.75" count="27" scaled="4.75">1896</date>
+      <date byCount="10" byScaled="3.32" count="10" scaled="3.32">1897</date>
+      <date byCount="43" byScaled="5.43" count="43" scaled="5.43">1898</date>
+      <date byCount="27" byScaled="4.75" count="27" scaled="4.75">1899</date>
+      <date byCount="32" byScaled="5.00" count="32" scaled="5.00">1900</date>
+      <date byCount="51" byScaled="5.67" count="51" scaled="5.67">1901</date>
+      <date byCount="65" byScaled="6.02" count="65" scaled="6.02">1902</date>
+      <date byCount="51" byScaled="5.67" count="51" scaled="5.67">1903</date>
+      <date byCount="72" byScaled="6.17" count="72" scaled="6.17">1904</date>
+      <date byCount="28" byScaled="4.81" count="28" scaled="4.81">1905</date>
+      <date byCount="38" byScaled="5.25" count="38" scaled="5.25">1906</date>
+      <date byCount="26" byScaled="4.70" count="26" scaled="4.70">1907</date>
+      <date byCount="25" byScaled="4.64" count="25" scaled="4.64">1908</date>
+      <date byCount="16" byScaled="4.00" count="16" scaled="4.00">1909</date>
+      <date aboutCount="1" aboutScaled="0.00" byCount="11" byScaled="3.46" count="12" scaled="3.58">1910</date>
+      <date byCount="9" byScaled="3.17" count="9" scaled="3.17">1915</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1920</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1921</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1922</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1938</date>
+      <date byCount="32" byScaled="5.00" count="32" scaled="5.00">1969</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1978</date>
+      <date byCount="19" byScaled="4.25" count="19" scaled="4.25">1979</date>
+    </dates>
+    <totalHoldings>2109</totalHoldings>
+    <workCount>545</workCount>
+    <recordCount>768</recordCount>
+    <ddc ident="">709.45</ddc>
+    <lcc ident="CJ6201">CJ6201</lcc>
+    <relators>
+      <relator code="aut" count="1743">
+        <oclcnum count="100">ocn001262241</oclcnum>
+        <oclcnum count="79">ocn003562317</oclcnum>
+        <oclcnum count="69">ocn001515311</oclcnum>
+        <oclcnum count="48">ocn001999264</oclcnum>
+        <oclcnum count="48">ocn258052174</oclcnum>
+        <oclcnum count="37">ocn008541795</oclcnum>
+        <oclcnum count="21">ocn608616437</oclcnum>
+        <oclcnum count="16">ocn901950196</oclcnum>
+        <oclcnum count="16">ocn032002474</oclcnum>
+        <oclcnum count="15">ocn889829241</oclcnum>
+      </relator>
+      <relator code="edt" count="104">
+        <oclcnum count="23">ocn003198590</oclcnum>
+        <oclcnum count="21">ocn016665299</oclcnum>
+        <oclcnum count="14">ocn023481173</oclcnum>
+        <oclcnum count="9">ocn000869897</oclcnum>
+        <oclcnum count="7">ocn742281480</oclcnum>
+        <oclcnum count="7">ocn000869890</oclcnum>
+        <oclcnum count="7">ocn608605571</oclcnum>
+        <oclcnum count="3">ocn475702392</oclcnum>
+        <oclcnum count="3">ocn066270068</oclcnum>
+        <oclcnum count="2">ocn797373655</oclcnum>
+      </relator>
+      <relator code="oth" count="26">
+        <oclcnum count="7">ocn247291826</oclcnum>
+        <oclcnum count="5">ocn1068288517</oclcnum>
+        <oclcnum count="5">ocn1068295552</oclcnum>
+        <oclcnum count="5">ocn1068376709</oclcnum>
+        <oclcnum count="4">ocn1073004306</oclcnum>
+      </relator>
+      <relator code="ctb" count="25">
+        <oclcnum count="6">ocn247291223</oclcnum>
+        <oclcnum count="6">ocn258103714</oclcnum>
+        <oclcnum count="6">ocn310093089</oclcnum>
+        <oclcnum count="5">ocn072094878</oclcnum>
+        <oclcnum count="1">ocn719220528</oclcnum>
+        <oclcnum count="1">ocn719220540</oclcnum>
+      </relator>
+    </relators>
+  </nameInfo>
+  <by>
+    <citation ident="newwork3562317">
+      <holdings>207</holdings>
+      <numEditions>32</numEditions>
+      <oclcnum>ocn003562317</oclcnum>
+      <recordType>book</recordType>
+      <languages count="3">
+        <lang code="ger" count="30"/>
+        <lang code="und" count="1"/>
+        <lang code="nor" count="1"/>
+      </languages>
+      <date>1900</date>
+      <dates different="8" first="1900" last="1922"/>
+      <audLevel>0.68</audLevel>
+      <creator ident="71628893,n87154419">Fabriczy, Cornelius von</creator>
+      <title>Medaillen der italienischen renaissance</title>
+    </citation>
+    <citation ident="newwork1515311">
+      <holdings>132</holdings>
+      <numEditions>15</numEditions>
+      <oclcnum>ocn001515311</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="15"/>
+      </languages>
+      <date>1892</date>
+      <dates different="2" first="1892" last="2015"/>
+      <audLevel>0.75</audLevel>
+      <creator ident="71628893,n87154419">Fabriczy, Cornelius von</creator>
+      <title>Filippo Brunelleschi : Sein Leben und seine Werke</title>
+    </citation>
+    <citation ident="newwork1262241">
+      <holdings>130</holdings>
+      <numEditions>6</numEditions>
+      <oclcnum>ocn001262241</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="eng" count="5"/>
+        <lang code="ger" count="1"/>
+      </languages>
+      <date>1904</date>
+      <dates different="2" first="1904" last="2013"/>
+      <audLevel>0.75</audLevel>
+      <creator ident="71628893,n87154419">Fabriczy, Cornelius von</creator>
+      <title>Italian medals</title>
+    </citation>
+    <citation ident="newwork2192409">
+      <holdings>122</holdings>
+      <numEditions>31</numEditions>
+      <oclcnum>ocn003198590</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="31"/>
+      </languages>
+      <date>1898</date>
+      <dates different="4" first="1898" last="1909"/>
+      <audLevel>0.79</audLevel>
+      <creator ident="51686578,n79021381">Burckhardt, Jacob</creator>
+      <title>Der Cicerone; eine Anleitung zum Genuss der Kunstwerke italiens</title>
+      <genres>
+        <genre count="6" norm="history">History</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork1999264">
+      <holdings>55</holdings>
+      <numEditions>7</numEditions>
+      <oclcnum>ocn001999264</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="ita" count="6"/>
+        <lang code="eng" count="1"/>
+      </languages>
+      <date>1891</date>
+      <dates different="2" first="1891" last="1969"/>
+      <audLevel>0.95</audLevel>
+      <creator ident="71628893,n87154419">Fabriczy, Cornelius von</creator>
+      <title>Il Libro di Antonio Billi and, Il Codice dell'anonimo gaddiano</title>
+      <genres>
+        <genre count="52" norm="biographies">Biographies</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork8541795">
+      <holdings>51</holdings>
+      <numEditions>8</numEditions>
+      <oclcnum>ocn008541795</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ita" count="8"/>
+      </languages>
+      <date>1979</date>
+      <dates different="1" first="1979" last="1979"/>
+      <audLevel>0.97</audLevel>
+      <creator ident="71628893,n87154419">Fabriczy, Cornelius von</creator>
+      <title>Filippo Brunelleschi : la vita e le opere</title>
+      <genres>
+        <genre count="2" norm="criticism, interpretation, etc">Criticism, interpretation, etc</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork23481173">
+      <holdings>45</holdings>
+      <numEditions>21</numEditions>
+      <oclcnum>ocn023481173</oclcnum>
+      <recordType>book</recordType>
+      <languages count="4">
+        <lang code="ita" count="18"/>
+        <lang code="ger" count="1"/>
+        <lang code="eng" count="1"/>
+        <lang code="fre" count="1"/>
+      </languages>
+      <date>1891</date>
+      <dates different="3" first="1891" last="1969"/>
+      <audLevel>0.87</audLevel>
+      <creator ident="91584285,n91098678">Billi, Antonio</creator>
+      <title>Il libro di Antonio Billi e le sue copie nella Biblioteca nazionale di Firenze</title>
+      <genres>
+        <genre count="10" norm="history">History</genre>
+        <genre count="0" norm="biographies">Biographies</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork26524879">
+      <holdings>41</holdings>
+      <numEditions>16</numEditions>
+      <oclcnum>ocn032002474</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="ger" count="14"/>
+        <lang code="eng" count="2"/>
+      </languages>
+      <date>1902</date>
+      <dates different="1" first="1902" last="1902"/>
+      <audLevel>0.64</audLevel>
+      <creator ident="71628893,n87154419">Fabriczy, Cornelius von</creator>
+      <title>Die Handzeichnungen Giuliano's da Sangallo : Kritisches Verzeichnis</title>
+      <genres>
+        <genre count="16" norm="catalogues raisonnés">Catalogues raisonnés</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork222231740">
+      <holdings>21</holdings>
+      <numEditions>6</numEditions>
+      <oclcnum>ocn889829241</oclcnum>
+      <recordType>file</recordType>
+      <languages count="1">
+        <lang code="ger" count="6"/>
+      </languages>
+      <date>1907</date>
+      <dates different="1" first="1907" last="1907"/>
+      <audLevel>0.68</audLevel>
+      <creator ident="71628893,n87154419">Fabriczy, Cornelius von</creator>
+      <title>Brunelleschiana : Urkunden und Forschungen zur Biographie des Meisters</title>
+      <genres>
+        <genre count="2" norm="biographies">Biographies</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork603600255">
+      <holdings>20</holdings>
+      <numEditions>8</numEditions>
+      <oclcnum>ocn830819897</oclcnum>
+      <recordType>book</recordType>
+      <languages count="3">
+        <lang code="fre" count="4"/>
+        <lang code="spa" count="2"/>
+        <lang code="ita" count="2"/>
+      </languages>
+      <date>1979</date>
+      <dates different="1" first="1979" last="1979"/>
+      <audLevel>0.47</audLevel>
+      <creator ident="71628893,n87154419">Fabriczy, Cornelius von</creator>
+      <title>Filippo Brunelleschi : la vita e le opere</title>
+    </citation>
+    <citation ident="newwork65720490">
+      <holdings>19</holdings>
+      <numEditions>10</numEditions>
+      <oclcnum>ocn248926291</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="ita" count="8"/>
+        <lang code="und" count="2"/>
+      </languages>
+      <date>1893</date>
+      <dates different="2" first="1893" last="1969"/>
+      <audLevel>0.64</audLevel>
+      <creator ident="71628893,n87154419">Fabriczy, Cornelius von</creator>
+      <title>Il codice dell'anonimo Gaddiano '(cod. Magliabechiano XVII, 17)' nella Biblioteca Nazionale di Firenze</title>
+      <genres>
+        <genre count="1" norm="history">History</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork84393567">
+      <holdings>17</holdings>
+      <numEditions>4</numEditions>
+      <oclcnum>ocn936078908</oclcnum>
+      <recordType>file</recordType>
+      <languages count="2">
+        <lang code="ita" count="3"/>
+        <lang code="ger" count="1"/>
+      </languages>
+      <date>1906</date>
+      <dates different="1" first="1906" last="1906"/>
+      <audLevel>0.60</audLevel>
+      <creator ident="8157172,n85812417">Schubring, Paul</creator>
+      <title>Urbano da Cortona e Vincenzo da Cortona</title>
+    </citation>
+    <citation ident="newwork174931125">
+      <holdings>15</holdings>
+      <numEditions>2</numEditions>
+      <oclcnum>ocn174931125</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="2"/>
+      </languages>
+      <date>1900</date>
+      <dates different="2" first="1900" last="1909"/>
+      <audLevel>0.32</audLevel>
+      <creator ident="51686578,n79021381">Burckhardt, Jacob</creator>
+      <title>Der Cicerone</title>
+    </citation>
+    <citation ident="newwork175054264">
+      <holdings>14</holdings>
+      <numEditions>2</numEditions>
+      <oclcnum>ocn256673010</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="2"/>
+      </languages>
+      <date>1900</date>
+      <dates different="2" first="1900" last="1909"/>
+      <audLevel>0.32</audLevel>
+      <creator ident="51686578,n79021381">Burckhardt, Jacob</creator>
+      <title>Antike Kunst</title>
+    </citation>
+    <citation ident="newwork869890">
+      <holdings>12</holdings>
+      <numEditions>4</numEditions>
+      <oclcnum>ocn000869890</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="ita" count="3"/>
+        <lang code="eng" count="1"/>
+      </languages>
+      <date>1893</date>
+      <dates different="2" first="1893" last="1969"/>
+      <audLevel>0.87</audLevel>
+      <creator ident="121799635,no2020082840">Anonimo Gaddiano</creator>
+      <title>Il codice dell'anonimo Gaddiano (cod. magliabechiano XVII, 17)</title>
+      <genres>
+        <genre count="2" norm="history">History</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork869897">
+      <holdings>10</holdings>
+      <numEditions>2</numEditions>
+      <oclcnum>ocn000869897</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ita" count="2"/>
+      </languages>
+      <date>1891</date>
+      <dates different="2" first="1891" last="1969"/>
+      <audLevel>0.64</audLevel>
+      <creator ident="91584285,n91098678">Billi, Antonio</creator>
+      <title>Il libro di Antonio Billi</title>
+      <genres>
+        <genre count="9" norm="history">History</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork247863932">
+      <holdings>10</holdings>
+      <numEditions>3</numEditions>
+      <oclcnum>ocn258225361</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="3"/>
+      </languages>
+      <date>1901</date>
+      <dates different="2" first="1901" last="1904"/>
+      <audLevel>0.47</audLevel>
+      <creator ident="uncontrolled">Burckhardt, Jacob</creator>
+      <title>Register zu Burckhardts Cicerone</title>
+    </citation>
+    <citation ident="newwork258122580">
+      <holdings>9</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn258122580</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="1"/>
+      </languages>
+      <date>1898</date>
+      <dates different="1" first="1898" last="1898"/>
+      <audLevel>0.47</audLevel>
+      <creator ident="uncontrolled">Burckhardt, Jacob</creator>
+      <title>Sculptur und Architektur</title>
+    </citation>
+    <citation ident="newwork65580278">
+      <holdings>9</holdings>
+      <numEditions>3</numEditions>
+      <oclcnum>ocn065580278</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="3"/>
+      </languages>
+      <date>1909</date>
+      <dates different="2" first="1909" last="1910"/>
+      <audLevel>0.30</audLevel>
+      <creator ident="51686578,n79021381">Burckhardt, Jacob</creator>
+      <title>Der Cicerone eine Anleitung zum Genuß der Kunstwerke Italiens</title>
+      <genres>
+        <genre count="0" norm="history">History</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork258224743">
+      <holdings>8</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn258224743</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="1"/>
+      </languages>
+      <date>1901</date>
+      <dates different="1" first="1901" last="1901"/>
+      <audLevel>0.47</audLevel>
+      <creator ident="uncontrolled">Burckhardt, Jacob</creator>
+      <title>Architektur und Sculptur</title>
+    </citation>
+  </by>
+  <about>
+    <citation ident="newwork1179238962">
+      <holdings>1</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn1179238962</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="und" count="1"/>
+      </languages>
+      <audLevel>0.00</audLevel>
+      <title>Cornelio De Fabriczy : [Necrologio]</title>
+    </citation>
+    <citation ident="newart908454393">
+      <holdings>0</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn908454393</oclcnum>
+      <recordType>art</recordType>
+      <languages count="1">
+        <lang code="und" count="1"/>
+      </languages>
+      <date>1910</date>
+      <dates different="1" first="1910" last="1910"/>
+      <audLevel>0.00</audLevel>
+      <title>Cornelio De Fabriczy : [Necrologio]</title>
+    </citation>
+  </about>
+  <admin:administrativeMetadata xmlns:admin="http://viaf.org/xa/administrativeMetadata">
+    <admin:administrativeMetadataInstance>
+      <admin:administrativeMetadataDate>Thu Feb 25 11:59:11 EST 2021</admin:administrativeMetadataDate>
+      <admin:administrativeMetadataUser>batch</admin:administrativeMetadataUser>
+      <admin:administrativeMetadataRecordLength>21053</admin:administrativeMetadataRecordLength>
+    </admin:administrativeMetadataInstance>
+  </admin:administrativeMetadata>
+</Identity>

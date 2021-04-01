@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8"?><Identity type="personal">
+  <creationtime>Tue Feb 23 23:41:23 2021 UTC</creationtime>
+  <pnkey>lccn-n82037500</pnkey>
+  <audLevel>&lt;!--  actual audience min:0.07, avg:0.85, max:0.96  --&gt;<min>
+      <level>0.46</level>
+      <title>Titian /</title>
+    </min>
+    <avg>
+      <level>0.78</level>
+    </avg>
+    <max>
+      <level>0.92</level>
+      <title>Caravaggism in Europe /</title>
+    </max>
+  </audLevel>
+  <authorityInfo>
+    <viafid>71952401</viafid>
+    <wikidataid>Q61913691</wikidataid>
+    <lccn>n  82037500</lccn>
+    <arn>734546</arn>
+    <x400>
+      <rawName>
+        <suba>Luisa Vertova historiadora de l'art italiana</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Luisa Vertova historiadora del arte italiana</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Luisa Vertova historiane italiane e artit</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Luisa Vertova historienne de l'art italienne</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Luisa Vertova Italiaans kunsthistorica</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Luisa Vertova Italian art historian</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Luisa Vertova Storica dell'arte italiana</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Nicolson, Luisa Vertova 1920-</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Vertova, Luisa Felicita 1920-</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Vertova Nicolson, Luisa</suba>
+      </rawName>
+    </x400>
+  </authorityInfo>
+  <associatedNames>
+    <name count="282">
+      <normName>lccn-n50003402</normName>
+      <rawName>
+        <suba>Nicolson, Benedict</suba>
+      </rawName>
+      <relator count="3">oth</relator>
+      <relator count="255">aut</relator>
+    </name>
+    <name count="190">
+      <normName>lccn-n50000558</normName>
+      <rawName>
+        <suba>Caravaggio, Michelangelo Merisi da</suba>
+        <subd>1573-1610</subd>
+      </rawName>
+      <relator count="3">oth</relator>
+      <relator count="3">ill</relator>
+    </name>
+    <name count="184">
+      <normName>lccn-n79021690</normName>
+      <rawName>
+        <suba>Berenson, Bernard</suba>
+      </rawName>
+      <relator count="181">aut</relator>
+    </name>
+    <name count="167">
+      <normName>lccn-n81050582</normName>
+      <rawName>
+        <suba>Ceresa, Carlo</suba>
+        <subd>1609-1679</subd>
+      </rawName>
+      <relator count="1">art</relator>
+      <relator count="3">aut</relator>
+    </name>
+    <name count="76">
+      <normName>lccn-n79074519</normName>
+      <rawName>
+        <suba>Titian</suba>
+        <subd>approximately 1488-1576</subd>
+      </rawName>
+      <relator count="14">aut</relator>
+    </name>
+    <name count="51">
+      <normName>lccn-n79040166</normName>
+      <rawName>
+        <suba>Veronese</suba>
+        <subd>1528-1588</subd>
+      </rawName>
+      <relator count="1">ill</relator>
+      <relator count="14">aut</relator>
+    </name>
+    <name count="50">
+      <normName>lccn-n50007140</normName>
+      <rawName>
+        <suba>Bellini, Giovanni</suba>
+        <subd>1426?-1516</subd>
+      </rawName>
+      <relator count="1">aut</relator>
+    </name>
+    <name count="47">
+      <normName>lccn-n82097632</normName>
+      <rawName>
+        <suba>Carpaccio, Vittore</suba>
+        <subd>1455?-1525?</subd>
+      </rawName>
+      <relator count="18">aut</relator>
+    </name>
+    <name count="47">
+      <normName>lccn-n50083291</normName>
+      <rawName>
+        <suba>Angelico</suba>
+        <subc>fra</subc>
+        <subd>approximately 1400-1455</subd>
+      </rawName>
+      <relator count="6">aut</relator>
+    </name>
+    <name count="40">
+      <normName>lccn-n79022942</normName>
+      <rawName>
+        <suba>Botticelli, Sandro</suba>
+        <subd>1444 or 1445-1510</subd>
+      </rawName>
+      <relator count="17">aut</relator>
+    </name>
+  </associatedNames>
+  <nameInfo type="personal">
+    <rawName>
+      <suba>Vertova, Luisa</suba>
+    </rawName>
+    <genres>
+      <genre count="162" norm="1423692">Catalogs</genre>
+      <genre count="114" norm="1424028">Exhibition catalogs</genre>
+      <genre count="78" norm="1411628">History</genre>
+      <genre count="23" norm="1919895">Bibliographies</genre>
+      <genre count="17" norm="1423912">Music‡vTexts</genre>
+      <genre count="6" norm="1411635">Criticism, interpretation, etc</genre>
+      <genre count="3" norm="1423874">Pictorial works</genre>
+    </genres>
+    <fastHeadings>
+      <fast count="529" norm="100" size="5" tag="600">Caravaggio, Michelangelo Merisi da,</fast>
+      <fast count="160" norm="1204699" size="5" tag="651">Italy--Florence</fast>
+      <fast count="155" norm="1007809" size="5" tag="650">Mannerism (Art)</fast>
+      <fast count="155" norm="1050808" size="5" tag="650">Painting, European</fast>
+      <fast count="153" norm="972484" size="5" tag="650">Influence (Literary, artistic, etc.)</fast>
+      <fast count="144" norm="1245064" size="5" tag="651">Europe</fast>
+      <fast count="133" norm="72289" size="5" tag="600">Ceresa, Carlo,</fast>
+      <fast count="94" norm="1029558" size="5" tag="650">Mural painting and decoration</fast>
+      <fast count="91" norm="1002584" size="5" tag="650">Lord's Supper in art</fast>
+      <fast count="66" norm="897830" size="5" tag="650">Drawing, Italian</fast>
+      <fast count="58" norm="14586" size="4" tag="600">Lotto, Lorenzo,</fast>
+      <fast count="58" norm="897725" size="4" tag="650">Drawing</fast>
+      <fast count="58" norm="1050530" size="4" tag="650">Painters</fast>
+      <fast count="47" norm="1807463" size="4" tag="600">Bellini, Giovanni,</fast>
+      <fast count="46" norm="815177" size="4" tag="650">Art</fast>
+      <fast count="36" norm="1109838" size="4" tag="650">Sculpture, Roman</fast>
+      <fast count="36" norm="812871" size="4" tag="650">Arch of Constantine (Rome, Italy)</fast>
+      <fast count="34" norm="1896063" size="4" tag="650">Human figure in art</fast>
+      <fast count="30" norm="1851272" size="4" tag="600">Titian,</fast>
+      <fast count="30" norm="33693" size="4" tag="600">Veronese,</fast>
+      <fast count="28" norm="88990" size="3" tag="600">Vertova, Luisa</fast>
+      <fast count="25" norm="1050685" size="3" tag="650">Painting, Baroque</fast>
+      <fast count="24" norm="816430" size="3" tag="650">Art, Italian</fast>
+      <fast count="19" norm="993385" size="3" tag="650">Latin poetry, Medieval and modern</fast>
+      <fast count="17" norm="944786" size="3" tag="650">Goliards</fast>
+      <fast count="17" norm="1804729" size="3" tag="600">Angelico,--fra,</fast>
+      <fast count="17" norm="934333" size="3" tag="650">French language</fast>
+      <fast count="17" norm="1136161" size="3" tag="650">Students' songs</fast>
+      <fast count="17" norm="1126420" size="3" tag="650">Songs, Latin (Medieval and modern)</fast>
+      <fast count="5" norm="1204477" size="3" tag="651">Italy--Tuscany</fast>
+      <fast count="5" norm="897853" size="2" tag="650">Drawing, Renaissance</fast>
+      <fast count="4" norm="1051051" size="2" tag="650">Painting, Renaissance</fast>
+      <fast count="3" norm="816806" size="2" tag="650">Art, Roman</fast>
+      <fast count="3" norm="1157256" size="2" tag="650">Triumphal arches</fast>
+      <fast count="3" norm="1204500" size="2" tag="651">Italy--Rome</fast>
+      <fast count="3" norm="1204885" size="2" tag="651">Rome (Empire)</fast>
+      <fast count="3" norm="810745" size="2" tag="650">Antiquities</fast>
+      <fast count="2" norm="1029675" size="2" tag="650">Mural painting and decoration, Italian</fast>
+      <fast count="2" norm="992932" size="2" tag="650">Last Supper in art</fast>
+      <fast count="2" norm="52645" size="2" tag="600">Clark, Kenneth,</fast>
+      <fast count="2" norm="31786" size="1" tag="600">Berenson, Bernard,</fast>
+      <fast count="2" norm="1786769" size="1" tag="600">Mariano, Nicky</fast>
+      <fast count="1" norm="693" size="1" tag="600">Onassis, Jacqueline Kennedy,</fast>
+      <fast count="1" norm="7595" size="1" tag="600">Porter, Arthur Kingsley,</fast>
+      <fast count="1" norm="34303" size="1" tag="600">Dunham, Katherine</fast>
+      <fast count="1" norm="34889" size="1" tag="600">Croce, Benedetto,</fast>
+      <fast count="1" norm="1716309" size="1" tag="600">Origo, Iris,</fast>
+      <fast count="1" norm="27488" size="1" tag="600">Hemingway, Ernest,</fast>
+      <fast count="1" norm="1716588" size="1" tag="600">Acton, Harold,</fast>
+      <fast count="1" norm="816786" size="1" tag="650">Art, Renaissance</fast>
+    </fastHeadings>
+    <languages count="5">
+      <lang code="ita" count="110"/>
+      <lang code="eng" count="40"/>
+      <lang code="ger" count="3"/>
+      <lang code="fre" count="1"/>
+      <lang code="lat" count="1"/>
+    </languages>
+    <birthDate>1920</birthDate>
+    <dates>
+      <date byCount="3" byScaled="1.58" count="3" scaled="1.58">1945</date>
+      <date byCount="6" byScaled="2.58" count="6" scaled="2.58">1948</date>
+      <date byCount="29" byScaled="4.86" count="29" scaled="4.86">1949</date>
+      <date byCount="25" byScaled="4.64" count="25" scaled="4.64">1950</date>
+      <date aboutCount="1" aboutScaled="0.00" byCount="27" byScaled="4.75" count="28" scaled="4.81">1951</date>
+      <date byCount="57" byScaled="5.83" count="57" scaled="5.83">1952</date>
+      <date byCount="23" byScaled="4.52" count="23" scaled="4.52">1953</date>
+      <date byCount="14" byScaled="3.81" count="14" scaled="3.81">1954</date>
+      <date byCount="6" byScaled="2.58" count="6" scaled="2.58">1955</date>
+      <date byCount="6" byScaled="2.58" count="6" scaled="2.58">1956</date>
+      <date byCount="5" byScaled="2.32" count="5" scaled="2.32">1959</date>
+      <date byCount="12" byScaled="3.58" count="12" scaled="3.58">1960</date>
+      <date byCount="8" byScaled="3.00" count="8" scaled="3.00">1961</date>
+      <date byCount="3" byScaled="1.58" count="3" scaled="1.58">1962</date>
+      <date byCount="5" byScaled="2.32" count="5" scaled="2.32">1963</date>
+      <date byCount="3" byScaled="1.58" count="3" scaled="1.58">1964</date>
+      <date byCount="17" byScaled="4.09" count="17" scaled="4.09">1965</date>
+      <date byCount="3" byScaled="1.58" count="3" scaled="1.58">1966</date>
+      <date byCount="5" byScaled="2.32" count="5" scaled="2.32">1967</date>
+      <date byCount="25" byScaled="4.64" count="25" scaled="4.64">1968</date>
+      <date byCount="20" byScaled="4.32" count="20" scaled="4.32">1969</date>
+      <date byCount="4" byScaled="2.00" count="4" scaled="2.00">1970</date>
+      <date byCount="5" byScaled="2.32" count="5" scaled="2.32">1971</date>
+      <date byCount="11" byScaled="3.46" count="11" scaled="3.46">1972</date>
+      <date byCount="6" byScaled="2.58" count="6" scaled="2.58">1973</date>
+      <date byCount="5" byScaled="2.32" count="5" scaled="2.32">1974</date>
+      <date byCount="5" byScaled="2.32" count="5" scaled="2.32">1975</date>
+      <date byCount="17" byScaled="4.09" count="17" scaled="4.09">1976</date>
+      <date byCount="14" byScaled="3.81" count="14" scaled="3.81">1977</date>
+      <date byCount="3" byScaled="1.58" count="3" scaled="1.58">1978</date>
+      <date byCount="4" byScaled="2.00" count="4" scaled="2.00">1979</date>
+      <date byCount="16" byScaled="4.00" count="16" scaled="4.00">1981</date>
+      <date byCount="30" byScaled="4.91" count="30" scaled="4.91">1983</date>
+      <date byCount="28" byScaled="4.81" count="28" scaled="4.81">1984</date>
+      <date byCount="23" byScaled="4.52" count="23" scaled="4.52">1985</date>
+      <date byCount="4" byScaled="2.00" count="4" scaled="2.00">1986</date>
+      <date byCount="4" byScaled="2.00" count="4" scaled="2.00">1987</date>
+      <date byCount="7" byScaled="2.81" count="7" scaled="2.81">1988</date>
+      <date byCount="28" byScaled="4.81" count="28" scaled="4.81">1989</date>
+      <date byCount="50" byScaled="5.64" count="50" scaled="5.64">1990</date>
+      <date aboutCount="2" aboutScaled="1.00" byCount="11" byScaled="3.46" count="13" scaled="3.70">1991</date>
+      <date byCount="6" byScaled="2.58" count="6" scaled="2.58">1992</date>
+      <date byCount="4" byScaled="2.00" count="4" scaled="2.00">1993</date>
+      <date byCount="9" byScaled="3.17" count="9" scaled="3.17">1994</date>
+      <date byCount="8" byScaled="3.00" count="8" scaled="3.00">1995</date>
+      <date byCount="5" byScaled="2.32" count="5" scaled="2.32">1996</date>
+      <date byCount="5" byScaled="2.32" count="5" scaled="2.32">1997</date>
+      <date byCount="8" byScaled="3.00" count="8" scaled="3.00">1998</date>
+      <date byCount="4" byScaled="2.00" count="4" scaled="2.00">1999</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">2000</date>
+      <date byCount="5" byScaled="2.32" count="5" scaled="2.32">2001</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">2002</date>
+      <date byCount="3" byScaled="1.58" count="3" scaled="1.58">2003</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">2004</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">2005</date>
+      <date byCount="8" byScaled="3.00" count="8" scaled="3.00">2006</date>
+      <date byCount="8" byScaled="3.00" count="8" scaled="3.00">2007</date>
+      <date byCount="3" byScaled="1.58" count="3" scaled="1.58">2008</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">2012</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">2017</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">2020</date>
+    </dates>
+    <totalHoldings>2060</totalHoldings>
+    <workCount>402</workCount>
+    <recordCount>693</recordCount>
+    <ddc ident="">759.5</ddc>
+    <lcc ident="ND623.C26">ND623.C26</lcc>
+    <relators>
+      <relator code="aut" count="861">
+        <oclcnum count="76">ocn004335726</oclcnum>
+        <oclcnum count="19">ocn017243511</oclcnum>
+        <oclcnum count="14">ocn001090058</oclcnum>
+        <oclcnum count="9">ocn250062763</oclcnum>
+        <oclcnum count="6">ocn027199661</oclcnum>
+        <oclcnum count="6">ocn879839582</oclcnum>
+        <oclcnum count="5">ocn604405904</oclcnum>
+        <oclcnum count="5">ocn027199687</oclcnum>
+        <oclcnum count="4">ocn603635482</oclcnum>
+        <oclcnum count="4">ocn301746819</oclcnum>
+      </relator>
+      <relator code="edt" count="134">
+        <oclcnum count="30">ocn005084211</oclcnum>
+        <oclcnum count="17">ocn014337189</oclcnum>
+        <oclcnum count="12">ocn797364803</oclcnum>
+        <oclcnum count="10">ocn799558144</oclcnum>
+        <oclcnum count="7">ocn799682457</oclcnum>
+        <oclcnum count="6">ocn311936442</oclcnum>
+        <oclcnum count="5">ocn038210012</oclcnum>
+        <oclcnum count="5">ocn797796674</oclcnum>
+        <oclcnum count="4">ocn800047294</oclcnum>
+        <oclcnum count="4">ocn048512687</oclcnum>
+      </relator>
+      <relator code="ctb" count="18">
+        <oclcnum count="16">ocn468787869</oclcnum>
+        <oclcnum count="2">ocn636644292</oclcnum>
+      </relator>
+      <relator code="adp" count="15">
+        <oclcnum count="5">ocn256451414</oclcnum>
+        <oclcnum count="5">ocn256450884</oclcnum>
+        <oclcnum count="5">ocn256450880</oclcnum>
+      </relator>
+      <relator code="trl" count="14">
+        <oclcnum count="3">ocn490779158</oclcnum>
+        <oclcnum count="2">ocn876675595</oclcnum>
+        <oclcnum count="2">ocn489667140</oclcnum>
+        <oclcnum count="1">ocn458438714</oclcnum>
+        <oclcnum count="1">ocn459515197</oclcnum>
+        <oclcnum count="1">ocn492780725</oclcnum>
+        <oclcnum count="1">ocn458438584</oclcnum>
+        <oclcnum count="1">ocn458438587</oclcnum>
+        <oclcnum count="1">ocn492780687</oclcnum>
+        <oclcnum count="1">ocn492780714</oclcnum>
+      </relator>
+      <relator code="oth" count="14">
+        <oclcnum count="3">ocn878418013</oclcnum>
+        <oclcnum count="1">ocn1069148966</oclcnum>
+        <oclcnum count="1">ocn554412520</oclcnum>
+        <oclcnum count="1">ocn1070949148</oclcnum>
+        <oclcnum count="1">ocn924206909</oclcnum>
+        <oclcnum count="1">ocn835669165</oclcnum>
+        <oclcnum count="1">ocn1071738893</oclcnum>
+        <oclcnum count="1">ocn923969027</oclcnum>
+        <oclcnum count="1">ocn1075657558</oclcnum>
+        <oclcnum count="1">ocn554412532</oclcnum>
+      </relator>
+      <relator code="aui" count="10">
+        <oclcnum count="1">ocn758796005</oclcnum>
+        <oclcnum count="1">ocn982252576</oclcnum>
+        <oclcnum count="1">ocn460610375</oclcnum>
+        <oclcnum count="1">ocn460280835</oclcnum>
+        <oclcnum count="1">ocn959099730</oclcnum>
+        <oclcnum count="1">ocn982275691</oclcnum>
+        <oclcnum count="1">ocn460445330</oclcnum>
+        <oclcnum count="1">ocn958956440</oclcnum>
+        <oclcnum count="1">ocn461198147</oclcnum>
+        <oclcnum count="1">ocn460355208</oclcnum>
+      </relator>
+      <relator code="cre" count="7">
+        <oclcnum count="1">ocn1040745058</oclcnum>
+        <oclcnum count="1">ocn1040778697</oclcnum>
+        <oclcnum count="1">ocn1033760051</oclcnum>
+        <oclcnum count="1">ocn1040701699</oclcnum>
+        <oclcnum count="1">ocn1040733565</oclcnum>
+        <oclcnum count="1">ocn1040717253</oclcnum>
+        <oclcnum count="1">ocn1040785268</oclcnum>
+      </relator>
+      <relator code="col" count="2">
+        <oclcnum count="1">ocn492511550</oclcnum>
+        <oclcnum count="1">ocn492512227</oclcnum>
+      </relator>
+    </relators>
+  </nameInfo>
+  <by>
+    <citation ident="newwork12163272">
+      <holdings>148</holdings>
+      <numEditions>15</numEditions>
+      <oclcnum>ocn012163272</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="ita" count="14"/>
+        <lang code="fre" count="1"/>
+      </languages>
+      <date>1983</date>
+      <dates different="1" first="1983" last="1983"/>
+      <audLevel>0.94</audLevel>
+      <creator ident="71952401,n82037500">Vertova, Luisa</creator>
+      <title>Carlo Ceresa, un pittore bergamasco nel '600 (1609-1679)</title>
+      <genres>
+        <genre count="114" norm="exhibition catalogs">Exhibition catalogs</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork25633164">
+      <holdings>145</holdings>
+      <numEditions>7</numEditions>
+      <oclcnum>ocn025633164</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="eng" count="7"/>
+      </languages>
+      <date>1990</date>
+      <dates different="1" first="1990" last="1990"/>
+      <audLevel>0.93</audLevel>
+      <creator ident="79124676,n50003402">Nicolson, Benedict</creator>
+      <title>Caravaggism in Europe</title>
+      <genres>
+        <genre count="129" norm="catalogs">Catalogs</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork4335726">
+      <holdings>109</holdings>
+      <numEditions>15</numEditions>
+      <oclcnum>ocn004335726</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="ita" count="13"/>
+        <lang code="und" count="2"/>
+      </languages>
+      <date>1965</date>
+      <dates different="1" first="1965" last="1965"/>
+      <audLevel>0.95</audLevel>
+      <creator ident="71952401,n82037500">Vertova, Luisa</creator>
+      <title>I cenacoli fiorentini</title>
+    </citation>
+    <citation ident="newwork14337189">
+      <holdings>41</holdings>
+      <numEditions>17</numEditions>
+      <oclcnum>ocn014337189</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="ita" count="16"/>
+        <lang code="lat" count="1"/>
+      </languages>
+      <date>1949</date>
+      <dates different="2" first="1949" last="1952"/>
+      <audLevel>0.95</audLevel>
+      <creator ident="71952401,n82037500">Vertova, Luisa</creator>
+      <title>Canti goliardici medievali</title>
+      <genres>
+        <genre count="17" norm="music texts">Music Texts</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork17243511">
+      <holdings>38</holdings>
+      <numEditions>12</numEditions>
+      <oclcnum>ocn017243511</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="ita" count="11"/>
+        <lang code="und" count="1"/>
+      </languages>
+      <date>1984</date>
+      <dates different="1" first="1984" last="1984"/>
+      <audLevel>0.84</audLevel>
+      <creator ident="71952401,n82037500">Vertova, Luisa</creator>
+      <title>Carlo Ceresa : tutte le opere</title>
+    </citation>
+    <citation ident="newwork5084211">
+      <holdings>35</holdings>
+      <numEditions>5</numEditions>
+      <oclcnum>ocn005084211</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ita" count="5"/>
+      </languages>
+      <date>1952</date>
+      <dates different="1" first="1952" last="1952"/>
+      <audLevel>0.90</audLevel>
+      <creator ident="95162605,n79040166">Veronese</creator>
+      <title>Veronese</title>
+    </citation>
+    <citation ident="newwork3316520">
+      <holdings>34</holdings>
+      <numEditions>7</numEditions>
+      <oclcnum>ocn019703658</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="ita" count="6"/>
+        <lang code="ger" count="1"/>
+      </languages>
+      <date>1949</date>
+      <dates different="1" first="1949" last="1949"/>
+      <audLevel>0.88</audLevel>
+      <creator ident="100161221,n50007140">Bellini, Giovanni</creator>
+      <title>Giovanni Bellini</title>
+    </citation>
+    <citation ident="newwork3348772">
+      <holdings>32</holdings>
+      <numEditions>3</numEditions>
+      <oclcnum>ocn003348772</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="eng" count="3"/>
+      </languages>
+      <date>1951</date>
+      <dates different="1" first="1951" last="1951"/>
+      <audLevel>0.79</audLevel>
+      <creator ident="109266837,n79074519">Titian</creator>
+      <title>Titian</title>
+    </citation>
+    <citation ident="newwork180457617">
+      <holdings>30</holdings>
+      <numEditions>7</numEditions>
+      <oclcnum>ocn888849368</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="eng" count="6"/>
+        <lang code="und" count="1"/>
+      </languages>
+      <date>1989</date>
+      <dates different="2" first="1989" last="1990"/>
+      <audLevel>0.30</audLevel>
+      <creator ident="79124676,n50003402">Nicolson, Benedict</creator>
+      <title>Caravaggism in Europe. (Caravaggio and Italian Caravaggism 1-593, French Caravaggism 594-927)</title>
+    </citation>
+    <citation ident="newwork187450351">
+      <holdings>29</holdings>
+      <numEditions>4</numEditions>
+      <oclcnum>ocn187450351</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="eng" count="4"/>
+      </languages>
+      <date>1989</date>
+      <dates different="1" first="1989" last="1989"/>
+      <audLevel>0.96</audLevel>
+      <creator ident="79124676,n50003402">Nicolson, Benedict</creator>
+      <title>Caravaggism in Europe</title>
+      <genres>
+        <genre count="25" norm="catalogs">Catalogs</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork6159036">
+      <holdings>28</holdings>
+      <numEditions>3</numEditions>
+      <oclcnum>ocn908324067</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="eng" count="3"/>
+      </languages>
+      <date>1951</date>
+      <dates different="1" first="1951" last="1951"/>
+      <audLevel>0.87</audLevel>
+      <creator ident="88038345,n50083291">Angelico</creator>
+      <title>Beato Angelico</title>
+      <summary>Provides information about the Fair Credit Billing Act (FCBA), which applies to credit cards, revolving charge accounts, and overdraft checking accounts</summary>
+    </citation>
+    <citation ident="newwork12418256">
+      <holdings>26</holdings>
+      <numEditions>5</numEditions>
+      <oclcnum>ocn012418256</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="ita" count="3"/>
+        <lang code="ger" count="2"/>
+      </languages>
+      <date>1948</date>
+      <dates different="1" first="1948" last="1948"/>
+      <audLevel>0.90</audLevel>
+      <creator ident="7452809,n50061839">Vossler, Karl</creator>
+      <title>Civiltà e lingua di Francia</title>
+      <genres>
+        <genre count="17" norm="history">History</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork4209308">
+      <holdings>25</holdings>
+      <numEditions>8</numEditions>
+      <oclcnum>ocn799558144</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="ita" count="7"/>
+        <lang code="eng" count="1"/>
+      </languages>
+      <date>1952</date>
+      <dates different="2" first="1952" last="2007"/>
+      <audLevel>0.88</audLevel>
+      <creator ident="9878607,n79021690">Berenson, Bernard</creator>
+      <title>L'Arco di Costantino : o Della decadenza della forma</title>
+      <genres>
+        <genre count="3" norm="history">History</genre>
+        <genre count="3" norm="pictorial works">Pictorial works</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork1986579">
+      <holdings>25</holdings>
+      <numEditions>9</numEditions>
+      <oclcnum>ocn025083125</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ita" count="9"/>
+      </languages>
+      <date>1955</date>
+      <dates different="2" first="1955" last="1990"/>
+      <audLevel>0.79</audLevel>
+      <creator ident="9878607,n79021690">Berenson, Bernard</creator>
+      <title>Lotto</title>
+      <genres>
+        <genre count="6" norm="criticism, interpretation, etc">Criticism, interpretation, etc</genre>
+        <genre count="2" norm="catalogs">Catalogs</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork816756">
+      <holdings>21</holdings>
+      <numEditions>6</numEditions>
+      <oclcnum>ocn848887809</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ita" count="6"/>
+      </languages>
+      <date>1994</date>
+      <dates different="2" first="1994" last="2006"/>
+      <audLevel>0.64</audLevel>
+      <creator ident="9878607,n79021690">Berenson, Bernard</creator>
+      <title>Caravaggio, his incongruity and his fame</title>
+      <summary>"Questa volta mi occuperà del Caravaggio. Finora, sia me ne mancasse l'agio, sia la mia curiosità non fosse stimolata abbastanza, o forse per la combinazione delle due cause, non mi sono mai dato la pena di entrare in dimestichezza col Caravaggio. Comincerò con l'esaminare le opere superstiti del nostro pittore. Fino a pochi decenni or sono, la sua personalità di artista era nebulosa come quella di un Leonardo o di un Giorgione prima degli studi morelliani. Qualsiasi tela presentasse, in forti contrasti di luce, volgari e obesi giganti sacrilegamente atteggiati a Cristo o ad apostoli, figure con piumacci, baraonde di uomini e di donne dall'aspetto vizioso e alticcio, giovinastri occupati a giocare ai dadi o a barare alle carte, o più dignitose scene di concerti, veniva senz'altro attribuita a lui. Non così oggi. Il Caravaggio ha cessato d'essere una categoria o una specie, e ha riacquistato una personalità artistica definita quanto quella di Leonardo, o almeno quanto quella di Giorgione. Studierò soltanto i quadri che gli appartengono in modo indiscusso, secondo il giudizio dei più competenti. Intorno a essi mi lascerò andare a dire qualunque cosa mi passi per la testa, una testa che ha meditato per molti anni sull'arte, dal punto di vista estetico, storico, morale. E, infine, mi prenderò la libertà di esprimere quanti pensieri l'esame dell'opera caravaggesca mi ha suggerito."</summary>
+    </citation>
+    <citation ident="newwork179717659">
+      <holdings>20</holdings>
+      <numEditions>9</numEditions>
+      <oclcnum>ocn270105540</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="eng" count="6"/>
+        <lang code="ita" count="3"/>
+      </languages>
+      <date>1981</date>
+      <dates different="1" first="1981" last="1981"/>
+      <audLevel>0.33</audLevel>
+      <creator ident="71952401,n82037500">Vertova, Luisa</creator>
+      <title>Maestri toscani del Quattro e Cinquecento : Finiguerra, Pollaiuolo, Verrocchio, Ghirlandaio, Lorenzo di Credi, Francesco di Simone Ferrucci, Francesco di Giorgio, Leonardo, etc.</title>
+      <genres>
+        <genre count="5" norm="catalogs">Catalogs</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork180457650">
+      <holdings>20</holdings>
+      <numEditions>8</numEditions>
+      <oclcnum>ocn644332803</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="eng" count="7"/>
+        <lang code="und" count="1"/>
+      </languages>
+      <date>1990</date>
+      <dates different="1" first="1990" last="1990"/>
+      <audLevel>0.30</audLevel>
+      <creator ident="79124676,n50003402">Nicolson, Benedict</creator>
+      <title>Caravaggism in Europe</title>
+      <genres>
+        <genre count="1" norm="catalogs">Catalogs</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork7842367">
+      <holdings>19</holdings>
+      <numEditions>8</numEditions>
+      <oclcnum>ocn868413168</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="ita" count="7"/>
+        <lang code="und" count="1"/>
+      </languages>
+      <date>1951</date>
+      <dates different="3" first="1951" last="1960"/>
+      <audLevel>0.84</audLevel>
+      <creator ident="9878607,n79021690">Berenson, Bernard</creator>
+      <title>Vedere e sapere</title>
+    </citation>
+    <citation ident="newwork11464141">
+      <holdings>18</holdings>
+      <numEditions>5</numEditions>
+      <oclcnum>ocn058575668</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ita" count="5"/>
+      </languages>
+      <date>1961</date>
+      <dates different="2" first="1961" last="1968"/>
+      <audLevel>0.88</audLevel>
+      <creator ident="9878607,n79021690">Berenson, Bernard</creator>
+      <title>I disegni dei pittori fiorentini</title>
+      <genres>
+        <genre count="58" norm="history">History</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork1090058">
+      <holdings>17</holdings>
+      <numEditions>3</numEditions>
+      <oclcnum>ocn001090058</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ita" count="3"/>
+      </languages>
+      <date>1969</date>
+      <dates different="1" first="1969" last="1969"/>
+      <audLevel>0.84</audLevel>
+      <creator ident="71952401,n82037500">Vertova, Luisa</creator>
+      <title>Firenze: I Tatti</title>
+    </citation>
+  </by>
+  <about>
+    <citation ident="newwork29185080">
+      <holdings>24</holdings>
+      <numEditions>2</numEditions>
+      <oclcnum>ocn029185080</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ita" count="2"/>
+      </languages>
+      <date>1991</date>
+      <dates different="1" first="1991" last="1991"/>
+      <audLevel>0.94</audLevel>
+      <creator ident="71952401,n82037500">Vertova, Luisa</creator>
+      <title>Luisa Vertova</title>
+      <genres>
+        <genre count="23" norm="bibliographies">Bibliographies</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork3348772">
+      <holdings>3</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn077954449</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="eng" count="1"/>
+      </languages>
+      <date>1951</date>
+      <dates different="1" first="1951" last="1951"/>
+      <audLevel>0.79</audLevel>
+      <creator ident="109266837,n79074519">Titian</creator>
+      <title>Titian</title>
+    </citation>
+    <citation ident="newwork870575643">
+      <holdings>1</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn870575643</oclcnum>
+      <recordType>mix</recordType>
+      <languages count="1">
+        <lang code="eng" count="1"/>
+      </languages>
+      <audLevel>0.07</audLevel>
+      <creator ident="76198376,nr94022040">Mostyn-Owen, William</creator>
+      <title>Mostyn-Owen, William. Papers 1952-1985 concerning I Tatti</title>
+      <genres>
+        <genre count="1" norm="correspondence">Correspondence</genre>
+      </genres>
+      <summary>The collection includes the correspondence of Bernard Berenson and the berensonian circle to William Mostyn-Owen during his stay at I Tatti and after. It also includes some papers regarding I Tatti and Berenson</summary>
+    </citation>
+    <citation ident="newwork936151532">
+      <holdings>1</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn936151532</oclcnum>
+      <recordType>mix</recordType>
+      <languages count="1">
+        <lang code="eng" count="1"/>
+      </languages>
+      <audLevel>0.07</audLevel>
+      <creator ident="9878607,n79021690">Berenson, Bernard</creator>
+      <title>Berenson, Bernard and Mary. Papers, a finding aid</title>
+    </citation>
+  </about>
+  <admin:administrativeMetadata xmlns:admin="http://viaf.org/xa/administrativeMetadata">
+    <admin:administrativeMetadataInstance>
+      <admin:administrativeMetadataDate>Thu Feb 25 12:17:14 EST 2021</admin:administrativeMetadataDate>
+      <admin:administrativeMetadataUser>batch</admin:administrativeMetadataUser>
+      <admin:administrativeMetadataRecordLength>24868</admin:administrativeMetadataRecordLength>
+    </admin:administrativeMetadataInstance>
+  </admin:administrativeMetadata>
+</Identity>

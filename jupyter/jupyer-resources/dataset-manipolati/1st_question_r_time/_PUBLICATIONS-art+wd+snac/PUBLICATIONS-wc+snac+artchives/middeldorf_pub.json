@@ -1,0 +1,554 @@
+{
+  "resources": [
+    {
+      "title": "Sculptures from the Samuel H. Kress Collection : European schools, XIV-XIX Century",
+      "date": "1976",
+      "creators": {
+        "creator": "Middeldorf, Ulrich"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Catalogs"
+      }
+    },
+    {
+      "title": "Raphael's drawings",
+      "date": "1945",
+      "creators": {
+        "creator": "Middeldorf, Ulrich"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Festschrift Ulrich Middeldorf",
+      "date": "1968",
+      "creators": {
+        "creator": "Middeldorf Kosegarten, Antje"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Art"
+      }
+    },
+    {
+      "title": "Raccolta di scritti : that is, Collected writings",
+      "date": "1979",
+      "creators": {
+        "creator": "Middeldorf, Ulrich"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Criticism, interpretation, etc",
+        "genre2": "Art"
+      }
+    },
+    {
+      "title": "Medals and plaquettes from the Sigmund Morgenroth Collection",
+      "date": "1944",
+      "creators": {
+        "creator": "Morgenroth, Sigmund",
+        "coCreator": "Middeldorf"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Catalogs"
+      }
+    },
+    {
+      "title": "Renaissance medals and plaquettes : catalogue",
+      "date": "1983",
+      "creators": {
+        "creator": "Middeldorf, Ulrich"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Catalogs"
+      }
+    },
+    {
+      "title": "Die Sammlung der Selbstbildnisse in den Uffizien",
+      "creators": {
+        "creator": "Prinz, Wolfram",
+        "coCreator": "Middeldorf"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Catalogs"
+      }
+    },
+    {
+      "title": "Early Renaissance reliefs",
+      "date": "2001",
+      "creators": {
+        "creator": "Avery, Charles",
+        "coCreator": "Middeldorf"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Exhibition catalogs"
+      }
+    },
+    {
+      "title": "Il Tesoro della Basilica di San Francesco ad Assisi : saggi e catalogo di Rosalia Bonito Fanelli ... [et al.] ; introduzione di Ulrich Middeldorf ; coordinamento di Maria G. Ciardi Dupre\u0301 dal Poggetto",
+      "date": "1980",
+      "creators": {
+        "creator": "Middeldorf"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Catalogs"
+      }
+    },
+    {
+      "title": "Fifty mortars : a catalogue",
+      "date": "1981",
+      "creators": {
+        "creator": "Middeldorf, Ulrich"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Catalogs"
+      }
+    },
+    {
+      "title": "A corpus of Italian medals of the renaissance before Cellini",
+      "date": "1984",
+      "creators": {
+        "creator": "Hill, George Francis",
+        "coCreator": "Middeldorf"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "An Exhibition of the work of Victor Hammer",
+      "date": "1948",
+      "creators": {
+        "creator": "Middeldorf, Ulrich"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Exhibition catalogs"
+      }
+    },
+    {
+      "title": "Raphael's drawings",
+      "date": "1945",
+      "creators": {
+        "creator": "Raphael",
+        "coCreator": "Middeldorf"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Die Sammlung der Selbstbildnisse in den Uffizien",
+      "date": "1971",
+      "creators": {
+        "creator": "Prinz, Wolfram",
+        "coCreator": "Middeldorf"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Catalogs"
+      }
+    },
+    {
+      "title": "Raccolta di scritti that is collected writings",
+      "date": "1979",
+      "creators": {
+        "creator": "Middeldorf, Ulrich"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Raccolta di scritti that is collected writings",
+      "date": "1979",
+      "creators": {
+        "creator": "Middeldorf, Ulrich"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Raccolta di scritti : that is collected writings",
+      "date": "1979",
+      "creators": {
+        "creator": "Middeldorf, Ulrich"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Festschrift Ulrich Middeldorf",
+      "date": "1968",
+      "creators": {
+        "creator": "Middeldorf"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Medals and plaquettes from the Sigmund Morgenroth collection",
+      "date": "1944",
+      "creators": {
+        "creator": "Middeldorf, Ulrich"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Exhibition catalogs"
+      }
+    },
+    {
+      "title": "Maestri toscani del Quattrocento : Cosimo Rosselli, Botticelli, Botticini, Filippino Lippi, David Ghirlandaio, Raffaellino del Garbo, Tommaso, Piero di Cosimo",
+      "date": "1981",
+      "creators": {
+        "creator": "Vaccari, Maria Grazia",
+        "coCreator": "Middeldorf"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Catalogs"
+      }
+    },
+    {
+      "recordType": "ArchivalResource",
+      "title": "Heim Gallery records, 1965-1991.",
+      "abstract": "The Heim Gallery records document the business of the gallery, its cultivation of clients in Europe and the United States, and the production of its scholarly exhibitions especially for the period between 1966 and 1988. The correspondence with museums, individual clients and suppliers and experts comprise the greater part of the collection. Photographs of art works, financial papers, research and publicity files, and Andrew Ciechanowiecki's personal business files make up the rest of the archive. The correspondence series contains letters received and the gallery's copies of letters sent. Letters reflect the gallery's offers to museums and individual collectors, curators' requests for works for their collections or for assistance in finding works needed for exhibitions. The letters also document business strategies and Ciechanowiecki's collaborations with museums and his solid scholarly contributions to exhibitions. The letters also reveal his close personal association with Poland and its artistic patrimony. A separate group of correspondence concerns the sale of the Heim Gallery. There are no personal papers in the archive. Photographs of art works are organized by medium: paintings, drawings, sculpture, furniture and decorative arts, and represent works sold, with additional images of items before restoration, and art works documented for research or commercial reasons. Research notes, printed brochures, and photographs illustrate the production of exhibitions at the Heim Gallery. Research files contain notes, numerous study photographs, and some printed matter, organized by artist, school or medium. Many research files represent works offered to the gallery but rejected. Financial records include stockbooks, ledgers and cash books, as well as invoices, paid bills, and documents related to shipping and taxes. Financial records do not appear to be complete. Gallery publicity is documented through clippings, guest books, and photographs that show members of royalty attending exhibits at the gallery. ",
+      "creators": {
+        "creator1": "Heim Gallery.",
+        "creator2": "Bettagno, Alessandro.",
+        "creator3": "Briganti, Giuliano.",
+        "creator4": "Cannon-Brookes, P.",
+        "creator5": "Haskell, Francis, 1928-2000.",
+        "creator6": "Held, Julius S. 1905-2002.",
+        "creator7": "Honour, Hugh.",
+        "creator8": "Montagu, Jennifer.",
+        "creator9": "Pope-Hennessy, John Wyndham, Sir, 1913-1994.",
+        "creator10": "Rosenblum, Robert.",
+        "creator11": "Swarzenski, Hanns, 1903-1985.",
+        "creator12": "Walsh, John, 1937-",
+        "creator13": "Wittkower, Rudolf.",
+        "creator14": "Middeldorf, Ulrich Alexander, 1901-1983.",
+        "creator15": "P. & D. Colnaghi & Co."
+      }
+    },
+    {
+      "recordType": "ArchivalResource",
+      "title": "Ulrich Middeldorf Papers, ca. 1925-1981.",
+      "abstract": "Middeldorf's scholarly papers reveal the depth and extent of his reading, research and writing. The bulk of the collection consists of his research files: clippings and bibliographic notations about the arts, particularly sculpture, drawings, Renaissance medals, and applied arts such as costumes, textiles, furniture and metalwork. There is some correspondence (1 linear ft.) with scholars and colleagues, ca. 8 linear ft. of journals and offprints, and 4.5 linear ft. of annotated books. The clippings and bibliographic files, which include photographs, comprise ca. 40 linear ft. ",
+      "creators": {
+        "creator1": "Middeldorf, Ulrich Alexander, 1901-1983.",
+        "creator2": "Hill, George Francis, Sir, 1867-1948."
+      }
+    },
+    {
+      "recordType": "ArchivalResource",
+      "title": "Correspondence with Ulrich Middeldorf, 1966-1983.",
+      "abstract": "The major topic, and the genesis, of the correspondence is their mutual interest in Middeldorf's \"Art in Fiction\" book collection. (Middledorf's library and archive were acquired by the Getty Research Library in 1984.) Letters contain his desiderata and her discoveries of books to add to his collection of literature that includes descriptions of art, artists or art forgery. Their letters reveal two serious and avid readers through their cogent comments on their readings in fiction, history and art. ",
+      "creators": {
+        "creator1": "Pantazzi, Sybille.",
+        "creator2": "Middeldorf, Ulrich Alexander, 1901-1983"
+      }
+    },
+    {
+      "recordType": "ArchivalResource",
+      "title": "Harald Keller papers, 1930-1989.",
+      "abstract": "Papers spanning the years 1930-1989 contain lecture and course notes, manuscripts of published and unpublished works, research and travel notes, and correspondence. The collection documents Keller's academic and scholarly career and provides a view of art history scholarship and pedagogy during a formative period in the discipline. Extensive, carefully composed and detailed course and lecture notes provide a precise record of Keller's teaching methods and illustrate his generalist approach. Topics cover painting, sculpture, architecture, and urbanism from the Early Christian and Byzantine periods through Impressionism. His scholarship and teaching are further documented in research notes and manuscripts, as well as in correspondence with other art historians. The body of letters from Richard Krautheimer is particularly significant (50 items, 1943-1989); other correspondents include: Christoph Liutpold Frommel (11 letters), Hans Sedlmayr, Ludwig H. Heydenreich, Theodor Mu\u0308ller, Ulrich Middeldorf, Rudolf Wittkower. Manuscripts in the collection comprise material for published and unpublished books, articles, essays, Festschriften, and memorial orations, together with notes and letters referring to these works. Topics addressed in the manuscripts include: Baroque staircases (Keller's dissertation); Renaissance landscape; Italian Gothic sculpture; urbanism in Italy, Central Europe and the Baltic countries; the history of portraiture; and history and fiction; also 27 ms. pages of an autobiography written in 1967. ",
+      "creators": {
+        "creator1": "Keller, Harald, 1903-1989.",
+        "creator2": "Frommel, Christoph Luitpold.",
+        "creator3": "Krautheimer, Richard, 1897-1994.",
+        "creator4": "Mu\u0308ller, Theodor, 1905-",
+        "creator5": "Heydenreich, Ludwig H. (Ludwig Heinrich), 1903-1978.",
+        "creator6": "Sedlmayr, Hans, 1896-1984.",
+        "creator7": "Middeldorf, Ulrich Alexander, 1901-1983.",
+        "creator8": "Wittkower, Rudolf."
+      }
+    },
+    {
+      "recordType": "ArchivalResource",
+      "title": "Piante, elevazioni, sezzioni, prospettive e vedute dei giardini e delle fabbriche di Kew in Surry ..., 1796.",
+      "abstract": "The manuscript is a complete Italian version of William Chambers' book \"Plans, elevations, sections, and perspective views of the gardens and buildings at Kew in Surry,\" published in London by J. Haberkorn in 1763. The manuscript comprises the title page, the dedication page, the descriptive text (15 pp., all in Italian), and a one-page notice (Avviso) signed and dated by the Cavaliere Gaudenzio Honorati in Rome, 15 April 1796. The texts are followed by copies of all the architectural drawings published in the English edition (54 pp.) Honorati mentions in his Notice that the translation of the text was made by his friend Valentino Bodkin, a nobleman from Dublin, Ireland, and a long time resident of Rome. ",
+      "creators": {
+        "creator1": "Chambers, William, Sir, 1723-1796.",
+        "creator2": "Honorati, Gaudenzio.",
+        "creator3": "Bodkin, Valentino.",
+        "creator4": "Middeldorf, Ulrich Alexander, 1901-1983."
+      }
+    },
+    {
+      "recordType": "ArchivalResource",
+      "title": "E.P. (Edgar Preston) Richardson papers, 1893-1994.",
+      "abstract": "The papers of art historian E.P. Richardson measure 28.7 linear feet and date from 1814-1996, with the bulk of the materials dating from 1921-1996. Within the papers are scattered biographical materials; acquisition files for Richardson's personal art collection; professional and personal correspondence with colleagues, art historians and critics, artists, museums, galleries, and dealers; numerous writings, including manuscripts and research files for his published books, articles, and lectures; general research notebooks, and files compiled by Richardson on a wide variety of art-related topics and artists; professional and committee files; as well as a smaller amount of Constance C. Richardson's papers.",
+      "creators": {
+        "creator1": "Richardson, Edgar Preston, 1902-",
+        "creator2": "Allston, Washington, 1779-1843.",
+        "creator3": "Andrews, Wayne.",
+        "creator4": "Aram, Siegfried F.",
+        "creator5": "Boyd, Julian P. (Julian Parks), 1903-",
+        "creator6": "Castano, Giovanni, 1896-1978.",
+        "creator7": "Culver, Charles B. (Charles Beach), 1908-1967.",
+        "creator8": "Fleischman, Lawrence A. (Lawrence Arthur), 1925-1997.",
+        "creator9": "Flexner, James Thomas, 1908-",
+        "creator10": "Frankenstein, Alfred V. (Alfred Victor), 1906-1981.",
+        "creator11": "Fredericks, Marshall, 1908-1998.",
+        "creator12": "Groce, George C., 1899-",
+        "creator13": "Hardy, Jeremiah Pearson, 1800-1889.",
+        "creator14": "Heil, Walter, 1890-1973.",
+        "creator15": "Krentzin, Earl, 1929-",
+        "creator16": "Lewis, W. S. (Wilmarth Sheldon), 1895-1979.",
+        "creator17": "Lynes, Russell, 1910-1991.",
+        "creator18": "McDermott, John Francis, 1902-",
+        "creator19": "Middeldorf, Ulrich Alexander, 1901-",
+        "creator20": "Morse, John D., 1906-",
+        "creator21": "Moser, Liselotte.",
+        "creator22": "Oliver, Andrew, 1906-",
+        "creator23": "Peale, Charles Willson, 1741-1827.",
+        "creator24": "Peale family.",
+        "creator25": "Pleasants, J. Hall (Jacob Hall), 1873-1957.",
+        "creator26": "Ripley, Sidney Dillon, 1913-2001.",
+        "creator27": "Rutledge, Anna Wells.",
+        "creator28": "Sellers, Charles Coleman, 1903-",
+        "creator29": "Simpson, Corelli C. W.",
+        "creator30": "Soria, Regina, 1911-",
+        "creator31": "Spark, Victor D. (Victor David), 1898-1991.",
+        "creator32": "Stevens, William B.",
+        "creator33": "Valentiner, Wilhelm Reinhold, 1880-1958.",
+        "creator34": "Vose, Robert C. (Robert Churchill), 1911-1998.",
+        "creator35": "Watkins, Franklin Chenault, 1894-1972.",
+        "creator36": "Woolfenden, William E. (William Edward), 1918-1995.",
+        "creator37": "Wyeth, Andrew, 1917-",
+        "creator38": "Archives of American Art.",
+        "creator39": "Detroit Institute of Arts.",
+        "creator40": "National Portrait Gallery (Smithsonian Institution)",
+        "creator41": "Pennsylvania Academy of the Fine Arts.",
+        "creator42": "Henry Francis du Pont Winterthur Museum."
+      }
+    },
+    {
+      "recordType": "ArchivalResource",
+      "title": "Ulrich Alexander Middeldorf papers 1925-1981",
+      "abstract": "German-American art historian who specialized in the areas of sculpture, bronzes, and the applied arts. The bulk of the collection consists of Middeldorf's research files: clippings and bibliographic notations about the arts, particularly sculpture, drawings, Renaissance medals, and applied arts such as costumes, textiles, furniture, and metalwork.",
+      "creators": {
+        "creator1": "Middeldorf, Ulrich Alexander, 1901-"
+      }
+    },
+    {
+      "recordType": "ArchivalResource",
+      "title": "E.P. (Edgar Preston) Richardson papers, 1893-1994.",
+      "abstract": "Correspondence, writings, diaries, research files, notes, photographs, and clippings. Correspondence with artists, collectors, colleagues, dealers, foreign scholars, and others relating to the Detroit Institute of Arts, Winterthur Museum, the Pennsylvania Academy of Fine Arts, publishing, purchasing works of art, writings, teaching art history, awards, resignations, and other topics; a diary, 1942-1980; files on Winterthur, PAFA, NCFA, NPG, Marshall Fredericks, Jacob Eichholtz, Washington Allston, Charles Wilson Peale, and the Peale family; lectures, articles and other writings; artist-subject files; notebooks on many subjects; and bibliographies. Among the more extensive correspondents are Wayne Andrews, Siegfried Aram, Julian P. Boyd, John (Giovanni) Castano, Charles Culver, Lawrence Fleischman, James Thomas Flexner, Alfred Frankenstein, George C. Groce, Walter Heil, Earl Krentzin, Wilmarth S. Lewis, Russell Lynes, John Francis McDermott, Ulrich Middeldorf, John D. Morse, Liselotte Moser, Andrew Oliver, J. Hall Pleasants, Anna Wells Rutledge, Charles Coleman Sellers, S. Dillon Ripley, Regina Soria, Victor D. Spark, William B. Stevens, Jr., William R. Valentiner, Robert C. Vose, Jr., Franklin C. Watkins, William E. Woolfenden, and Andrew Wyeth. Research material on Jeremiah P. Hardy and other Maine artists, including an article on Hardy by Fannie Hardy Eckstorm, Hardy's grand-niece; a book LEAFLETS of ARTISTS, 1893; a newspaper clipping on Hardy and other family members, 1940; and three photographs, one of Hardy (engraving found in the leaflet), a photograph of a painting of his sister Mary Ann, and one of a landscape. Material relating to Richardson's private art collection. Also included are printed material, photographs and negatives primarily of works of art relating to Richardson's career as a painter (2.0 linear ft.). ",
+      "creators": {
+        "creator1": "Richardson, Edgar Preston, 1902-",
+        "creator2": "Allston, Washington, 1779-1843.",
+        "creator3": "Andrews, Wayne.",
+        "creator4": "Aram, Siegfried F.",
+        "creator5": "Boyd, Julian P. (Julian Parks), 1903-",
+        "creator6": "Castano, Giovanni, 1896-1978.",
+        "creator7": "Culver, Charles B. (Charles Beach), 1908-1967.",
+        "creator8": "Fleischman, Lawrence A. (Lawrence Arthur), 1925-1997.",
+        "creator9": "Flexner, James Thomas, 1908-",
+        "creator10": "Frankenstein, Alfred V. (Alfred Victor), 1906-1981.",
+        "creator11": "Fredericks, Marshall, 1908-1998.",
+        "creator12": "Groce, George C., 1899-",
+        "creator13": "Hardy, Jeremiah Pearson, 1800-1889.",
+        "creator14": "Heil, Walter, 1890-1973.",
+        "creator15": "Krentzin, Earl, 1929-",
+        "creator16": "Lewis, W. S. (Wilmarth Sheldon), 1895-1979.",
+        "creator17": "Lynes, Russell, 1910-1991.",
+        "creator18": "McDermott, John Francis, 1902-",
+        "creator19": "Middeldorf, Ulrich Alexander, 1901-",
+        "creator20": "Morse, John D., 1906-",
+        "creator21": "Moser, Liselotte.",
+        "creator22": "Oliver, Andrew, 1906-1981.",
+        "creator23": "Peale, Charles Willson, 1741-1827.",
+        "creator24": "Peale family.",
+        "creator25": "Pleasants, J. Hall (Jacob Hall), 1873-1957.",
+        "creator26": "Ripley, Sidney Dillon, 1913-2001.",
+        "creator27": "Rutledge, Anna Wells.",
+        "creator28": "Sellers, Charles Coleman, 1903-",
+        "creator29": "Soria, Regina, 1911-",
+        "creator30": "Spark, Victor D. (Victor David), 1898-1991.",
+        "creator31": "Stevens, William B.",
+        "creator32": "Valentiner, Wilhelm Reinhold, 1880-1958.",
+        "creator33": "Vose, Robert C. (Robert Churchill), 1911-",
+        "creator34": "Watkins, Franklin Chenault, 1894-1972.",
+        "creator35": "Woolfenden, William E. (William Edward), 1918-1995.",
+        "creator36": "Wyeth, Andrew, 1917-",
+        "creator37": "Simpson, Corelli C. W.",
+        "creator38": "Archives of American Art.",
+        "creator39": "Detroit Institute of Arts.",
+        "creator40": "National Portrait Gallery (Smithsonian Institution)",
+        "creator41": "Pennsylvania Academy of the Fine Arts.",
+        "creator42": "Henry Francis du Pont Winterthur Museum."
+      }
+    },
+    {
+      "recordType": "ArchivalResource",
+      "title": "Heim Gallery records, 1965-1991.",
+      "abstract": "The Heim Gallery records document the business of the gallery, its cultivation of clients in Europe and the United States, and the production of its scholarly exhibitions especially for the period between 1966 and 1988. The correspondence with museums, individual clients and suppliers and experts comprise the greater part of the collection. Photographs of art works, financial papers, research and publicity files, and Andrew Ciechanowiecki's personal business files make up the rest of the archive. The correspondence series contains letters received and the gallery's copies of letters sent. Letters reflect the gallery's offers to museums and individual collectors, curators' requests for works for their collections or for assistance in finding works needed for exhibitions. The letters also document business strategies and Ciechanowiecki's collaborations with museums and his solid scholarly contributions to exhibitions. The letters also reveal his close personal association with Poland and its artistic patrimony. A separate group of correspondence concerns the sale of the Heim Gallery. There are no personal papers in the archive. Photographs of art works are organized by medium: paintings, drawings, sculpture, furniture and decorative arts, and represent works sold, with additional images of items before restoration, and art works documented for research or commercial reasons. Research notes, printed brochures, and photographs illustrate the production of exhibitions at the Heim Gallery. Research files contain notes, numerous study photographs, and some printed matter, organized by artist, school or medium. Many research files represent works offered to the gallery but rejected. Financial records include stockbooks, ledgers and cash books, as well as invoices, paid bills, and documents related to shipping and taxes. Financial records do not appear to be complete. Gallery publicity is documented through clippings, guest books, and photographs that show members of royalty attending exhibits at the gallery. ",
+      "creators": {
+        "creator1": "Heim Gallery.",
+        "creator2": "Bettagno, Alessandro.",
+        "creator3": "Briganti, Giuliano.",
+        "creator4": "Cannon-Brookes, P.",
+        "creator5": "Haskell, Francis, 1928-2000.",
+        "creator6": "Held, Julius S. 1905-2002.",
+        "creator7": "Honour, Hugh.",
+        "creator8": "Montagu, Jennifer.",
+        "creator9": "Pope-Hennessy, John Wyndham, Sir, 1913-1994.",
+        "creator10": "Rosenblum, Robert.",
+        "creator11": "Swarzenski, Hanns, 1903-1985.",
+        "creator12": "Walsh, John, 1937-",
+        "creator13": "Wittkower, Rudolf.",
+        "creator14": "Middeldorf, Ulrich Alexander, 1901-1983.",
+        "creator15": "P. & D. Colnaghi & Co."
+      }
+    },
+    {
+      "recordType": "ArchivalResource",
+      "title": "Ulrich Middeldorf Papers, ca. 1925-1981.",
+      "abstract": "Middeldorf's scholarly papers reveal the depth and extent of his reading, research and writing. The bulk of the collection consists of his research files: clippings and bibliographic notations about the arts, particularly sculpture, drawings, Renaissance medals, and applied arts such as costumes, textiles, furniture and metalwork. There is some correspondence (1 linear ft.) with scholars and colleagues, ca. 8 linear ft. of journals and offprints, and 4.5 linear ft. of annotated books. The clippings and bibliographic files, which include photographs, comprise ca. 40 linear ft. ",
+      "creators": {
+        "creator1": "Middeldorf, Ulrich Alexander, 1901-1983.",
+        "creator2": "Hill, George Francis, Sir, 1867-1948."
+      }
+    },
+    {
+      "recordType": "ArchivalResource",
+      "title": "Correspondence with Ulrich Middeldorf, 1966-1983.",
+      "abstract": "The major topic, and the genesis, of the correspondence is their mutual interest in Middeldorf's \"Art in Fiction\" book collection. (Middledorf's library and archive were acquired by the Getty Research Library in 1984.) Letters contain his desiderata and her discoveries of books to add to his collection of literature that includes descriptions of art, artists or art forgery. Their letters reveal two serious and avid readers through their cogent comments on their readings in fiction, history and art. ",
+      "creators": {
+        "creator1": "Pantazzi, Sybille.",
+        "creator2": "Middeldorf, Ulrich Alexander, 1901-1983"
+      }
+    },
+    {
+      "recordType": "ArchivalResource",
+      "title": "Harald Keller papers, 1930-1989.",
+      "abstract": "Papers spanning the years 1930-1989 contain lecture and course notes, manuscripts of published and unpublished works, research and travel notes, and correspondence. The collection documents Keller's academic and scholarly career and provides a view of art history scholarship and pedagogy during a formative period in the discipline. Extensive, carefully composed and detailed course and lecture notes provide a precise record of Keller's teaching methods and illustrate his generalist approach. Topics cover painting, sculpture, architecture, and urbanism from the Early Christian and Byzantine periods through Impressionism. His scholarship and teaching are further documented in research notes and manuscripts, as well as in correspondence with other art historians. The body of letters from Richard Krautheimer is particularly significant (50 items, 1943-1989); other correspondents include: Christoph Liutpold Frommel (11 letters), Hans Sedlmayr, Ludwig H. Heydenreich, Theodor Mueller, Ulrich Middeldorf, Rudolf Wittkower. Manuscripts in the collection comprise material for published and unpublished books, articles, essays, Festschriften, and memorial orations, together with notes and letters referring to these works. Topics addressed in the manuscripts include: Baroque staircases (Keller's dissertation); Renaissance landscape; Italian Gothic sculpture; urbanism in Italy, Central Europe and the Baltic countries; the history of portraiture; and history and fiction; also 27 ms. pages of an autobiography written in 1967. ",
+      "creators": {
+        "creator1": "Keller, Harald, 1903-1989.",
+        "creator2": "Frommel, Christoph Luitpold.",
+        "creator3": "Krautheimer, Richard, 1897-1994.",
+        "creator4": "Mueller, Theodor, 1905-",
+        "creator5": "Heydenreich, Ludwig H. (Ludwig Heinrich), 1903-1978.",
+        "creator6": "Sedlmayr, Hans, 1896-1984.",
+        "creator7": "Middeldorf, Ulrich Alexander, 1901-1983.",
+        "creator8": "Wittkower, Rudolf."
+      }
+    },
+    {
+      "recordType": "ArchivalResource",
+      "title": "Piante, elevazioni, sezzioni, prospettive e vedute dei giardini e delle fabbriche di Kew in Surry ..., 1796.",
+      "abstract": "The manuscript is a complete Italian version of William Chambers' book \"Plans, elevations, sections, and perspective views of the gardens and buildings at Kew in Surry,\" published in London by J. Haberkorn in 1763. The manuscript comprises the title page, the dedication page, the descriptive text (15 pp., all in Italian), and a one-page notice (Avviso) signed and dated by the Cavaliere Gaudenzio Honorati in Rome, 15 April 1796. The texts are followed by copies of all the architectural drawings published in the English edition (54 pp.) Honorati mentions in his Notice that the translation of the text was made by his friend Valentino Bodkin, a nobleman from Dublin, Ireland, and a long time resident of Rome. ",
+      "creators": {
+        "creator1": "Chambers, William, Sir, 1723-1796.",
+        "creator2": "Honorati, Gaudenzio.",
+        "creator3": "Bodkin, Valentino.",
+        "creator4": "Middeldorf, Ulrich Alexander, 1901-1983."
+      }
+    },
+    {
+      "recordType": "ArchivalResource",
+      "title": "E.P. (Edgar Preston) Richardson papers, 1893-1994.",
+      "abstract": "The papers of art historian E.P. Richardson measure 28.7 linear feet and date from 1814-1996, with the bulk of the materials dating from 1921-1996. Within the papers are scattered biographical materials; acquisition files for Richardson's personal art collection; professional and personal correspondence with colleagues, art historians and critics, artists, museums, galleries, and dealers; numerous writings, including manuscripts and research files for his published books, articles, and lectures; general research notebooks, and files compiled by Richardson on a wide variety of art-related topics and artists; professional and committee files; as well as a smaller amount of Constance C. Richardson's papers.",
+      "creators": {
+        "creator1": "Richardson, Edgar Preston, 1902-",
+        "creator2": "Allston, Washington, 1779-1843.",
+        "creator3": "Andrews, Wayne.",
+        "creator4": "Aram, Siegfried F.",
+        "creator5": "Boyd, Julian P. (Julian Parks), 1903-",
+        "creator6": "Castano, Giovanni, 1896-1978.",
+        "creator7": "Culver, Charles B. (Charles Beach), 1908-1967.",
+        "creator8": "Fleischman, Lawrence A. (Lawrence Arthur), 1925-1997.",
+        "creator9": "Flexner, James Thomas, 1908-",
+        "creator10": "Frankenstein, Alfred V. (Alfred Victor), 1906-1981.",
+        "creator11": "Fredericks, Marshall, 1908-1998.",
+        "creator12": "Groce, George C., 1899-",
+        "creator13": "Hardy, Jeremiah Pearson, 1800-1889.",
+        "creator14": "Heil, Walter, 1890-1973.",
+        "creator15": "Krentzin, Earl, 1929-",
+        "creator16": "Lewis, W. S. (Wilmarth Sheldon), 1895-1979.",
+        "creator17": "Lynes, Russell, 1910-1991.",
+        "creator18": "McDermott, John Francis, 1902-",
+        "creator19": "Middeldorf, Ulrich Alexander, 1901-",
+        "creator20": "Morse, John D., 1906-",
+        "creator21": "Moser, Liselotte.",
+        "creator22": "Oliver, Andrew, 1906-",
+        "creator23": "Peale, Charles Willson, 1741-1827.",
+        "creator24": "Peale family.",
+        "creator25": "Pleasants, J. Hall (Jacob Hall), 1873-1957.",
+        "creator26": "Ripley, Sidney Dillon, 1913-2001.",
+        "creator27": "Rutledge, Anna Wells.",
+        "creator28": "Sellers, Charles Coleman, 1903-",
+        "creator29": "Simpson, Corelli C. W.",
+        "creator30": "Soria, Regina, 1911-",
+        "creator31": "Spark, Victor D. (Victor David), 1898-1991.",
+        "creator32": "Stevens, William B.",
+        "creator33": "Valentiner, Wilhelm Reinhold, 1880-1958.",
+        "creator34": "Vose, Robert C. (Robert Churchill), 1911-1998.",
+        "creator35": "Watkins, Franklin Chenault, 1894-1972.",
+        "creator36": "Woolfenden, William E. (William Edward), 1918-1995.",
+        "creator37": "Wyeth, Andrew, 1917-",
+        "creator38": "Archives of American Art.",
+        "creator39": "Detroit Institute of Arts.",
+        "creator40": "National Portrait Gallery (Smithsonian Institution)",
+        "creator41": "Pennsylvania Academy of the Fine Arts.",
+        "creator42": "Henry Francis du Pont Winterthur Museum."
+      }
+    },
+    {
+      "recordType": "ArchivalResource",
+      "title": "Ulrich Alexander Middeldorf papers 1925-1981",
+      "abstract": "German-American art historian who specialized in the areas of sculpture, bronzes, and the applied arts. The bulk of the collection consists of Middeldorf's research files: clippings and bibliographic notations about the arts, particularly sculpture, drawings, Renaissance medals, and applied arts such as costumes, textiles, furniture, and metalwork.",
+      "creators": {
+        "creator1": "Middeldorf, Ulrich Alexander, 1901-"
+      }
+    },
+    {
+      "recordType": "ArchivalResource",
+      "title": "E.P. (Edgar Preston) Richardson papers, 1893-1994.",
+      "abstract": "Correspondence, writings, diaries, research files, notes, photographs, and clippings. Correspondence with artists, collectors, colleagues, dealers, foreign scholars, and others relating to the Detroit Institute of Arts, Winterthur Museum, the Pennsylvania Academy of Fine Arts, publishing, purchasing works of art, writings, teaching art history, awards, resignations, and other topics; a diary, 1942-1980; files on Winterthur, PAFA, NCFA, NPG, Marshall Fredericks, Jacob Eichholtz, Washington Allston, Charles Wilson Peale, and the Peale family; lectures, articles and other writings; artist-subject files; notebooks on many subjects; and bibliographies. Among the more extensive correspondents are Wayne Andrews, Siegfried Aram, Julian P. Boyd, John (Giovanni) Castano, Charles Culver, Lawrence Fleischman, James Thomas Flexner, Alfred Frankenstein, George C. Groce, Walter Heil, Earl Krentzin, Wilmarth S. Lewis, Russell Lynes, John Francis McDermott, Ulrich Middeldorf, John D. Morse, Liselotte Moser, Andrew Oliver, J. Hall Pleasants, Anna Wells Rutledge, Charles Coleman Sellers, S. Dillon Ripley, Regina Soria, Victor D. Spark, William B. Stevens, Jr., William R. Valentiner, Robert C. Vose, Jr., Franklin C. Watkins, William E. Woolfenden, and Andrew Wyeth. Research material on Jeremiah P. Hardy and other Maine artists, including an article on Hardy by Fannie Hardy Eckstorm, Hardy's grand-niece; a book LEAFLETS of ARTISTS, 1893; a newspaper clipping on Hardy and other family members, 1940; and three photographs, one of Hardy (engraving found in the leaflet), a photograph of a painting of his sister Mary Ann, and one of a landscape. Material relating to Richardson's private art collection. Also included are printed material, photographs and negatives primarily of works of art relating to Richardson's career as a painter (2.0 linear ft.). ",
+      "creators": {
+        "creator1": "Richardson, Edgar Preston, 1902-",
+        "creator2": "Allston, Washington, 1779-1843.",
+        "creator3": "Andrews, Wayne.",
+        "creator4": "Aram, Siegfried F.",
+        "creator5": "Boyd, Julian P. (Julian Parks), 1903-",
+        "creator6": "Castano, Giovanni, 1896-1978.",
+        "creator7": "Culver, Charles B. (Charles Beach), 1908-1967.",
+        "creator8": "Fleischman, Lawrence A. (Lawrence Arthur), 1925-1997.",
+        "creator9": "Flexner, James Thomas, 1908-",
+        "creator10": "Frankenstein, Alfred V. (Alfred Victor), 1906-1981.",
+        "creator11": "Fredericks, Marshall, 1908-1998.",
+        "creator12": "Groce, George C., 1899-",
+        "creator13": "Hardy, Jeremiah Pearson, 1800-1889.",
+        "creator14": "Heil, Walter, 1890-1973.",
+        "creator15": "Krentzin, Earl, 1929-",
+        "creator16": "Lewis, W. S. (Wilmarth Sheldon), 1895-1979.",
+        "creator17": "Lynes, Russell, 1910-1991.",
+        "creator18": "McDermott, John Francis, 1902-",
+        "creator19": "Middeldorf, Ulrich Alexander, 1901-",
+        "creator20": "Morse, John D., 1906-",
+        "creator21": "Moser, Liselotte.",
+        "creator22": "Oliver, Andrew, 1906-1981.",
+        "creator23": "Peale, Charles Willson, 1741-1827.",
+        "creator24": "Peale family.",
+        "creator25": "Pleasants, J. Hall (Jacob Hall), 1873-1957.",
+        "creator26": "Ripley, Sidney Dillon, 1913-2001.",
+        "creator27": "Rutledge, Anna Wells.",
+        "creator28": "Sellers, Charles Coleman, 1903-",
+        "creator29": "Soria, Regina, 1911-",
+        "creator30": "Spark, Victor D. (Victor David), 1898-1991.",
+        "creator31": "Stevens, William B.",
+        "creator32": "Valentiner, Wilhelm Reinhold, 1880-1958.",
+        "creator33": "Vose, Robert C. (Robert Churchill), 1911-",
+        "creator34": "Watkins, Franklin Chenault, 1894-1972.",
+        "creator35": "Woolfenden, William E. (William Edward), 1918-1995.",
+        "creator36": "Wyeth, Andrew, 1917-",
+        "creator37": "Simpson, Corelli C. W.",
+        "creator38": "Archives of American Art.",
+        "creator39": "Detroit Institute of Arts.",
+        "creator40": "National Portrait Gallery (Smithsonian Institution)",
+        "creator41": "Pennsylvania Academy of the Fine Arts.",
+        "creator42": "Henry Francis du Pont Winterthur Museum."
+      }
+    }
+  ]
+}

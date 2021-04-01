@@ -1,0 +1,178 @@
+{
+  "resources": [
+    {
+      "title": "Untersuchungen zur Geschichte des deutschen Einblattholzschnitts im 2. Drittel des 15. Jahrhunderts",
+      "date": "1934",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "History"
+      }
+    },
+    {
+      "title": "Der Wandel der Architekturgestaltung in den Werken Hans Holbeins d. j., ein Beitrag zur Holbein-Chronologie",
+      "date": "1929",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Rubens",
+      "date": "1951",
+      "creators": {
+        "creator": "Rubens, Peter Paul",
+        "coCreator": "Cohn"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Spina Die neuentdeckte Etruskerstadt und d. griechischen Vasen ihrer Graber",
+      "date": "1958",
+      "creators": {
+        "creator": "Alfieri, Nereo",
+        "coCreator": "Cohn"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Spina; die neuentdeckte Etruskerstadt und die griechischen Vasen ihrer Graber",
+      "date": "1958",
+      "creators": {
+        "creator": "Alfieri, Nereo",
+        "coCreator": "Cohn"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Chiese di Ravenna",
+      "date": "1958",
+      "creators": {
+        "creator": "Bovini, Giuseppe",
+        "coCreator": "Cohn"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Holz- und metallschnitte einer suddeutschen sammlung",
+      "date": "1934",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Einblattdrucke der Strassburger druckerei Johannes Gruninger",
+      "date": "1937",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Holz- und Metallschnitte aus offentlichen sammlungen und bibliotheken in Aachen, Bamberg, Berlin, Breslau, Darmstadt, Dresden, Gottingen, Gotha",
+      "date": "1935",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Holz- und metallschnitte aus offentl. in- und auslandischen sammlungen und Bibliotheken in Innsbruck, Salzburg, Wien, Delsberg, Neuenstadt, St. Gallen, Lyon, Paris, Strassburg, Tunbridge Wells:",
+      "date": "1938",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Holz- und metallschnitte aus offentlichen sammlungen und bibliotheken in Hannover, Koblenz, Koln, Leipzig und Luneburg, mit begleitendem text",
+      "date": "1935",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Catalogs"
+      }
+    },
+    {
+      "title": "Holz- und metallschnitte aus offentlichen sammlungen und bibliotheken in Maihingen, Marburg, Neisse, Nurnberg, Rosenheim, Rottenburg, Stuttgart und Wurzburg, mit begleitendem text",
+      "date": "1935",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Five centuries of Italian majolica",
+      "date": "1960",
+      "creators": {
+        "creator": "Liverani, Giuseppe",
+        "coCreator": "Cohn"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Holz- und Metallschnitte aus offentlichen Sammlungen und Bibliotheken in Maihingen, Marburg, Neisse, Nurnberg, Rosenheim, Rottenburg, Stuttgart und Wurzburg",
+      "date": "1935",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Hans Holbein, 1497-1543",
+      "date": "1957",
+      "creators": {
+        "creator": "Holbein, Hans",
+        "coCreator": "Cohn"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Lucas Cranach : 1472-1553",
+      "date": "1956",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Albrecht Durer, 1471-1528",
+      "date": "1958",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Luca Cranach, 1472-1553",
+      "date": "1956",
+      "creators": {
+        "creator": "Cranach, Lucas",
+        "coCreator": "Cohn"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Rubens",
+      "date": "1951",
+      "creators": {
+        "creator": "Cohn, Werner"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Rubens",
+      "date": "1951",
+      "creators": {
+        "creator": "Rubens, Peter Paul",
+        "coCreator": "Cohn"
+      },
+      "recordType": "book"
+    }
+  ]
+}

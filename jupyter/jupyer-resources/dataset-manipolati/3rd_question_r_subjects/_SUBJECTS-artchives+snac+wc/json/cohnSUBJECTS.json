@@ -1,0 +1,391 @@
+{
+  "Nachlass Werner Cohn": {
+    "URI": "https://w3id.org/artchives/collectionnachlass-werner-cohn",
+    "https://w3id.org/artchives/hasSubjectGenre": [
+      {
+        "interest": "http://www.wikidata.org/entity/Q277466",
+        "interestLabel": "historicism"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q650276",
+        "interestLabel": "Mariology"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q8242",
+        "interestLabel": "literature"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q667276",
+        "interestLabel": "art exhibition"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q34184051",
+        "interestLabel": "photograph collection"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q4948",
+        "interestLabel": "Republic of Venice"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q208145",
+        "interestLabel": "iconography"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q1414089",
+        "interestLabel": "art theory"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q3561314",
+        "interestLabel": "window glass"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q161439",
+        "interestLabel": "jewellery"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q858517",
+        "interestLabel": "cultural history"
+      }
+    ],
+    "http://www.wikidata.org/prop/direct/P921": [
+      {
+        "interest": "http://www.wikidata.org/entity/Q1414089",
+        "interestLabel": "art theory"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q3561314",
+        "interestLabel": "window glass"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q873364",
+        "interestLabel": "bronze medal"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q37030",
+        "interestLabel": "Thomas Mann"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q8537",
+        "interestLabel": "Bernardino Luini"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q134194",
+        "interestLabel": "fresco painting"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q34184051",
+        "interestLabel": "photograph collection"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q2527217",
+        "interestLabel": "Lionello Venturi"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q208125",
+        "interestLabel": "Lorenzo Ghiberti"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q5580",
+        "interestLabel": "Albrecht D\ufffdrer"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q1177671",
+        "interestLabel": "Davidsohn"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q12554",
+        "interestLabel": "Middle Ages"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q593445",
+        "interestLabel": "Stefano Bardini"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q277466",
+        "interestLabel": "historicism"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q650276",
+        "interestLabel": "Mariology"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q8242",
+        "interestLabel": "literature"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q84564",
+        "interestLabel": "Julius von Schlosser"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q860816",
+        "interestLabel": "Orsanmichele"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q168496",
+        "interestLabel": "Carlo Carr\ufffd"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q667276",
+        "interestLabel": "art exhibition"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q12271",
+        "interestLabel": "Architecture"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q161439",
+        "interestLabel": "jewellery"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q59945",
+        "interestLabel": "Jacob Burckhardt"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q4948",
+        "interestLabel": "Republic of Venice"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q9358",
+        "interestLabel": "Friedrich Nietzsche"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q205148",
+        "interestLabel": "Filippo Lippi"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q208145",
+        "interestLabel": "iconography"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q48319",
+        "interestLabel": "Hans Holbein"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q4692",
+        "interestLabel": "Renaissance"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q858517",
+        "interestLabel": "cultural history"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q860861",
+        "interestLabel": "sculpture"
+      }
+    ],
+    "https://w3id.org/artchives/hasSubjectPeople": [
+      {
+        "interest": "http://www.wikidata.org/entity/Q59945",
+        "interestLabel": "Jacob Burckhardt"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q2527217",
+        "interestLabel": "Lionello Venturi"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q1177671",
+        "interestLabel": "Davidsohn"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q593445",
+        "interestLabel": "Stefano Bardini"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q84564",
+        "interestLabel": "Julius von Schlosser"
+      }
+    ],
+    "https://w3id.org/artchives/hasSubjectPeriod": [
+      {
+        "interest": "http://www.wikidata.org/entity/Q4692",
+        "interestLabel": "Renaissance"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q12554",
+        "interestLabel": "Middle Ages"
+      }
+    ],
+    "https://w3id.org/artchives/hasSubjectArtist": [
+      {
+        "interest": "http://www.wikidata.org/entity/Q168496",
+        "interestLabel": "Carlo Carr\ufffd"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q37030",
+        "interestLabel": "Thomas Mann"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q8537",
+        "interestLabel": "Bernardino Luini"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q9358",
+        "interestLabel": "Friedrich Nietzsche"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q205148",
+        "interestLabel": "Filippo Lippi"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q48319",
+        "interestLabel": "Hans Holbein"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q5580",
+        "interestLabel": "Albrecht D\ufffdrer"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q208125",
+        "interestLabel": "Lorenzo Ghiberti"
+      }
+    ],
+    "https://w3id.org/artchives/hasSubjectObject": [
+      {
+        "interest": "http://www.wikidata.org/entity/Q860861",
+        "interestLabel": "sculpture"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q12271",
+        "interestLabel": "Architecture"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q873364",
+        "interestLabel": "bronze medal"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q134194",
+        "interestLabel": "fresco painting"
+      }
+    ],
+    "https://w3id.org/artchives/hasSubjectArtwork": [
+      {
+        "interest": "http://www.wikidata.org/entity/Q860816",
+        "interestLabel": "Orsanmichele"
+      }
+    ]
+  },
+  "Werner Cohn": {
+    "URI": "http://www.wikidata.org/entity/Q18935222",
+    "http://www.wikidata.org/prop/direct/P921": [
+      {
+        "interest": "Italy--Ravenna"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q20103",
+        "interestLabel": "Assisi"
+      },
+      {
+        "interest": "Art"
+      },
+      {
+        "interest": "Pottery, Italian"
+      },
+      {
+        "interest": "Wood-engraving"
+      },
+      {
+        "interest": "Engraving"
+      },
+      {
+        "interest": "Mosaics, Byzantine"
+      },
+      {
+        "interest": "Antiquities"
+      },
+      {
+        "interest": "Cranach, Lucas,"
+      },
+      {
+        "interest": "Church decoration and ornament"
+      },
+      {
+        "interest": "France--Strasbourg"
+      },
+      {
+        "interest": "Wood-engraving, German"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q49210",
+        "interestLabel": "New York University"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q1580468",
+        "interestLabel": "Hans Jantzen"
+      },
+      {
+        "interest": "Italy--Spina (Extinct city)"
+      },
+      {
+        "interest": "Broadsides"
+      },
+      {
+        "interest": "Art, Belgian"
+      },
+      {
+        "interest": "Europe--Etruria"
+      },
+      {
+        "interest": "Rubens, Peter Paul,"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q153987",
+        "interestLabel": "University of Freiburg"
+      },
+      {
+        "interest": "Byzantine antiquities"
+      },
+      {
+        "interest": "Mosaics"
+      },
+      {
+        "interest": "Engraving--Private collections"
+      },
+      {
+        "interest": "Italy"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q51252",
+        "interestLabel": "Uffizi"
+      },
+      {
+        "interest": "Germany"
+      },
+      {
+        "interest": "Majolica"
+      },
+      {
+        "interest": "Book ornamentation"
+      },
+      {
+        "interest": "Gruninger, Johann,"
+      },
+      {
+        "interest": "Church buildings"
+      },
+      {
+        "interest": "Durer, Albrecht,"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q2044",
+        "interestLabel": "Florence"
+      },
+      {
+        "interest": "Vases, Greek"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q152087",
+        "interestLabel": "Humboldt University of Berlin"
+      },
+      {
+        "interest": "Majolica, Italian"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q157575",
+        "interestLabel": "University of Strasbourg"
+      },
+      {
+        "interest": "Holbein, Hans,"
+      }
+    ]
+  }
+}
