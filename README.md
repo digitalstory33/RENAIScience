@@ -6,12 +6,15 @@ This project is mainly based on the archival resources of Artchives, with an imp
 The project was developed by:
 
 - Alessia Cioffi, student @ University of Bologna, alessia.cioffi@studio.unibo.it. 
+
     Role: data analysis and esploration; contribution to graphic visualisations.
     
 - Sara Amayeh, student @ University of Bologna, sara.ama@studio.unibo.it. 
+
     Role: data access, extraction and cleaning; contribution to graphic visualisations.
     
 - Sara Coppini, student @ University of Bologna, sara.coppini@studio.unibo.it. 
+
     Role: web development, graphic visualisations and communication strategies.
 
 ## Licences
