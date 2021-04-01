@@ -1,4 +1,4 @@
-# The study of Renaissance 
+# RENAIScience
 
 Website link: https://digitalstory33.github.io/Renaissance/
 
