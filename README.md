@@ -2,7 +2,7 @@
 
 Website link: https://digitalstory33.github.io/RENAIScience/
 
-Jupyter notebook link: https://hub.gke2.mybinder.org/user/digitalstory33-renaiscience-mzclg5n4/tree
+Jupyter notebook link:https://mybinder.org/v2/gh/digitalstory33/RENAIScience/main
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/digitalstory33/RENAIScience/main)
 
