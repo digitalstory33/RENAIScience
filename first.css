@@ -72,8 +72,9 @@ second-text{
   margin: auto;
   width: 75%;
   position: absolute;
-  padding-top:50px;
+  padding-top:20px;
 	padding-left:30;
+	margin-top: 200px;
 }
 
 
