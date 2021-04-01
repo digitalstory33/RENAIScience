@@ -1,446 +1,462 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-    <title>third question</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="third.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-    <script src="https://d3js.org/d3.v4.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.10.0/d3.min.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.bundle.min.js"></script>
+        <title>third question</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="third.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+        <script src="https://d3js.org/d3.v4.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.10.0/d3.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.bundle.min.js"></script>
 
-    <style>
-        
-        /* example of a change done on github.com */
+        <style>
+            
+            /* example of a change done on github.com */
 
-        div.tooltip {
-            position: absolute;
-            text-align: center;
-            padding: 7px;
-            font: 12px sans-serif;
-            background: #282828;
-            color: #ffffff;
-            border: 0;
-            border-radius: 8px;
-            visibility: hidden;
-        }
-        /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
-        .row.content {height: 800px}
-
-        /* Set gray background color and 100% height */
-        .sidenav {
-            padding-top: 20px;
-            background-color: #f1f1f1;
-            height: 1000px;
-        }
-
-        /* On small screens, set height to 'auto' for sidenav and grid */
-        @media screen and (max-width: 767px) {
-            .sidenav {
-                height: auto;
-                padding: 15px;
+            div.tooltip {
+                position: absolute;
+                text-align: center;
+                padding: 7px;
+                font: 12px sans-serif;
+                background: #282828;
+                color: #ffffff;
+                border: 0;
+                border-radius: 8px;
+                visibility: hidden;
             }
-            .row.content {height:auto;}
-        }
+            /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+            .row.content {height: 800px}
 
-        div#my_dataviz {
-            width: 585px;
-            margin: auto;
-        }
+            /* Set gray background color and 100% height */
+            .sidenav {
+                padding-top: 20px;
+                background-color: #f1f1f1;
+                height: 1000px;
+            }
 
-        select {
-            height: 40px;
-            font-size: 20px;
-            padding: 0;
-            left: 500px;
-            background-color: white;
-            color: black;
-            border: 2px solid #555555;
-        }
+            /* On small screens, set height to 'auto' for sidenav and grid */
+            @media screen and (max-width: 767px) {
+                .sidenav {
+                    height: auto;
+                    padding: 15px;
+                }
+                .row.content {height:auto;}
+            }
 
-        div.container {
-            height: 200px;
-            width: 800px;
-            margin: auto;
-        }
-        .butt{
-            justify-content: center;
-            text-align: center;
-            margin: auto;
-            /*display:inline;*/
-        }
-        .button{
-            border: none;
-            color: white;
-            padding: 8px 20px;
-            text-align: center;
-            text-decoration: none;
-            display: inline-block;
-            font-size: 16px;
-            margin: 8px 10px;
-            transition-duration: 0.4s;
-            cursor: pointer;
-            display:inline;
-        }
-        .button1 {
-            background-color: white;
-            color: black;
-            border: 2px solid #555555;
-        }
+            div#my_dataviz {
+                width: 585px;
+                margin: auto;
+            }
 
-        .button1:hover {
-            background-color: #555555;
-            color: white;
-        }
-        .cic {
-            margin-left: 40px;
-            color: white;
-            padding: 8px;
-            background-color: black;
-            border-radius: 12px;
-        }
-        #title {
-            /* font-family: 'Merriweather'; */
-            text-align: center;
-            padding: 30px;
-            font-size: 28px;
-            letter-spacing: -0.01em;
-            color: #333;
-        }
-        #legend {
-            display: flex;
-            justify-content: center;
-            padding: 0 10px 10px 10px;
-            font-size: 14px;
-        }
-        #legend .item {
-            line-height: 12px;
-            padding: 0 10px 0 4px;
-        }
+            select {
+                height: 40px;
+                font-size: 20px;
+                padding: 0;
+                left: 500px;
+                background-color: white;
+                color: black;
+                border: 2px solid #555555;
+            }
 
-        #legend .item.one {
-            border-left: 12px solid #d4ebf2;
-        }
-        #legend .item.two {
-            border-left: 12px solid;
-        }
-        #legend .item.three {
-            border-left: 12px solid #add3e6;
-        }
-        #legend .item.four {
-            border-left: 12px solid #add8e6;
-        }
-        #legend .item.five {
-            border-left: 12px solid #addde6;
-        }
-        #legend .item.six {
-            border-left: 12px solid #ade2e6;
-        }
-        #legend .item.seven {
-            border-left: 12px solid #ade6e6;
-        }
+            div.container {
+                height: 200px;
+                width: 800px;
+                margin: auto;
+            }
+            .butt{
+                justify-content: center;
+                text-align: center;
+                margin: auto;
+                /*display:inline;*/
+            }
+            .button{
+                border: none;
+                color: white;
+                padding: 8px 20px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 16px;
+                margin: 8px 10px;
+                transition-duration: 0.4s;
+                cursor: pointer;
+                display:inline;
+            }
+            .button1 {
+                background-color: white;
+                color: black;
+                border: 2px solid #555555;
+            }
 
-    </style>
+            .button1:hover {
+                background-color: #555555;
+                color: white;
+            }
+            .cic {
+                margin-left: 40px;
+                color: white;
+                padding: 8px;
+                background-color: black;
+                border-radius: 12px;
+            }
+            #title {
+                /* font-family: 'Merriweather'; */
+                text-align: center;
+                padding: 30px;
+                font-size: 28px;
+                letter-spacing: -0.01em;
+                color: #333;
+            }
+            #legend {
+                display: flex;
+                justify-content: center;
+                padding: 0 10px 10px 10px;
+                font-size: 14px;
+            }
+            #legend .item {
+                line-height: 12px;
+                padding: 0 10px 0 4px;
+            }
+
+            #legend .item.one {
+                border-left: 12px solid #d4ebf2;
+            }
+            #legend .item.two {
+                border-left: 12px solid;
+            }
+            #legend .item.three {
+                border-left: 12px solid #add3e6;
+            }
+            #legend .item.four {
+                border-left: 12px solid #add8e6;
+            }
+            #legend .item.five {
+                border-left: 12px solid #addde6;
+            }
+            #legend .item.six {
+                border-left: 12px solid #ade2e6;
+            }
+            #legend .item.seven {
+                border-left: 12px solid #ade6e6;
+            }
+
+        </style>
     </head>
-<body BGCOLOR=#E8FFE8>
-    <ul>
-  <li><a class="active" href="index.html">Home</a></li>
-  <li><a href="storytelling.html">Storytelling</a></li>
-  <li><a href="first-question.html">First Question</a></li>
-  <li><a href="second-question.html">Second Question</a></li>
-    <li><a href="third-question.html">Third Question</a></li>
-    <li><a href="fourth-question.html">Fourth Question</a></li>
-      <li><a href="team.html">Team </a></li>
 
-</ul>
+    <body BGCOLOR=#E8FFE8>
 
-    <div class="box">
+        <ul>
+            <li><a class="active" href="index.html">Home</a></li>
+            <li><a href="storytelling.html">Storytelling</a></li>
+            <li><a href="first-question.html">First Question</a></li>
+            <li><a href="second-question.html">Second Question</a></li>
+            <li><a href="third-question.html">Third Question</a></li>
+            <li><a href="fourth-question.html">Fourth Question</a></li>
+            <li><a href="team.html">Team </a></li>
+        </ul>
 
-       <h1>Third Question:</h1>
-        <h2> Are there aspects of the Renaissance that have been studied more by historians? </h2>
-        <p style="font-size: 22px;">On the first level of the analysis the focus is the general trend of study over historians. A pie chart can effectively represents the composition of the 3 main categories of interests: people, artifacts and genres.</p>
+        <div class="box">
 
-        <div id="chart_div" style="width: 800px; height: 300px;margin: 0 auto; padding:20px;"></div>
+            <h1>Third Question:</h1>
+            <h2> Are there aspects of the Renaissance that have been studied more by historians? </h2>
+            <p style="font-size: 22px;">On the first level of the analysis the focus is the general trend of study over historians. A pie chart can effectively represents the composition of the 3 main categories of interests: people, artifacts and genres.</p>
 
-<!-- js script for the pie chart -->
-<script type="text/javascript">
+            <div id="chart_div" style="width: 800px; height: 300px;margin: 0 auto; padding:20px;"></div>
 
-    /*$(document).ready(function()
-    {
-        $.getJSON("chartData.json", function(data){
+            <!-- js script for the pie chart -->
+            <script type="text/javascript">
 
-            console.log(data);
-        }).fail(function(){
-            console.log("An error has occurred.");
-        });
-    });*/
+                /*$(document).ready(function()
+                {
+                    $.getJSON("chartData.json", function(data){
 
-    // Load the Visualization API and the piechart package.
-    google.charts.load('current', {'packages':['corechart']});
-
-    // Set a callback to run when the Google Visualization API is loaded.
-    google.charts.setOnLoadCallback(drawChart);
-
-    function drawChart() {
-        // Create our data table out of JSON data loaded from server.
-        $.getJSON("https://digitalstory33.github.io/RENAIScience/chartData.json", function(data){
-
-            var data = new google.visualization.DataTable(data);
-
-            // Instantiate and draw our chart, passing in some options.
-            var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
-            var options = {
-                title: 'Percentage of historians by topic of interest',
-                colors: ['#838383', '#ad9d9d', '#fccbcb'],
-                is3D: true,
-                backgroundColor:'#f8f4e1',
-            };
-            chart.draw(data, options);
-            console.log(data);
-        }).fail(function(){
-            console.log("An error has occurred.");
-        });
-
-    }
-
-</script>
-    <div class="first-text" style="margin: auto ; width: 100%;position: unset; padding-top:50px;padding-left:80px;">
-        <p style="font-size: 22px;">On the second level of the analysis, the interests are reported for each single art historian.</p>
-        <div id="selectorDiv"></div>
-    </div>
-</div>
-
-<!-- div where the bar charts for the single historians will take place -->
-<div id="my_dataviz"></div>
-
-<!-- js script for the drop down menu charts for the single historians -->
-<script>
-    // set the dimensions and margins of the graph
-    var margin = {top: 30, right: 30, bottom: 70, left: 60},
-        width = 560 - margin.left - margin.right,
-        height = 400 - margin.top - margin.bottom;
-
-    // append the svg object to the body of the page
-    var svg = d3.select("#my_dataviz")
-        .append("svg")
-        .attr("width", width + margin.left + margin.right)
-        .attr("height", height + margin.top + margin.bottom)
-        // questi due qui sotto non ci sono in SO:
-        .append("g")
-        .attr("transform",
-            "translate(" + margin.left + "," + margin.top + ")");
-
-
-    // Parse the Data
-    d3.csv("new_renaissance_subjects.csv", function(data) {
-
-        // Get the columns.
-        var historianNames = data.columns.slice(1);
-
-        // Create a select element
-        var select = d3.select("#selectorDiv")
-            .append("select")
-            .on("change", update)
-
-        // Add an initial option:
-        select.append("option")
-            .html("Select an art historian:")
-
-        // Add the options:
-        var options = select.selectAll(null)
-            .data(historianNames)
-            .enter()
-            .append("option")
-            .text(function(d) { return d; });
-
-        // X axis (scale)
-        var x = d3.scaleBand()
-            .range([ 0, width ])
-            .domain(data.map(function(d) { return d.obj_type; }))
-            .padding(0.2);
-
-        // Add Y axis (scale)
-        var y = d3.scaleLinear()
-            .domain([0, 16])
-            .range([ height, 0]);
-
-        // Specify an Update function to create and update visualization elements:
-        function update() {
-            var historianName = this.value; // e.g. Ulrich Middeldorf
-            var bars = svg.selectAll("rect").data(data);
-
-            bars.enter()
-                .append("rect")
-                .attr("x", function(d) { return x(d.obj_type); })
-                .attr("width", x.bandwidth())
-                .attr("y", 150)
-                .attr("height",0)
-                .merge(bars)
-                .transition()
-                .attr("height", function(d) {
-                    if (d[historianName] === '0') { return height - y(0); }
-                    else {return height - y(d[historianName].split(", ").length || 0);}
-                })
-                .attr("fill", function(d) {
-                    if (d.obj_type === "artifact") { return "#838383"; }
-                    if (d.obj_type === "genre") { return "#AD9D9D"; }
-                    else { return "#FCCBCB"; }
-                })
-                .attr("y", function(d) {
-                    if (d[historianName] === '0') { return y(0); }
-                    else {return y(d[historianName].split(", ").length || 0);}
-                });
-
-            svg.append("g")
-                .call(d3.axisLeft(y));
-
-            svg.append("g")
-                .attr("transform", "translate(0," + height + ")")
-                .call(d3.axisBottom(x))
-                .selectAll("text")
-                .style("font-size", "13px");
-
-            var div = d3.select("body").append("div")
-                .attr("class", "tooltip")
-                .style("opacity", 0);
-
-            svg.selectAll("rect")
-                .on("mouseover", function(d) {
-                    div.style('visibility', 'visible')
-                        .style("opacity", .9)
-                })
-                .on("mousemove", function (d) {
-                    div .style('top', d3.event.pageY - 10 + 'px')
-                        .style('left', d3.event.pageX + 10 + 'px')
-                        .html(d[historianName].replace(/, /g, " <br>"));
-                    d3.select(this).attr("fill", function(d) {
-                        if (d.obj_type === "artifact") { return "#626262"; }
-                        if (d.obj_type === "genre") { return "#8a7f7f"; }
-                        else { return "#e7acac"; }
+                        console.log(data);
+                    }).fail(function(){
+                        console.log("An error has occurred.");
                     });
-                })
-                .on("mouseout", function() {
-                    div.style('visibility', 'hidden')
-                        .style("opacity", 0);
-                    d3.select(this).attr("fill", function(d) {
-                        if (d.obj_type === "artifact") { return "#838383"; }
-                        if (d.obj_type === "genre") { return "#AD9D9D"; }
-                        else { return "#FCCBCB"; }
+                });*/
+
+                // Load the Visualization API and the piechart package.
+                google.charts.load('current', {'packages':['corechart']});
+
+                // Set a callback to run when the Google Visualization API is loaded.
+                google.charts.setOnLoadCallback(drawChart);
+
+                function drawChart() {
+                    // Create our data table out of JSON data loaded from server.
+                    $.getJSON("https://digitalstory33.github.io/RENAIScience/chartData.json", function(data){
+
+                        var data = new google.visualization.DataTable(data);
+
+                        // Instantiate and draw our chart, passing in some options.
+                        var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
+                        var options = {
+                            title: 'Percentage of historians by topic of interest',
+                            colors: ['#838383', '#ad9d9d', '#fccbcb'],
+                            is3D: true,
+                            backgroundColor:'#f8f4e1',
+                        };
+                        chart.draw(data, options);
+                        console.log(data);
+                    }).fail(function(){
+                        console.log("An error has occurred.");
                     });
-                });
 
-        } // end of function update()
-
-    }) // end of the function that parses the csv
-
-</script>
-    <div class="box" >
-
-<p>On the third level of the analysis, for two macro-categories of interests (i.e., genre and people) the sub-interests are reported, that is the sub-categories in which the objects of study of art historians can be placed. For the category of people, the individuals studied by the historians were divided by profession; while for the category of genres (and techniques), all object types distributed per number of occurencies are provided.</p>
-
-<!-- div for the buttons -->
-<div class="butt">
-    <button class="button button1" onclick="doit('bar_person_subtype.csv', 'Number of of people studied by their profession', 'chart', 'myChart' )">People</button>
-
-    <button class="button button1" onclick="doit('chart_to_quest.csv', 'All object types distributed per number of occurencies', 'myChart', 'chart')">Technique/genre/material</button>
-
-    <button class="button cic" onclick="hideGraph()">Hide</button>
-</div>
-
-
-<!-- divs for the bar charts of subinterests -->
-<div class="container">
-    <canvas id="chart"></canvas>
-</div>
-
-<div class="container">
-    <canvas id="myChart"></canvas>
-</div>
-<script>
-
-    function hideGraph(){
-        document.getElementById('myChart').parentElement.setAttribute('style', 'display: none');
-        document.getElementById('chart').parentElement.setAttribute('style', 'display: none');
-    }
-
-    function doit(csvpath, frase, correctID, wrongID) {
-        document.getElementById(wrongID).parentElement.setAttribute('style', 'display: none');
-        document.getElementById(correctID).parentElement.setAttribute('style', 'display: block');
-
-        const cic = document.getElementById(correctID).getContext("2d");
-
-        d3.csv(csvpath, function makeChart(data) {
-            // data is an array of objects where each object represents a country
-            var subtypes = data.map(function (d) {
-                return d.subtype;
-            });
-            var count = data.map(function (d) {
-                return d.count_coll;
-            });
-
-            const arrayOfObj = subtypes.map(function (d, i) {
-                return {
-                    label: d,
-                    data: count[i] || 0,
                 }
-            })
 
-            const sortedArrayOfObj = arrayOfObj.sort(function (a, b) {
-                return b.data - a.data
-            })
-
-            let newArrayLabel = []
-            let newArrayData = []
-            sortedArrayOfObj.forEach(function (d) {
-                newArrayLabel.push(d.label)
-                newArrayData.push(d.data)
-            })
+            </script>
 
 
-            new Chart(cic, {
-                type: "bar",
-                options: {
-                    legend: { display: false },
-                    title: {
-                        display: true,
-                        text: frase
-                    },
-                    scales: {
-                        yAxes: [
-                            {
-                                ticks: {
-                                    beginAtZero: true
-                                }
+        </div>
+
+
+
+
+
+        <div class="box">
+
+            <div class="first-text" style="margin: auto ; width: 100%;position: unset; padding-top:50px;padding-left:80px; height: unset;">
+                <p style="font-size: 22px;">On the second level of the analysis, the interests are reported for each single art historian.</p>
+                <div id="selectorDiv"></div>
+            </div>
+                <!-- div where the bar charts for the single historians will take place -->
+            <div id="my_dataviz"></div>
+
+            <!-- js script for the drop down menu charts for the single historians -->
+            <script>
+                // set the dimensions and margins of the graph
+                var margin = {top: 30, right: 30, bottom: 70, left: 60},
+                    width = 560 - margin.left - margin.right,
+                    height = 400 - margin.top - margin.bottom;
+
+                // append the svg object to the body of the page
+                var svg = d3.select("#my_dataviz")
+                    .append("svg")
+                    .attr("width", width + margin.left + margin.right)
+                    .attr("height", height + margin.top + margin.bottom)
+                    // questi due qui sotto non ci sono in SO:
+                    .append("g")
+                    .attr("transform",
+                        "translate(" + margin.left + "," + margin.top + ")");
+
+
+                // Parse the Data
+                d3.csv("new_renaissance_subjects.csv", function(data) {
+
+                    // Get the columns.
+                    var historianNames = data.columns.slice(1);
+
+                    // Create a select element
+                    var select = d3.select("#selectorDiv")
+                        .append("select")
+                        .on("change", update)
+
+                    // Add an initial option:
+                    select.append("option")
+                        .html("Select an art historian:")
+
+                    // Add the options:
+                    var options = select.selectAll(null)
+                        .data(historianNames)
+                        .enter()
+                        .append("option")
+                        .text(function(d) { return d; });
+
+                    // X axis (scale)
+                    var x = d3.scaleBand()
+                        .range([ 0, width ])
+                        .domain(data.map(function(d) { return d.obj_type; }))
+                        .padding(0.2);
+
+                    // Add Y axis (scale)
+                    var y = d3.scaleLinear()
+                        .domain([0, 16])
+                        .range([ height, 0]);
+
+                    // Specify an Update function to create and update visualization elements:
+                    function update() {
+                        var historianName = this.value; // e.g. Ulrich Middeldorf
+                        var bars = svg.selectAll("rect").data(data);
+
+                        bars.enter()
+                            .append("rect")
+                            .attr("x", function(d) { return x(d.obj_type); })
+                            .attr("width", x.bandwidth())
+                            .attr("y", 150)
+                            .attr("height",0)
+                            .merge(bars)
+                            .transition()
+                            .attr("height", function(d) {
+                                if (d[historianName] === '0') { return height - y(0); }
+                                else {return height - y(d[historianName].split(", ").length || 0);}
+                            })
+                            .attr("fill", function(d) {
+                                if (d.obj_type === "artifact") { return "#838383"; }
+                                if (d.obj_type === "genre") { return "#AD9D9D"; }
+                                else { return "#FCCBCB"; }
+                            })
+                            .attr("y", function(d) {
+                                if (d[historianName] === '0') { return y(0); }
+                                else {return y(d[historianName].split(", ").length || 0);}
+                            });
+
+                        svg.append("g")
+                            .call(d3.axisLeft(y));
+
+                        svg.append("g")
+                            .attr("transform", "translate(0," + height + ")")
+                            .call(d3.axisBottom(x))
+                            .selectAll("text")
+                            .style("font-size", "13px");
+
+                        var div = d3.select("body").append("div")
+                            .attr("class", "tooltip")
+                            .style("opacity", 0);
+
+                        svg.selectAll("rect")
+                            .on("mouseover", function(d) {
+                                div.style('visibility', 'visible')
+                                    .style("opacity", .9)
+                            })
+                            .on("mousemove", function (d) {
+                                div .style('top', d3.event.pageY - 10 + 'px')
+                                    .style('left', d3.event.pageX + 10 + 'px')
+                                    .html(d[historianName].replace(/, /g, " <br>"));
+                                d3.select(this).attr("fill", function(d) {
+                                    if (d.obj_type === "artifact") { return "#626262"; }
+                                    if (d.obj_type === "genre") { return "#8a7f7f"; }
+                                    else { return "#e7acac"; }
+                                });
+                            })
+                            .on("mouseout", function() {
+                                div.style('visibility', 'hidden')
+                                    .style("opacity", 0);
+                                d3.select(this).attr("fill", function(d) {
+                                    if (d.obj_type === "artifact") { return "#838383"; }
+                                    if (d.obj_type === "genre") { return "#AD9D9D"; }
+                                    else { return "#FCCBCB"; }
+                                });
+                            });
+
+                    } // end of function update()
+
+                }) // end of the function that parses the csv
+
+            </script>
+
+        </div>
+
+
+
+
+
+        <div class="box">
+
+            <p>On the third level of the analysis, for two macro-categories of interests (i.e., genre and people) the sub-interests are reported, that is the sub-categories in which the objects of study of art historians can be placed. For the category of people, the individuals studied by the historians were divided by profession; while for the category of genres (and techniques), all object types distributed per number of occurencies are provided.</p>
+
+            <!-- div for the buttons -->
+            <div class="butt">
+                <button class="button button1" onclick="doit('bar_person_subtype.csv', 'Number of of people studied by their profession', 'chart', 'myChart' )">People</button>
+
+                <button class="button button1" onclick="doit('chart_to_quest.csv', 'All object types distributed per number of occurencies', 'myChart', 'chart')">Technique/genre/material</button>
+
+                <button class="button cic" onclick="hideGraph()">Hide</button>
+            </div>
+
+
+            <!-- divs for the bar charts of subinterests -->
+            <div class="container">
+                <canvas id="chart"></canvas>
+            </div>
+
+            <div class="container">
+                <canvas id="myChart"></canvas>
+            </div>
+            
+            <script>
+
+                function hideGraph(){
+                    document.getElementById('myChart').parentElement.setAttribute('style', 'display: none');
+                    document.getElementById('chart').parentElement.setAttribute('style', 'display: none');
+                }
+
+                function doit(csvpath, frase, correctID, wrongID) {
+                    document.getElementById(wrongID).parentElement.setAttribute('style', 'display: none');
+                    document.getElementById(correctID).parentElement.setAttribute('style', 'display: block');
+
+                    const cic = document.getElementById(correctID).getContext("2d");
+
+                    d3.csv(csvpath, function makeChart(data) {
+                        // data is an array of objects where each object represents a country
+                        var subtypes = data.map(function (d) {
+                            return d.subtype;
+                        });
+                        var count = data.map(function (d) {
+                            return d.count_coll;
+                        });
+
+                        const arrayOfObj = subtypes.map(function (d, i) {
+                            return {
+                                label: d,
+                                data: count[i] || 0,
                             }
-                        ]
-                    }
-                },
-                data: {
-                    labels: newArrayLabel,
-                    datasets: [
-                        {
-                            label: "Object subtype frequency",
-                            data: newArrayData,
-                            backgroundColor: ["#FDEDED","#FDE2E2", "#FDD7D7", "#FCCBCB","#E9C0C0","#D5B4B4","#AD9D9D","#838383","#595959", "#3D3D3D", "#000", "#000"]
-                        }
-                    ]
-                }
-            });
-        })
-    }
-</script>
+                        })
 
-    </div>
-    </div>
+                        const sortedArrayOfObj = arrayOfObj.sort(function (a, b) {
+                            return b.data - a.data
+                        })
+
+                        let newArrayLabel = []
+                        let newArrayData = []
+                        sortedArrayOfObj.forEach(function (d) {
+                            newArrayLabel.push(d.label)
+                            newArrayData.push(d.data)
+                        })
+
+
+                        new Chart(cic, {
+                            type: "bar",
+                            options: {
+                                legend: { display: false },
+                                title: {
+                                    display: true,
+                                    text: frase
+                                },
+                                scales: {
+                                    yAxes: [
+                                        {
+                                            ticks: {
+                                                beginAtZero: true
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            data: {
+                                labels: newArrayLabel,
+                                datasets: [
+                                    {
+                                        label: "Object subtype frequency",
+                                        data: newArrayData,
+                                        backgroundColor: ["#FDEDED","#FDE2E2", "#FDD7D7", "#FCCBCB","#E9C0C0","#D5B4B4","#AD9D9D","#838383","#595959", "#3D3D3D", "#000", "#000"]
+                                    }
+                                ]
+                            }
+                        });
+                    })
+                }
+            </script>
+
+        
+        </div>
+    
+
+
     </body>
 </html>
-
-    
-</html>
-
