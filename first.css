@@ -74,7 +74,18 @@ second-text{
   padding-top:40px;
   padding-left:30;
 }
-  
+
+.par{
+  text-align: justify;
+  font-size: 20px;
+  font-family: mord;
+  margin: auto;
+  width: 100%;
+  position: absolute;
+  padding-top:40px;
+	padding-left:30;}
+
+
   .title{
 position: absolute;
 margin-left: 200px;
