@@ -72,9 +72,9 @@ second-text{
   margin: auto;
   width: 75%;
   position: absolute;
-  padding-top:20px;
-	padding-left:60px;
-	margin-top: 200px;
+  padding-top:10px;
+	padding-left:90px;
+	margin-top: 100px;
 }
 
 
@@ -101,7 +101,7 @@ li a {
   display: block;
   color: white;
   text-align: center;
-  padding: 20px 50px 25px 20px;
+  padding: 20px 60px 25px 20px;
   text-decoration: none;
 }
 
