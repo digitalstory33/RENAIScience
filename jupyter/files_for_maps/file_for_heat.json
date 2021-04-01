@@ -1,0 +1,185 @@
+{
+  "name": "All keepers",
+  "children": [
+    {
+      "name": "Biblioteca Hertziana",
+      "children": [
+        {
+          "name": "manuscript",
+          "size": 2
+        },
+        {
+          "name": "typescript",
+          "size": 2
+        },
+        {
+          "name": "archive document",
+          "size": 1
+        },
+        {
+          "name": "offprint",
+          "size": 1
+        },
+        {
+          "name": "photograph",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "name": "Fondazione Federico Zeri",
+      "children": [
+        {
+          "name": "photograph",
+          "size": 5
+        },
+        {
+          "name": "archive document",
+          "size": 4
+        },
+        {
+          "name": "postcard",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "name": "Getty Research Institute",
+      "children": [
+        {
+          "name": "photograph",
+          "size": 4
+        },
+        {
+          "name": "archive document",
+          "size": 2
+        },
+        {
+          "name": "correspondence",
+          "size": 2
+        },
+        {
+          "name": "notebook",
+          "size": 2
+        },
+        {
+          "name": "book",
+          "size": 1
+        },
+        {
+          "name": "catalogue",
+          "size": 1
+        },
+        {
+          "name": "clipping",
+          "size": 1
+        },
+        {
+          "name": "drawing",
+          "size": 1
+        },
+        {
+          "name": "journal",
+          "size": 1
+        },
+        {
+          "name": "manuscript",
+          "size": 1
+        },
+        {
+          "name": "microfiche",
+          "size": 1
+        },
+        {
+          "name": "negative",
+          "size": 1
+        },
+        {
+          "name": "offprint",
+          "size": 1
+        },
+        {
+          "name": "photographic print",
+          "size": 1
+        },
+        {
+          "name": "postcard",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "name": "Kunsthistorisches Institut",
+      "children": [
+        {
+          "name": "notes",
+          "size": 6
+        },
+        {
+          "name": "photograph",
+          "size": 5
+        },
+        {
+          "name": "newspaper clipping",
+          "size": 3
+        },
+        {
+          "name": "typescript",
+          "size": 3
+        },
+        {
+          "name": "correspondence",
+          "size": 2
+        },
+        {
+          "name": "letter",
+          "size": 2
+        },
+        {
+          "name": "printed matter",
+          "size": 2
+        },
+        {
+          "name": "archive document",
+          "size": 1
+        },
+        {
+          "name": "bibliographic card",
+          "size": 1
+        },
+        {
+          "name": "card",
+          "size": 1
+        },
+        {
+          "name": "collage",
+          "size": 1
+        },
+        {
+          "name": "document",
+          "size": 1
+        },
+        {
+          "name": "manuscript",
+          "size": 1
+        },
+        {
+          "name": "personal document",
+          "size": 1
+        },
+        {
+          "name": "press draft",
+          "size": 1
+        },
+        {
+          "name": "sketch",
+          "size": 1
+        },
+        {
+          "name": "transcription",
+          "size": 1
+        }
+      ]
+    }
+  ]
+}
