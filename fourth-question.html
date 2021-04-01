@@ -284,8 +284,7 @@ d3.json("file_for_tree.json", function(data) {
       .attr("x", function(d){ return d.x0})
       .attr("y", function(d){ return d.y0+21})
       .text(function(d){ return d.data.name })
-      .attr("font-size", "19px")
-	.attr("font-weight",function(d,i) {return i*100+100;})
+      .attr("font-size", "21px")
       .attr("fill",  function(d){ return color(d.data.name)} )
 
   // Add title for the 3 groups
@@ -294,7 +293,7 @@ d3.json("file_for_tree.json", function(data) {
       .attr("x", 200)
       .attr("y", 14)    // +20 to adjust position (lower)
       .text("The distribution of the objects among the keepers")
-      .attr("font-size", "19px")
+      .attr("font-size", "21px")
       .attr("fill",  "black" )
 
 
