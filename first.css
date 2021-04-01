@@ -63,7 +63,9 @@ second-text{
 		  margin-top: 600px;
 		margin-left: 120px;
 		}
-
+.par {
+    margin-bottom: 10vh;
+}
 
 .par p {
 	text-align: justify;
