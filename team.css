@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-    background: url ("./image/monal.jpg");
+    background-image: url ("./image/monal.jpg");
     font-family:mord;
   background-size: cover;
 }
