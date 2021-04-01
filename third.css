@@ -21,7 +21,7 @@ p{font-size: 20px;
 }  
 
 
-h1{
+.box h1{
  font-weight: bold;
   text-align: justify;
   font-size: 25px;
@@ -45,6 +45,7 @@ h2{
   position: absolute;
   padding-top:20px;
   padding-left:50px;
+  backgound-color:#f8f4e1;
 }
 
 .red{
@@ -58,7 +59,7 @@ h2{
   }
 
 .box{
-  background-color: ;
+  background-color: #f8f4e1;;
   padding-top: 30px;
   padding-left:40px;
   padding-right:40px;
