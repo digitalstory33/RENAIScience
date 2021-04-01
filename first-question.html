@@ -7,6 +7,13 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datasource@0.1.0"></script>
+<script src="https://d3js.org/d3.v4.js"></script>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://d3js.org/d3-selection.v1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.bundle.min.js"></script>
 <link rel="stylesheet" href="first.css">
 
   <style>
@@ -181,6 +188,11 @@ window.onload = function () {
 		  </div>
 		  <div id="chartContainer" style="height:0; width:75%; margin:450px auto;"></div>
     </div>
+	  <h2> line chart>
+		  <p> here goes explanation</p>
+	  <div id='setDim'>
+<canvas id="myChart"></canvas>
+</div>
     <div class="col-sm-2 sidenav">
 			<div class="right">
 		    <style type="text/css">
@@ -229,6 +241,107 @@ window.onload = function () {
     </div>
   </div>
 </div>
+
+// line chart
+<script>
+const final_chart = document.getElementById('myChart').getContext('2d');
+
+// Load the dataset
+d3.csv("linechart_per_year.csv", function (allObjects) {
+
+    var ObjectsTypes = allObjects.map(function (d) {
+      return d.year; //forse problemi di formato perchè ci vorrebbe una lista/array
+    });
+    var objectsNum = allObjects.map(function (d) {
+      return d.count_coll;
+    });
+
+  var pointBackgroundColor = [],
+  pointBorderColor = [],
+  pointHoverBackgroundColor = '#8e7f7f',
+  pointHoverBorderColor = '#8e7f7f';
+
+objectsNum.forEach(
+  (value, index) => {
+    if (value == objectsNum[index - 1]) {
+      pointBackgroundColor.push('transparent');
+      pointBorderColor.push('transparent');
+    } else {
+      pointBackgroundColor.push('#8e7f7f');
+      pointBorderColor.push('#8e7f7f');
+    }
+  });
+
+    new Chart(final_chart, {
+      type: "line",
+      data: {
+        labels: ObjectsTypes,
+        datasets: [{
+		  label: "Art historians",
+		  data: objectsNum,
+		  fill: false,
+		  borderColor: "#8e7f7f",
+		  pointRadius: 2.3,
+		  pointHoverRadius: 6,
+          borderWidth: 2,
+
+
+          pointBackgroundColor: pointBackgroundColor,
+	      pointBorderColor: pointBorderColor,
+	      pointHoverBackgroundColor: pointHoverBackgroundColor,
+	      pointHoverBorderColor: pointHoverBorderColor
+
+
+		}],
+
+      },
+      options: {
+	      legend: { display: false },
+	      title: {
+	        display: true,
+	        text: 'Development of Renaissance over time'
+	      },
+
+	      scales: {
+
+	      		xAxes: [{
+	                type: 'time',
+				    ticks: {
+				    	fontColor: "black",
+				    	fontSize: 14,
+				        autoSkip: true,
+				        maxTicksLimit: 20,
+				        maxRotation: 0,
+                    	minRotation: 0
+				    },
+				    gridLines: {
+					  color: "#bdbdbd",
+					  zeroLineColor: 'black'
+					}
+	            }],
+
+		        yAxes: [{
+		            ticks: {
+		            	fontColor: "black",
+		            	fontSize: 14,
+		                max : 12,    
+                        min : 0
+		            },
+		            gridLines: {
+					  color: "#bdbdbd",
+					  zeroLineColor: 'black'
+					}
+		        }]
+		    },
+
+
+	  }
+    });
+  }
+);
+
+
+</script>
 
 </body>
 </html>
