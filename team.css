@@ -4,6 +4,7 @@ body {
     background: url(./image/mm.jpg);
    background-position: center right;
    background-size: contain;
+    background-repeat: no-repeat;
    width: 100%;
     font-family:mord;
 }
