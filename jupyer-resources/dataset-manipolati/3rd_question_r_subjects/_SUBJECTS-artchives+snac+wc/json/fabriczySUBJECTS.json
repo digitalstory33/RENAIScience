@@ -1,0 +1,219 @@
+{
+  "Nachlass Cornelius von Fabriczy": {
+    "URI": "https://w3id.org/artchives/collectionnachlass-cornelius-von-fabriczy",
+    "http://www.wikidata.org/prop/direct/P921": [
+      {
+        "interest": "https://w3id.org/artchives/MD1598621544200",
+        "interestLabel": "Rossi-Bombe fund"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q309736",
+        "interestLabel": "Michelozzo"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q1156431",
+        "interestLabel": "Da Sangallo family"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q3237954",
+        "interestLabel": "Libro di Antonio Billi"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q3057287",
+        "interestLabel": "Ernst Steinmann"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q4692",
+        "interestLabel": "Renaissance"
+      },
+      {
+        "interest": "https://w3id.org/artchives/MD1598621422728",
+        "interestLabel": "Medallistic"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q5743139",
+        "interestLabel": "Karl Frey"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q470846",
+        "interestLabel": "Amico Aspertini"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q5592",
+        "interestLabel": "Michelangelo"
+      },
+      {
+        "interest": "https://w3id.org/artchives/MD1598621501831",
+        "interestLabel": "medals"
+      }
+    ],
+    "https://w3id.org/artchives/hasSubjectObject": [
+      {
+        "interest": "https://w3id.org/artchives/MD1598621501831",
+        "interestLabel": "medals"
+      }
+    ],
+    "https://w3id.org/artchives/hasSubjectPeople": [
+      {
+        "interest": "http://www.wikidata.org/entity/Q5743139",
+        "interestLabel": "Karl Frey"
+      },
+      {
+        "interest": "https://w3id.org/artchives/MD1598621544200",
+        "interestLabel": "Rossi-Bombe fund"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q3057287",
+        "interestLabel": "Ernst Steinmann"
+      }
+    ],
+    "https://w3id.org/artchives/hasSubjectArtist": [
+      {
+        "interest": "http://www.wikidata.org/entity/Q470846",
+        "interestLabel": "Amico Aspertini"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q5592",
+        "interestLabel": "Michelangelo"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q309736",
+        "interestLabel": "Michelozzo"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q1156431",
+        "interestLabel": "Da Sangallo family"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q3237954",
+        "interestLabel": "Libro di Antonio Billi"
+      }
+    ],
+    "https://w3id.org/artchives/hasSubjectPeriod": [
+      {
+        "interest": "http://www.wikidata.org/entity/Q4692",
+        "interestLabel": "Renaissance"
+      }
+    ],
+    "https://w3id.org/artchives/hasSubjectGenre": [
+      {
+        "interest": "https://w3id.org/artchives/MD1598621422728",
+        "interestLabel": "Medallistic"
+      }
+    ]
+  },
+  "Korn\u00e9l Fabriczy": {
+    "URI": "http://www.wikidata.org/entity/Q995470",
+    "http://www.wikidata.org/prop/direct/P921": [
+      {
+        "interest": "http://www.wikidata.org/entity/Q616004",
+        "interestLabel": "Gaetano Milanesi"
+      },
+      {
+        "interest": "Art, Medieval"
+      },
+      {
+        "interest": "Italy--Florence"
+      },
+      {
+        "interest": "Architects"
+      },
+      {
+        "interest": "Brunelleschi, Filippo,"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q2044",
+        "interestLabel": "Florence"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q90",
+        "interestLabel": "Paris"
+      },
+      {
+        "interest": "Artists"
+      },
+      {
+        "interest": "Italy"
+      },
+      {
+        "interest": "Sangallo, Giuliano da,"
+      },
+      {
+        "interest": "Art"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q64607",
+        "interestLabel": "Wilhelm von Bode"
+      },
+      {
+        "interest": "Medals"
+      },
+      {
+        "interest": "Renaissance"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q59945",
+        "interestLabel": "Jacob Burckhardt"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q50641",
+        "interestLabel": "history of art"
+      },
+      {
+        "interest": "Art, Renaissance"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q1022",
+        "interestLabel": "Stuttgart"
+      },
+      {
+        "interest": "Travel"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q68455",
+        "interestLabel": "Heinrich Frey"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q38",
+        "interestLabel": "Italy"
+      },
+      {
+        "interest": "Painting"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q1404472",
+        "interestLabel": "Italian Renaissance"
+      },
+      {
+        "interest": "Art, Ancient"
+      },
+      {
+        "interest": "Art, Roman"
+      },
+      {
+        "interest": "Medals, Renaissance"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q84",
+        "interestLabel": "London"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q174330",
+        "interestLabel": "Filippo Brunelleschi"
+      },
+      {
+        "interest": "http://www.wikidata.org/entity/Q631286",
+        "interestLabel": "numismatics"
+      },
+      {
+        "interest": "Architecture"
+      },
+      {
+        "interest": "Art appreciation"
+      },
+      {
+        "interest": "Art, Italian"
+      }
+    ]
+  }
+}
