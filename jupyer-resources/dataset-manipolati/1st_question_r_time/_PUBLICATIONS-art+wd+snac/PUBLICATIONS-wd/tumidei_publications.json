@@ -1,0 +1,199 @@
+{
+  "resources": [
+    {
+      "title": "Duecento : forme e colori del Medioevo a Bologna",
+      "date": "2000",
+      "creators": {
+        "creator": "Tumidei"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Exhibition catalogs"
+      }
+    },
+    {
+      "title": "Marco Palmezzano : il Rinascimento nelle Romagne",
+      "date": "2005",
+      "creators": {
+        "creator": "Palmezzano, Marco",
+        "coCreator": "Tumidei"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Exhibition catalogs"
+      }
+    },
+    {
+      "title": "Bernini : la scultura in San Pietro",
+      "date": "1998",
+      "creators": {
+        "creator": "Bacchi, Andrea",
+        "coCreator": "Tumidei"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Catalogs"
+      }
+    },
+    {
+      "title": "Il Michelangelo incognito : Alessandro Menganti e le arti a Bologna nell'eta\u0300 della Controriforma",
+      "date": "2002",
+      "creators": {
+        "creator": "Tumidei"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Exhibition catalogs"
+      }
+    },
+    {
+      "title": "Studi in onore di Stefano Tumidei",
+      "date": "2016",
+      "creators": {
+        "creator": "Tumidei"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Studi sulla pittura in Emilia e in Romagna : da Melozzo a Federico Zuccari : 1987-2008",
+      "date": "2011",
+      "creators": {
+        "creator": "Tumidei, Stefano"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "La nobile villeggiatura : i Rasponi a Palazzo San Giacomo di Russi",
+      "date": "2004",
+      "creators": {
+        "creator": "Tumidei"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Bernin : la sculpture a\u0300 Saint-Pierre",
+      "date": "1998",
+      "creators": {
+        "creator": "Bacchi, Andrea",
+        "coCreator": "Tumidei"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "L'arte restaurata : quadreria civica e arredi lignei della Chiesa del Gesu",
+      "date": "1998",
+      "creators": {
+        "creator": "Tumidei"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Catalogs"
+      }
+    },
+    {
+      "title": "Antonio Trentanove e la scultura del Settecento in Romagna",
+      "date": "2016",
+      "creators": {
+        "creator": "Tumidei, Stefano"
+      },
+      "summary": "Il volume ricostruisce il percorso artistico dello scultore riminese Antonio Trentanove (1739/1740-1812), uno dei protagonisti della scultura neoclassica italiana al quale non era mai stata dedicata una trattazione di carattere monografico. Avviatosi all'arte in patria, Trentanove completo\u0300 gli studi all'Accademia Clementina di Bologna. Specializzatosi come scultore di figura, realizzo\u0300 numerose opere monumentali in tutti i maggiori centri della Romagna ma anche in Toscana, a Urbino e a Pesaro. In particolare, egli fu, insieme al pittore Felice Giani e agli architetti Giuseppe Pistocchi e Giovanni Antonio Antolini, uno dei protagonisti della brillante stagione neoclassica a Faenza. Lo studio di Stefano Tumidei e arricchito da un apparato di 450 immagini e dal catalogo completo delle opere di Trentanove, aggiornato e rivisto criticamente alla luce delle nuove acquisizioni. Di questo si da\u0300 conto nei saggi introduttivi firmati dai curatori Andrea Bacchi e Silvia Massari",
+      "recordType": "book",
+      "genres": {
+        "genre1": "Criticism, interpretation, etc",
+        "genre2": "Catalogs",
+        "genre3": "Catalogues raisonnes"
+      }
+    },
+    {
+      "title": "Un presepe napoletano del Settecento",
+      "date": "1999",
+      "creators": {
+        "creator": "Tumidei"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "History",
+        "genre2": "Exhibition catalogs"
+      }
+    },
+    {
+      "title": "Paysages d'Italie : les peintres du plein air, 1780-1830 : Galeries nationales du Grand Palais, Paris, 3 avril-9 juillet 2001 ; Centro Internazionale d'Arte e di Cultura di Palazzo Te, Mantoue, 1er septembre-16 decembre 2001",
+      "date": "2001",
+      "creators": {
+        "creator": "Ottani Cavina, Anna",
+        "coCreator": "Tumidei"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Exhibition catalogs"
+      }
+    },
+    {
+      "title": "Dell'eccellenza delle dame di Bologna : dodici busti di donne illustri bolognesi",
+      "date": "2003",
+      "creators": {
+        "creator": "Tumidei, Stefano"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Giovan Angelo del Maino : San Giovanni Evangelista",
+      "date": "1997",
+      "creators": {
+        "creator": "Tumidei"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Exhibition catalogs"
+      }
+    },
+    {
+      "title": "Un'aggiunta al 'Maestro dei Baldraccani' e qualche appunto sulla pittura romagnola del tardo Quattrocento",
+      "date": "1987",
+      "creators": {
+        "creator": "Tumidei, Stefano"
+      },
+      "recordType": "art"
+    },
+    {
+      "title": "Dedicato alla memoria di Stefano Tumidei (Forli 1962 - Bologna 2008)",
+      "date": "2008",
+      "creators": {
+        "creator": "Tumidei"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Antonio Balestra a Sant' Ignazio : un dipinto donato alla Pinacoteca nazionale di Bologna",
+      "date": "2007",
+      "creators": {
+        "creator": "Tumidei"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "L'arredo ligneo del Gesu",
+      "date": "1994",
+      "creators": {
+        "creator": "Tumidei, Stefano"
+      },
+      "recordType": "art"
+    },
+    {
+      "title": "Melozzo da Forli : fortuna, vicende, incontri di un artista prospettico",
+      "date": "1994",
+      "creators": {
+        "creator": "Tumidei, Stefano"
+      },
+      "recordType": "art"
+    },
+    {
+      "title": "Antoniazzo 'pictor urbis' : tre monografie",
+      "date": "1992",
+      "creators": {
+        "creator": "Tumidei, Stefano"
+      },
+      "recordType": "art"
+    }
+  ]
+}

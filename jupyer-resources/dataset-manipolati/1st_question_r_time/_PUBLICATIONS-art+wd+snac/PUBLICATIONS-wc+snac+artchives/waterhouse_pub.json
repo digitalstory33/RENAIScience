@@ -1,0 +1,651 @@
+{
+  "resources": [
+    {
+      "title": "Painting in Britain, 1530 to 1790",
+      "date": "1953",
+      "creators": {
+        "creator": "Waterhouse, Ellis Kirkham"
+      },
+      "summary": "\"The field covered by this volume includes the work and influence of foreign-born painters such as Holbein and Van Dyck as well as native masters from Gower and Hilliard to Gainsborough, Stubbs, and Sandby. We can follow step by step the development and flowering of British painting, and can compare, for example, the work of the English Sir Joshua Reynolds with the Scottish Allan Ramsay. Portrait and landscape, history piece, miniature, water colour, there is a record of them all. The text is both scholarly and eminently readable and the illustrations comprise well known examples of British painting and others seldom or never before reproduced between the covers of a book. This new edition includes an introductory essay by Michael Kitson bringing readers up-to-date with the latest approaches to the period, as well as colour plates and a revised bibliography.\"--Jacket",
+      "recordType": "book",
+      "genres": {
+        "genre1": "History"
+      }
+    },
+    {
+      "title": "Italian baroque painting",
+      "date": "1937",
+      "creators": {
+        "creator": "Waterhouse, Ellis Kirkham"
+      },
+      "summary": "Introduction to Italian painting of the 17th century, including such artists as Caravaggio, the Carracci, Cortona, and Castiglione",
+      "recordType": "book"
+    },
+    {
+      "title": "Gainsborough",
+      "date": "1958",
+      "creators": {
+        "creator": "Waterhouse, Ellis Kirkham"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Reynolds",
+      "date": "1973",
+      "creators": {
+        "creator": "Reynolds, Joshua",
+        "coCreator": "Waterhouse"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Biographies"
+      }
+    },
+    {
+      "title": "Roman baroque painting : a list of the principal painters and their works in and around Rome : with an introductory essay",
+      "date": "1976",
+      "creators": {
+        "creator": "Waterhouse, Ellis Kirkham"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "History",
+        "genre2": "Directories"
+      }
+    },
+    {
+      "title": "The dictionary of British 18th century painters in oils and crayons",
+      "date": "1981",
+      "creators": {
+        "creator": "Waterhouse, Ellis Kirkham"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Dictionaries",
+        "genre2": "Biographies"
+      }
+    },
+    {
+      "title": "Three decades of British art, 1740-1770",
+      "date": "1965",
+      "creators": {
+        "creator": "Waterhouse, Ellis Kirkham"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "History"
+      }
+    },
+    {
+      "title": "Italian baroque painting : with 200 illustrations",
+      "date": "1962",
+      "creators": {
+        "creator": "Waterhouse, Ellis Kirkham"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Directories"
+      }
+    },
+    {
+      "title": "The dictionary of 16th & 17th century British painters",
+      "date": "1988",
+      "creators": {
+        "creator": "Waterhouse, Ellis Kirkham"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Biography Dictionaries",
+        "genre2": "Dictionaries",
+        "genre3": "Biographies"
+      }
+    },
+    {
+      "title": "Reynolds",
+      "date": "1941",
+      "creators": {
+        "creator": "Reynolds, Joshua",
+        "coCreator": "Waterhouse"
+      },
+      "summary": "Levensbeschrijving, chronologische catalogus en 300 reproducties van voornamelijk portretten van de Engelse schilder Joshua Reynolds (1723-1792)",
+      "recordType": "book",
+      "genres": {
+        "genre1": "Catalogs"
+      }
+    },
+    {
+      "title": "Paintings",
+      "date": "1967",
+      "creators": {
+        "creator": "Waterhouse, Ellis Kirkham"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Catalogs"
+      }
+    },
+    {
+      "title": "Giorgione",
+      "date": "1974",
+      "creators": {
+        "creator": "Waterhouse, Ellis Kirkham"
+      },
+      "summary": "\"I invited my friend Petunia Pretty Paws to visit the Bay of Whales with me. But our trip got off on the wrong paw, and my relaxing vacation turned into a real nightmare. That is, until Petunia and I came across a great white whale that needed our help\" (publisher)",
+      "recordType": "book"
+    },
+    {
+      "title": "Baroque painting in Rome, the seventeenth century",
+      "date": "1937",
+      "creators": {
+        "creator": "Waterhouse, Ellis Kirkham"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "El Greco",
+      "date": "1978",
+      "creators": {
+        "creator": "El Greco",
+        "coCreator": "Waterhouse"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Catalogs"
+      }
+    },
+    {
+      "title": "Anthony van Dyck : Suffer little children to come unto me = Antoine van Dyck : Laissez les enfants venir a\u0300 moi",
+      "date": "1978",
+      "creators": {
+        "creator": "Van Dyck, Anthony",
+        "coCreator": "Waterhouse"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Art"
+      }
+    },
+    {
+      "title": "Reynolds",
+      "date": "1955",
+      "creators": {
+        "creator": "Reynolds, Joshua",
+        "coCreator": "Waterhouse"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Dutch painting",
+      "date": "1965",
+      "creators": {
+        "creator": "British Broadcasting Corporation",
+        "coCreator": "Waterhouse"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Thomas Gainsborough, 1727-1788 : an exhibition of paintings",
+      "date": "1953",
+      "creators": {
+        "creator": "Arts Council of Great Britain",
+        "coCreator": "Waterhouse"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Exhibition catalogs"
+      }
+    },
+    {
+      "title": "Titian's Diana & Actaeon",
+      "date": "1952",
+      "creators": {
+        "creator": "Waterhouse, Ellis Kirkham"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "The Robinson collection : paintings from the collection of the late Sir J.B. Robinson, Bt., now in the possession of the Princess Labia [selected from the Exhibition of the Robinson Collection held in the Diploma Gallery of the Royal Academy of Arts, London, from July 2nd to September 14th, 1958]",
+      "date": "1958",
+      "creators": {
+        "creator": "Royal Academy of Arts (Great Britain)",
+        "coCreator": "Waterhouse"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Exhibition catalogs"
+      }
+    },
+    {
+      "recordType": "ArchivalResource",
+      "title": "Director's Office Records, 1955-1977.",
+      "abstract": "The Director's Office records 1955-1977 are comprised almost entirely of business correspondence between the Director of the museum and other people and institutions though other records, such as receipts and publications, are occasionally present. During this nascent phase of the museum the Director's Office handled almost all aspects of business and consequently these files reflect a wide spectrum of museum concerns including publicity, acquisitions, finances, staff hiring, construction, and expansion of the museum. Some files are devoted to individuals and institutions while others are labelled with subjects such as Inquiries, Acquisitions, and Employment. The subject headings and content of the materials remains quite consistent throughout the years, even through the tenures of different Directors. ",
+      "creators": {
+        "creator1": "Bunnell, Peter C.",
+        "creator2": "American Mat Co.",
+        "creator3": "Sterling and Francine Clark Art Institute.",
+        "creator4": "Abbott, Stuart.",
+        "creator5": "Asher, Martha.",
+        "creator6": "Bancroft, Harding F. 1910-",
+        "creator7": "Banks, Talcott.",
+        "creator8": "Bareiss, Walter.",
+        "creator9": "Baxter, James Phinney, 1893-1975.",
+        "creator10": "Belluschi, Pietro, 1899-1994.",
+        "creator11": "Birkmeyer, Karl Martin.",
+        "creator12": "Block, Huntington T.",
+        "creator13": "Bonsal, Dudley B.",
+        "creator14": "Brainard, Franklin, 1920-1976.",
+        "creator15": "Brandt, Mortimer.",
+        "creator16": "Brooke, David S.",
+        "creator17": "Brooks, John H.",
+        "creator18": "Byer, Abner.",
+        "creator19": "Camfield, William A.",
+        "creator20": "Carleton, William E.",
+        "creator21": "Cass, David B.",
+        "creator22": "Cassels, Mrs. J. Donald.",
+        "creator23": "Chandler, John W.",
+        "creator24": "Chapman, F. Douglas.",
+        "creator25": "Chapman, Joseph.",
+        "creator26": "Clemens, Paul Lewis, 1911-1992.",
+        "creator27": "Cooper, Douglas, 1911-1984.",
+        "creator28": "Cunningham, Charles Crehore, 1910-1979.",
+        "creator29": "Cunningham, John J.",
+        "creator30": "Cutter, R. Ammi b. 1902.",
+        "creator31": "Dauterman, Carl Christian, 1908-",
+        "creator32": "Davey, Peter.",
+        "creator33": "Davis, Mary M.",
+        "creator34": "De Rham, Casimir, 1924-",
+        "creator35": "Dickson, Harold E., 1900-",
+        "creator36": "Donahue, Kenneth.",
+        "creator37": "Ehrmann, Jacques.",
+        "creator38": "Eitner, Lorenz.",
+        "creator39": "Ellin, Everett.",
+        "creator40": "Elsen, Albert Edward, 1927-",
+        "creator41": "Fernandez, Rafael, 1927-",
+        "creator42": "Fleming, John.",
+        "creator43": "Flynt, Henry N.",
+        "creator44": "Fowle, James W.",
+        "creator45": "Frankfurter, Alfred M.",
+        "creator46": "Friedman, Warner.",
+        "creator47": "Goggins, W. J.",
+        "creator48": "Goodwillie, Eugene W.",
+        "creator49": "Grigaut, Paul L.",
+        "creator50": "Guille, Peter, 1911-1970.",
+        "creator51": "Hadley, Rollin van N.",
+        "creator52": "Hall, Margaret H.",
+        "creator53": "Hamilton, George Heard.",
+        "creator54": "Haskell, Francis, 1928-",
+        "creator55": "Hatch, John Davis.",
+        "creator56": "Haverkamp Begemann, Egbert.",
+        "creator57": "Hiedemann, Vivian.",
+        "creator58": "Heineman, Andrew.",
+        "creator59": "Hendricks, Gordon.",
+        "creator60": "Heydenryk, Henry.",
+        "creator61": "Highet, Keith.",
+        "creator62": "How. John B.",
+        "creator63": "Hoyt, N. Deming.",
+        "creator64": "Huisman, Philippe.",
+        "creator65": "Ittman, William Mc. Jr.",
+        "creator66": "Jacobus, John M.",
+        "creator67": "Jaff, \u030c Michael, 1923-",
+        "creator68": "Joachim, Harold, 1909-1983.",
+        "creator69": "Johnson, Lyndon B. 1908-1973.",
+        "creator70": "Juynboll, Willem Rudolf, 1903-",
+        "creator71": "Ketteridge, George.",
+        "creator72": "Kimball, Robert B.",
+        "creator73": "Knox, George, 1922-",
+        "creator74": "Kohlmann, Hugo.",
+        "creator75": "Kopelman, Bernard.",
+        "creator76": "Lanes, Jerrold.",
+        "creator77": "Lehmann, Phyllis Williams, 1912-",
+        "creator78": "Lenz, Andrew N.",
+        "creator79": "Licht, Fred, 1928-",
+        "creator80": "Light, Robert M.",
+        "creator81": "Lockwood, Dunbar.",
+        "creator82": "Lockwood, Josephine D.",
+        "creator83": "Mrs. George Loring.",
+        "creator84": "Love, Iris.",
+        "creator85": "Low, Theodore.",
+        "creator86": "Mahoney, Leo E.",
+        "creator87": "McKinley, Ernest.",
+        "creator88": "McManus, G. Louis d. 2003.",
+        "creator89": "Meeks, Carroll L. V. 1907-1966.",
+        "creator90": "Miller, Lawrence K.",
+        "creator91": "Milliken, William.",
+        "creator92": "Montgomery, Charles Franklin, 1910.",
+        "creator93": "Morgan, Fiona.",
+        "creator94": "Mulhall, Marion E.",
+        "creator95": "Neff, John Hallmark.",
+        "creator96": "Neff, Terry Ann R.",
+        "creator97": "Norris, Christopher, 1947-",
+        "creator98": "Osborn, Mrs. Robert.",
+        "creator99": "Osman, William.",
+        "creator100": "Otterbourg, Edwin M. b. 1885.",
+        "creator101": "Parren, Albert J.",
+        "creator102": "Peabody, Mrs. Endicott.",
+        "creator103": "Perrotta, Joseph J.",
+        "creator104": "Perry, Daniel, d. 2002.",
+        "creator105": "Pope-Hennessy, John Wyndham, Sir, 1913-1994.",
+        "creator106": "Prentice, Spelman.",
+        "creator107": "Price, Aime(e Brown, 1939-",
+        "creator108": "Rand, Olan Alexander, 1931.",
+        "creator109": "Ray, Jacques.",
+        "creator110": "Rinehart, Michael.",
+        "creator111": "Ritchie, Andrew Carnduff.",
+        "creator112": "Roberts, Thomas.",
+        "creator113": "Robinson, Duncan.",
+        "creator114": "Robinson, Franklin Westcott.",
+        "creator115": "Rockwell, Thornton.",
+        "creator116": "Romano, Francesco.",
+        "creator117": "Rosenberg, Jakob, 1893-1980.",
+        "creator118": "Roy, Pat.",
+        "creator119": "Sandon, Henry.",
+        "creator120": "Sawyer, John E.",
+        "creator121": "Simon, Norton, 1907-1993.",
+        "creator122": "Sizer, Theodore.",
+        "creator123": "Slatkin, Charles E. (Charles Eli), 1907-1977.",
+        "creator124": "Smith, Datus Clifford, 1907-",
+        "creator125": "Sperling, Harry G.",
+        "creator126": "Stechow, Wolfgang, 1896-1974.",
+        "creator127": "Stroock, Paul A.",
+        "creator128": "Swope, Jeffery.",
+        "creator129": "Swartz, Gertrude Doughty.",
+        "creator130": "Tenney, Sara T.",
+        "creator131": "Thielker, Alan.",
+        "creator132": "Vakar, Nicholas P. 1894-1970.",
+        "creator133": "Varnedoe, Kirk, 1946-",
+        "creator134": "Waterhouse, Ellis Kirkham, 1905-",
+        "creator135": "Wees, J. Dustin, 1944-",
+        "creator136": "Wikander, E. Marie.",
+        "creator137": "Wohl, Hellmut.",
+        "creator138": "Sabin, Selma.",
+        "creator139": "Collins, William J., d. 1960.",
+        "creator140": "1896 House.",
+        "creator141": "Abercrombie & Fitch.",
+        "creator142": "Harry N. Abrams, Inc.",
+        "creator143": "Acoustiguide Corporation.",
+        "creator144": "Thos. Agnew and Sons Ltd.",
+        "creator145": "Akron Art Institute.",
+        "creator146": "Allis-Chalmers Manufacturing Company.",
+        "creator147": "Albany Institute of History and Art.",
+        "creator148": "American Association of Museums.",
+        "creator149": "American Blower Corporation.",
+        "creator150": "American Federation of Arts.",
+        "creator151": "American Library Color Slide Company.",
+        "creator152": "American Moistening Company.",
+        "creator153": "Architects Collaborative, Inc.",
+        "creator154": "Art Institute of Chicago.",
+        "creator155": "Art News.",
+        "creator156": "Art Quarterly.",
+        "creator157": "Aaron Ashley, Inc.",
+        "creator158": "Association of Art Museum Directors.",
+        "creator159": "Automatic Switch Co.",
+        "creator160": "Babcock-Davis Associates Inc.",
+        "creator161": "Baltimore Museum of Art.",
+        "creator162": "Barber Institute of Fine Arts.",
+        "creator163": "Barbara Bernard Show.",
+        "creator164": "Bass Museum of Art.",
+        "creator165": "Bay State Film Productions, inc.",
+        "creator166": "British Broadcasting Corporation.",
+        "creator167": "Beaulieu & Munroe.",
+        "creator168": "Bennington College.",
+        "creator169": "Berkshire Art Association.",
+        "creator170": "Berkshire Eagle.",
+        "creator171": "Berkshire County Historical Society.",
+        "creator172": "Berkshire Gas Company.",
+        "creator173": "Berkshire Hills Conference, inc.",
+        "creator174": "Berkshire Museum.",
+        "creator175": "Betz Laboratories, Inc.",
+        "creator176": "Blossom Shop.",
+        "creator177": "Blue Cross, Blue Shield.",
+        "creator178": "Sydney N. Blumberg Collection.",
+        "creator179": "Museum of Fine Arts, Boston.",
+        "creator180": "Breed, C.A., Inc.",
+        "creator181": "Bucky X-Ray International.",
+        "creator182": "Cappy's Carpets, Inc.",
+        "creator183": "Century Electric Co.",
+        "creator184": "Channel 2 WGBH Boston.",
+        "creator185": "Chicago Pump Company.",
+        "creator186": "Chicago Wheel & Mtg. Co.",
+        "creator187": "Christian Science Publishing Society.",
+        "creator188": "Christie, Manson & Woods.",
+        "creator189": "Clement, Albert E. Co. Inc.",
+        "creator190": "Cleveland Museum of Art.",
+        "creator191": "Coe Kerr Gallery.",
+        "creator192": "Cold Cathode Lighting Corp.",
+        "creator193": "Columbus Gallery of Fine Arts.",
+        "creator194": "College Art Association of America.",
+        "creator195": "Congregation Beth Israel.",
+        "creator196": "Corning Glass Works.",
+        "creator197": "Council on the Arts & Humanities.",
+        "creator198": "Couper Gallery.",
+        "creator199": "Cox, Warren E. Assocs. Inc.",
+        "creator200": "CH Cronin Inc.",
+        "creator201": "Cultural History Research, Inc.",
+        "creator202": "John F. Curry Agency.",
+        "creator203": "Cutler-Hammer, inc.",
+        "creator204": "Dartmouth College.",
+        "creator205": "Deerfield Academy.",
+        "creator206": "Detex Watchlock Corp.",
+        "creator207": "Detroit Institute of Arts.",
+        "creator208": "Doran Tile Company.",
+        "creator209": "Drey, M.H. Limited.",
+        "creator210": "Duveen Brothers.",
+        "creator211": "Electric Specialty Co.",
+        "creator212": "Excelsior Printing Co.",
+        "creator213": "Factory Insurance Association.",
+        "creator214": "Farjeon, Ballin & Co.",
+        "creator215": "Fidelity and Casualty Company of New York.",
+        "creator216": "Filing Equipment Bureau.",
+        "creator217": "Fire Equipment, Inc.",
+        "creator218": "Fogg Art Museum.",
+        "creator219": "Fore Loyalty Group.",
+        "creator220": "Ford Foundation.",
+        "creator221": "French & Company (New York, N.Y.)",
+        "creator222": "Frick Collection.",
+        "creator223": "Bendix Corporation.",
+        "creator224": "Allan Frumkin Gallery.",
+        "creator225": "George A. Fuller Company.",
+        "creator226": "General Bronze Corporation.",
+        "creator227": "Gowdy, E.P., Inc.",
+        "creator228": "Harris Poll.",
+        "creator229": "Norman Harrower.",
+        "creator230": "Heliochrome Co.",
+        "creator231": "Heim Gallery.",
+        "creator232": "A.H. Hews & Company, Inc.",
+        "creator233": "Hill-Stead Museum.",
+        "creator234": "Hirschl & Adler Modern.",
+        "creator235": "Hispanic Society of America.",
+        "creator236": "Hixon Electric Company.",
+        "creator237": "Hoftstater, Theo & Co.",
+        "creator238": "Hotel Westbury.",
+        "creator239": "Hoover Company.",
+        "creator240": "Hunter, J.B., Company.",
+        "creator241": "Hunter Machine Co.",
+        "creator242": "International Council of Museums.",
+        "creator243": "Indiana University. Museum of Art.",
+        "creator244": "International Exhibitions Foundation.",
+        "creator245": "International Institute for Conservation of Historic and Artistic Works.",
+        "creator246": "Isabella Stewart Gardner Museum.",
+        "creator247": "Kalker Properties, Inc.",
+        "creator248": "W.R. Keating & Company.",
+        "creator249": "Ken-More Supply Co.",
+        "creator250": "Knoedler Contemporary Art (New York, N.Y.)",
+        "creator251": "Samuel H. Kress Foundation.",
+        "creator252": "Lenox Garden Club (Lenox, Mass.)",
+        "creator253": "Los Angeles County Museum of Art.",
+        "creator254": "Liberty Mutual Insurance Company.",
+        "creator255": "Liquidometer Corp.",
+        "creator256": "Lunner Floor Service.",
+        "creator257": "Magovern Co., Inc.",
+        "creator258": "Marine Historical Association.",
+        "creator259": "Massachusetts Electric Co.",
+        "creator260": "McDonald, ML Company.",
+        "creator261": "McDonnel & Miller.",
+        "creator262": "McLauthlin, Geo T. Co.",
+        "creator263": "McMahon & Son, Co.",
+        "creator264": "Melanson Supply Co.",
+        "creator265": "Mendelssohn Glee Club.",
+        "creator266": "Metropolitan Museum of Art (New York, N.Y.)",
+        "creator267": "Metzger Brothers.",
+        "creator268": "Meyer, Strong & Jones Inc.",
+        "creator269": "Michael Hall Fine Arts.",
+        "creator270": "Middlebury College.",
+        "creator271": "Minneapolis-Honeywell Regulator Company.",
+        "creator272": "Mobeco, Inc.",
+        "creator273": "Molla Incorporated.",
+        "creator274": "Montreal Museum of Fine Arts.",
+        "creator275": "HD Moore.",
+        "creator276": "Moran, S. Roofing Co.",
+        "creator277": "Mosler Safe Company.",
+        "creator278": "Mount Greylock Regional School District.",
+        "creator279": "Mount Holyoke College.",
+        "creator280": "Museum of Fine Arts (Saint Petersburg, Fla.)",
+        "creator281": "Museum of Modern Art (New York, N.Y.)",
+        "creator282": "National Research Center of the Arts.",
+        "creator283": "National-Galerie (Germany)",
+        "creator284": "National Gallery of Art (U.S.)",
+        "creator285": "New Century Kraftsmen Co.",
+        "creator286": "New England Art Museum Directors.",
+        "creator287": "New England Telephone and Telegraph Company.",
+        "creator288": "New York State Historical Association.",
+        "creator289": "New York Times Company.",
+        "creator290": "North Adams State Teachers College.",
+        "creator291": "North Adams Transcript.",
+        "creator292": "Northern Berkshire Chamber of Commerce.",
+        "creator293": "Norton Simon Inc.",
+        "creator294": "Novelty Scenic Studios.",
+        "creator295": "Ontario Council on Graduate Studies.",
+        "creator296": "Packtor, Bernard M. Company.",
+        "creator297": "Paine Art Center & Arboretum.",
+        "creator298": "Pasadena Art Museum.",
+        "creator299": "Palmer, Dodge, Gardner, Bradford.",
+        "creator300": "Parke-Bernet Galleries.",
+        "creator301": "Patterson-Kelley Co., Inc.",
+        "creator302": "Peerless Electric Company.",
+        "creator303": "Pine Cobble School.",
+        "creator304": "Pinkerton's National Detective Agency.",
+        "creator305": "Pittsburgh Plate Glass Company.",
+        "creator306": "Princeton University.",
+        "creator307": "R.M. Light & Co.",
+        "creator308": "Radio Shack.",
+        "creator309": "Railway Express Agency.",
+        "creator310": "Remington Rand, Inc.",
+        "creator311": "Rhode Island School of Design.",
+        "creator312": "Robert Sterling Clark Foundation.",
+        "creator313": "Royal Globe Insurance Group.",
+        "creator314": "Sandak, inc.",
+        "creator315": "Stephen Sanford & Sons.",
+        "creator316": "Schaeffer Galleries (New York, N.Y.)",
+        "creator317": "Schwab Company.",
+        "creator318": "Schwartz, I., Glass & Mirror Co.",
+        "creator319": "Shoe String Press, Inc.",
+        "creator320": "Shorewood Publishers, inc., New York.",
+        "creator321": "H. Shickman Gallery.",
+        "creator322": "Smith College.",
+        "creator323": "Smithsonian Institution.",
+        "creator324": "Socit\u030c \u030cdes amis du Louvre.",
+        "creator325": "Socony-Vacuum Oil Company.",
+        "creator326": "Solomon R. Guggenheim Museum.",
+        "creator327": "Springfield Museum of Art.",
+        "creator328": "State Glass Company.",
+        "creator329": "Suhr, William, 1896-1984.",
+        "creator330": "Tapley-Rutter Company.",
+        "creator331": "TIAA-CREF Institute.",
+        "creator332": "Time-Life Productions.",
+        "creator333": "Towle Mfg. Company.",
+        "creator334": "Tri-State Industrial Laundries.",
+        "creator335": "Triton Museum of Art.",
+        "creator336": "Turner, Hugh J., Inc.",
+        "creator337": "University of Connecticut.",
+        "creator338": "University of Kansas.",
+        "creator339": "University of Minnesota.",
+        "creator340": "Vallieres Vogue Studio.",
+        "creator341": "Vermont Marble Company.",
+        "creator342": "E. Van Noorden Company.",
+        "creator343": "Walker & Co.",
+        "creator344": "Walters Art Gallery (Baltimore, Md.)",
+        "creator345": "Wheaton College (Norton, Mass.)",
+        "creator346": "Wildenstein & Co. (London, England)",
+        "creator347": "Williams College.",
+        "creator348": "Williams Inn.",
+        "creator349": "Williamstown National Bank.",
+        "creator350": "Williamstown Police Dept.",
+        "creator351": "Williamstown Water Department.",
+        "creator352": "Williamstown Theatre Festival.",
+        "creator353": "Emile Wolf Collection.",
+        "creator354": "Worcester Art Museum.",
+        "creator355": "Worthington Corporation.",
+        "creator356": "Yale University.",
+        "creator357": "York Compressor.",
+        "creator358": "James F. Drake, Inc.",
+        "creator359": "Lund Humphries."
+      }
+    },
+    {
+      "recordType": "ArchivalResource",
+      "title": "Letters received, 1952-1973.",
+      "abstract": "Collection consists of two letters from Robert R. Endicott, 1972 and 1973, discussing the art market and also concerning appraisals for Old Master paintings destroyed in a fire; a letter from Ellis K. Waterhouse, 1957, regarding a Gainsborough portrait (ca. 1786) of Lady Impey from the collection of Lord Curzon; and three letters from M.J. Friedla\u0308nder containing expert opinions on a variety of Old Master paintings and drawings, 1952-1953. With a copy of an expert opinion by Friedrich Winkler (1963), and a letter from G.R. Howell, archivist, New York State Library, to Miss Ester E. Hull, April 21, 1894, regarding a portrait of Columbus that she wishes to sell. ",
+      "creators": {
+        "creator1": "Weitzner, Julius.",
+        "creator2": "Endicott, Robert R.",
+        "creator3": "Friedla\u0308nder, Max J., 1867-1958.",
+        "creator4": "Waterhouse, Ellis Kirkham, 1905-",
+        "creator5": "Winkler, Friedrich, 1888-"
+      }
+    },
+    {
+      "recordType": "ArchivalResource",
+      "title": "Notebooks and research files, 1801-1987 (bulk 1924-1979).",
+      "abstract": "Collection documents Waterhouse's scholarly career. A major part of the archive consists of 67 notebooks, maintained from 1924 until his death in 1985, in which he recorded in detail every work of art seen in his travels in Europe, the United Kingdom and the United States. Research files include notes, draft catalogues, essays, lectures, photographs, annotated printed catalogues (mainly of British collections), and correspondence with art historians, curators, collectors and dealers. The subject matter covered includes British country houses, Reynolds, Gainsborough, El Greco, Italy and Italian Baroque art. There are a few personal items, such as photographs of Waterhouse's family. Included are photocopies of diaries (originals 1852-1857) thought to be the diaries of Sir Charles Eastlake, former Director of the National Gallery, London. ",
+      "creators": {
+        "creator1": "Waterhouse, Ellis Kirkham, 1905-",
+        "creator2": "Eastlake, Charles Lock, Sir, 1793-1865.",
+        "creator3": "Farrer, Edmund, b. 1848.",
+        "creator4": "Wood, Marguerite.",
+        "creator5": "Arts Council of Great Britain.",
+        "creator6": "Royal Academy of Arts (Great Britain).",
+        "creator7": "Detroit Institute of Arts.",
+        "creator8": "Walker Art Galleries (Minneapolis, Minn.)."
+      }
+    },
+    {
+      "recordType": "ArchivalResource",
+      "title": "Ellis Kirkham Waterhouse notebooks andresearch files 1801-1987 ca. 1924-ca. 1979",
+      "abstract": "The archive documents the scholarly career of Ellis Waterhouse, art historian and museum director. A major part of the archive consists of notebooks, maintained from 1924 until his death in 1985, in which he recorded paintings seen in private and public collections. The remainder of the papers are research materialson various subjects within art and architecture, manuscripts of lectures, notes on sales, and reviews by Waterhouse and others.",
+      "creators": {
+        "creator1": " Waterhouse, Ellis Kirkham, 1905-1985"
+      }
+    },
+    {
+      "recordType": "ArchivalResource",
+      "title": "Papers relating to British museums and art institutions, 1916-1990.",
+      "abstract": "These papers relating to several British museums and art institutions reflect Piper's tenure as director of the National Portrait Gallery (1964-1967), the Fitzwilliam Museum (1967-1973), and the Ashmolean Museum (1973-1985), as well as his position on various boards and institutions, such as the Royal Fine Art Commission and the Leeds Castle Foundation. The papers consist of letters, notes, essays, reports, clippings, and some single journal issues and promotional material concerning the arts in Britain. Incorporated are the miscellaneous papers of Isherwood Kay, Keeper at the National Gallery from 1933-1938. Dating mostly from 1924-1938, these papers include correspondence with members of the art world, including Collins Baker, Kenneth Clark, Charles Holmes, Ellis Waterhouse, Martin Davies, and others, as well as additional ephemera and a small collection of art postcards. Piper's literary manuscripts are not included. ",
+      "creators": {
+        "creator1": "Piper, David.",
+        "creator2": "Kay, H. Isherwood.",
+        "creator3": "Baker, Collins.",
+        "creator4": "Clark, Kenneth, 1903-1983.",
+        "creator5": "Davies, Martin, 1908-1975.",
+        "creator6": "Waterhouse, Ellis Kirkham, 1905-",
+        "creator7": "Holmes, C. J. (Charles John), 1868-1936.",
+        "creator8": "Fitzwilliam Museum."
+      }
+    },
+    {
+      "recordType": "ArchivalResource",
+      "title": "Notes and clippings, ca. 1820-1860, relating to Charles Matthews.",
+      "abstract": "Biographical newspaper clippings, extracts and offprints of articles relating to Matthews and his gallery of theatrical portraits. ",
+      "creators": {
+        "creator1": "Waterhouse, Ellis Kirkham, 1905-"
+      }
+    },
+    {
+      "recordType": "ArchivalResource",
+      "title": "Fragments of published items, 1675-1735.",
+      "abstract": "Collection consists of: 1 title page only for \"Teti' e flora, prologo della gran pastorale recitata in Parma ...\"  Parma: Seth & Erasmo Viotti, 1708; 1 half title page only for \"Il Palladio conservato, componimento drammatico rappresentato in musica nell'Imperial Corte\" 1735; and 15 pages of printed text dated 1675. ",
+      "creators": {
+        "creator1": "Waterhouse, Ellis Kirkham, 1905-"
+      }
+    }
+  ]
+}

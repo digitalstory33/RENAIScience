@@ -1,0 +1,195 @@
+{
+  "resources": [
+    {
+      "title": "Rom in der renaissance von Nicolaus V. bis auf Julius II",
+      "date": "1899",
+      "creators": {
+        "creator": "Steinmann, Ernst"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "History"
+      }
+    },
+    {
+      "title": "Ghirlandajo",
+      "date": "1897",
+      "creators": {
+        "creator": "Steinmann, Ernst"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Biographies"
+      }
+    },
+    {
+      "title": "Botticelli",
+      "date": "1901",
+      "creators": {
+        "creator": "Steinmann, Ernst"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Pinturicchio",
+      "date": "1898",
+      "creators": {
+        "creator": "Steinmann, Ernst"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Botticelli",
+      "date": "1897",
+      "creators": {
+        "creator": "Steinmann, Ernst"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Michelangelo-Bibliographie, 1927-1970",
+      "date": "1927",
+      "creators": {
+        "creator": "Steinmann, Ernst"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Bibliographies"
+      }
+    },
+    {
+      "title": "Pilgerfahrten in Italien",
+      "date": "1910",
+      "creators": {
+        "creator": "Gerstfeldt, Olga von",
+        "coCreator": "Steinmann"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Das geheimnis der Medicigraeber Michel Angelos",
+      "date": "1906",
+      "creators": {
+        "creator": "Steinmann, Ernst"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Die Sixtinische Kapelle",
+      "date": "1901",
+      "creators": {
+        "creator": "Steinmann, Ernst"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "History"
+      }
+    },
+    {
+      "title": "Michelangelo im Spiegel seiner Zeit",
+      "date": "1930",
+      "creators": {
+        "creator": "Steinmann, Ernst"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Criticism, interpretation, etc",
+        "genre2": "Pictorial works",
+        "genre3": "Bibliographies"
+      }
+    },
+    {
+      "title": "Michelangelo e Luigi del Riccio : con documenti inediti",
+      "date": "1932",
+      "creators": {
+        "creator": "Steinmann, Ernst"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Die Aufzeichnungen des Michelangelo Buonarroti im Britischen Museum in London und im Verma\u0308chtnis Ernst Steinmann in Rom",
+      "date": "1938",
+      "creators": {
+        "creator": "Michelangelo",
+        "coCreator": "Steinmann"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Catalogs"
+      }
+    },
+    {
+      "title": "Das Grabmal Pauls III. in St. Peter in Rom",
+      "date": "1912",
+      "creators": {
+        "creator": "Steinmann, Ernst"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Antonio da Viterbo: ein Beitrage zur Geschichte der umbrischen Malerschule um die Wende des XV Jahrhunderts",
+      "date": "1901",
+      "creators": {
+        "creator": "Steinmann, Ernst"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Die Portraitdarstellungen des Michelangelo",
+      "date": "1913",
+      "creators": {
+        "creator": "Steinmann, Ernst"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "Portraits"
+      }
+    },
+    {
+      "title": "Die Sixtinische Kapelle",
+      "date": "1901",
+      "creators": {
+        "creator": "Steinmann, Ernst"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "History"
+      }
+    },
+    {
+      "title": "Die Sixtinische Kapelle",
+      "date": "1905",
+      "creators": {
+        "creator": "Steinmann, Ernst"
+      },
+      "recordType": "book",
+      "genres": {
+        "genre1": "History"
+      }
+    },
+    {
+      "title": "Pinturicchio",
+      "date": "1898",
+      "creators": {
+        "creator": "Steinmann, Ernst"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Botticelli",
+      "date": "1903",
+      "creators": {
+        "creator": "Steinmann, Ernst"
+      },
+      "recordType": "book"
+    },
+    {
+      "title": "Botticelli",
+      "date": "1925",
+      "creators": {
+        "creator": "Steinmann, Ernst"
+      },
+      "recordType": "book"
+    }
+  ]
+}
