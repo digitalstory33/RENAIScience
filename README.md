@@ -1,6 +1,6 @@
 # RENAIScience
 
-Website link: https://digitalstory33.github.io/Renaissance/
+Website link: https://digitalstory33.github.io/RENAIScience/
 
 Jupyter notebook link: https://hub.gke2.mybinder.org/user/digitalstory33-renaiscience-mzclg5n4/tree
 
