@@ -3,7 +3,6 @@ body {
   padding: 0;
     background-image: url ("./image/mona.jpg");
     font-family:mord;
-   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
@@ -20,7 +19,21 @@ body {
   margin-bottom:50px;
 }
 
-h2 h3 {
+ h3 {
   font-family:mord;
-  font-size: 25px;
+  font-size: 20px;
+}
+
+h2{
+  font-family:mord;
+  font-weight:bold;
+  font-size:20;
+  text-align:justify;
+}
+  
+
+
+@font-face {
+  font-family: mord;
+  src: url(mord.ttf);
 }
