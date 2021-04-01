@@ -5,6 +5,10 @@ body {
   font-family:mord;
 }
 
+html {
+    height: 100%;
+}
+
 @font-face {
   font-family: mord;
   src: url(mord.ttf);
