@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?><Identity type="personal">
+  <creationtime>Tue Feb 23 23:33:07 2021 UTC</creationtime>
+  <pnkey>lccn-nr91000717</pnkey>
+  <audLevel>&lt;!--  actual audience min:0.00, avg:0.58, max:0.96  --&gt;<min>
+      <level>0.43</level>
+      <title>Inaugurazione della Mostra di Jacopo Barozzi "Il Vignola", nel quarto centenario della morte /</title>
+    </min>
+    <avg>
+      <level>0.53</level>
+    </avg>
+    <max>
+      <level>0.95</level>
+      <title>Architettura in Italia : 1500-1600 /</title>
+    </max>
+  </audLevel>
+  <authorityInfo>
+    <viafid>92084489</viafid>
+    <wikidataid>Q1296486</wikidataid>
+    <wikiLink>Wolfgang_Lotz_(art_historian)</wikiLink>
+    <lccn>nr 91000717</lccn>
+    <arn>2875278</arn>
+    <x400>
+      <rawName>
+        <suba>Lotz, Wolfgang</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Lotz, Wolfgang, 1912-</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Wolfgang Lotz</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Wolfgang Lotz deutscher Kunsthistoriker</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Wolfgang Lotz Duits kunsthistoricus (1912-1981)</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Wolfgang Lotz German art historian</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Wolfgang Lotz historiador de l'art alemany</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Wolfgang Lotz historiador del arte alemán</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Wolfgang Lotz historiador del arte alemán (1912–1981)</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Wolfgang Lotz historian gjerman i artit</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>ロッツ, ヴォルフガング</suba>
+      </rawName>
+    </x400>
+  </authorityInfo>
+  <associatedNames>
+    <name count="1194">
+      <normName>lccn-n80015696</normName>
+      <rawName>
+        <suba>Heydenreich, Ludwig H.</suba>
+        <subq>(Ludwig Heinrich)</subq>
+        <subd>1903-1978</subd>
+      </rawName>
+      <relator count="1">oth</relator>
+      <relator count="10">hnr</relator>
+      <relator count="962">aut</relator>
+      <relator count="18">ctb</relator>
+    </name>
+    <name count="871">
+      <normName>lccn-n80125645</normName>
+      <rawName>
+        <suba>Howard, Deborah</suba>
+        <subd>1946-</subd>
+      </rawName>
+      <relator count="7">aui</relator>
+      <relator count="1">oth</relator>
+      <relator count="16">edt</relator>
+    </name>
+    <name count="230">
+      <normName>lccn-n80125168</normName>
+      <rawName>
+        <suba>Möller, Lise Lotte</suba>
+        <subd>1912-</subd>
+      </rawName>
+      <relator count="1">oth</relator>
+      <relator count="18">ctb</relator>
+      <relator count="189">edt</relator>
+    </name>
+    <name count="112">
+      <normName>viaf-70252220</normName>
+      <rawName>
+        <suba>Hottinger, Mary</suba>
+      </rawName>
+      <relator count="8">trl</relator>
+    </name>
+    <name count="46">
+      <normName>lccn-nr96037546</normName>
+      <rawName>
+        <suba>Bulgarelli, Massimo</suba>
+      </rawName>
+      <relator count="18">edt</relator>
+    </name>
+    <name count="45">
+      <normName>lccn-n82222501</normName>
+      <rawName>
+        <suba>Vignola</suba>
+        <subd>1507-1573</subd>
+      </rawName>
+      <relator count="5">hnr</relator>
+    </name>
+    <name count="21">
+      <normName>lccn-n87888823</normName>
+      <rawName>
+        <suba>Coolidge, John</suba>
+      </rawName>
+    </name>
+    <name count="14">
+      <normName>np-casas, jose</normName>
+      <rawName>
+        <suba>Casas, José</suba>
+      </rawName>
+      <relator count="9">trl</relator>
+    </name>
+    <name count="14">
+      <normName>lccn-n90682634</normName>
+      <rawName>
+        <suba>Laguna, Carlos</suba>
+      </rawName>
+      <relator count="9">trl</relator>
+    </name>
+    <name count="13">
+      <normName>lccn-n82109292</normName>
+      <rawName>
+        <suba>Casotti, Maria Walcher</suba>
+      </rawName>
+    </name>
+  </associatedNames>
+  <nameInfo type="personal">
+    <rawName>
+      <suba>Lotz, Wolfgang</suba>
+      <subd>1912-1981</subd>
+    </rawName>
+    <genres>
+      <genre count="79" norm="1411628">History</genre>
+      <genre count="15" norm="1726453">Academic theses</genre>
+      <genre count="5" norm="1423772">Conference papers and proceedings</genre>
+      <genre count="1" norm="1424028">Exhibition catalogs</genre>
+    </genres>
+    <fastHeadings>
+      <fast count="3379" norm="1204565" size="5" tag="651">Italy</fast>
+      <fast count="3375" norm="813346" size="5" tag="650">Architecture</fast>
+      <fast count="3358" norm="813917" size="5" tag="650">Architecture, Renaissance</fast>
+      <fast count="2363" norm="1007807" size="5" tag="650">Mannerism (Architecture)</fast>
+      <fast count="58" norm="105162" size="5" tag="600">Vignola,</fast>
+      <fast count="52" norm="1710939" size="5" tag="650">Christian art and symbolism--Medieval</fast>
+      <fast count="52" norm="930451" size="5" tag="650">Fonts</fast>
+      <fast count="52" norm="1204409" size="5" tag="651">Italy--Siena</fast>
+      <fast count="52" norm="860667" size="5" tag="650">Church decoration and ornament</fast>
+      <fast count="25" norm="813806" size="5" tag="650">Architecture, Italian</fast>
+      <fast count="20" norm="1051051" size="4" tag="650">Painting, Renaissance</fast>
+      <fast count="13" norm="816786" size="4" tag="650">Art, Renaissance</fast>
+      <fast count="9" norm="1245081" size="4" tag="651">Northern Europe</fast>
+      <fast count="7" norm="813624" size="4" tag="650">Architecture, Baroque</fast>
+      <fast count="7" norm="840962" size="4" tag="650">Buildings</fast>
+      <fast count="7" norm="1204500" size="4" tag="651">Italy--Rome</fast>
+      <fast count="5" norm="1204477" size="4" tag="651">Italy--Tuscany</fast>
+      <fast count="5" norm="813226" size="4" tag="650">Architectural drawing</fast>
+      <fast count="4" norm="816430" size="4" tag="650">Art, Italian</fast>
+      <fast count="4" norm="1155558" size="4" tag="650">Travel</fast>
+      <fast count="1" norm="813159" size="3" tag="650">Architects and patrons</fast>
+      <fast count="1" norm="815177" size="3" tag="650">Art</fast>
+      <fast count="1" norm="1119851" size="3" tag="650">Sixteenth century</fast>
+      <fast count="1" norm="923962" size="3" tag="650">Fifteenth century</fast>
+    </fastHeadings>
+    <languages count="7">
+      <lang code="eng" count="87"/>
+      <lang code="ger" count="48"/>
+      <lang code="ita" count="45"/>
+      <lang code="spa" count="14"/>
+      <lang code="jpn" count="3"/>
+      <lang code="fre" count="1"/>
+      <lang code="mis" count="1"/>
+    </languages>
+    <birthDate>1912</birthDate>
+    <deathDate>1981</deathDate>
+    <dates>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1912</date>
+      <date byCount="11" byScaled="3.46" count="11" scaled="3.46">1938</date>
+      <date byCount="9" byScaled="3.17" count="9" scaled="3.17">1939</date>
+      <date byCount="6" byScaled="2.58" count="6" scaled="2.58">1940</date>
+      <date byCount="5" byScaled="2.32" count="5" scaled="2.32">1941</date>
+      <date byCount="3" byScaled="1.58" count="3" scaled="1.58">1942</date>
+      <date byCount="5" byScaled="2.32" count="5" scaled="2.32">1948</date>
+      <date byCount="6" byScaled="2.58" count="6" scaled="2.58">1949</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1951</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">1952</date>
+      <date byCount="3" byScaled="1.58" count="3" scaled="1.58">1953</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">1954</date>
+      <date byCount="7" byScaled="2.81" count="7" scaled="2.81">1955</date>
+      <date byCount="4" byScaled="2.00" count="4" scaled="2.00">1956</date>
+      <date byCount="9" byScaled="3.17" count="9" scaled="3.17">1958</date>
+      <date byCount="4" byScaled="2.00" count="4" scaled="2.00">1961</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">1962</date>
+      <date byCount="4" byScaled="2.00" count="4" scaled="2.00">1963</date>
+      <date byCount="20" byScaled="4.32" count="20" scaled="4.32">1964</date>
+      <date byCount="4" byScaled="2.00" count="4" scaled="2.00">1965</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">1966</date>
+      <date byCount="12" byScaled="3.58" count="12" scaled="3.58">1967</date>
+      <date byCount="4" byScaled="2.00" count="4" scaled="2.00">1968</date>
+      <date byCount="6" byScaled="2.58" count="6" scaled="2.58">1969</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1971</date>
+      <date byCount="4" byScaled="2.00" count="4" scaled="2.00">1972</date>
+      <date byCount="18" byScaled="4.17" count="18" scaled="4.17">1973</date>
+      <date byCount="38" byScaled="5.25" count="38" scaled="5.25">1974</date>
+      <date byCount="14" byScaled="3.81" count="14" scaled="3.81">1975</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">1976</date>
+      <date byCount="17" byScaled="4.09" count="17" scaled="4.09">1977</date>
+      <date byCount="7" byScaled="2.81" count="7" scaled="2.81">1979</date>
+      <date byCount="4" byScaled="2.00" count="4" scaled="2.00">1981</date>
+      <date byCount="5" byScaled="2.32" count="5" scaled="2.32">1983</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1984</date>
+      <date byCount="5" byScaled="2.32" count="5" scaled="2.32">1985</date>
+      <date byCount="4" byScaled="2.00" count="4" scaled="2.00">1987</date>
+      <date byCount="8" byScaled="3.00" count="8" scaled="3.00">1989</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1990</date>
+      <date byCount="3" byScaled="1.58" count="3" scaled="1.58">1991</date>
+      <date byCount="25" byScaled="4.64" count="25" scaled="4.64">1995</date>
+      <date byCount="5" byScaled="2.32" count="5" scaled="2.32">1996</date>
+      <date byCount="23" byScaled="4.52" count="23" scaled="4.52">1997</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1998</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">1999</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">2000</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">2002</date>
+      <date byCount="4" byScaled="2.00" count="4" scaled="2.00">2007</date>
+      <date byCount="4" byScaled="2.00" count="4" scaled="2.00">2008</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">2010</date>
+    </dates>
+    <totalHoldings>3698</totalHoldings>
+    <workCount>140</workCount>
+    <recordCount>342</recordCount>
+    <ddc ident="">720.945</ddc>
+    <lcc ident="NA1115">NA1115</lcc>
+    <relators>
+      <relator code="aut" count="2345">
+        <oclcnum count="798">ocn002493533</oclcnum>
+        <oclcnum count="749">ocn032468791</oclcnum>
+        <oclcnum count="47">ocn012350330</oclcnum>
+        <oclcnum count="23">ocn214994045</oclcnum>
+        <oclcnum count="19">ocn008351237</oclcnum>
+        <oclcnum count="18">ocn797373149</oclcnum>
+        <oclcnum count="17">ocn023063687</oclcnum>
+        <oclcnum count="16">ocn037642319</oclcnum>
+        <oclcnum count="15">ocn799962099</oclcnum>
+        <oclcnum count="14">ocn015258281</oclcnum>
+      </relator>
+      <relator code="edt" count="189">
+        <oclcnum count="174">ocn001051588</oclcnum>
+        <oclcnum count="10">ocn310086759</oclcnum>
+        <oclcnum count="3">ocn680418738</oclcnum>
+        <oclcnum count="1">ocn460450978</oclcnum>
+        <oclcnum count="1">ocn1176068998</oclcnum>
+      </relator>
+      <relator code="ctb" count="39">
+        <oclcnum count="21">ocn605441493</oclcnum>
+        <oclcnum count="18">ocn602088799</oclcnum>
+      </relator>
+      <relator code="oth" count="6">
+        <oclcnum count="4">ocn886602951</oclcnum>
+        <oclcnum count="1">ocn186791449</oclcnum>
+        <oclcnum count="1">ocn186081021</oclcnum>
+      </relator>
+    </relators>
+  </nameInfo>
+  <by>
+    <citation ident="newwork2493533">
+      <holdings>1042</holdings>
+      <numEditions>47</numEditions>
+      <oclcnum>ocn002493533</oclcnum>
+      <recordType>book</recordType>
+      <languages count="5">
+        <lang code="eng" count="25"/>
+        <lang code="ita" count="16"/>
+        <lang code="jpn" count="3"/>
+        <lang code="und" count="2"/>
+        <lang code="ger" count="1"/>
+      </languages>
+      <date>1975</date>
+      <dates different="11" first="1975" last="2008"/>
+      <audLevel>0.60</audLevel>
+      <creator ident="92084489,nr91000717">Lotz, Wolfgang</creator>
+      <title>Studies in Italian Renaissance architecture</title>
+      <genres>
+        <genre count="2" norm="history">History</genre>
+      </genres>
+      <cover isbn="9780262620369" oclc="ocn256776058" type="isbn">+-+4185717175324</cover>
+    </citation>
+    <citation ident="newwork963701">
+      <holdings>919</holdings>
+      <numEditions>33</numEditions>
+      <oclcnum>ocn000963701</oclcnum>
+      <recordType>book</recordType>
+      <languages count="3">
+        <lang code="eng" count="31"/>
+        <lang code="ger" count="1"/>
+        <lang code="und" count="1"/>
+      </languages>
+      <date>1972</date>
+      <dates different="4" first="1972" last="2007"/>
+      <audLevel>0.52</audLevel>
+      <creator ident="36962457,n80015696">Heydenreich, Ludwig H</creator>
+      <title>Architecture in Italy, 1400 to 1600</title>
+      <genres>
+        <genre count="55" norm="history">History</genre>
+      </genres>
+      <summary>In 15th-century Florence, Brunelleschi's buildings and Alberti's treatise first established the principles of Italian Renaissance architecture in practice and theory. This survey ranges from Brunelleschi's dome for the Florence Cathedral to the works of Bramante and Leonardo in the Quattrocento</summary>
+      <cover isbn="0300064675" oclc="ocn1110158841" type="isbn">+-+0219155585</cover>
+    </citation>
+    <citation ident="newwork32468791">
+      <holdings>850</holdings>
+      <numEditions>25</numEditions>
+      <oclcnum>ocn032468791</oclcnum>
+      <recordType>book</recordType>
+      <languages count="4">
+        <lang code="eng" count="22"/>
+        <lang code="spa" count="1"/>
+        <lang code="ita" count="1"/>
+        <lang code="und" count="1"/>
+      </languages>
+      <date>1995</date>
+      <dates different="2" first="1995" last="1996"/>
+      <audLevel>0.52</audLevel>
+      <creator ident="92084489,nr91000717">Lotz, Wolfgang</creator>
+      <title>Architecture in Italy, 1500-1600</title>
+      <summary>Moving between the various centres of architectural activity throughout Italy, Wolfgang Lotz discusses with authority the work of such well-known architects as Bramante, Giulio Romano, Michelangelo and Palladio. He focuses on the different schemes for St Peter's in Rome, the projects connected with the church of S. Lorenzo in Florence and the churches and villas designed by Palladio in and around Venice. And yet Lotz also goes beyond the more familiar locations, architects and buildings to conquer less well-known territories, exploring Piedmont and Vitozzi and ending with a study of bizzarrie. Lotz's distinguished and highly readable text is now reissued accompanied by a wide range of beautiful illustrations and a critical introduction and updated bibliography by Deborah Howard. Dr Howard assesses Lotz's standing as an architectural historian, and surveys the developments in the discipline and the new material published since the first edition</summary>
+      <cover isbn="9780300064681" oclc="ocn317853187" type="isbn">+-+6319155585324</cover>
+    </citation>
+    <citation ident="newwork1051588">
+      <holdings>228</holdings>
+      <numEditions>14</numEditions>
+      <oclcnum>ocn001051588</oclcnum>
+      <recordType>book</recordType>
+      <languages count="3">
+        <lang code="ger" count="12"/>
+        <lang code="mis" count="1"/>
+        <lang code="ita" count="1"/>
+      </languages>
+      <date>1964</date>
+      <dates different="1" first="1964" last="1964"/>
+      <audLevel>0.92</audLevel>
+      <creator ident="92084489,nr91000717">Lotz, Wolfgang</creator>
+      <title>Studien zur toskanischen Kunst; Festschrift für Ludwig Heinrich Heydenreich zum 23. März 1963</title>
+    </citation>
+    <citation ident="newwork14589406">
+      <holdings>77</holdings>
+      <numEditions>5</numEditions>
+      <oclcnum>ocn014589406</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="5"/>
+      </languages>
+      <date>1912</date>
+      <dates different="2" first="1912" last="1948"/>
+      <audLevel>0.79</audLevel>
+      <creator ident="92084489,nr91000717">Lotz, Wolfgang</creator>
+      <title>Der Taufbrunnen des Baptisteriums zu Siena</title>
+    </citation>
+    <citation ident="newwork39323909">
+      <holdings>48</holdings>
+      <numEditions>11</numEditions>
+      <oclcnum>ocn433377199</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="spa" count="11"/>
+      </languages>
+      <date>1991</date>
+      <dates different="5" first="1991" last="2010"/>
+      <audLevel>0.36</audLevel>
+      <creator ident="36962457,n80015696">Heydenreich, Ludwig H</creator>
+      <title>Arquitectura en Italia, 1400-1600</title>
+    </citation>
+    <citation ident="newwork186791449">
+      <holdings>38</holdings>
+      <numEditions>9</numEditions>
+      <oclcnum>ocn600654566</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="ita" count="8"/>
+        <lang code="fre" count="1"/>
+      </languages>
+      <date>1975</date>
+      <dates different="1" first="1975" last="1975"/>
+      <audLevel>0.32</audLevel>
+      <creator ident="39372701,n50036883">Ackerman, James S</creator>
+      <title>Galeazzo Alessi e l'architettura del Cinquecento : atti del convegno internazionale di studi Genova 16-20 Aprile 1974</title>
+      <genres>
+        <genre count="21" norm="history">History</genre>
+        <genre count="5" norm="conference papers and proceedings">Conference papers and proceedings</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork464182163">
+      <holdings>31</holdings>
+      <numEditions>9</numEditions>
+      <oclcnum>ocn797601071</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ita" count="9"/>
+      </languages>
+      <date>1997</date>
+      <dates different="4" first="1997" last="2010"/>
+      <audLevel>0.47</audLevel>
+      <creator ident="92084489,nr91000717">Lotz, Wolfgang</creator>
+      <title>Architettura in Italia : 1500-1600</title>
+    </citation>
+    <citation ident="newwork9963457">
+      <holdings>31</holdings>
+      <numEditions>8</numEditions>
+      <oclcnum>ocn015258281</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="ger" count="6"/>
+        <lang code="und" count="2"/>
+      </languages>
+      <date>1938</date>
+      <dates different="2" first="1938" last="1939"/>
+      <audLevel>0.96</audLevel>
+      <creator ident="92084489,nr91000717">Lotz, Wolfgang</creator>
+      <title>Vignola-Studien</title>
+      <genres>
+        <genre count="15" norm="academic theses">Academic theses</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork8351237">
+      <holdings>31</holdings>
+      <numEditions>4</numEditions>
+      <oclcnum>ocn008351237</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="eng" count="4"/>
+      </languages>
+      <date>1955</date>
+      <dates different="2" first="1955" last="1958"/>
+      <audLevel>0.68</audLevel>
+      <creator ident="92084489,nr91000717">Lotz, Wolfgang</creator>
+      <title>The northern renaissance</title>
+    </citation>
+    <citation ident="newwork72224576">
+      <holdings>26</holdings>
+      <numEditions>6</numEditions>
+      <oclcnum>ocn491077447</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="6"/>
+      </languages>
+      <date>1939</date>
+      <dates different="1" first="1939" last="1939"/>
+      <audLevel>0.34</audLevel>
+      <creator ident="92084489,nr91000717">Lotz, Wolfgang</creator>
+      <title>Vignola-Studien. Beiträge zu einer Vignola-Monographie</title>
+    </citation>
+    <citation ident="newwork1935566">
+      <holdings>16</holdings>
+      <numEditions>7</numEditions>
+      <oclcnum>ocn883678048</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="ita" count="6"/>
+        <lang code="und" count="1"/>
+      </languages>
+      <date>1973</date>
+      <dates different="1" first="1973" last="1973"/>
+      <audLevel>0.92</audLevel>
+      <creator ident="149911231">Mostra di Jacopo Barozzi detto il Vignola. &lt;1973 - 1974, Vignola&gt;</creator>
+      <title>Mostra di Jacopo Barozzi detto il Vignola</title>
+      <genres>
+        <genre count="1" norm="history">History</genre>
+        <genre count="1" norm="exhibition catalogs">Exhibition catalogs</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork434064976">
+      <holdings>15</holdings>
+      <numEditions>3</numEditions>
+      <oclcnum>ocn434064976</oclcnum>
+      <recordType>mix</recordType>
+      <languages count="2">
+        <lang code="spa" count="2"/>
+        <lang code="und" count="1"/>
+      </languages>
+      <date>1985</date>
+      <dates different="1" first="1985" last="1985"/>
+      <audLevel>0.47</audLevel>
+      <creator ident="92084489,nr91000717">Lotz, Wolfgang</creator>
+      <title>La arquitectura del Renacimiento en Italia : estudios</title>
+    </citation>
+    <citation ident="newwork74663320">
+      <holdings>13</holdings>
+      <numEditions>3</numEditions>
+      <oclcnum>ocn251820508</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="3"/>
+      </languages>
+      <date>1983</date>
+      <dates different="1" first="1983" last="1983"/>
+      <audLevel>0.64</audLevel>
+      <creator ident="92084489,nr91000717">Lotz, Wolfgang</creator>
+      <title>Wege zu höherer Treffsicherheit und Formteilqualität im Coldbox-Verfahren</title>
+    </citation>
+    <citation ident="newwork504886505">
+      <holdings>8</holdings>
+      <numEditions>5</numEditions>
+      <oclcnum>ocn886391101</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="eng" count="5"/>
+      </languages>
+      <date>1955</date>
+      <dates different="2" first="1955" last="1958"/>
+      <audLevel>0.47</audLevel>
+      <creator ident="92084489,nr91000717">Lotz, Wolfgang</creator>
+      <title>The northern Renaissance</title>
+    </citation>
+    <citation ident="newwork83912654">
+      <holdings>8</holdings>
+      <numEditions>4</numEditions>
+      <oclcnum>ocn886391067</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ita" count="4"/>
+      </languages>
+      <date>1973</date>
+      <dates different="1" first="1973" last="1973"/>
+      <audLevel>0.00</audLevel>
+      <creator ident="92084489,nr91000717">Lotz, Wolfgang</creator>
+      <title>Inaugurazione della Mostra di Jacopo Barozzi "Il Vignola", nel quarto centenario della morte</title>
+    </citation>
+    <citation ident="newwork7288911">
+      <holdings>8</holdings>
+      <numEditions>3</numEditions>
+      <oclcnum>ocn007288911</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="ger" count="2"/>
+        <lang code="und" count="1"/>
+      </languages>
+      <date>1938</date>
+      <dates different="1" first="1938" last="1938"/>
+      <audLevel>0.90</audLevel>
+      <creator ident="92084489,nr91000717">Lotz, Wolfgang</creator>
+      <title>Vignola-Zeichnungen</title>
+    </citation>
+    <citation ident="newwork18180902">
+      <holdings>8</holdings>
+      <numEditions>4</numEditions>
+      <oclcnum>ocn018180902</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="4"/>
+      </languages>
+      <date>1956</date>
+      <dates different="1" first="1956" last="1956"/>
+      <audLevel>0.94</audLevel>
+      <creator ident="92084489,nr91000717">Lotz, Wolfgang</creator>
+      <title>Das Raumbild in der italienischen Architekturzeichnung der Renaissance</title>
+    </citation>
+    <citation ident="newwork9786812">
+      <holdings>6</holdings>
+      <numEditions>4</numEditions>
+      <oclcnum>ocn916038960</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="4"/>
+      </languages>
+      <date>1967</date>
+      <dates different="1" first="1967" last="1967"/>
+      <audLevel>0.47</audLevel>
+      <creator ident="92084489,nr91000717">Lotz, Wolfgang</creator>
+      <title>Der Palazzo Zuccari in Rom : ein Künstlerhaus des 16. Jahrhunderts als Sitz eines Max-Planck-Instituts</title>
+    </citation>
+    <citation ident="newwork77895026">
+      <holdings>6</holdings>
+      <numEditions>4</numEditions>
+      <oclcnum>ocn837920500</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="4"/>
+      </languages>
+      <date>1968</date>
+      <dates different="1" first="1968" last="1968"/>
+      <audLevel>0.94</audLevel>
+      <creator ident="92084489,nr91000717">Lotz, Wolfgang</creator>
+      <title>Italienische Plätze des 16. Jahrhunderts</title>
+    </citation>
+  </by>
+  <bestCover oclc="ocn317853187" type="isbn">+-+6319155585324</bestCover>
+  <admin:administrativeMetadata xmlns:admin="http://viaf.org/xa/administrativeMetadata">
+    <admin:administrativeMetadataInstance>
+      <admin:administrativeMetadataDate>Thu Feb 25 11:48:09 EST 2021</admin:administrativeMetadataDate>
+      <admin:administrativeMetadataUser>batch</admin:administrativeMetadataUser>
+      <admin:administrativeMetadataRecordLength>16670</admin:administrativeMetadataRecordLength>
+    </admin:administrativeMetadataInstance>
+  </admin:administrativeMetadata>
+</Identity>

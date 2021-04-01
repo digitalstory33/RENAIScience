@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="UTF-8"?><Identity type="personal">
+  <creationtime>Tue Feb 23 23:33:42 2021 UTC</creationtime>
+  <pnkey>lccn-n80128603</pnkey>
+  <audLevel>&lt;!--  actual audience min:0.00, avg:0.78, max:0.97  --&gt;<min>
+      <level>0.51</level>
+      <title>Ulrich A. Middeldorf : curriculum vitae [and bibliography until 1963]</title>
+    </min>
+    <avg>
+      <level>0.70</level>
+    </avg>
+    <max>
+      <level>1.00</level>
+      <title>E.P. (Edgar Preston) and Constance Richardson papers,</title>
+    </max>
+  </audLevel>
+  <authorityInfo>
+    <viafid>37041360</viafid>
+    <wikidataid>Q1715096</wikidataid>
+    <lccn>n  80128603</lccn>
+    <arn>509008</arn>
+    <x400>
+      <rawName>
+        <suba>Middeldorf, Ulrich 1901-</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Middeldorf, Ulrich Alexander.</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Middeldorf, Ulrich Alexander 1901-1983</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Ulrich Middeldorf</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Ulrich Middeldorf deutsch-amerikanischer Kunsthistoriker</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Ulrich Middeldorf Duits kunsthistoricus (1901-1983)</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Ulrich Middeldorf German art historian</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Ulrich Middeldorf historiador de l'art alemany</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Ulrich Middeldorf historiador del arte alemán</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Ulrich Middeldorf historiador del arte alemán (1901–1983)</suba>
+      </rawName>
+    </x400>
+    <x400>
+      <rawName>
+        <suba>Ulrich Middeldorf historian gjerman i artit</suba>
+      </rawName>
+    </x400>
+  </authorityInfo>
+  <associatedNames>
+    <name count="424">
+      <normName>lccn-n50059075</normName>
+      <rawName>
+        <suba>Samuel H. Kress Foundation</suba>
+      </rawName>
+    </name>
+    <name count="409">
+      <normName>lccn-n79054426</normName>
+      <rawName>
+        <suba>National Gallery of Art (U.S.)</suba>
+      </rawName>
+    </name>
+    <name count="408">
+      <normName>lccn-nr94024820</normName>
+      <rawName>
+        <suba>Kress, Samuel H.</suba>
+        <subq>(Samuel Henry)</subq>
+        <subd>1863-1955</subd>
+      </rawName>
+      <relator count="3">oth</relator>
+    </name>
+    <name count="367">
+      <normName>lccn-n79041756</normName>
+      <rawName>
+        <suba>Raphael</suba>
+        <subd>1483-1520</subd>
+      </rawName>
+      <relator count="6">oth</relator>
+      <relator count="1">art</relator>
+      <relator count="45">aut</relator>
+    </name>
+    <name count="229">
+      <normName>lccn-n85340937</normName>
+      <rawName>
+        <suba>Middeldorf Kosegarten, Antje</suba>
+      </rawName>
+      <relator count="1">oth</relator>
+      <relator count="10">ctb</relator>
+      <relator count="176">edt</relator>
+    </name>
+    <name count="222">
+      <normName>lccn-no2009033600</normName>
+      <rawName>
+        <suba>Tigler, Peter</suba>
+      </rawName>
+      <relator count="3">oth</relator>
+      <relator count="177">edt</relator>
+    </name>
+    <name count="161">
+      <normName>lccn-n2006000015</normName>
+      <rawName>
+        <suba>Goetz, Oswald</suba>
+        <subd>1896-1960</subd>
+      </rawName>
+    </name>
+    <name count="145">
+      <normName>lccn-n78096940</normName>
+      <rawName>
+        <suba>Art Institute of Chicago</suba>
+      </rawName>
+      <relator count="6">oth</relator>
+    </name>
+    <name count="138">
+      <normName>lccn-n2006000027</normName>
+      <rawName>
+        <suba>Morgenroth, Sigmund</suba>
+      </rawName>
+      <relator count="132">aut</relator>
+    </name>
+    <name count="131">
+      <normName>lccn-n83062905</normName>
+      <rawName>
+        <suba>Prinz, Wolfram</suba>
+      </rawName>
+      <relator count="9">oth</relator>
+      <relator count="88">aut</relator>
+    </name>
+  </associatedNames>
+  <nameInfo type="personal">
+    <rawName>
+      <suba>Middeldorf, Ulrich</suba>
+      <subd>1901-1983</subd>
+    </rawName>
+    <genres>
+      <genre count="680" norm="1423692">Catalogs</genre>
+      <genre count="286" norm="1423702">Art</genre>
+      <genre count="97" norm="1424028">Exhibition catalogs</genre>
+      <genre count="6" norm="1411635">Criticism, interpretation, etc</genre>
+    </genres>
+    <fastHeadings>
+      <fast count="421" norm="1013537" size="5" tag="650">Medals</fast>
+      <fast count="415" norm="815314" size="5" tag="650">Art--Private collections</fast>
+      <fast count="388" norm="343038" size="5" tag="600">Kress, Samuel H.--(Samuel Henry),</fast>
+      <fast count="388" norm="1109680" size="5" tag="650">Sculpture, Gothic</fast>
+      <fast count="388" norm="532733" size="5" tag="610">National Gallery of Art (U.S.)</fast>
+      <fast count="388" norm="1109833" size="5" tag="650">Sculpture, Renaissance</fast>
+      <fast count="388" norm="1109788" size="5" tag="650">Sculpture, Modern</fast>
+      <fast count="317" norm="1204565" size="5" tag="651">Italy</fast>
+      <fast count="314" norm="815177" size="5" tag="650">Art</fast>
+      <fast count="308" norm="33853" size="5" tag="600">Raphael,</fast>
+      <fast count="272" norm="1066256" size="4" tag="650">Plaques, plaquettes</fast>
+      <fast count="194" norm="1094518" size="4" tag="650">Renaissance</fast>
+      <fast count="143" norm="1245064" size="4" tag="651">Europe</fast>
+      <fast count="101" norm="1111843" size="4" tag="650">Self-portraits</fast>
+      <fast count="98" norm="1204699" size="4" tag="651">Italy--Florence</fast>
+      <fast count="96" norm="1898642" size="4" tag="600">Middeldorf, Ulrich,</fast>
+      <fast count="86" norm="1013559" size="4" tag="650">Medals, Renaissance</fast>
+      <fast count="84" norm="1210515" size="4" tag="651">Indiana--Bloomington</fast>
+      <fast count="83" norm="527231" size="4" tag="610">Indiana University, Bloomington.--Art Museum</fast>
+      <fast count="63" norm="1093718" size="4" tag="650">Relief (Sculpture), Italian</fast>
+      <fast count="63" norm="1093730" size="3" tag="650">Relief (Sculpture), Renaissance</fast>
+      <fast count="61" norm="1206046" size="3" tag="651">Italy--Assisi</fast>
+      <fast count="61" norm="570190" size="3" tag="610">San Francesco (Church : Assisi, Italy)</fast>
+      <fast count="61" norm="858904" size="3" tag="650">Christian art and symbolism</fast>
+      <fast count="57" norm="1066259" size="3" tag="650">Plaques, plaquettes--Private collections</fast>
+      <fast count="34" norm="1026546" size="3" tag="650">Mortars</fast>
+      <fast count="32" norm="32491" size="3" tag="600">Hammer, Victor,</fast>
+      <fast count="27" norm="1148755" size="3" tag="650">Textile fabrics, Renaissance</fast>
+      <fast count="27" norm="1148680" size="3" tag="650">Textile fabrics--Private collections</fast>
+      <fast count="22" norm="897830" size="3" tag="650">Drawing, Italian</fast>
+      <fast count="16" norm="1204477" size="2" tag="651">Italy--Tuscany</fast>
+      <fast count="10" norm="815895" size="2" tag="650">Art, American</fast>
+      <fast count="9" norm="1076848" size="2" tag="650">Prints, American</fast>
+      <fast count="6" norm="815582" size="2" tag="650">Art literature</fast>
+      <fast count="6" norm="897853" size="2" tag="650">Drawing, Renaissance</fast>
+      <fast count="3" norm="815631" size="2" tag="650">Art museums</fast>
+      <fast count="2" norm="45744" size="2" tag="600">Valentiner, Wilhelm Reinhold,</fast>
+      <fast count="2" norm="1550984" size="2" tag="600">Heil, Walter,</fast>
+      <fast count="2" norm="816331" size="2" tag="650">Art, Gothic</fast>
+      <fast count="2" norm="16746" size="2" tag="600">Rockefeller, Nelson A.--(Nelson Aldrich),</fast>
+      <fast count="2" norm="384380" size="1" tag="600">Watkins, Franklin Chenault,</fast>
+      <fast count="2" norm="36675" size="1" tag="600">Hopper, Edward,</fast>
+      <fast count="2" norm="816786" size="1" tag="650">Art, Renaissance</fast>
+      <fast count="2" norm="1066261" size="1" tag="650">Plaques, plaquettes, Renaissance</fast>
+      <fast count="2" norm="1041327" size="1" tag="650">Numismatics</fast>
+      <fast count="2" norm="816244" size="1" tag="650">Art, European</fast>
+      <fast count="1" norm="1435013" size="1" tag="600">Ripley, S. Dillon--(Sidney Dillon),</fast>
+      <fast count="1" norm="1716436" size="1" tag="600">Whitehill, Walter Muir,</fast>
+      <fast count="1" norm="63090" size="1" tag="600">Rutledge, Anna Wells</fast>
+      <fast count="1" norm="1857396" size="1" tag="600">Wehle, Harry B.--(Harry Brandeis),</fast>
+    </fastHeadings>
+    <languages count="4">
+      <lang code="eng" count="104"/>
+      <lang code="ger" count="37"/>
+      <lang code="ita" count="12"/>
+      <lang code="mul" count="7"/>
+    </languages>
+    <birthDate>1901</birthDate>
+    <deathDate>1983</deathDate>
+    <dates>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1924</date>
+      <date byCount="5" byScaled="2.32" count="5" scaled="2.32">1925</date>
+      <date byCount="9" byScaled="3.17" count="9" scaled="3.17">1928</date>
+      <date byCount="4" byScaled="2.00" count="4" scaled="2.00">1929</date>
+      <date byCount="3" byScaled="1.58" count="3" scaled="1.58">1930</date>
+      <date byCount="11" byScaled="3.46" count="11" scaled="3.46">1932</date>
+      <date byCount="5" byScaled="2.32" count="5" scaled="2.32">1933</date>
+      <date byCount="8" byScaled="3.00" count="8" scaled="3.00">1934</date>
+      <date byCount="8" byScaled="3.00" count="8" scaled="3.00">1935</date>
+      <date byCount="6" byScaled="2.58" count="6" scaled="2.58">1936</date>
+      <date byCount="5" byScaled="2.32" count="5" scaled="2.32">1937</date>
+      <date byCount="13" byScaled="3.70" count="13" scaled="3.70">1938</date>
+      <date byCount="13" byScaled="3.70" count="13" scaled="3.70">1939</date>
+      <date byCount="10" byScaled="3.32" count="10" scaled="3.32">1940</date>
+      <date byCount="7" byScaled="2.81" count="7" scaled="2.81">1941</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">1943</date>
+      <date byCount="23" byScaled="4.52" count="23" scaled="4.52">1944</date>
+      <date byCount="29" byScaled="4.86" count="29" scaled="4.86">1945</date>
+      <date byCount="4" byScaled="2.00" count="4" scaled="2.00">1946</date>
+      <date byCount="10" byScaled="3.32" count="10" scaled="3.32">1947</date>
+      <date byCount="11" byScaled="3.46" count="11" scaled="3.46">1948</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1950</date>
+      <date byCount="9" byScaled="3.17" count="9" scaled="3.17">1952</date>
+      <date byCount="11" byScaled="3.46" count="11" scaled="3.46">1955</date>
+      <date byCount="5" byScaled="2.32" count="5" scaled="2.32">1956</date>
+      <date byCount="3" byScaled="1.58" count="3" scaled="1.58">1957</date>
+      <date byCount="9" byScaled="3.17" count="9" scaled="3.17">1958</date>
+      <date byCount="8" byScaled="3.00" count="8" scaled="3.00">1960</date>
+      <date byCount="8" byScaled="3.00" count="8" scaled="3.00">1962</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1963</date>
+      <date byCount="3" byScaled="1.58" count="3" scaled="1.58">1964</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">1965</date>
+      <date byCount="8" byScaled="3.00" count="8" scaled="3.00">1966</date>
+      <date byCount="4" byScaled="2.00" count="4" scaled="2.00">1967</date>
+      <date byCount="20" byScaled="4.32" count="20" scaled="4.32">1968</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">1969</date>
+      <date byCount="8" byScaled="3.00" count="8" scaled="3.00">1970</date>
+      <date byCount="21" byScaled="4.39" count="21" scaled="4.39">1971</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">1972</date>
+      <date byCount="12" byScaled="3.58" count="12" scaled="3.58">1973</date>
+      <date byCount="6" byScaled="2.58" count="6" scaled="2.58">1974</date>
+      <date byCount="6" byScaled="2.58" count="6" scaled="2.58">1975</date>
+      <date byCount="66" byScaled="6.04" count="66" scaled="6.04">1976</date>
+      <date byCount="14" byScaled="3.81" count="14" scaled="3.81">1977</date>
+      <date byCount="31" byScaled="4.95" count="31" scaled="4.95">1978</date>
+      <date byCount="21" byScaled="4.39" count="21" scaled="4.39">1979</date>
+      <date byCount="23" byScaled="4.52" count="23" scaled="4.52">1980</date>
+      <date byCount="30" byScaled="4.91" count="30" scaled="4.91">1981</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1982</date>
+      <date byCount="12" byScaled="3.58" count="12" scaled="3.58">1983</date>
+      <date byCount="3" byScaled="1.58" count="3" scaled="1.58">1984</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1988</date>
+      <date byCount="1" byScaled="0.00" count="1" scaled="0.00">1995</date>
+      <date byCount="4" byScaled="2.00" count="4" scaled="2.00">2001</date>
+      <date aboutCount="2" aboutScaled="1.00" count="2" scaled="1.00">2012</date>
+      <date aboutCount="2" aboutScaled="1.00" count="2" scaled="1.00">2013</date>
+      <date byCount="2" byScaled="1.00" count="2" scaled="1.00">2016</date>
+    </dates>
+    <totalHoldings>2940</totalHoldings>
+    <workCount>400</workCount>
+    <recordCount>638</recordCount>
+    <ddc ident="">730.94074013</ddc>
+    <lcc ident="NB180">NB180</lcc>
+    <relators>
+      <relator code="aut" count="1799">
+        <oclcnum count="384">ocn002433147</oclcnum>
+        <oclcnum count="279">ocn000456645</oclcnum>
+        <oclcnum count="113">ocn006919890</oclcnum>
+        <oclcnum count="84">ocn011785219</oclcnum>
+        <oclcnum count="34">ocn008764316</oclcnum>
+        <oclcnum count="20">ocn311777903</oclcnum>
+        <oclcnum count="19">ocn311777893</oclcnum>
+        <oclcnum count="18">ocn951409453</oclcnum>
+        <oclcnum count="17">ocn1200566096</oclcnum>
+        <oclcnum count="16">ocn633744857</oclcnum>
+      </relator>
+      <relator code="edt" count="132">
+        <oclcnum count="84">ocn000327752</oclcnum>
+        <oclcnum count="7">ocn1067490328</oclcnum>
+        <oclcnum count="6">ocn615014370</oclcnum>
+        <oclcnum count="1">ocn959099444</oclcnum>
+        <oclcnum count="1">ocn1126007811</oclcnum>
+        <oclcnum count="1">ocn959099728</oclcnum>
+        <oclcnum count="1">ocn1074031159</oclcnum>
+        <oclcnum count="1">ocn959099598</oclcnum>
+        <oclcnum count="1">ocn1074310645</oclcnum>
+        <oclcnum count="1">ocn959099802</oclcnum>
+      </relator>
+      <relator code="hnr" count="46">
+        <oclcnum count="21">ocn830777738</oclcnum>
+        <oclcnum count="20">ocn835238822</oclcnum>
+        <oclcnum count="3">ocn886481420</oclcnum>
+        <oclcnum count="1">ocn1074217601</oclcnum>
+        <oclcnum count="1">ocn1075362337</oclcnum>
+      </relator>
+      <relator code="ctb" count="16">
+        <oclcnum count="10">ocn250717753</oclcnum>
+        <oclcnum count="4">ocn422105463</oclcnum>
+        <oclcnum count="1">ocn645420556</oclcnum>
+        <oclcnum count="1">ocn721111232</oclcnum>
+      </relator>
+      <relator code="oth" count="8">
+        <oclcnum count="1">ocn185904591</oclcnum>
+        <oclcnum count="1">ocn185341787</oclcnum>
+        <oclcnum count="1">ocn185904599</oclcnum>
+        <oclcnum count="1">ocn461155786</oclcnum>
+        <oclcnum count="1">ocn1075225692</oclcnum>
+        <oclcnum count="1">ocn923584460</oclcnum>
+        <oclcnum count="1">ocn185904607</oclcnum>
+        <oclcnum count="1">ocn923584498</oclcnum>
+      </relator>
+      <relator code="cre" count="5">
+        <oclcnum count="1">ocn1040778638</oclcnum>
+        <oclcnum count="1">ocn1040716213</oclcnum>
+        <oclcnum count="1">ocn1040783443</oclcnum>
+        <oclcnum count="1">ocn1040745172</oclcnum>
+        <oclcnum count="1">ocn1040713450</oclcnum>
+      </relator>
+      <relator code="aui" count="4">
+        <oclcnum count="1">ocn958951244</oclcnum>
+        <oclcnum count="1">ocn712551393</oclcnum>
+        <oclcnum count="1">ocn460004645</oclcnum>
+        <oclcnum count="1">ocn493411403</oclcnum>
+        <oclcnum count="0">ocn1078764577</oclcnum>
+      </relator>
+      <relator code="dte" count="2">
+        <oclcnum count="2">ocn1028628212</oclcnum>
+      </relator>
+      <relator code="trl" count="1">
+        <oclcnum count="1">ocn459836490</oclcnum>
+      </relator>
+      <relator code="col" count="1">
+        <oclcnum count="1">ocn1126007598</oclcnum>
+      </relator>
+      <relator code="cmm" count="1">
+        <oclcnum count="1">ocn1159175150</oclcnum>
+      </relator>
+    </relators>
+  </nameInfo>
+  <by>
+    <citation ident="newwork2433147">
+      <holdings>441</holdings>
+      <numEditions>17</numEditions>
+      <oclcnum>ocn002433147</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="eng" count="17"/>
+      </languages>
+      <date>1976</date>
+      <dates different="1" first="1976" last="1976"/>
+      <audLevel>0.71</audLevel>
+      <creator ident="37041360,n80128603">Middeldorf, Ulrich</creator>
+      <title>Sculptures from the Samuel H. Kress Collection : European schools, XIV-XIX Century</title>
+      <genres>
+        <genre count="388" norm="catalogs">Catalogs</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork456645">
+      <holdings>342</holdings>
+      <numEditions>21</numEditions>
+      <oclcnum>ocn000456645</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="eng" count="21"/>
+      </languages>
+      <date>1945</date>
+      <dates different="2" first="1945" last="1950"/>
+      <audLevel>0.71</audLevel>
+      <creator ident="37041360,n80128603">Middeldorf, Ulrich</creator>
+      <title>Raphael's drawings</title>
+    </citation>
+    <citation ident="newwork1066062">
+      <holdings>230</holdings>
+      <numEditions>13</numEditions>
+      <oclcnum>ocn001066062</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="ger" count="11"/>
+        <lang code="und" count="2"/>
+      </languages>
+      <date>1968</date>
+      <dates different="1" first="1968" last="1968"/>
+      <audLevel>0.88</audLevel>
+      <creator ident="29542272,n85340937">Middeldorf Kosegarten, Antje</creator>
+      <title>Festschrift Ulrich Middeldorf</title>
+      <genres>
+        <genre count="173" norm="art">Art</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork6919890">
+      <holdings>142</holdings>
+      <numEditions>10</numEditions>
+      <oclcnum>ocn006919890</oclcnum>
+      <recordType>book</recordType>
+      <languages count="3">
+        <lang code="eng" count="6"/>
+        <lang code="ita" count="3"/>
+        <lang code="mul" count="1"/>
+      </languages>
+      <date>1979</date>
+      <dates different="1" first="1979" last="1979"/>
+      <audLevel>0.93</audLevel>
+      <creator ident="37041360,n80128603">Middeldorf, Ulrich</creator>
+      <title>Raccolta di scritti : that is, Collected writings</title>
+      <genres>
+        <genre count="6" norm="criticism, interpretation, etc">Criticism, interpretation, etc</genre>
+        <genre count="113" norm="art">Art</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork2602411">
+      <holdings>132</holdings>
+      <numEditions>3</numEditions>
+      <oclcnum>ocn002602411</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="eng" count="3"/>
+      </languages>
+      <date>1944</date>
+      <dates different="1" first="1944" last="1944"/>
+      <audLevel>0.94</audLevel>
+      <creator ident="63428077,n2006000027">Morgenroth, Sigmund</creator>
+      <title>Medals and plaquettes from the Sigmund Morgenroth Collection</title>
+      <genres>
+        <genre count="2" norm="catalogs">Catalogs</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork11785219">
+      <holdings>101</holdings>
+      <numEditions>10</numEditions>
+      <oclcnum>ocn011785219</oclcnum>
+      <recordType>book</recordType>
+      <languages count="3">
+        <lang code="eng" count="8"/>
+        <lang code="ita" count="1"/>
+        <lang code="und" count="1"/>
+      </languages>
+      <date>1983</date>
+      <dates different="1" first="1983" last="1983"/>
+      <audLevel>0.95</audLevel>
+      <creator ident="37041360,n80128603">Middeldorf, Ulrich</creator>
+      <title>Renaissance medals and plaquettes : catalogue</title>
+      <genres>
+        <genre count="84" norm="catalogs">Catalogs</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork327752">
+      <holdings>92</holdings>
+      <numEditions>3</numEditions>
+      <oclcnum>ocn000327752</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="3"/>
+      </languages>
+      <audLevel>0.94</audLevel>
+      <creator ident="35257627,n83062905">Prinz, Wolfram</creator>
+      <title>Die Sammlung der Selbstbildnisse in den Uffizien</title>
+      <genres>
+        <genre count="91" norm="catalogs">Catalogs</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork46876426">
+      <holdings>66</holdings>
+      <numEditions>4</numEditions>
+      <oclcnum>ocn046876426</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="eng" count="4"/>
+      </languages>
+      <date>2001</date>
+      <dates different="1" first="2001" last="2001"/>
+      <audLevel>0.92</audLevel>
+      <creator ident="121705564,no2016065699">Avery, Charles</creator>
+      <title>Early Renaissance reliefs</title>
+      <genres>
+        <genre count="63" norm="exhibition catalogs">Exhibition catalogs</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork28257176">
+      <holdings>62</holdings>
+      <numEditions>2</numEditions>
+      <oclcnum>ocn028257176</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ita" count="2"/>
+      </languages>
+      <date>1980</date>
+      <dates different="1" first="1980" last="1980"/>
+      <audLevel>0.95</audLevel>
+      <title>Il Tesoro della Basilica di San Francesco ad Assisi : saggi e catalogo di Rosalia Bonito Fanelli ... [et al.] ; introduzione di Ulrich Middeldorf ; coordinamento di Maria G. Ciardi Dupré dal Poggetto</title>
+      <genres>
+        <genre count="61" norm="catalogs">Catalogs</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork8764316">
+      <holdings>48</holdings>
+      <numEditions>9</numEditions>
+      <oclcnum>ocn008764316</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="eng" count="6"/>
+        <lang code="und" count="3"/>
+      </languages>
+      <date>1981</date>
+      <dates different="1" first="1981" last="1981"/>
+      <audLevel>0.92</audLevel>
+      <creator ident="37041360,n80128603">Middeldorf, Ulrich</creator>
+      <title>Fifty mortars : a catalogue</title>
+      <genres>
+        <genre count="34" norm="catalogs">Catalogs</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork3235552">
+      <holdings>41</holdings>
+      <numEditions>2</numEditions>
+      <oclcnum>ocn013501490</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="eng" count="2"/>
+      </languages>
+      <date>1984</date>
+      <dates different="1" first="1984" last="1984"/>
+      <audLevel>0.93</audLevel>
+      <creator ident="68994178,n50034865">Hill, George Francis</creator>
+      <title>A corpus of Italian medals of the renaissance before Cellini</title>
+    </citation>
+    <citation ident="newwork9829032">
+      <holdings>36</holdings>
+      <numEditions>7</numEditions>
+      <oclcnum>ocn009829032</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="eng" count="7"/>
+      </languages>
+      <date>1948</date>
+      <dates different="1" first="1948" last="1948"/>
+      <audLevel>0.95</audLevel>
+      <creator ident="37041360,n80128603">Middeldorf, Ulrich</creator>
+      <title>An Exhibition of the work of Victor Hammer</title>
+      <genres>
+        <genre count="33" norm="exhibition catalogs">Exhibition catalogs</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork250304344">
+      <holdings>36</holdings>
+      <numEditions>2</numEditions>
+      <oclcnum>ocn730907770</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="und" count="1"/>
+        <lang code="eng" count="1"/>
+      </languages>
+      <date>1945</date>
+      <dates different="1" first="1945" last="1945"/>
+      <audLevel>0.88</audLevel>
+      <creator ident="64055977,n79041756">Raphael</creator>
+      <title>Raphael's drawings</title>
+    </citation>
+    <citation ident="newwork25754180">
+      <holdings>35</holdings>
+      <numEditions>12</numEditions>
+      <oclcnum>ocn645420560</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ger" count="12"/>
+      </languages>
+      <date>1971</date>
+      <dates different="1" first="1971" last="1971"/>
+      <audLevel>0.28</audLevel>
+      <creator ident="35257627,n83062905">Prinz, Wolfram</creator>
+      <title>Die Sammlung der Selbstbildnisse in den Uffizien</title>
+      <genres>
+        <genre count="4" norm="catalogs">Catalogs</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork311777893">
+      <holdings>34</holdings>
+      <numEditions>9</numEditions>
+      <oclcnum>ocn311777893</oclcnum>
+      <recordType>book</recordType>
+      <languages count="4">
+        <lang code="ger" count="3"/>
+        <lang code="eng" count="3"/>
+        <lang code="mul" count="2"/>
+        <lang code="ita" count="1"/>
+      </languages>
+      <date>1979</date>
+      <dates different="2" first="1979" last="1980"/>
+      <audLevel>0.29</audLevel>
+      <creator ident="37041360,n80128603">Middeldorf, Ulrich</creator>
+      <title>Raccolta di scritti that is collected writings</title>
+    </citation>
+    <citation ident="newwork311777903">
+      <holdings>33</holdings>
+      <numEditions>8</numEditions>
+      <oclcnum>ocn311777903</oclcnum>
+      <recordType>book</recordType>
+      <languages count="4">
+        <lang code="ger" count="3"/>
+        <lang code="mul" count="2"/>
+        <lang code="eng" count="2"/>
+        <lang code="ita" count="1"/>
+      </languages>
+      <date>1979</date>
+      <dates different="2" first="1979" last="1981"/>
+      <audLevel>0.29</audLevel>
+      <creator ident="37041360,n80128603">Middeldorf, Ulrich</creator>
+      <title>Raccolta di scritti that is collected writings</title>
+    </citation>
+    <citation ident="newwork473661644">
+      <holdings>28</holdings>
+      <numEditions>8</numEditions>
+      <oclcnum>ocn633744857</oclcnum>
+      <recordType>book</recordType>
+      <languages count="4">
+        <lang code="ger" count="3"/>
+        <lang code="eng" count="2"/>
+        <lang code="mul" count="2"/>
+        <lang code="ita" count="1"/>
+      </languages>
+      <date>1979</date>
+      <dates different="2" first="1979" last="1980"/>
+      <audLevel>0.28</audLevel>
+      <creator ident="37041360,n80128603">Middeldorf, Ulrich</creator>
+      <title>Raccolta di scritti : that is collected writings</title>
+    </citation>
+    <citation ident="newwork185904607">
+      <holdings>23</holdings>
+      <numEditions>3</numEditions>
+      <oclcnum>ocn830777738</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="ger" count="2"/>
+        <lang code="und" count="1"/>
+      </languages>
+      <date>1968</date>
+      <dates different="1" first="1968" last="1968"/>
+      <audLevel>0.34</audLevel>
+      <title>Festschrift Ulrich Middeldorf</title>
+    </citation>
+    <citation ident="newwork484538973">
+      <holdings>23</holdings>
+      <numEditions>7</numEditions>
+      <oclcnum>ocn484538973</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="eng" count="7"/>
+      </languages>
+      <date>1944</date>
+      <dates different="1" first="1944" last="1944"/>
+      <audLevel>0.32</audLevel>
+      <creator ident="37041360,n80128603">Middeldorf, Ulrich</creator>
+      <title>Medals and plaquettes from the Sigmund Morgenroth collection</title>
+      <genres>
+        <genre count="1" norm="exhibition catalogs">Exhibition catalogs</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork8430109">
+      <holdings>21</holdings>
+      <numEditions>6</numEditions>
+      <oclcnum>ocn008430109</oclcnum>
+      <recordType>book</recordType>
+      <languages count="2">
+        <lang code="eng" count="4"/>
+        <lang code="ita" count="2"/>
+      </languages>
+      <date>1981</date>
+      <dates different="1" first="1981" last="1981"/>
+      <audLevel>0.56</audLevel>
+      <creator ident="19796959,n82034746">Vaccari, Maria Grazia</creator>
+      <title>Maestri toscani del Quattrocento : Cosimo Rosselli, Botticelli, Botticini, Filippino Lippi, David Ghirlandaio, Raffaellino del Garbo, Tommaso, Piero di Cosimo</title>
+      <genres>
+        <genre count="16" norm="catalogs">Catalogs</genre>
+      </genres>
+    </citation>
+  </by>
+  <about>
+    <citation ident="newwork756596892">
+      <holdings>56</holdings>
+      <numEditions>2</numEditions>
+      <oclcnum>ocn756596892</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="eng" count="2"/>
+      </languages>
+      <date>2012</date>
+      <dates different="1" first="2012" last="2012"/>
+      <audLevel>0.95</audLevel>
+      <creator ident="151250906,n78064095">Indiana University, Bloomington</creator>
+      <title>Medals and plaquettes in the Ulrich Middeldorf collection at the Indiana University Art Museum : 15th to 20th centuries</title>
+      <genres>
+        <genre count="57" norm="catalogs">Catalogs</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork854512681">
+      <holdings>27</holdings>
+      <numEditions>2</numEditions>
+      <oclcnum>ocn854512681</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="eng" count="2"/>
+      </languages>
+      <date>2013</date>
+      <dates different="1" first="2013" last="2013"/>
+      <audLevel>0.97</audLevel>
+      <creator ident="5013767,n93008112">Roberts, Perri Lee</creator>
+      <title>The material of culture : Renaissance medals and textiles from the Ulrich A. Middeldorf collection</title>
+      <genres>
+        <genre count="27" norm="exhibition catalogs">Exhibition catalogs</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork6919890">
+      <holdings>6</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn043176920</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="ita" count="1"/>
+      </languages>
+      <audLevel>0.93</audLevel>
+      <creator ident="37041360,n80128603">Middeldorf, Ulrich</creator>
+      <title>Raccolta di scritti : that is, Collected writings</title>
+      <genres>
+        <genre count="6" norm="criticism, interpretation, etc">Criticism, interpretation, etc</genre>
+        <genre count="113" norm="art">Art</genre>
+      </genres>
+    </citation>
+    <citation ident="newwork908464947">
+      <holdings>1</holdings>
+      <numEditions>2</numEditions>
+      <oclcnum>ocn1179270064</oclcnum>
+      <recordType>book</recordType>
+      <languages count="1">
+        <lang code="eng" count="2"/>
+      </languages>
+      <audLevel>0.00</audLevel>
+      <title>Ulrich A. Middeldorf : curriculum vitae [and bibliography until 1963]</title>
+    </citation>
+    <citation ident="newwork424592354">
+      <holdings>1</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn424592354</oclcnum>
+      <recordType>file</recordType>
+      <languages count="1">
+        <lang code="eng" count="1"/>
+      </languages>
+      <audLevel>0.07</audLevel>
+      <creator ident="8332953,n90650948">Sachs, Paul J</creator>
+      <title>Papers</title>
+      <summary>These papers of Fogg Art Museum associate director Paul J. Sachs document his administration of the museum, his teaching career at Harvard, and related professional activities. The papers consist primarily of correspondence and also include photographs, printed material, clippings, architectural drawings, reports, financial records, letters of introduction, insurance records, maps, funding appeals, minutes, memoranda, exhibition brochures, page proofs and press releases</summary>
+    </citation>
+    <citation ident="newwork986100238">
+      <holdings>1</holdings>
+      <numEditions>2</numEditions>
+      <oclcnum>ocn1030311369</oclcnum>
+      <recordType>mix</recordType>
+      <languages count="1">
+        <lang code="eng" count="2"/>
+      </languages>
+      <audLevel>0.07</audLevel>
+      <creator ident="76453087,n50044921">Richardson, E. P</creator>
+      <title>E.P. (Edgar Preston) and Constance Richardson papers</title>
+      <genres>
+        <genre count="1" norm="history">History</genre>
+      </genres>
+      <summary/>
+    </citation>
+    <citation ident="newwork52245834">
+      <holdings>1</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn052245834</oclcnum>
+      <recordType>mix</recordType>
+      <languages count="1">
+        <lang code="eng" count="1"/>
+      </languages>
+      <audLevel>0.07</audLevel>
+      <creator ident="3504159820942414000008">Van Pappelendam, Laura</creator>
+      <title>Papers</title>
+      <summary>Contains color slides, lists of paintings, exhibition catalogs, reviews, and photocopies of correspondence. Material relates to Van Pappelendam's paintings and works at the Renaissance Society and at the home of John and Elinor Nef. Correspondents include Philipp Fehl, William Whitford, Robert Strozier, and Ulrich Middeldorf</summary>
+    </citation>
+    <citation ident="newwork946188332">
+      <holdings>1</holdings>
+      <numEditions>1</numEditions>
+      <oclcnum>ocn946188332</oclcnum>
+      <recordType>mix</recordType>
+      <languages count="1">
+        <lang code="eng" count="1"/>
+      </languages>
+      <audLevel>0.00</audLevel>
+      <creator ident="37041360,n80128603">Middeldorf, Ulrich</creator>
+      <title>Middeldorf, Ulrich Alexander, 1901-1983</title>
+    </citation>
+  </about>
+  <admin:administrativeMetadata xmlns:admin="http://viaf.org/xa/administrativeMetadata">
+    <admin:administrativeMetadataInstance>
+      <admin:administrativeMetadataDate>Thu Feb 25 11:49:44 EST 2021</admin:administrativeMetadataDate>
+      <admin:administrativeMetadataUser>batch</admin:administrativeMetadataUser>
+      <admin:administrativeMetadataRecordLength>24575</admin:administrativeMetadataRecordLength>
+    </admin:administrativeMetadataInstance>
+  </admin:administrativeMetadata>
+</Identity>
