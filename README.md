@@ -16,7 +16,7 @@ The project was developed by:
 
         Role: data analysis and esploration; contribution to graphic visualisations.
     
-- Sara Amayeh, student @ University of Bologna, sara.ama@studio.unibo.it. 
+- Sara Amayeh, student @ University of Bologna, sara.amayeh@studio.unibo.it. 
 
         Role: data access, extraction and cleaning; contribution to graphic visualisations.
     
