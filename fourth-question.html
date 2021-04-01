@@ -5,33 +5,36 @@
   <head>
     <link rel="stylesheet" href="four.css">
     <style>
-	     ul li{
-		    text-align:center;
-	    }
-	    h2 {
-		    margin-bottom:5vh;
-	    }
-      .rect {
-        fill: steelblue;
-      }
-      .rect:hover {
-        fill: orange;
-      }
-      #treemap{
-        text-align:center;
-	 margin-bottom: 20vh;
-      }
-    div#barChart {
-	    height: 200px;
-	    width: 400px;
-	    margin: auto;
-	    /*height: 500px;
-	    width: 700px;*/
-    }
-	    
-	    div#to_shift{
-		    margin-top: 80vh;
-	    }
+	ul li{
+	    text-align:center;
+	}
+	h2 {
+	    margin-bottom:5vh;
+	}
+	.rect {
+	fill: steelblue;
+	}
+	.rect:hover {
+	fill: orange;
+	}
+	#treemap{
+	text-align:center;
+	margin-bottom: 20vh;
+	}
+	div#barChart {
+	height: 200px;
+	width: 400px;
+	margin: auto;
+	/*height: 500px;
+	width: 700px;*/
+	}
+
+	div#to_shift{
+	    margin-top: 100vh;
+	}
+	#myChart{
+	    margin-top:30vh;
+	}
 	    
     </style>
     
@@ -149,11 +152,12 @@ var margin = {top: 10, right: 10, bottom: 10, left: 10},
 // append the svg object to the body of the page
 var svg = d3.select("#treemap")
 .append("svg")
-  .attr("width", width + margin.left + margin.right)
-  .attr("height", height + margin.top + margin.bottom)
+.attr("viewBox", `-75 -70 900 900`)
+  //.attr("width", width + margin.left + margin.right)
+  //.attr("height", height + margin.top + margin.bottom)
   .append("g")
-  .attr("transform",
-        "translate(" + margin.left + "," + margin.top + ")");
+  //.attr("transform",
+    //    "translate(" + margin.left + "," + margin.top + ")");
 
 // read json data
 d3.json("file_for_tree.json", function(data) {
