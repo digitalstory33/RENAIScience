@@ -80,7 +80,9 @@ h2{
   font-family:mord;
 }
 
-  
+  #my_dataviz{
+      background-color: #f8f4e1;
+}
   
   .title{
 position: absolute;
