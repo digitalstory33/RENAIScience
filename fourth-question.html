@@ -285,6 +285,7 @@ d3.json("file_for_tree.json", function(data) {
       .attr("y", function(d){ return d.y0+21})
       .text(function(d){ return d.data.name })
       .attr("font-size", "19px")
+	.attr("font-weight",function(d,i) {return i*100+100;})
       .attr("fill",  function(d){ return color(d.data.name)} )
 
   // Add title for the 3 groups
