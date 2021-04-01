@@ -1,12 +1,11 @@
 body {
   margin: 0;
   padding: 0;
-    background-image: url ("./image/monal.jpg");
+    background:#4d3e3e;
     font-family:mord;
 }
 
 .box{
-  background-color: #f8f4e1;
   padding-top: 30px;
   padding-left:40px;
   padding-right:40px;
