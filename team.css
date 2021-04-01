@@ -1,21 +1,14 @@
 body {
   margin: 0;
   padding: 0;
-    background:#4d3e3e;
+    background: url(./image/mm.jpg);
+   background-position: center right;
+   background-size: contain;
+   width: 100%;
     font-family:mord;
 }
 
-.box{
-  
-display: flex;
-            flex-direction: row;
-            height: 25%;
-            width: 100;
-}
-#mytext{
-  text-align: left;
-            
-}
+
 
  h3 {
   font-family:mord;
