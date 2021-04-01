@@ -4,6 +4,8 @@ Website link: https://digitalstory33.github.io/RENAIScience/
 
 Jupyter notebook link: https://hub.gke2.mybinder.org/user/digitalstory33-renaiscience-mzclg5n4/tree
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/digitalstory33/RENAIScience/main)
+
 This project aims to discover the most relevant aspects of the study of Renaissance. The most relevant aspect on which the analysis is focused are: the context in which it was studied (e.g. which historians where interested in it, which was their background), its features (either material and immaterial), the trend of the interest for Renaissance over time.
 
 The idea has been inspired from the ARTchives project. Indeed it's noticeable that the Renaissance study, among other historical-artistic periods, was widespread among many historians, who lived in different periods and places. We therefore decided to investigate this phenomenon to clarify its context and possibly to bring out some particular underlying phenomena.
